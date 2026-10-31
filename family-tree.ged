@@ -599,21 +599,22 @@
 1 NOTE [Conflict; likely] Surname spelled Oberholtzer in records (heard Oberholzer).
 2 SOUR @S034@
 3 QUAY 2
-1 NOTE [Interview; unconfirmed] Tim recalls an “Olga” who had one son (name unknown) — see Lero-line note.
+1 NOTE [Interview] Tim: Olga’s husband was Joe and her one son is Johnny.
 2 SOUR @S001@
 3 QUAY 1
-1 NOTE [Assumed; unconfirmed] Possible son: a John Oberholtzer of the Shell/Lovell, Wyo. area (wife Teresa, d. 2021, buried same cemetery). Not established.
+1 NOTE [Assumed; unconfirmed] A John Oberholtzer of the Shell/Lovell, Wyo. area (wife Teresa, d. 2021, buried same cemetery) may be Johnny. Not established.
 2 SOUR @S035@
 3 QUAY 1
 1 FAMS @F015@
 1 FAMC @F002@
 0 @I051@ INDI
-1 NAME /Oberholtzer/
+1 NAME Joe /Oberholtzer/
+2 GIVN Joe
 2 SURN Oberholtzer
-1 NAME Mr. Oberholtzer
-2 TYPE aka
 1 SEX M
-1 NOTE [Assumed; unconfirmed] Husband of Olga; first name not found.
+1 NOTE [Interview] Husband of Olga, named Joe, per Tim (31 Oct 2026). Surname taken from Olga’s married name in records; Joe’s full name and dates not found.
+2 SOUR @S001@
+3 QUAY 1
 1 FAMS @F015@
 0 @I052@ INDI
 1 NAME Living
