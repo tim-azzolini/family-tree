@@ -1,0 +1,1559 @@
+0 HEAD
+1 SOUR AZZOLINI_TREE
+2 NAME Azzolini / Mazzaccaro family tree (Grok Bot build)
+1 DATE 31 OCT 2026
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 PLAC
+2 FORM City, County, State, Country
+1 SUBM @U1@
+1 NOTE Built from an interview with Norma (Mazzaccaro) Azzolini relayed by Tim Azzolini on 31 Oct 2026, plus public records. Possibly-living people are exported as "Living" with no details.
+0 @U1@ SUBM
+1 NAME Tim Azzolini
+0 @I001@ INDI
+1 NAME Domenico /Andreoni/
+2 GIVN Domenico
+2 SURN Andreoni
+1 SEX M
+1 NOTE [Record; likely] Named as father of Giovanni Domenick Andreoni in SSA Numident abstract.
+2 SOUR @S002@
+3 QUAY 2
+2 SOUR @S003@
+3 QUAY 2
+1 FAMS @F001@
+0 @I002@ INDI
+1 NAME Christina /Falbi/
+2 GIVN Christina
+2 SURN Falbi
+1 SEX F
+1 NOTE [Record; likely] Named as mother of Giovanni Domenick Andreoni in SSA Numident abstract (surname as indexed).
+2 SOUR @S002@
+3 QUAY 2
+2 SOUR @S003@
+3 QUAY 2
+1 FAMS @F001@
+0 @I003@ INDI
+1 NAME Giovanni Domenick /Andreoni/
+2 GIVN Giovanni Domenick
+2 SURN Andreoni
+2 NICK John
+1 NAME Giovanni “John” Andreoni
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 30 MAY 1877
+2 PLAC Italy
+2 SOUR @S002@
+2 SOUR @S003@
+1 DEAT
+2 DATE 1945
+2 SOUR @S002@
+2 SOUR @S003@
+1 NOTE [Interview] Alice’s father; came from Italy; worked in a coal mine from age 16.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Interview; unconfirmed] Born in Italy, in the region/province of Perugia (per Tim). Exact town unknown.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Born 30 May 1877, Italy; son of Domenico Andreoni and Christina Falbi (SSA Numident abstract). Middle initial D. matches daughter Eva’s SSA record.
+2 SOUR @S002@
+3 QUAY 2
+2 SOUR @S003@
+3 QUAY 2
+2 SOUR @S004@
+3 QUAY 2
+1 NOTE [Record; likely] Life dates 1877–1945; linked as husband of Angelina and father of 8 children.
+2 SOUR @S005@
+3 QUAY 2
+2 SOUR @S006@
+3 QUAY 2
+2 SOUR @S007@
+3 QUAY 2
+1 NOTE [Assumed; unconfirmed] Perugia not verified: records found say only “Italy”. Consistent context: son-in-law Giuseppe Incociati was born in Perugia (1890); the Biscontini surname clusters in Gualdo Tad
+2 CONC ino / Fossato di Vico (Province of Perugia). Not proof.
+2 SOUR @S008@
+3 QUAY 1
+2 SOUR @S009@
+3 QUAY 1
+1 NOTE [Record; unconfirmed] Immigration: no passenger record identified. Only lead: a Giovanni Andreoni, age 24, arrived New York 3 May 1897 on La Touraine from Le Havre — age does not fit an 1877 birth; pr
+2 CONC obably not him.
+2 SOUR @S010@
+3 QUAY 1
+1 FAMS @F002@
+1 FAMC @F001@
+0 @I004@ INDI
+1 NAME Angelina /Biscontini/
+2 GIVN Angelina
+2 SURN Biscontini
+1 NAME Angelina /Andreoni/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1880
+2 PLAC Italy
+2 SOUR @S007@
+1 DEAT
+2 DATE 1961
+2 PLAC Baltimore, Maryland, USA
+2 SOUR @S007@
+1 BURI
+2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
+2 SOUR @S007@
+1 NOTE Spelling variants: Biscontine (SSA)
+1 NOTE [Interview] Wife of Giovanni; mother of Alice. Rolled cigars at the Parodi Cigar Factory, in Baltimore (per Tim).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Born 1880, Italy; died 1961, Baltimore, Md.; buried Marcy Cemetery. Memorial bio: “immigrated to Scranton, PA in 1901 at the age of 21. She worked in the Parody Cigar Factory in Scran
+2 CONC ton.”
+2 SOUR @S007@
+3 QUAY 2
+1 NOTE [Conflict; likely] Cigar factory location: Tim says Baltimore; memorial says Scranton. Parodi Cigar Co. histories document a Scranton plant only from 1930 (481 N. Main Ave.; fire 1944) after New York/
+2 CONC Jersey City; no Baltimore Parodi plant found. Most consistent reading: Scranton, from 1930 (she was ~50). Baltimore is where she died (daughters Irma and Eva lived in the Baltimore area).
+2 SOUR @S007@
+3 QUAY 2
+2 SOUR @S011@
+3 QUAY 2
+2 SOUR @S012@
+3 QUAY 2
+2 SOUR @S013@
+3 QUAY 2
+1 FAMS @F002@
+0 @I010@ INDI
+1 NAME Dora /Andreoni/
+2 GIVN Dora
+2 SURN Andreoni
+1 NAME Dora /Barbetti/
+2 TYPE married
+1 NAME Dora Barbetti
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 1901
+2 SOUR @S014@
+2 SOUR @S006@
+1 DEAT
+2 DATE AUG 1978
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S014@
+2 SOUR @S006@
+1 NOTE [Interview] Sister of Alice: “Dora Barbetti”.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Dora Andreoni Barbetti, 1901–1978, listed as daughter of Giovanni and Angelina.
+2 SOUR @S014@
+3 QUAY 2
+2 SOUR @S006@
+3 QUAY 2
+1 NOTE [Record; likely] SSA death index: Dora Barbetti, born 29 Apr 1909(?), died Aug 1978, last residence Old Forge — probably her.
+2 SOUR @S015@
+3 QUAY 2
+1 NOTE [Conflict; unconfirmed] Birth year 1901 (memorial) vs 1909 (SSA index). 1901 is also the year Angelina is said to have immigrated. Unresolved.
+2 SOUR @S014@
+3 QUAY 1
+2 SOUR @S015@
+3 QUAY 1
+2 SOUR @S007@
+3 QUAY 1
+1 FAMS @F003@
+1 FAMC @F002@
+0 @I011@ INDI
+1 NAME /Barbetti/
+2 SURN Barbetti
+1 NAME Mr. Barbetti
+2 TYPE aka
+1 SEX M
+1 NOTE [Assumed; unconfirmed] Husband of Dora; first name not found.
+1 FAMS @F003@
+0 @I012@ INDI
+1 NAME Christina Marie /Andreoni/
+2 GIVN Christina Marie
+2 SURN Andreoni
+1 NAME Christina Marie /Incociati/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1 OCT 1903
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S016@
+2 SOUR @S008@
+1 DEAT
+2 DATE 10 JUN 1996
+2 PLAC DeLand, Volusia, Florida, USA
+2 SOUR @S016@
+2 SOUR @S008@
+1 BURI
+2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
+2 SOUR @S016@
+1 NOTE [Interview] Sister of Alice (surname not given).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Born 1 Oct 1903, Old Forge; died 10 Jun 1996, DeLand, Fla. Married Giuseppe “Joseph” Incociati ABT 1920 in Cleveland, Ohio.
+2 SOUR @S016@
+3 QUAY 2
+2 SOUR @S008@
+3 QUAY 2
+1 FAMS @F004@
+1 FAMC @F002@
+0 @I013@ INDI
+1 NAME Giuseppe /Incociati/
+2 GIVN Giuseppe
+2 SURN Incociati
+2 NICK Joseph
+1 NAME Giuseppe “Joseph” Incociati
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 17 FEB 1890
+2 PLAC Perugia, Perugia, Umbria, Italy
+2 SOUR @S008@
+1 DEAT
+2 DATE SEP 1972
+2 PLAC Miramar, Broward, Florida, USA
+2 SOUR @S008@
+1 NOTE Spelling variants: Guiseppe
+1 NOTE [Record; likely] Born 17 Feb 1890, Perugia; immigrated 1909 aged 19; son of Vincenzo and Loretta Incociati; coal miner; lived Connell’s Patch, Old Forge.
+2 SOUR @S008@
+3 QUAY 2
+1 FAMS @F004@
+0 @I014@ INDI
+1 NAME Guido V. /Incociati/
+2 GIVN Guido V.
+2 SURN Incociati
+1 SEX M
+1 BIRT
+2 DATE 1923
+2 SOUR @S008@
+1 DEAT
+2 DATE 2010
+2 SOUR @S008@
+1 NOTE [Record; likely] Child of Giuseppe and Christina Incociati.
+2 SOUR @S008@
+3 QUAY 2
+1 FAMC @F004@
+0 @I015@ INDI
+1 NAME Rose Marie /Incociati/
+2 GIVN Rose Marie
+2 SURN Incociati
+1 SEX F
+1 BIRT
+2 DATE 1925
+2 SOUR @S008@
+2 SOUR @S016@
+1 DEAT
+2 DATE 1938
+2 SOUR @S008@
+2 SOUR @S016@
+1 NOTE [Record; likely] Child of Giuseppe and Christina Incociati.
+2 SOUR @S008@
+3 QUAY 2
+2 SOUR @S016@
+3 QUAY 2
+1 FAMC @F004@
+0 @I016@ INDI
+1 NAME Joseph Jr. /Incociati/
+2 GIVN Joseph Jr.
+2 SURN Incociati
+1 SEX M
+1 BIRT
+2 DATE 1930
+2 SOUR @S008@
+2 SOUR @S016@
+1 DEAT
+2 DATE 1933
+2 SOUR @S008@
+2 SOUR @S016@
+1 NOTE [Record; likely] Child of Giuseppe and Christina Incociati.
+2 SOUR @S008@
+3 QUAY 2
+2 SOUR @S016@
+3 QUAY 2
+1 FAMC @F004@
+0 @I017@ INDI
+1 NAME Raymond F. /Incociati/
+2 GIVN Raymond F.
+2 SURN Incociati
+1 SEX M
+1 BIRT
+2 DATE 8 JUN 1932
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S017@
+1 DEAT
+2 DATE 8 JUN 2023
+2 SOUR @S017@
+1 NOTE [Record; likely] Child of Giuseppe and Christina Incociati; USMC officer, 22 years’ service.
+2 SOUR @S017@
+3 QUAY 2
+1 FAMC @F004@
+0 @I018@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F004@
+0 @I020@ INDI
+1 NAME Orlando D. /Andreoni/
+2 GIVN Orlando D.
+2 SURN Andreoni
+2 NICK Loretto
+1 NAME Orlando “Loretto” Andreoni
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 23 JAN 1907
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S018@
+2 SOUR @S006@
+1 DEAT
+2 DATE 10 MAY 1994
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S018@
+2 SOUR @S006@
+1 NOTE [Interview] Brother of Alice.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Orlando D. “Loretto” Andreoni, born 23 Jan 1907, Old Forge; died 10 May 1994, Old Forge; police officer; wife Catherine Beccaloni; children “Johnny and Lonny”.
+2 SOUR @S018@
+3 QUAY 2
+2 SOUR @S006@
+3 QUAY 2
+2 SOUR @S019@
+3 QUAY 2
+1 FAMS @F005@
+1 FAMC @F002@
+0 @I021@ INDI
+1 NAME Catherine M. /Beccaloni/
+2 GIVN Catherine M.
+2 SURN Beccaloni
+1 NAME Catherine M. /Andreoni/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1915
+2 SOUR @S018@
+2 SOUR @S020@
+1 DEAT
+2 DATE JUN 1999
+2 SOUR @S018@
+2 SOUR @S020@
+1 NOTE [Record; likely] Wife of Orlando; died June 1999, formerly of Connell Street, Old Forge.
+2 SOUR @S018@
+3 QUAY 2
+2 SOUR @S020@
+3 QUAY 2
+1 FAMS @F005@
+0 @I022@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F005@
+0 @I023@ INDI
+1 NAME Orlando Enrico /Andreoni/
+2 GIVN Orlando Enrico
+2 SURN Andreoni
+2 NICK Lonny
+1 NAME “Lonny” Andreoni
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1939
+2 SOUR @S018@
+1 DEAT
+2 DATE 2003
+2 SOUR @S018@
+1 NOTE [Record; likely] “Lonny”, son of Orlando and Catherine.
+2 SOUR @S018@
+3 QUAY 2
+1 NOTE [Assumed; unconfirmed] Possibly Orlando Enrico Andreoni (1939–2003, USMC 1st Lt.).
+2 SOUR @S019@
+3 QUAY 1
+1 FAMC @F005@
+0 @I025@ INDI
+1 NAME Merico /Andreoni/
+2 GIVN Merico
+2 SURN Andreoni
+2 NICK Rego
+1 NAME Merico “Rego” Andreoni
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1910
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S021@
+1 DEAT
+2 DATE 10 FEB 1990
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S021@
+1 BURI
+2 PLAC Holy Cross Cemetery, Old Forge, Pennsylvania, USA
+2 SOUR @S021@
+1 NOTE Spelling variants: Rigo, Rico (as heard)
+1 NOTE [Interview] Brother of Alice: “Rigo” / “Rico”.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Merico “Rego” Andreoni, born 1910, Old Forge; died 10 Feb 1990, Scranton.
+2 SOUR @S021@
+3 QUAY 2
+1 NOTE [Conflict; likely] Name heard as Rigo/Rico; record name Merico, nickname “Rego”. Treated as the same person (compatible variants).
+2 SOUR @S021@
+3 QUAY 2
+2 SOUR @S001@
+3 QUAY 1
+1 FAMS @F006@
+1 FAMS @F007@
+1 FAMC @F002@
+0 @I026@ INDI
+1 NAME Stella /Rook/
+2 GIVN Stella
+2 SURN Rook
+1 NAME Stella /Andreoni/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1910
+2 SOUR @S021@
+1 DEAT
+2 DATE 1948
+2 SOUR @S021@
+1 NOTE [Record; likely] First wife of Merico.
+2 SOUR @S021@
+3 QUAY 2
+1 FAMS @F006@
+0 @I027@ INDI
+1 NAME Mary R. /Roman/
+2 GIVN Mary R.
+2 SURN Roman
+1 NAME Mary R. /Andreoni/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1913
+2 SOUR @S021@
+1 DEAT
+2 DATE 1985
+2 SOUR @S021@
+1 NOTE [Record; likely] Second wife of Merico.
+2 SOUR @S021@
+3 QUAY 2
+1 FAMS @F007@
+0 @I030@ INDI
+1 NAME Irma A. /Andreoni/
+2 GIVN Irma A.
+2 SURN Andreoni
+1 NAME Irma A. /Guzzi/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 14 AUG 1913
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S006@
+2 SOUR @S022@
+1 DEAT
+2 DATE 25 FEB 2005
+2 SOUR @S006@
+2 SOUR @S022@
+1 BURI
+2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
+2 SOUR @S006@
+1 NOTE [Interview] Sister of Alice; married to “Gussie” (per Tim).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Irma A. Andreoni Guzzi, 1913–2005, wife of Louis J. Guzzi.
+2 SOUR @S006@
+3 QUAY 2
+2 SOUR @S022@
+3 QUAY 2
+1 NOTE [Record; likely] SSA/death index: born 14 Aug 1913; died 25 Feb 2005, Maryland (Baltimore area).
+2 SOUR @S023@
+3 QUAY 2
+1 NOTE [Conflict; unconfirmed] Death place: memorial says Lackawanna Co., Pa.; death index says Maryland. A second index entry gives birth 14 Apr 1912. Unresolved.
+2 SOUR @S006@
+3 QUAY 1
+2 SOUR @S023@
+3 QUAY 1
+1 FAMS @F008@
+1 FAMC @F002@
+0 @I031@ INDI
+1 NAME Louis J. /Guzzi/
+2 GIVN Louis J.
+2 SURN Guzzi
+1 NAME Louis J. Guzzi (“Gussie”?)
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1894
+2 PLAC Italy
+2 SOUR @S022@
+1 DEAT
+2 DATE 1978
+2 PLAC Baltimore, Maryland, USA
+2 SOUR @S022@
+1 BURI
+2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
+2 SOUR @S022@
+1 NOTE [Record; likely] Born 1894, Italy; died 1978, Baltimore. Spouses Josephine Scavo Guzzi (1894–1976) and Irma A. Andreoni. Children (by first marriage, per memorial): Dominick R., Marie, Rose Marie, Lou
+2 CONC is Jr.
+2 SOUR @S022@
+3 QUAY 2
+1 NOTE [Assumed; likely] Tim’s “Gussie” (Irma’s husband) is very likely a family nickname from the surname Guzzi.
+2 SOUR @S001@
+3 QUAY 1
+2 SOUR @S022@
+3 QUAY 2
+1 NOTE [Assumed; unconfirmed] Possibly the “Luis” of Tim’s Lero-line recollection (the only Louis found in the family; memorial text even misspells him “Louise J. Guzzi”).
+2 SOUR @S006@
+3 QUAY 1
+1 FAMS @F008@
+0 @I040@ INDI
+1 NAME Alice /Andreoni/
+2 GIVN Alice
+2 SURN Andreoni
+1 NAME Alice /Mazzaccaro/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 3 JUL 1914
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S024@
+2 SOUR @S025@
+1 DEAT
+2 DATE 5 MAR 2015
+2 PLAC Rutherford, Bergen, New Jersey, USA
+2 SOUR @S024@
+2 SOUR @S025@
+1 BURI
+2 PLAC Hillside Cemetery, Lyndhurst, Bergen, New Jersey, USA
+2 SOUR @S024@
+1 NOTE Spelling variants: Anderoni (memorial)
+1 NOTE [Interview] Norma’s mother; daughter of Giovanni Andreoni and Angelina Biscontini.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Born 3 Jul 1914, Old Forge, to John and Angelina; died 5 Mar 2015 at home, Rutherford, aged 100; married Thomas Mazzaccaro 1934; lived in Rutherford 63 years. Children Thomas, John
+2 CONC , Norma.
+2 SOUR @S024@
+3 QUAY 3
+2 SOUR @S025@
+3 QUAY 3
+1 FAMS @F009@
+1 FAMC @F002@
+0 @I041@ INDI
+1 NAME Thomas /Mazzaccaro/
+2 GIVN Thomas
+2 SURN Mazzaccaro
+1 SEX M
+1 BIRT
+2 DATE 23 FEB 1913
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S026@
+2 SOUR @S027@
+1 DEAT
+2 DATE 27 JUN 2006
+2 PLAC New Jersey, USA
+2 SOUR @S026@
+2 SOUR @S027@
+1 NOTE Spelling variants: Mazzacaro (interview), Mazzacarro (obituary)
+1 NOTE [Interview] Norma’s father; born in the U.S., possibly Old Forge.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Born 23 Feb 1913, Old Forge; died 27 Jun 2006, N.J. Son of John Mazzaccaro and Elizabeth Baratta. Married Alice 1934.
+2 SOUR @S026@
+3 QUAY 3
+2 SOUR @S027@
+3 QUAY 3
+2 SOUR @S024@
+3 QUAY 3
+2 SOUR @S028@
+3 QUAY 3
+1 FAMS @F009@
+1 FAMC @F017@
+0 @I050@ INDI
+1 NAME Olga Christine /Andreoni/
+2 GIVN Olga Christine
+2 SURN Andreoni
+1 NAME Olga Christine /Oberholtzer/
+2 TYPE married
+1 NAME Olga Oberholzer
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 30 AUG 1917
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S003@
+2 SOUR @S034@
+1 DEAT
+2 DATE 11 JUN 2006
+2 PLAC Big Horn County, Wyoming, USA
+2 SOUR @S003@
+2 SOUR @S034@
+1 BURI
+2 PLAC Whaley Cemetery, Big Horn, Wyoming, USA
+2 SOUR @S003@
+1 NOTE Spelling variants: Oberholzer (as heard)
+1 NOTE [Interview] Sister of Alice: “Olga Oberholzer”.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Olga Christine Andreoni, born 30 Aug 1917, Old Forge; parents John Andreoni and Angeline Biscontine; died 11 Jun 2006, Wyoming; buried Whaley Cemetery.
+2 SOUR @S003@
+3 QUAY 3
+2 SOUR @S034@
+3 QUAY 3
+1 NOTE [Conflict; likely] Surname spelled Oberholtzer in records (heard Oberholzer).
+2 SOUR @S034@
+3 QUAY 2
+1 NOTE [Interview; unconfirmed] Tim recalls an “Olga” who had one son (name unknown) — see Lero-line note.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Assumed; unconfirmed] Possible son: a John Oberholtzer of the Shell/Lovell, Wyo. area (wife Teresa, d. 2021, buried same cemetery). Not established.
+2 SOUR @S035@
+3 QUAY 1
+1 FAMS @F015@
+1 FAMC @F002@
+0 @I051@ INDI
+1 NAME /Oberholtzer/
+2 SURN Oberholtzer
+1 NAME Mr. Oberholtzer
+2 TYPE aka
+1 SEX M
+1 NOTE [Assumed; unconfirmed] Husband of Olga; first name not found.
+1 FAMS @F015@
+0 @I052@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F015@
+0 @I060@ INDI
+1 NAME Eva Marie /Andreoni/
+2 GIVN Eva Marie
+2 SURN Andreoni
+1 NAME Eva Marie /Widdick/
+2 TYPE married
+1 NAME Eva Wittick
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1921
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S004@
+2 SOUR @S036@
+1 DEAT
+2 DATE 5 MAR 2005
+2 PLAC Dundalk, Baltimore County, Maryland, USA
+2 SOUR @S004@
+2 SOUR @S036@
+1 BURI
+2 PLAC Sacred Heart of Jesus Cemetery, Dundalk, Maryland, USA
+2 SOUR @S004@
+1 NOTE Spelling variants: Wittick (Tim), Winnick (first heard), Widdick (records)
+1 NOTE [Interview] Sister of Alice: “Eva Wittick” (spelled W-I-T-T-I-C-K per Tim).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Eva Marie Andreoni, born 1 Apr 1921, Old Forge; parents Giovanni D. Andreoni and Angelina Biscontini; died 5 Mar 2005, Dundalk, Md.; wife of Francis Widdick; daughters Angela Rose
+2 CONC , Frances Widdick, Linda Smith and Maria Brauer; 6 grandchildren.
+2 SOUR @S004@
+3 QUAY 3
+2 SOUR @S036@
+3 QUAY 3
+2 SOUR @S037@
+3 QUAY 3
+1 NOTE [Conflict; likely] Surname: Wittick (Tim) vs Widdick (records).
+2 SOUR @S037@
+3 QUAY 2
+1 NOTE [Interview; likely] Tim recalls Eva’s four daughters Angela, Linda, Frances (“Franna”) and Marie. Family based in Cape Cod, Massachusetts (per Tim). The record list matches, so the daughters are place
+2 CONC d here.
+2 SOUR @S001@
+3 QUAY 1
+2 SOUR @S037@
+3 QUAY 2
+1 FAMS @F016@
+1 FAMC @F002@
+0 @I061@ INDI
+1 NAME Francis J. /Widdick/
+2 GIVN Francis J.
+2 SURN Widdick
+1 SEX M
+1 BIRT
+2 DATE 1920
+2 SOUR @S036@
+2 SOUR @S037@
+1 DEAT
+2 DATE 2016
+2 SOUR @S036@
+2 SOUR @S037@
+1 NOTE [Record; likely] Husband of Eva (married 1947).
+2 SOUR @S036@
+3 QUAY 2
+2 SOUR @S037@
+3 QUAY 2
+1 FAMS @F016@
+0 @I062@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F016@
+0 @I063@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F016@
+0 @I064@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F016@
+0 @I065@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F016@
+0 @M001@ INDI
+1 NAME John /Mazzaccaro/
+2 GIVN John
+2 SURN Mazzaccaro
+1 SEX M
+1 BIRT
+2 DATE 13 MAR 1880
+2 PLAC Italy
+2 SOUR @S027@
+2 SOUR @S038@
+1 DEAT
+2 DATE 5 MAY 1962
+2 PLAC Milford, Pike, Pennsylvania, USA
+2 SOUR @S027@
+2 SOUR @S038@
+1 BURI
+2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
+2 SOUR @S027@
+1 NOTE [Record; confirmed] Born 13 Mar 1880, Italy (memorial gives “Castel, Aosta” — doubtful); died 5 May 1962, Milford, Pa. Children Angela, Thomas, Mary Ann, Louise, Patrick Joseph.
+2 SOUR @S027@
+3 QUAY 3
+2 SOUR @S038@
+3 QUAY 3
+1 FAMS @F017@
+0 @M002@ INDI
+1 NAME Elizabeth /Baratta/
+2 GIVN Elizabeth
+2 SURN Baratta
+1 NAME Elizabeth /Mazzaccaro/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 23 DEC 1881
+2 PLAC Italy
+2 SOUR @S038@
+2 SOUR @S028@
+1 DEAT
+2 DATE 14 OCT 1957
+2 PLAC Philadelphia, Pennsylvania, USA
+2 SOUR @S038@
+2 SOUR @S028@
+1 NOTE [Record; confirmed] Born 23 Dec 1881, Italy; died 14 Oct 1957, Philadelphia; of Connell St., Old Forge, about 50 years. 1957 obituary lists daughters incl. Mrs. Frank Lerro (Philadelphia) and Mrs. Dom
+2 CONC inick Aulisio (Newark).
+2 SOUR @S038@
+3 QUAY 3
+2 SOUR @S028@
+3 QUAY 3
+1 FAMS @F017@
+0 @M010@ INDI
+1 NAME Angela /Mazzaccaro/
+2 GIVN Angela
+2 SURN Mazzaccaro
+1 NAME Angela /Martinez/
+2 TYPE married
+1 NAME Angelina Martinez
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1908
+2 PLAC Jersey City, Hudson, New Jersey, USA
+2 SOUR @S039@
+2 SOUR @S027@
+1 DEAT
+2 DATE 24 MAY 1950
+2 PLAC Newark, Essex, New Jersey, USA
+2 SOUR @S039@
+2 SOUR @S027@
+1 NOTE Spelling variants: Angelina (interview)
+1 NOTE [Interview] Sister of Thomas: “Angelina Martinez”.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Angela Mazzaccaro Martinez, born 6 Jul 1908 Jersey City; died 24 May 1950 Newark; husband Raymond Martinez.
+2 SOUR @S039@
+3 QUAY 3
+2 SOUR @S027@
+3 QUAY 3
+1 FAMS @F018@
+1 FAMC @F017@
+0 @M011@ INDI
+1 NAME Raymond /Martinez/
+2 GIVN Raymond
+2 SURN Martinez
+1 SEX M
+1 NOTE [Record; likely] Husband of Angela.
+2 SOUR @S039@
+3 QUAY 2
+1 FAMS @F018@
+0 @M012@ INDI
+1 NAME Maria Ann /Martinez/
+2 GIVN Maria Ann
+2 SURN Martinez
+1 NAME Maria Ann /Baar/
+2 TYPE married
+1 SEX F
+1 NOTE [Record; likely] Linked as child of Angela Martinez (memorial exists; dates not read).
+2 SOUR @S040@
+3 QUAY 2
+1 FAMC @F018@
+0 @M020@ INDI
+1 NAME Mary Ann /Mazzaccaro/
+2 GIVN Mary Ann
+2 SURN Mazzaccaro
+1 NAME Mary Ann /Lerro/
+2 TYPE married
+1 NAME Mary Lero
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 11 JUN 1915
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S041@
+2 SOUR @S028@
+1 DEAT
+2 DATE 16 OCT 1990
+2 PLAC Washington Township, Gloucester, New Jersey, USA
+2 SOUR @S041@
+2 SOUR @S028@
+1 NOTE Spelling variants: Lero (Tim), Lerro (records)
+1 NOTE [Interview] Sister of Thomas: “Mary Lero”, spelled L-E-R-O (per Tim).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Mary Ann Mazzaccaro Lerro, born 11 Jun 1915 Old Forge (SSA: 13 Jun); died 16 Oct 1990; husband Frank J. Lerro; parents John Mazzaccaro and Elizabeth Baratta.
+2 SOUR @S041@
+3 QUAY 2
+2 SOUR @S028@
+3 QUAY 2
+2 SOUR @S038@
+3 QUAY 2
+1 NOTE [Conflict; likely] Spelling Lero (Tim) vs Lerro (records); birth day 11 vs 13 Jun.
+2 SOUR @S041@
+3 QUAY 2
+2 SOUR @S028@
+3 QUAY 2
+1 FAMS @F019@
+1 FAMC @F017@
+0 @M021@ INDI
+1 NAME Frank J. /Lerro/
+2 GIVN Frank J.
+2 SURN Lerro
+1 SEX M
+1 NOTE [Assumed; unconfirmed] Husband of Mary (the “Lero” cousins’ line, per Tim).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Husband of Mary Ann Lerro.
+2 SOUR @S041@
+3 QUAY 2
+2 SOUR @S038@
+3 QUAY 2
+1 FAMS @F019@
+0 @M022@ INDI
+1 NAME James Francis /Lerro/
+2 GIVN James Francis
+2 SURN Lerro
+1 SEX M
+1 BIRT
+2 DATE 14 JUL 1941
+2 PLAC Philadelphia, Pennsylvania, USA
+2 SOUR @S028@
+1 DEAT
+2 DATE 3 JUN 1994
+2 SOUR @S028@
+1 NOTE [Assumed; unconfirmed] Possible cousin from Tim’s “Lero” cousins (heard “impossible cousins” = possible cousins).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] SSA abstract names parents Frank Lerro and Mary Mazzaccaro.
+2 SOUR @S028@
+3 QUAY 2
+1 FAMC @F019@
+0 @M025@ INDI
+1 NAME Luis //
+2 GIVN Luis
+1 NAME “Luis” (Lero line) — Tim’s recollection
+2 TYPE aka
+1 SEX M
+1 NOTE [Interview; unconfirmed] Tim recalls “Luis” had children Olga (one son, name unknown) and Eva (daughters Angela, Linda, Frances “Franna”, Marie — Cape Cod). Pending records.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Conflict; likely] Olga and Eva are also Alice’s sisters (Olga Oberholtzer, Eva Widdick), and Eva Widdick’s 2005 obituary lists exactly daughters Angela, Frances, Linda and Maria. The daughters are sh
+2 CONC own under Eva Widdick; Alice’s sisters are not moved. “Luis” is unidentified — possibly Louis J. Guzzi (Irma’s husband).
+2 SOUR @S037@
+3 QUAY 2
+2 SOUR @S022@
+3 QUAY 2
+0 @M030@ INDI
+1 NAME Louise /Mazzaccaro/
+2 GIVN Louise
+2 SURN Mazzaccaro
+1 NAME Louise /Aulisio/
+2 TYPE married
+1 NAME Louise Aulisio (possible)
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 2 AUG 1917
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S042@
+2 SOUR @S027@
+1 DEAT
+2 DATE 25 JUN 2007
+2 PLAC Union, Union, New Jersey, USA
+2 SOUR @S042@
+2 SOUR @S027@
+1 NOTE Spelling variants: Alessio (as first heard)
+1 NOTE [Interview] Tim corrected the sibling he named: Mary Lero, not Louise Alessio/Aulisio.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Louise Mazzaccaro Aulisio, born 2 Aug 1917 Old Forge; died 25 Jun 2007 Union, N.J.; husband Dominick Aulisio. Mother’s 1957 obituary lists “Mrs. Dominick Aulisio, Newark” as a daughte
+2 CONC r.
+2 SOUR @S042@
+3 QUAY 2
+2 SOUR @S027@
+3 QUAY 2
+2 SOUR @S038@
+3 QUAY 2
+1 NOTE [Conflict; unconfirmed] Shown only as a possible additional sibling of Thomas (unconfirmed by family), although records list her.
+2 SOUR @S001@
+3 QUAY 1
+2 SOUR @S038@
+3 QUAY 1
+1 FAMS @F020@
+1 FAMC @F017@
+0 @M031@ INDI
+1 NAME Dominick /Aulisio/
+2 GIVN Dominick
+2 SURN Aulisio
+1 SEX M
+1 NOTE [Record; likely] Husband of Louise.
+2 SOUR @S042@
+3 QUAY 2
+1 FAMS @F020@
+0 @M040@ INDI
+1 NAME Patrick Joseph /Mazzaccaro/
+2 GIVN Patrick Joseph
+2 SURN Mazzaccaro
+2 NICK Pat
+1 NAME Patrick Joseph “Pat” Papp / Mazzaccaro
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 31 JAN 1920
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S043@
+2 SOUR @S027@
+1 DEAT
+2 DATE 3 FEB 1968
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S043@
+2 SOUR @S027@
+1 BURI
+2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
+2 SOUR @S043@
+1 NOTE Spelling variants: Papp (as given by Tim)
+1 NOTE [Interview] Brother of Thomas: “Patrick Joseph Papp”, married to Mary Febbo (per Tim).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Assumed; likely] Assumed to be Patrick Joseph Mazzaccaro (1920–1968): same given names, wife Mary Febbo. “Papp” may be a nickname (“Pap/Pat”) or mishearing.
+2 SOUR @S043@
+3 QUAY 2
+2 SOUR @S044@
+3 QUAY 2
+1 NOTE [Record; confirmed] Born 31 Jan 1920 Old Forge; died 3 Feb 1968 Old Forge; wife Mary (Febbo).
+2 SOUR @S043@
+3 QUAY 3
+2 SOUR @S027@
+3 QUAY 3
+2 SOUR @S044@
+3 QUAY 3
+1 FAMS @F021@
+1 FAMC @F017@
+0 @M041@ INDI
+1 NAME Mary /Febbo/
+2 GIVN Mary
+2 SURN Febbo
+1 NAME Mary /Mazzaccaro/
+2 TYPE married
+1 NAME Mary /Yaniello/
+2 TYPE married
+1 SEX F
+1 DEAT
+2 DATE 2017
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S044@
+1 NOTE [Interview] Wife of Pat (per Tim).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Daughter of David and Julia (DiGennari) Febbo; widow of Patrick J. Mazzaccaro Sr. (d. 3 Feb 1968) and of Industrial “Dusty” Yaniello (d. 2010). Survived by daughter Rose Mary Graziano
+2 CONC ; preceded by son Patrick Jr.
+2 SOUR @S044@
+3 QUAY 2
+1 FAMS @F021@
+0 @M042@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F021@
+0 @M043@ INDI
+1 NAME Patrick J. /Mazzaccaro/
+2 GIVN Patrick J.
+2 SURN Mazzaccaro
+2 NICK Pat Mazz
+1 NAME Patrick J. “Pat Mazz” Jr.
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 1939
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S045@
+2 SOUR @S044@
+1 DEAT
+2 DATE 17 JAN 2017
+2 PLAC Dallas, Luzerne, Pennsylvania, USA
+2 SOUR @S045@
+2 SOUR @S044@
+1 NOTE [Assumed; unconfirmed] Possible child of Pat and Mary (not confirmed by family).
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Born 13 Dec 1939 Old Forge; died 17 Jan 2017 Dallas, Pa. Mary Febbo’s obituary names him as her late son.
+2 SOUR @S045@
+3 QUAY 2
+2 SOUR @S044@
+3 QUAY 2
+1 FAMC @F021@
+0 @N001@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F010@
+1 FAMC @F009@
+0 @N002@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F009@
+0 @N003@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F009@
+0 @A001@ INDI
+1 NAME Gennaro /Azzolini/
+2 GIVN Gennaro
+2 SURN Azzolini
+1 SEX M
+1 BIRT
+2 DATE 8 OCT 1902
+2 PLAC Italy
+2 SOUR @S032@
+2 SOUR @S030@
+1 DEAT
+2 DATE MAY 1982
+2 PLAC Union City, Hudson, New Jersey, USA
+2 SOUR @S032@
+2 SOUR @S030@
+1 NOTE Spelling variants: Azzollini (SSA index)
+1 NOTE [Record; confirmed] Father of Doc and Patsy; was in Hoboken by 1939.
+2 SOUR @S032@
+3 QUAY 3
+2 SOUR @S030@
+3 QUAY 3
+1 NOTE [Record; likely] SSA death index “Gennaro Azzollini”: born 8 Oct 1902, died May 1982, Union City, N.J.
+2 SOUR @S046@
+3 QUAY 2
+1 FAMS @F022@
+0 @A002@ INDI
+1 NAME Lucrezia /DiNicolo/
+2 GIVN Lucrezia
+2 SURN DiNicolo
+1 NAME Lucrezia /Azzolini/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 1907
+2 PLAC Italy
+2 SOUR @S032@
+2 SOUR @S030@
+1 DEAT
+2 DATE 6 MAR 1980
+2 PLAC Union City, Hudson, New Jersey, USA
+2 SOUR @S032@
+2 SOUR @S030@
+1 NOTE [Record; confirmed] Mother of Doc and Patsy; came from Molfetta in 1939 with sons Patrick (9) and Dominick (6).
+2 SOUR @S032@
+3 QUAY 3
+2 SOUR @S030@
+3 QUAY 3
+1 NOTE [Record; likely] SSA death index “Lucrezia Azzollini”: born 25 Jan 1907, died 6 Mar 1980, Union City.
+2 SOUR @S046@
+3 QUAY 2
+1 FAMS @F022@
+0 @A010@ INDI
+1 NAME Patrick /Azzolini/
+2 GIVN Patrick
+2 SURN Azzolini
+2 NICK Patsy
+1 NAME Patrick “Patsy” Azzolini
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 12 OCT 1930
+2 PLAC Molfetta, Bari, Puglia, Italy
+2 SOUR @S032@
+1 DEAT
+2 DATE 15 DEC 2024
+2 PLAC Ridgewood, Bergen, New Jersey, USA
+2 SOUR @S032@
+1 NOTE [Record; confirmed] Born 12 Oct 1930 Molfetta; immigrated 1939; U.S. Navy (head baker, USS Kula Gulf); married Pauline 1954; died 15 Dec 2024.
+2 SOUR @S032@
+3 QUAY 3
+1 FAMS @F023@
+1 FAMC @F022@
+0 @A011@ INDI
+1 NAME Pauline //
+2 GIVN Pauline
+1 NAME Pauline /Azzolini/
+2 TYPE married
+1 SEX F
+1 NOTE [Record; confirmed] Wife of Patsy (m. 1954).
+2 SOUR @S032@
+3 QUAY 3
+1 FAMS @F023@
+0 @A012@ INDI
+1 NAME Dominick J. /Azzolini/
+2 GIVN Dominick J.
+2 SURN Azzolini
+2 NICK Doc
+1 NAME Dominick J. “Doc” Azzolini
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 30 SEP 1933
+2 PLAC Molfetta, Bari, Puglia, Italy
+2 SOUR @S030@
+2 SOUR @S031@
+1 DEAT
+2 DATE 11 DEC 2024
+2 PLAC Rutherford, Bergen, New Jersey, USA
+2 SOUR @S030@
+2 SOUR @S031@
+1 NOTE Spelling variants: Dominic (interview)
+1 NOTE [Interview] Norma’s husband (“Doc”); married 20 Oct 1956; U.S. Navy about two years (Germany, Lebanon); worked for “AMP” as supervisor, then a deli and the Pinnacle Supermarket.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Born 30 Sep 1933 Molfetta; came to U.S. 1939 aged 6; raised in Hoboken; Demarest H.S.; U.S. Navy; supervisor with A&P, later owner-operator of several supermarkets until retiring 2
+2 CONC 019; died 11 Dec 2024; funeral 16 Dec 2024, Rutherford.
+2 SOUR @S030@
+3 QUAY 3
+2 SOUR @S031@
+3 QUAY 3
+2 SOUR @S032@
+3 QUAY 3
+1 NOTE [Conflict; likely] Employer heard as “AMP”; obituary says A&P — very likely a speech-to-text error.
+2 SOUR @S030@
+3 QUAY 2
+2 SOUR @S001@
+3 QUAY 1
+1 FAMS @F010@
+1 FAMC @F022@
+0 @A013@ INDI
+1 NAME Philomena /Azzolini/
+2 GIVN Philomena
+2 SURN Azzolini
+1 SEX F
+1 BIRT
+2 DATE ABT 1937
+2 SOUR @S030@
+1 DEAT
+2 DATE 1970
+2 SOUR @S030@
+1 NOTE [Interview; unconfirmed] Doc’s sister; died 1970 aged 33 (car accident); lived in Union City; married (husband’s name unknown); no children.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Doc’s obituary lists sister Philomena as predeceased.
+2 SOUR @S030@
+3 QUAY 3
+1 FAMC @F022@
+0 @A014@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F022@
+0 @A015@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F022@
+0 @C010@ INDI
+1 NAME Living
+1 SEX M
+1 FAMS @F011@
+1 FAMC @F010@
+0 @C011@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F011@
+0 @C020@ INDI
+1 NAME Anthony Thomas /Azzolini/
+2 GIVN Anthony Thomas
+2 SURN Azzolini
+1 NAME Anthony T. Azzolini
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 29 DEC 1958
+2 PLAC Jersey City, Hudson, New Jersey, USA
+2 SOUR @S029@
+2 SOUR @S030@
+1 DEAT
+2 DATE 11 MAR 1995
+2 PLAC Rutherford, Bergen, New Jersey, USA
+2 SOUR @S029@
+2 SOUR @S030@
+1 NOTE [Interview] Second child; wife Carolyn Smith; died 11 Mar 1995.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; confirmed] Born 29 Dec 1958, Jersey City; died 11 Mar 1995; parents Dominick Azzolini and Norma Mazzaccaro.
+2 SOUR @S029@
+3 QUAY 3
+2 SOUR @S030@
+3 QUAY 3
+1 NOTE [Assumed; unconfirmed] Whether he is the “Anthony” in Norma’s deli story is unconfirmed (see interview context).
+2 SOUR @S001@
+3 QUAY 1
+1 FAMS @F012@
+1 FAMC @F010@
+0 @C021@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F012@
+0 @C030@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F013@
+1 FAMC @F010@
+0 @C031@ INDI
+1 NAME Living
+1 SEX M
+1 FAMS @F013@
+0 @C040@ INDI
+1 NAME Living
+1 SEX M
+1 FAMS @F014@
+1 FAMC @F010@
+0 @C041@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F014@
+0 @G001@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F011@
+0 @G002@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F011@
+0 @G003@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F011@
+0 @G004@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F012@
+0 @G005@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F012@
+0 @G006@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F012@
+0 @G007@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F012@
+0 @G008@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F013@
+0 @G009@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F013@
+0 @G010@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F013@
+0 @G011@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F014@
+0 @G012@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F014@
+0 @G013@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F014@
+0 @F001@ FAM
+1 HUSB @I001@
+1 WIFE @I002@
+1 CHIL @I003@
+0 @F002@ FAM
+1 HUSB @I003@
+1 WIFE @I004@
+1 CHIL @I010@
+1 CHIL @I012@
+1 CHIL @I020@
+1 CHIL @I025@
+1 CHIL @I030@
+1 CHIL @I040@
+1 CHIL @I050@
+1 CHIL @I060@
+0 @F003@ FAM
+1 HUSB @I011@
+1 WIFE @I010@
+0 @F004@ FAM
+1 HUSB @I013@
+1 WIFE @I012@
+1 CHIL @I014@
+1 CHIL @I015@
+1 CHIL @I016@
+1 CHIL @I017@
+1 CHIL @I018@
+0 @F005@ FAM
+1 HUSB @I020@
+1 WIFE @I021@
+1 CHIL @I022@
+1 CHIL @I023@
+0 @F006@ FAM
+1 HUSB @I025@
+1 WIFE @I026@
+0 @F007@ FAM
+1 HUSB @I025@
+1 WIFE @I027@
+0 @F008@ FAM
+1 HUSB @I031@
+1 WIFE @I030@
+0 @F009@ FAM
+1 HUSB @I041@
+1 WIFE @I040@
+1 CHIL @N001@
+1 CHIL @N002@
+1 CHIL @N003@
+1 MARR
+2 DATE 1934
+2 SOUR @S024@
+0 @F010@ FAM
+1 HUSB @A012@
+1 WIFE @N001@
+1 CHIL @C010@
+1 CHIL @C020@
+1 CHIL @C030@
+1 CHIL @C040@
+0 @F011@ FAM
+1 HUSB @C010@
+1 WIFE @C011@
+1 CHIL @G001@
+1 CHIL @G002@
+1 CHIL @G003@
+0 @F012@ FAM
+1 HUSB @C020@
+1 WIFE @C021@
+1 CHIL @G004@
+1 CHIL @G005@
+1 CHIL @G006@
+1 CHIL @G007@
+0 @F013@ FAM
+1 HUSB @C031@
+1 WIFE @C030@
+1 CHIL @G008@
+1 CHIL @G009@
+1 CHIL @G010@
+0 @F014@ FAM
+1 HUSB @C040@
+1 WIFE @C041@
+1 CHIL @G011@
+1 CHIL @G012@
+1 CHIL @G013@
+0 @F015@ FAM
+1 HUSB @I051@
+1 WIFE @I050@
+1 CHIL @I052@
+0 @F016@ FAM
+1 HUSB @I061@
+1 WIFE @I060@
+1 CHIL @I062@
+1 CHIL @I063@
+1 CHIL @I064@
+1 CHIL @I065@
+0 @F017@ FAM
+1 HUSB @M001@
+1 WIFE @M002@
+1 CHIL @M010@
+1 CHIL @I041@
+1 CHIL @M020@
+1 CHIL @M030@
+1 CHIL @M040@
+0 @F018@ FAM
+1 HUSB @M011@
+1 WIFE @M010@
+1 CHIL @M012@
+0 @F019@ FAM
+1 HUSB @M021@
+1 WIFE @M020@
+1 CHIL @M022@
+0 @F020@ FAM
+1 HUSB @M031@
+1 WIFE @M030@
+0 @F021@ FAM
+1 HUSB @M040@
+1 WIFE @M041@
+1 CHIL @M042@
+1 CHIL @M043@
+0 @F022@ FAM
+1 HUSB @A001@
+1 WIFE @A002@
+1 CHIL @A010@
+1 CHIL @A012@
+1 CHIL @A013@
+1 CHIL @A014@
+1 CHIL @A015@
+0 @F023@ FAM
+1 HUSB @A010@
+1 WIFE @A011@
+0 @S001@ SOUR
+1 TITL Interview of Norma (Mazzaccaro) Azzolini by her son Tim Azzolini, Old Forge, Pa., 31 Oct 2026; relayed notes (interview-summary-2026-10-31.md). Narrative kept in the separate interview-context documen
+2 CONC t.
+0 @S002@ SOUR
+1 TITL SortedByName.com, Andreoni index p.2 (SSA Numident abstract: Giovanni Domenick Andreoni)
+1 NOTE URL: https://sortedbyname.com/letter_a/andreoni/index_2.html
+0 @S003@ SOUR
+1 TITL SortedByName.com, Andreoni index p.4 (SSA abstracts: Giovanni D.; Olga Christine Andreoni)
+1 NOTE URL: https://sortedbyname.com/letter_a/andreoni/index_4.html
+0 @S004@ SOUR
+1 TITL SortedByName.com, Andreoni index p.6 (SSA abstract: Eva Marie Andreoni, parents Giovanni D. Andreoni & Angelina Biscontini)
+1 NOTE URL: https://sortedbyname.com/letter_a/andreoni/index_6.html
+0 @S005@ SOUR
+1 TITL Find a Grave, memorial 76394272, Giovanni “John” Andreoni (1877–1945) (page itself blocked; dates from children's family lists)
+1 NOTE URL: https://www.findagrave.com/memorial/76394272/giovanni-andreoni
+0 @S006@ SOUR
+1 TITL Find a Grave, memorial 76403503, Irma A. Andreoni Guzzi (1913–2005); family links list parents and all siblings
+1 NOTE URL: https://www.findagrave.com/memorial/76403503/irma_a-guzzi
+0 @S007@ SOUR
+1 TITL Find a Grave, memorial 76394401, Angelina Biscontini Andreoni (1880–1961), Marcy Cemetery, Duryea, Pa.; user-contributed
+1 NOTE URL: https://www.findagrave.com/memorial/76394401/angelina-andreoni
+0 @S008@ SOUR
+1 TITL Find a Grave, memorial 76368621, Guiseppe “Joseph” Incociati (1890–1972)
+1 NOTE URL: https://www.findagrave.com/memorial/76368621/guiseppe-incociati
+0 @S009@ SOUR
+1 TITL Genealogic.review, Biscontini surname distribution (Italy)
+1 NOTE URL: https://genealogic.review/it/name.php?nom=Biscontini
+0 @S010@ SOUR
+1 TITL ShipManifests.com, La Touraine arrival, New York, 3 May 1897 (index)
+1 NOTE URL: https://shipmanifests.com/arrivals/82909_La_Touraine_3_May_1897.html
+0 @S011@ SOUR
+1 TITL Walter Grutchfield, “Parodi Cigar Co.” (history incl. Scranton plant from 1930)
+1 NOTE URL: https://www.waltergrutchfield.net/parodi.htm
+0 @S012@ SOUR
+1 TITL Avanti Cigar Co., “Our History”
+1 NOTE URL: https://www.avanticigar.com/our-history/
+0 @S013@ SOUR
+1 TITL The Times-Tribune, “75 years ago: Parodi Cigar heavily damaged by fire,” 12 Jan. 2019
+1 NOTE URL: https://www.thetimes-tribune.com/2019/01/12/75-years-ago-parodi-cigar-heavily-damaged-by-fire/
+0 @S014@ SOUR
+1 TITL Find a Grave, memorial 76394884, Dora Andreoni Barbetti (1901–1978) (page itself blocked; dates from sibling family lists)
+1 NOTE URL: https://www.findagrave.com/memorial/76394884/dora-barbetti
+0 @S015@ SOUR
+1 TITL LocateAncestors.com, Barbetti surname page (SSA Death Master File abstract: Dora Barbetti)
+1 NOTE URL: https://www.locateancestors.com/barbetti/
+0 @S016@ SOUR
+1 TITL Find a Grave, memorial 76369428, Christina Marie Andreoni Incociati (1903–1996)
+1 NOTE URL: https://www.findagrave.com/memorial/76369428/christina_marie-incociati
+0 @S017@ SOUR
+1 TITL Find a Grave, memorial 213892057, Raymond F. Incociati (1932–2023), with obituary text
+1 NOTE URL: https://www.findagrave.com/memorial/213892057/raymond_f-incociati
+0 @S018@ SOUR
+1 TITL Find a Grave, memorial 76394569, Orlando D. “Loretto” Andreoni (1907–1994)
+1 NOTE URL: https://www.findagrave.com/memorial/76394569/orlando_d-andreoni
+0 @S019@ SOUR
+1 TITL SortedByName.com, Andreoni index p.3 (SSA abstracts, Orlando and family)
+1 NOTE URL: https://sortedbyname.com/letter_a/andreoni/index_3.html
+0 @S020@ SOUR
+1 TITL “Catherine Andreoni” obituary, Times Leader, 6 June 1999
+1 NOTE URL: https://archive.timesleader.com/article/959656/catherine-andreoni-june-6-1999-catherine-m-andreoni-84-formerly-of-connell-street-in-old-forge-died-sunday-at-abington-manor-in-clarks-summit
+0 @S021@ SOUR
+1 TITL Find a Grave, memorial 155479894, Merico “Rego” Andreoni (1910–1990)
+1 NOTE URL: https://www.findagrave.com/memorial/155479894/merico-andreoni
+0 @S022@ SOUR
+1 TITL Find a Grave, memorial 76403540, Louis J. Guzzi (1894–1978), d. Baltimore, Md.
+1 NOTE URL: https://www.findagrave.com/memorial/76403540/louis_j-guzzi
+0 @S023@ SOUR
+1 TITL SortedByName.com, Guzzi index p.9 (SSA / death-index abstract: Irma Guzzi)
+1 NOTE URL: https://sortedbyname.com/letter_g/guzzi/index_9.html
+0 @S024@ SOUR
+1 TITL Find a Grave, memorial 202306098, Alice Anderoni Mazzaccaro (1914–2015), with obituary text
+1 NOTE URL: https://www.findagrave.com/memorial/202306098/alice-mazzaccaro
+0 @S025@ SOUR
+1 TITL Obituary of Alice Mazzaccaro, Calhoun-Mania Funeral Home, Rutherford, N.J., Mar. 2015
+1 NOTE URL: https://www.calhounmaniafuneralhome.com/memorials/alice-mazzaccaro/2077360/
+0 @S026@ SOUR
+1 TITL Find a Grave, memorial 202306216, Thomas Mazzaccaro (1913–2006)
+1 NOTE URL: https://www.findagrave.com/memorial/202306216/thomas-mazzaccaro
+0 @S027@ SOUR
+1 TITL Find a Grave, memorial 202295000, John Mazzaccaro (1880–1962), Cathedral Cemetery, Scranton
+1 NOTE URL: https://www.findagrave.com/memorial/202295000/john-mazzaccaro
+0 @S028@ SOUR
+1 TITL SortedByName.com, Mazzaccaro index (SSA abstracts: Mary Ann, James Francis Lerro, Thomas)
+1 NOTE URL: https://sortedbyname.com/letter_m/mazzaccaro.html
+0 @S029@ SOUR
+1 TITL SortedByName.com, Azzolini index (SSA abstract: Anthony Thomas Azzolini)
+1 NOTE URL: https://sortedbyname.com/letter_a/azzolini/index_1.html
+0 @S030@ SOUR
+1 TITL “Dominick Azzolini” obituary, Legacy.com, Dec. 2024
+1 NOTE URL: https://www.legacy.com/us/obituaries/name/dominick-azzolini-obituary?id=56997252
+0 @S031@ SOUR
+1 TITL “Dominick Azzolini” obituary, Echovita, Rutherford, N.J., Dec. 2024
+1 NOTE URL: https://www.echovita.com/us/obituaries/nj/rutherford/dominick-azzolini-19006767
+0 @S032@ SOUR
+1 TITL “Patrick ‘Patsy’ Azzolini” obituary, Feeney Funeral Home, Dec. 2024
+1 NOTE URL: https://www.feeneyfuneralhome.com/obituaries/Patrick-Patsy-Azzolini?obId=35227894
+0 @S033@ SOUR
+1 TITL Borough of Wood-Ridge, N.J., Council reorganization minutes, 1 Jan. 2024
+1 NOTE URL: https://www.woodridgenj.gov/_Content/pdf/minutes/2024-01-01-Council-ReOrg-Minutes.pdf
+0 @S034@ SOUR
+1 TITL Find a Grave, memorial 88414067, Olga C. Andreoni Oberholtzer (1917–2006), Whaley Cemetery, Big Horn Co., Wyo.
+1 NOTE URL: https://www.findagrave.com/memorial/88414067/olga_c-oberholtzer
+0 @S035@ SOUR
+1 TITL “Teresa ‘Terri’ Oberholtzer” obituary, Haskell Funeral Home, 2021
+1 NOTE URL: https://www.haskellfuneralhome.com/obituary/TeresaTerri-Oberholtzer
+0 @S036@ SOUR
+1 TITL Find a Grave, memorial 261755279, Eva Marie Andreoni Widdick (1921–2005), transcribing the Baltimore Sun obituary
+1 NOTE URL: https://www.findagrave.com/memorial/261755279/eva_marie-widdick
+0 @S037@ SOUR
+1 TITL “Eva M. Widdick” obituary, Baltimore Sun, 7 Mar. 2005, via Legacy.com
+1 NOTE URL: https://www.legacy.com/us/obituaries/baltimoresun/name/eva-widdick-obituary?id=7073463
+0 @S038@ SOUR
+1 TITL Find a Grave, memorial 202294813, Elizabeth Baratta Mazzaccaro (1881–1957), quoting Wilkes-Barre Times Leader obituary, 15 Oct. 1957
+1 NOTE URL: https://www.findagrave.com/memorial/202294813/elizabeth-mazzaccaro
+0 @S039@ SOUR
+1 TITL Find a Grave, memorial 98153501, Angela Mazzaccaro Martinez (1908–1950)
+1 NOTE URL: https://www.findagrave.com/memorial/98153501/angela-martinez
+0 @S040@ SOUR
+1 TITL Find a Grave, memorial 204148778, Maria Ann Baar (linked as child of Angela Martinez)
+1 NOTE URL: https://www.findagrave.com/memorial/204148778/maria_ann-baar
+0 @S041@ SOUR
+1 TITL Find a Grave, memorial 202306785, Mary Ann Mazzaccaro Lerro (1915–1990)
+1 NOTE URL: https://www.findagrave.com/memorial/202306785/mary_ann-lerro
+0 @S042@ SOUR
+1 TITL Find a Grave, memorial 138551412, Louise Mazzaccaro Aulisio (1917–2007)
+1 NOTE URL: https://www.findagrave.com/memorial/138551412/louise-aulisio
+0 @S043@ SOUR
+1 TITL Find a Grave, memorial 202305098, Patrick Joseph Mazzaccaro (1920–1968)
+1 NOTE URL: https://www.findagrave.com/memorial/202305098/patrick_joseph-mazzaccaro
+0 @S044@ SOUR
+1 TITL “Mary Febbo Mazzaccaro Yaniello, Old Forge” obituary, The Times-Tribune (Scranton), 2017
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/mary-febbo-mazzaccaro-yaniello-old-forge-pa/
+0 @S045@ SOUR
+1 TITL “Patrick J. Mazzaccaro” obituary, Wroblewski Funeral Home, Jan. 2017
+1 NOTE URL: https://www.wroblewskifuneralhome.com/obituary/patrick-j-mazzaccaro/
+0 @S046@ SOUR
+1 TITL LocateAncestors.com, Azzollini surname page (SSA Death Master File abstracts: Gennaro, Lucrezia)
+1 NOTE URL: https://www.locateancestors.com/azzollini/
+0 TRLR
