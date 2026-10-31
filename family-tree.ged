@@ -722,6 +722,13 @@
 3 QUAY 3
 2 SOUR @S038@
 3 QUAY 3
+1 NOTE [Interview] Married to Elizabeth; the couple lived in Connell’s Patch, Old Forge, and later divorced. Remembered by Norma from about age 7 or 8, when he was probably in his 50s or 60s.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Conflict] Interview says he and Elizabeth divorced; no divorce record found. Elizabeth’s 1957 obituary places her on Connell St. for about 50 years. Remembered age (50s or 60s) is also below the 188
+2 CONC 0 birth year (about 68 in the late 1940s). To confirm with Norma.
+2 SOUR @S038@
+3 QUAY 2
 1 FAMS @F017@
 0 @M002@ INDI
 1 NAME Elizabeth /Baratta/
@@ -746,6 +753,14 @@
 3 QUAY 3
 2 SOUR @S028@
 3 QUAY 3
+1 NOTE [Interview] Wife of John Mazzaccaro (maiden name not given in the interview). Said to have lived in Connell’s Patch, divorced, then moved further up and lived on her own; Tim was still little then.
+2 SOUR @S001@
+3 QUAY 1
+1 NOTE [Record; likely] Maiden name Baratta per the Find a Grave family links and her children’s records, which answers the unknown maiden name.
+2 SOUR @S038@
+3 QUAY 2
+2 SOUR @S027@
+3 QUAY 2
 1 FAMS @F017@
 0 @M010@ INDI
 1 NAME Angela /Mazzaccaro/
