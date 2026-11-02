@@ -1135,11 +1135,19 @@
 1 SEX M
 1 DEAT
 2 DATE 22 APR 2023
+2 PLAC Dundalk, Baltimore County, Maryland, USA
 2 SOUR @S075@
+2 SOUR @S076@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; likely] Husband of Maria (Widdick) Brauer; died 22 Apr 2023. Survivors named in his obituary: Maria, their two children, and his brother Philip; his sister Brenda died before him.
 2 SOUR @S075@
 3 QUAY 2
+1 NOTE [Record; confirmed] Exact obituary page found: Albert W. Brauer Jr. of Dundalk, Md., died 22 Apr 2023; visitation and funeral 25 Apr 2023 (Duda-Ruck Funeral Home of Dundalk). Survived by his wife Mari
+2 CONC a C. Brauer; children Austin M. Brauer (Rylee Kinsella) and Isabella E. Brauer (Joshua Mavias); brother Philip Brauer. Predeceased by sister Brenda Brauer.
+2 SOUR @S075@
+3 QUAY 3
+2 SOUR @S076@
+3 QUAY 3
 1 FAMS @F042@
 0 @I077@ INDI
 1 NAME Living
@@ -1159,12 +1167,12 @@
 2 DATE 13 MAR 1880
 2 PLAC Italy
 2 SOUR @S056@
-2 SOUR @S076@
+2 SOUR @S077@
 1 DEAT
 2 DATE 5 MAY 1962
 2 PLAC Milford, Pike, Pennsylvania, USA
 2 SOUR @S056@
-2 SOUR @S076@
+2 SOUR @S077@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
 2 SOUR @S056@
@@ -1173,7 +1181,7 @@
 1 NOTE [Record; confirmed] Born 13 Mar 1880, Italy (memorial gives “Castel, Aosta” — doubtful); died 5 May 1962, Milford, Pa. Children Angela, Thomas, Mary Ann, Louise, Patrick Joseph.
 2 SOUR @S056@
 3 QUAY 3
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 3
 1 NOTE [Interview] Known in the family as “John the Fishman,” per Tim (31 Oct 2026). Reason not yet known (fisherman, fish seller, or a family story); no public record found yet. A search of records under fi
 2 CONC sh-related work is in progress.
@@ -1188,21 +1196,19 @@
 2 CONC e, so he was probably living locally then. His death (5 May 1962) is placed in Milford, Pike County; that is where he died, not necessarily where he lived. No fish-selling or farm record found. Record
 2 CONC s that would settle it: his 1962 PA death certificate (usual residence), his May 1962 obituary, estate file at the Pike or Lackawanna Register of Wills, a 1957-65 deed index search, the 1940 census an
 2 CONC d the 1942 draft card. Likely streets for a house off Connell St. (map only, no tie to John): Humphrey St, Brook St, Foundry St, Seaman Ln, Drakes Ln.
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 1
 1 NOTE [Interview] Married to Elizabeth; the couple lived in Connell’s Patch, Old Forge, and later divorced. Remembered by Norma from about age 7 or 8, when he was probably in his 50s or 60s.
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Conflict] Interview says he and Elizabeth divorced; no divorce record found. Elizabeth’s 1957 obituary places her on Connell St. for about 50 years. Remembered age (50s or 60s) is also below the 188
 2 CONC 0 birth year (about 68 in the late 1940s). To confirm with Norma.
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 2
 1 NOTE [Record; unconfirmed] John’s own house is not yet found. 8 Connell St. (8-9 Connell St.), Old Forge, in Connell’s Patch (lower Old Forge, north of the Lackawanna River, next to the Sparrowville / Ol
 2 CONC d Forge No. 2 mine), was Elizabeth Baratta’s address (1957 obituary: Connell St. about 50 years) and later probably Karen (Krogulski) Mazzaccaro’s, not John’s, per Tim. No deed or tax record naming Jo
 2 CONC hn as owner was found online. A Dec 2021 transfer lists “Karen Mazzaccaro, Old Forge” selling 8-9 Connell St. for $110,000 (sold again Feb 2024 for $205,000); she is probably the widow of John’s grand
 2 CONC son Pat Jr., but the notice gives only her name. A search for other Mazzaccaro addresses in Old Forge is in progress.
-2 SOUR @S076@
-3 QUAY 1
 2 SOUR @S077@
 3 QUAY 1
 2 SOUR @S078@
@@ -1210,6 +1216,8 @@
 2 SOUR @S079@
 3 QUAY 1
 2 SOUR @S080@
+3 QUAY 1
+2 SOUR @S081@
 3 QUAY 1
 1 FAMS @F043@
 0 @M002@ INDI
@@ -1222,18 +1230,18 @@
 1 BIRT
 2 DATE 23 DEC 1881
 2 PLAC Italy
-2 SOUR @S076@
+2 SOUR @S077@
 2 SOUR @S057@
 1 DEAT
 2 DATE 14 OCT 1957
 2 PLAC Philadelphia, Pennsylvania, USA
-2 SOUR @S076@
+2 SOUR @S077@
 2 SOUR @S057@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). Only a headstone photo is on her memorial.
-2 SOUR @S076@
+2 SOUR @S077@
 1 NOTE [Record; confirmed] Born 23 Dec 1881, Italy; died 14 Oct 1957, Philadelphia; of Connell St., Old Forge, about 50 years. 1957 obituary lists daughters incl. Mrs. Frank Lerro (Philadelphia) and Mrs. Dom
 2 CONC inick Aulisio (Newark).
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 3
 2 SOUR @S057@
 3 QUAY 3
@@ -1241,13 +1249,13 @@
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Record; likely] Maiden name Baratta per the Find a Grave family links and her children’s records, which answers the unknown maiden name.
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 2
 2 SOUR @S056@
 3 QUAY 2
 1 NOTE [Record; confirmed] 1957 obituary: “sister of the late Louise Orrick and the late Basil Baratta.” Survivors: husband John; daughters Mrs. Frank Lerro (Philadelphia) and Mrs. Dominick Aulisio (Newark)
 2 CONC ; sons Thomas (Rutherford, N.J.) and Patrick (at home); 11 grandchildren; two great-grandchildren.
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 3
 1 FAMS @F043@
 0 @M010@ INDI
@@ -1262,21 +1270,21 @@
 1 BIRT
 2 DATE 6 JUL 1908
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S081@
+2 SOUR @S082@
 2 SOUR @S056@
 1 DEAT
 2 DATE 24 MAY 1950
 2 PLAC Newark, Essex, New Jersey, USA
-2 SOUR @S081@
+2 SOUR @S082@
 2 SOUR @S056@
 1 NOTE Spelling variants: Angelina (interview)
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). Only a headstone photo is on her memorial.
-2 SOUR @S081@
+2 SOUR @S082@
 1 NOTE [Interview] Sister of Thomas: “Angelina Martinez”.
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Record; confirmed] Angela Mazzaccaro Martinez, born 6 Jul 1908 Jersey City; died 24 May 1950 Newark; husband Raymond Martinez.
-2 SOUR @S081@
+2 SOUR @S082@
 3 QUAY 3
 2 SOUR @S056@
 3 QUAY 3
@@ -1290,20 +1298,20 @@
 1 BIRT
 2 DATE 19 APR 1894
 2 PLAC Spain
-2 SOUR @S081@
 2 SOUR @S082@
+2 SOUR @S083@
 1 DEAT
 2 DATE DEC 1964
 2 PLAC Rahway, Union, New Jersey, USA
-2 SOUR @S081@
 2 SOUR @S082@
-1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). Only a headstone photo is on the linked Raymond Martinez memorial.
 2 SOUR @S083@
+1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). Only a headstone photo is on the linked Raymond Martinez memorial.
+2 SOUR @S084@
 1 NOTE [Record; likely] Husband of Angela.
-2 SOUR @S081@
+2 SOUR @S082@
 3 QUAY 2
 1 NOTE [Record; likely] Born 19 Apr 1894, Spain; died Dec 1964, Rahway, N.J.; buried Holy Cross Cemetery, North Arlington.
-2 SOUR @S082@
+2 SOUR @S083@
 3 QUAY 2
 1 FAMS @F044@
 0 @M012@ INDI
@@ -1316,32 +1324,32 @@
 1 BIRT
 2 DATE 19 APR 1936
 2 PLAC Ashley, Luzerne, Pennsylvania, USA
-2 SOUR @S084@
 2 SOUR @S085@
+2 SOUR @S086@
 1 DEAT
 2 DATE 22 OCT 2019
 2 PLAC McKinney, Collin, Texas, USA
-2 SOUR @S084@
 2 SOUR @S085@
+2 SOUR @S086@
 1 BURI
 2 PLAC Saint Mary’s Cemetery, Clark, Union, New Jersey, USA
-2 SOUR @S084@
+2 SOUR @S085@
 1 OBJE
 2 FILE https://www.findagrave.com/memorial/204148778/maria_ann-baar/photo
 3 FORM jpg
 4 MEDI photo
 2 TITL Photo: Find a Grave memorial 204148778 (user-contributed), likely (link is to the source page; copyright remains with the owner)
 1 NOTE Photo: Find a Grave memorial 204148778 (user-contributed), likely On her own memorial; uncaptioned; contributor name suggests a funeral home.
-2 SOUR @S086@
+2 SOUR @S087@
 1 NOTE [Record; likely] Linked as child of Angela Martinez (memorial exists; dates not read).
-2 SOUR @S084@
+2 SOUR @S085@
 3 QUAY 2
 1 NOTE [Record; confirmed] Born 19 Apr 1936, Ashley, Pa., to Raymond and Angela (Mazzaccaro) Martinez; early childhood Old Forge, then Newark; worked at RCA, where she met husband Louis Baar; raised three da
 2 CONC ughters in Clark, N.J.; died 22 Oct 2019, McKinney, Tex. Survived by daughters Elizabeth (Alex) Cena, Susan (Michael) Haney, Kathleen (Andrew) D’Auria; grandchildren Matthew and Stephen Cena, Jillia
 2 CONC n and Michael D’Auria.
-2 SOUR @S085@
+2 SOUR @S086@
 3 QUAY 3
-2 SOUR @S084@
+2 SOUR @S085@
 3 QUAY 3
 1 FAMS @F045@
 1 FAMC @F044@
@@ -1357,28 +1365,28 @@
 1 BIRT
 2 DATE 11 JUN 1915
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S087@
+2 SOUR @S088@
 2 SOUR @S057@
 1 DEAT
 2 DATE 16 OCT 1990
 2 PLAC Washington Township, Gloucester, New Jersey, USA
-2 SOUR @S087@
+2 SOUR @S088@
 2 SOUR @S057@
 1 NOTE Spelling variants: Lero (Tim), Lerro (records)
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). Her memorial has no photos.
-2 SOUR @S087@
+2 SOUR @S088@
 1 NOTE [Interview] Sister of Thomas: “Mary Lero”, spelled L-E-R-O (per Tim).
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Record; likely] Mary Ann Mazzaccaro Lerro, born 11 Jun 1915 Old Forge (SSA: 13 Jun); died 16 Oct 1990; husband Frank J. Lerro; parents John Mazzaccaro and Elizabeth Baratta.
-2 SOUR @S087@
+2 SOUR @S088@
 3 QUAY 2
 2 SOUR @S057@
 3 QUAY 2
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 2
 1 NOTE [Conflict; likely] Spelling Lero (Tim) vs Lerro (records); birth day 11 vs 13 Jun.
-2 SOUR @S087@
+2 SOUR @S088@
 3 QUAY 2
 2 SOUR @S057@
 3 QUAY 2
@@ -1392,26 +1400,26 @@
 1 BIRT
 2 DATE 19 AUG 1907
 2 PLAC Philadelphia, Pennsylvania, USA
-2 SOUR @S087@
-2 SOUR @S076@
+2 SOUR @S088@
+2 SOUR @S077@
 1 DEAT
 2 DATE 25 OCT 1989
 2 PLAC Turnersville, Gloucester, New Jersey, USA
-2 SOUR @S087@
-2 SOUR @S076@
+2 SOUR @S088@
+2 SOUR @S077@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). The linked Frank J. Lerro memorial has no photos.
-2 SOUR @S089@
+2 SOUR @S090@
 1 NOTE [Assumed; unconfirmed] Husband of Mary (the “Lero” cousins’ line, per Tim).
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Record; likely] Husband of Mary Ann Lerro.
-2 SOUR @S087@
+2 SOUR @S088@
 3 QUAY 2
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 2
 1 NOTE [Record; confirmed] Frank Lerro, 82, of Turnersville, died 1989 (Inquirer, 30 Oct 1989). Survivors: wife Mary (née Mazzaccaro); sons James F. (Turnersville) and Rudy R. (Washington Township); seven gr
 2 CONC andchildren; brother Rudolph; sisters Josephine Borgersen, Louise Sutton and Dora.
-2 SOUR @S088@
+2 SOUR @S089@
 3 QUAY 3
 1 FAMS @F049@
 0 @M022@ INDI
@@ -1423,11 +1431,11 @@
 2 DATE 14 JUL 1941
 2 PLAC Philadelphia, Pennsylvania, USA
 2 SOUR @S057@
-2 SOUR @S088@
+2 SOUR @S089@
 1 DEAT
 2 DATE 3 JUN 1994
 2 SOUR @S057@
-2 SOUR @S088@
+2 SOUR @S089@
 1 NOTE Photo: none found publicly (searched: Find a Grave name search, web search).
 1 NOTE [Assumed; unconfirmed] Possible cousin from Tim’s “Lero” cousins (heard “impossible cousins” = possible cousins).
 2 SOUR @S001@
@@ -1436,7 +1444,7 @@
 2 SOUR @S057@
 3 QUAY 2
 1 NOTE [Record; confirmed] Son “James F.” of Turnersville in his father Frank Lerro’s 1989 obituary.
-2 SOUR @S088@
+2 SOUR @S089@
 3 QUAY 3
 1 FAMC @F049@
 0 @M025@ INDI
@@ -1467,44 +1475,44 @@
 1 BIRT
 2 DATE 2 AUG 1917
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S090@
+2 SOUR @S091@
 2 SOUR @S056@
 1 DEAT
 2 DATE 25 JUN 2007
 2 PLAC Union, Union, New Jersey, USA
-2 SOUR @S090@
+2 SOUR @S091@
 2 SOUR @S056@
 1 NOTE Spelling variants: Alessio (as first heard)
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). Her memorial has no photos.
-2 SOUR @S090@
+2 SOUR @S091@
 1 NOTE [Interview] Tim corrected the sibling he named: Mary Lero, not Louise Alessio/Aulisio.
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Record; likely] Louise Mazzaccaro Aulisio, born 2 Aug 1917 Old Forge; died 25 Jun 2007 Union, N.J.; husband Dominick Aulisio. Mother’s 1957 obituary lists “Mrs. Dominick Aulisio, Newark” as a daughte
 2 CONC r.
-2 SOUR @S090@
+2 SOUR @S091@
 3 QUAY 2
 2 SOUR @S056@
 3 QUAY 2
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Shown only as a possible additional sibling of Thomas (unconfirmed by family), although records list her.
 2 SOUR @S001@
 3 QUAY 1
-2 SOUR @S076@
+2 SOUR @S077@
 3 QUAY 1
 1 NOTE [Record; confirmed] Her 1981 widowhood and sons Leo and John are documented in her husband’s and son’s obituaries; her own 2007 obituary text was not found.
-2 SOUR @S091@
-3 QUAY 3
 2 SOUR @S092@
+3 QUAY 3
+2 SOUR @S093@
 3 QUAY 3
 1 NOTE [Conflict; likely] This card still says “possible” sibling (Tim corrected the name he gave), but her husband’s and son’s obituaries make her a Mazzaccaro daughter of John and Elizabeth beyond doubt (n
 2 CONC ée Mazzaccaro; Leo born Old Forge). Suggest confirming with Norma and dropping “possible”.
-2 SOUR @S091@
-3 QUAY 2
 2 SOUR @S092@
 3 QUAY 2
-2 SOUR @S076@
+2 SOUR @S093@
+3 QUAY 2
+2 SOUR @S077@
 3 QUAY 2
 1 FAMS @F050@
 1 FAMC @F043@
@@ -1516,21 +1524,21 @@
 1 BIRT
 2 DATE 5 MAR 1911
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S090@
 2 SOUR @S091@
+2 SOUR @S092@
 1 DEAT
 2 DATE 21 JAN 1981
 2 PLAC Holmdel, Monmouth, New Jersey, USA
-2 SOUR @S090@
 2 SOUR @S091@
+2 SOUR @S092@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). The linked Dominick Aulisio memorial has no photos.
-2 SOUR @S093@
+2 SOUR @S094@
 1 NOTE [Record; likely] Husband of Louise.
-2 SOUR @S090@
+2 SOUR @S091@
 3 QUAY 2
 1 NOTE [Record; confirmed] Dominick Aulisio, 69, born Old Forge, lived Jersey City then West Keansburg; Colgate Palmolive Co.; died 21 Jan 1981. Survivors: wife Louise (née Mazzaccaro); sons Leo (Union) an
 2 CONC d John (Parsippany); two grandchildren.
-2 SOUR @S091@
+2 SOUR @S092@
 3 QUAY 3
 1 FAMS @F050@
 0 @M040@ INDI
@@ -1544,36 +1552,36 @@
 1 BIRT
 2 DATE 31 JAN 1920
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S094@
 2 SOUR @S095@
+2 SOUR @S096@
 1 DEAT
 2 DATE 3 FEB 1968
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S094@
 2 SOUR @S095@
+2 SOUR @S096@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
-2 SOUR @S094@
+2 SOUR @S095@
 1 NOTE Spelling variants: Papp (as given by Tim)
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries). His memorial has no photos.
-2 SOUR @S094@
+2 SOUR @S095@
 1 NOTE [Interview] Brother of Thomas: “Patrick Joseph Papp”, married to Mary Febbo (per Tim).
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Record; likely] Identification now supported: Mary Febbo Mazzaccaro Yaniello’s obituary names her first husband as Patrick J. Mazzaccaro Sr., who died 3 Feb 1968, the same date as John Mazzaccaro’s s
 2 CONC on Pat on Find a Grave. “Papp” is probably a nickname or mishearing of Pat.
-2 SOUR @S094@
-3 QUAY 2
 2 SOUR @S095@
 3 QUAY 2
 2 SOUR @S096@
 3 QUAY 2
+2 SOUR @S097@
+3 QUAY 2
 1 NOTE [Record; confirmed] Born 31 Jan 1920 Old Forge; died 3 Feb 1968 Old Forge; wife Mary (Febbo).
-2 SOUR @S094@
+2 SOUR @S095@
 3 QUAY 3
 2 SOUR @S056@
 3 QUAY 3
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
 1 FAMS @F052@
 1 FAMC @F043@
@@ -1589,36 +1597,36 @@
 1 DEAT
 2 DATE 2017
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S095@
+2 SOUR @S096@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
-2 SOUR @S095@
+2 SOUR @S096@
 1 OBJE
 2 FILE https://www.thetimes-tribune.com/obituaries/mary-febbo-mazzaccaro-yaniello-old-forge-pa/
 3 FORM jpg
 4 MEDI photo
 2 TITL Photo: The Times-Tribune obituary (obituary), confirmed (link is to the source page; copyright remains with the owner)
 1 NOTE Photo: The Times-Tribune obituary (obituary), confirmed Obituary photo (Mary Febbo Mazzaccaro Yaniello, Old Forge).
-2 SOUR @S095@
+2 SOUR @S096@
 1 NOTE [Interview] Wife of Pat (per Tim).
 2 SOUR @S001@
 3 QUAY 1
 1 NOTE [Record; likely] Daughter of David and Julia (DiGennari) Febbo; widow of Patrick J. Mazzaccaro Sr. (d. 3 Feb 1968) and of Industrial “Dusty” Yaniello (d. 2010). Survived by daughter Rose Mary Graziano
 2 CONC ; preceded by son Patrick Jr.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 2
 1 NOTE [Record; confirmed] Siblings (all predeceased her): Louis Febbo, Josephine Bruno, Ann Wollner, Nora Madrak, Angeline Glodzik, Jenny Resavy. Stepchildren (Dusty Yaniello’s): Geraldine Garvey (husband J
 2 CONC ames), Jacqueline Gengo, Brenda LoPrete. Grandchildren Patrick Mazzaccaro III (wife Mary Margaret), Laurie Mazzaccaro, James Graziano Jr., Mari Jo Hufford (husband Tom); great-grandchildren Heather Gr
 2 CONC aziano, Gabriella Gillern, Jacob Gillern, Thomas Hufford Jr., Brianna Mazzaccaro; preceded by granddaughter-in-law Barbara Graziano. Buried Cathedral Cemetery.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Her obituary names grandchildren Patrick III and Laurie via Pat Jr., but Pat Jr.’s obituary lists four more children (Robin, Kelly, Tammy, Denise) — possibly his stepchildren
 2 CONC . Also: Jacob Gillern is a living great-grandchild here (2017) but predeceased James Graziano (2024) — a sequence, not a contradiction.
-2 SOUR @S095@
-3 QUAY 1
 2 SOUR @S096@
 3 QUAY 1
 2 SOUR @S097@
+3 QUAY 1
+2 SOUR @S098@
 3 QUAY 1
 1 FAMS @F052@
 1 FAMS @F071@
@@ -1636,35 +1644,35 @@
 1 BIRT
 2 DATE 6 AUG 1936
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S097@
+2 SOUR @S098@
 1 DEAT
 2 DATE 20 FEB 2024
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S097@
+2 SOUR @S098@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
-2 SOUR @S097@
+2 SOUR @S098@
 1 OBJE
 2 FILE https://www.thetimes-tribune.com/obituaries/james-joseph-graziano-old-forge-pa/
 3 FORM jpg
 4 MEDI photo
 2 TITL Photo: The Times-Tribune obituary (obituary), confirmed (link is to the source page; copyright remains with the owner)
 1 NOTE Photo: The Times-Tribune obituary (obituary), confirmed Obituary photo (James Joseph Graziano, Old Forge, 1936–2024).
-2 SOUR @S097@
+2 SOUR @S098@
 1 NOTE [Record; confirmed] Born Old Forge, son of James and Josephine (DeAngelo) Graziano; Old Forge High School 1954; US Air Force radar technician; later at Picatinny Arsenal and Tobyhanna Army Depot. Husb
 2 CONC and of Rose Mary Mazzaccaro Graziano; his obituary names Pat Mazzaccaro III and Laurie Mazzaccaro as nieces and nephews.
-2 SOUR @S097@
+2 SOUR @S098@
 3 QUAY 3
 1 NOTE [Record; confirmed] 2024 obituary survivors: wife; son Jim Jr.; daughter Mari Jo Hufford; grandchildren Gabriella Gillern, Heather Graziano Blackwood, Thomas Hufford Jr.; great-granddaughter Olive; br
 2 CONC other Terrence Graziano (wife Maryann); nieces/nephews Joseph, Jim and John Butrymowicz, Phyllis Bruder, Pat Mazzaccaro III (his godson; wife Mary Margaret; daughter Brianna), Laurie Mazzaccaro. Prede
 2 CONC ceased: daughter-in-law Barbara, grandson Jacob Gillern, sister Phyllis Graziano.
-2 SOUR @S097@
+2 SOUR @S098@
 3 QUAY 3
 1 NOTE [Assumed; unconfirmed] Which child is parent of each grandchild is not stated. Heather Graziano (Blackwood) is probably Jim Jr.’s; Thomas Hufford Jr. probably Mari Jo’s; Gabriella and Jacob Gillern un
 2 CONC clear (a “Mike Gillern” was called a grandson at Dusty Yaniello’s 2010 funeral, possibly a grandson-in-law).
-2 SOUR @S097@
-3 QUAY 1
 2 SOUR @S098@
+3 QUAY 1
+2 SOUR @S099@
 3 QUAY 1
 1 FAMS @F053@
 0 @M043@ INDI
@@ -1678,35 +1686,35 @@
 1 BIRT
 2 DATE 13 DEC 1939
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S097@
 2 SOUR @S096@
-2 SOUR @S095@
 1 DEAT
 2 DATE 17 JAN 2017
 2 PLAC Dallas, Luzerne, Pennsylvania, USA
+2 SOUR @S097@
 2 SOUR @S096@
-2 SOUR @S095@
 1 OBJE
 2 FILE https://www.wroblewskifuneralhome.com/obituary/patrick-j-mazzaccaro/
 3 FORM jpg
 4 MEDI photo
 2 TITL Photo: Wroblewski Funeral Home obituary (obituary), confirmed (link is to the source page; copyright remains with the owner)
 1 NOTE Photo: Wroblewski Funeral Home obituary (obituary), confirmed Obituary photo (13 Dec 1939 – 17 Jan 2017, son of Mary Febbo).
-2 SOUR @S096@
+2 SOUR @S097@
 1 NOTE [Record; confirmed] Born 13 Dec 1939 Old Forge; died 17 Jan 2017 Dallas, Pa.; son of Mary (Febbo) Mazzaccaro Yaniello and the late Patrick Mazzaccaro. Wife Karen (Krogulski); children Robin, Kelly, Ta
 2 CONC mmy, Denise, Patrick and Laurie; sister Rosemary Graziano, Old Forge. Employed 25 years as meat and seafood director, Insalaco Markets.
-2 SOUR @S096@
+2 SOUR @S097@
 3 QUAY 3
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
 1 NOTE [Record; confirmed] 2017 survivors: wife Karen; children Robin Powers, Kelly Maniskas (Jay), Tammy Schmidt (Robert), Denise Rinaldi (Vito), Patrick Mazzaccaro (Mary Margaret), Laurie Mazzaccaro; grand
 2 CONC children Timothy, Rachel, Olivia, Robert, Michael, Vito, Dominic and Brianna; sister Rosemary Graziano; nieces and nephews.
-2 SOUR @S096@
+2 SOUR @S097@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] His obituary lists six children; his mother’s 2017 obituary names only Patrick III and Laurie as her grandchildren through him. Robin, Kelly, Tammy and Denise may be stepchildr
 2 CONC en (Karen’s). To confirm with family.
-2 SOUR @S096@
+2 SOUR @S097@
 3 QUAY 1
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 1
 1 FAMS @F056@
 1 FAMC @F052@
@@ -1750,7 +1758,7 @@
 2 SOUR @S059@
 3 QUAY 3
 1 NOTE [Record; likely] SSA death index “Gennaro Azzollini”: born 8 Oct 1902, died May 1982, Union City, N.J.
-2 SOUR @S099@
+2 SOUR @S100@
 3 QUAY 2
 1 FAMS @F061@
 0 @A002@ INDI
@@ -1777,7 +1785,7 @@
 2 SOUR @S059@
 3 QUAY 3
 1 NOTE [Record; likely] SSA death index “Lucrezia Azzollini”: born 25 Jan 1907, died 6 Mar 1980, Union City.
-2 SOUR @S099@
+2 SOUR @S100@
 3 QUAY 2
 1 FAMS @F061@
 0 @A010@ INDI
@@ -2039,9 +2047,9 @@
 1 NOTE Spelling variants: Febo
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Father of Mary (Febbo) Mazzaccaro Yaniello and of Jennie Febo Resavy; named “the late David” in both obituaries.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 FAMS @F067@
 0 @FB002@ INDI
@@ -2053,9 +2061,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Mother of Mary and Jennie (“the late … Julia DiGennari Febbo/Febo”).
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 FAMS @F067@
 0 @FB010@ INDI
@@ -2066,17 +2074,17 @@
 1 DEAT
 2 DATE 1 SEP 1995
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S095@
-2 SOUR @S100@
+2 SOUR @S096@
+2 SOUR @S101@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Brother of Mary; listed as predeceased in Mary’s 2017 and Jennie’s 2007 obituaries.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 NOTE [Record; likely] Times Leader death notice: “Louis V. Febbo, of Connell Street, Old Forge, died Friday [1 Sept. 1995] at Mercy Hospital, Scranton.” Taken to be the same Louis (Connell St. is the famil
 2 CONC y street).
-2 SOUR @S101@
+2 SOUR @S102@
 3 QUAY 2
 1 FAMS @F068@
 1 FAMC @F067@
@@ -2089,7 +2097,7 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; likely] “Francis Cavalier Febbo”, the late mother of Louis F. Febbo (2025 obituary); wife of Louis Febbo. Link to this Louis is inferred (see Louis F.).
-2 SOUR @S102@
+2 SOUR @S103@
 3 QUAY 2
 1 FAMS @F068@
 0 @FB012@ INDI
@@ -2103,9 +2111,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 FAMC @F067@
 0 @FB013@ INDI
@@ -2119,9 +2127,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 FAMC @F067@
 0 @FB014@ INDI
@@ -2135,9 +2143,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 FAMC @F067@
 0 @FB015@ INDI
@@ -2152,9 +2160,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary (as “Angie Glodzik”).
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 FAMC @F067@
 0 @FB016@ INDI
@@ -2169,20 +2177,20 @@
 1 DEAT
 2 DATE SEP 2007
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S100@
-2 SOUR @S095@
+2 SOUR @S101@
+2 SOUR @S096@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S100@
+2 SOUR @S101@
 1 NOTE Spelling variants: Febo (her obituary), Jenny (Mary’s obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Jennie Febo Resavy, 84, of Old Forge, died at home (obituary published 24 Sept. 2007); daughter of David and Julia DiGennari Febo; garment worker (Brooks Manufacturing; Hy Grade Pa
 2 CONC nts); St. Mary of the Assumption parish. Survived by daughter Roberta Scarnato (husband David), sister Mary Yaniello (husband Dusty), grandson Dave Scarnato Jr. Predeceased by brother Louis Febbo an
 2 CONC d sisters Josephine Bruno, Ann Wollner, Nora Madrak and Angie Glodzik.
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 NOTE [Record; confirmed] Listed as sister “Jenny Resavy”, predeceased, in Mary’s 2017 obituary.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
 1 FAMS @F070@
 1 FAMC @F067@
@@ -2193,10 +2201,10 @@
 1 SEX M
 1 DEAT
 2 DATE 12 JUL 1989
-2 SOUR @S100@
+2 SOUR @S101@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Husband of Jennie Febo Resavy; died 12 July 1989.
-2 SOUR @S100@
+2 SOUR @S101@
 3 QUAY 3
 1 FAMS @F070@
 0 @FB018@ INDI
@@ -2211,25 +2219,25 @@
 1 BIRT
 2 DATE 9 SEP 1944
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S102@
+2 SOUR @S103@
 1 DEAT
 2 DATE DEC 2025
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S102@
+2 SOUR @S103@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S102@
+2 SOUR @S103@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Born 9 Sept. 1944, Old Forge, son of the late Louis and Francis Cavalier Febbo; special-education teacher; U.S. Navy veteran; Old Forge Borough Council 8 years; died at home (obitu
 2 CONC ary dated 12 Dec. 2025). Survived by wife Rosemary (Ciuccio), son Louis, daughter Maura, brother David (wife Mary Lou), sister Julie Mele, grandson Louis Diego Febbo; predeceased by brother Robert J
 2 CONC . Febbo.
-2 SOUR @S102@
+2 SOUR @S103@
 3 QUAY 3
 1 NOTE [Assumed; likely] Identified as a nephew of Mary Febbo (son of her brother Louis): “Louis and Robert Febbo, nephews” were honorary pallbearers for her husband Dusty Yaniello in 2010, and this Louis ha
 2 CONC d a brother Robert. Not stated outright.
-2 SOUR @S098@
+2 SOUR @S099@
 3 QUAY 2
-2 SOUR @S102@
+2 SOUR @S103@
 3 QUAY 2
 1 FAMS @F069@
 1 FAMC @F068@
@@ -2252,9 +2260,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; likely] Brother of Louis F. Febbo; predeceased him (2025 obituary). Probably the “Robert Febbo, nephew” at Dusty Yaniello’s 2010 funeral.
-2 SOUR @S102@
+2 SOUR @S103@
 3 QUAY 2
-2 SOUR @S098@
+2 SOUR @S099@
 3 QUAY 2
 1 FAMC @F068@
 0 @Y001@ INDI
@@ -2268,18 +2276,18 @@
 1 DEAT
 2 DATE 4 FEB 2010
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S095@
-2 SOUR @S098@
+2 SOUR @S096@
+2 SOUR @S099@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S095@
+2 SOUR @S096@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Second husband of Mary (Febbo) Mazzaccaro; died 4 Feb. 2010.
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
 1 NOTE [Record; confirmed] Funeral 2010, Prince of Peace Parish (St. Mary’s), Old Forge; private interment, Old Forge Cemetery. Pallbearers “all grandsons”: Michael, James Jr., Terrence and Joseph Garvey; Ro
 2 CONC nald and Gary Gengo; Patrick Mazzaccaro and James Graziano Jr. Honorary: nephews John Yanniello, Richard Yaniello, Louis and Robert Febbo; grandson Mike Gillern; great-grandson Jacob Gillern.
-2 SOUR @S098@
+2 SOUR @S099@
 3 QUAY 3
 1 FAMS @F071@
 1 FAMS @F072@
@@ -2315,9 +2323,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Daughter-in-law of James J. Graziano (so wife of Jim Jr.) and granddaughter-in-law of Mary Febbo; died before Mary (2017).
-2 SOUR @S097@
+2 SOUR @S098@
 3 QUAY 3
-2 SOUR @S095@
+2 SOUR @S096@
 3 QUAY 3
 1 FAMS @F054@
 0 @M048@ INDI
@@ -2420,22 +2428,22 @@
 1 BIRT
 2 DATE ABT 1938
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S093@
 2 SOUR @S092@
-2 SOUR @S091@
 1 DEAT
 2 DATE 30 JUN 2022
 2 PLAC Berkeley Heights, Union, New Jersey, USA
+2 SOUR @S093@
 2 SOUR @S092@
-2 SOUR @S091@
 1 BURI
 2 PLAC St. Mary’s Stony Hill Mausoleum, Watchung, New Jersey, USA
-2 SOUR @S092@
+2 SOUR @S093@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
 1 NOTE [Record; confirmed] Born Old Forge, son of Louise (née Mazzaccaro) and Dominick Aulisio; died 30 June 2022 aged 84; 47 years with Federal Business Centers. Survived by wife Margaret (née Caliaro), dau
 2 CONC ghters Denise Stetz (husband Paul) and Karen Aulisio, grandchildren Ryan and Jenna Stetz, brother John Aulisio.
-2 SOUR @S092@
+2 SOUR @S093@
 3 QUAY 3
-2 SOUR @S091@
+2 SOUR @S092@
 3 QUAY 3
 1 FAMS @F051@
 1 FAMC @F050@
@@ -2479,11 +2487,12 @@
 2 NICK Pat
 1 SEX M
 1 BIRT
-2 DATE 1939
+2 DATE 10 NOV 1939
 2 SOUR @S020@
 2 SOUR @S021@
 1 DEAT
-2 DATE 1996
+2 DATE 2 MAY 1996
+2 PLAC Carteret, Middlesex, New Jersey, USA
 2 SOUR @S020@
 2 SOUR @S021@
 1 NOTE Photo: none found publicly (searched: Find a Grave (memorial and Photos tab), web search for obituaries).
@@ -2491,6 +2500,9 @@
 2 SOUR @S020@
 3 QUAY 2
 2 SOUR @S021@
+3 QUAY 2
+1 NOTE [Record; likely] SSA death index abstract: Patrick L. Barbetti, born 10 Nov 1939, died 2 May 1996, aged 56; last residence Carteret, Middlesex County, N.J. The years match his memorial (1939–1996).
+2 SOUR @S019@
 3 QUAY 2
 1 FAMC @F003@
 0 @I024@ INDI
@@ -2888,12 +2900,12 @@
 2 DATE 3 JUN 1926
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S051@
-2 SOUR @S103@
+2 SOUR @S104@
 1 DEAT
 2 DATE 25 FEB 2017
 2 PLAC Staten Island, Richmond, New York, USA
 2 SOUR @S051@
-2 SOUR @S103@
+2 SOUR @S104@
 1 BURI
 2 PLAC Moravian Cemetery, Staten Island, New York, USA
 2 SOUR @S051@
@@ -2903,7 +2915,7 @@
 2 CONC n Funeral Home; buried at Moravian Cemetery. His parents are not named.
 2 SOUR @S051@
 3 QUAY 3
-2 SOUR @S103@
+2 SOUR @S104@
 3 QUAY 3
 1 NOTE [Conflict; likely] Parentage: he was born 3 Jun 1926 in Old Forge, when Irma (b. 1913) was 12, so he can’t be Irma’s son. He is very probably a son of Louis J. Guzzi and his first wife Josephine Scav
 2 CONC o (between Rose, 1924, and Louis Jr., 1929), even though Louis’s memorial doesn’t list him. If so, he is Irma’s stepson and not related to Norma by blood. His own obituary doesn’t name his parents.
@@ -2913,6 +2925,14 @@
 3 QUAY 2
 2 SOUR @S048@
 3 QUAY 2
+0 @I125@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F042@
+0 @I126@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F042@
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -3097,6 +3117,8 @@
 0 @F042@ FAM
 1 HUSB @I076@
 1 WIFE @I065@
+1 CHIL @I125@
+1 CHIL @I126@
 0 @F043@ FAM
 1 HUSB @M001@
 1 WIFE @M002@
@@ -3470,90 +3492,93 @@
 1 TITL David Allen Harris obituary, Connelly Funeral Home, Dundalk, May 2015
 1 NOTE URL: https://www.connellydundalk.com/obituaries/3094207
 0 @S075@ SOUR
-1 TITL Albert W. Brauer Jr. obituary, Baltimore area, Apr. 2023 (as found in public search; exact page to be confirmed)
-1 NOTE URL: https://www.legacy.com/search?firstName=Albert&lastName=Brauer&keyword=Dundalk
+1 TITL “Albert Brauer Jr.” obituary, Dundalk, Md., April 2023 (Duda-Ruck Funeral Home of Dundalk; Echovita copy; also on Legacy.com)
+1 NOTE URL: https://www.echovita.com/us/obituaries/md/dundalk/albert-brauer-jr-16296546
 0 @S076@ SOUR
+1 TITL “Albert Brauer” obituary listing, Legacy.com, April 2023
+1 NOTE URL: https://www.legacy.com/us/obituaries/name/albert-brauer-obituary?id=51711725
+0 @S077@ SOUR
 1 TITL Find a Grave, memorial 202294813, Elizabeth Baratta Mazzaccaro (1881–1957), quoting Wilkes-Barre Times Leader obituary, 15 Oct. 1957
 1 NOTE URL: https://www.findagrave.com/memorial/202294813/elizabeth-mazzaccaro
-0 @S077@ SOUR
+0 @S078@ SOUR
 1 TITL “Lackawanna County Court Notes 12/10/21,” Scranton Times-Tribune, 9 Dec. 2021 (real estate transfers)
 1 NOTE URL: https://www.thetimes-tribune.com/2021/12/09/lackawanna-county-court-notes-121021/
-0 @S078@ SOUR
+0 @S079@ SOUR
 1 TITL “Lackawanna County Court Notes 2/3/24,” Scranton Times-Tribune, 2 Feb. 2024 (real estate transfers)
 1 NOTE URL: https://www.thetimes-tribune.com/2024/02/02/lackawanna-county-court-notes-2324/
-0 @S079@ SOUR
+0 @S080@ SOUR
 1 TITL Wikipedia, “Old Forge, Lackawanna County, Pennsylvania” (neighborhood list incl. Connel’s Patch)
 1 NOTE URL: https://en.wikipedia.org/wiki/Old_Forge,_Lackawanna_County,_Pennsylvania
-0 @S080@ SOUR
+0 @S081@ SOUR
 1 TITL “Volunteers clear Sparrowville site for heritage park,” Scranton Times-Tribune, 1 Aug. 2009
 1 NOTE URL: https://www.thetimes-tribune.com/2009/08/01/volunteers-clear-sparrowville-site-for-heritage-park/
-0 @S081@ SOUR
+0 @S082@ SOUR
 1 TITL Find a Grave, memorial 98153501, Angela Mazzaccaro Martinez (1908–1950)
 1 NOTE URL: https://www.findagrave.com/memorial/98153501/angela-martinez
-0 @S082@ SOUR
+0 @S083@ SOUR
 1 TITL Find a Grave, memorial 98153578, Raymond Martinez (1894–1964), vital data
 1 NOTE URL: https://www.findagrave.com/memorial/98153578/raymond-martinez
-0 @S083@ SOUR
+0 @S084@ SOUR
 1 TITL Find a Grave, memorial 98153578, Raymond Martinez (1894–1964), linked as Angela’s spouse (headstone photo only)
 1 NOTE URL: https://www.findagrave.com/memorial/98153578/raymond-martinez/photo
-0 @S084@ SOUR
+0 @S085@ SOUR
 1 TITL Find a Grave, memorial 204148778, Maria Ann Baar (linked as child of Angela Martinez)
 1 NOTE URL: https://www.findagrave.com/memorial/204148778/maria_ann-baar
-0 @S085@ SOUR
+0 @S086@ SOUR
 1 TITL “Maria Ann Baar” obituary, Turrentine Jackson Morrow Funeral Home, McKinney, Tex., Oct. 2019
 1 NOTE URL: https://www.turrentinejacksonmorrow.com/obituaries/maria_baar
-0 @S086@ SOUR
+0 @S087@ SOUR
 1 TITL Find a Grave, memorial 204148778, Maria Ann Martinez Baar, Photos tab: portrait added by “Hazelwood Admin”, 13 Nov 2019 (uncaptioned)
 1 NOTE URL: https://www.findagrave.com/memorial/204148778/maria_ann-baar/photo
-0 @S087@ SOUR
+0 @S088@ SOUR
 1 TITL Find a Grave, memorial 202306785, Mary Ann Mazzaccaro Lerro (1915–1990)
 1 NOTE URL: https://www.findagrave.com/memorial/202306785/mary_ann-lerro
-0 @S088@ SOUR
+0 @S089@ SOUR
 1 TITL “Frank Lerro, 82” obituary, Philadelphia Inquirer, 30 Oct. 1989, as transcribed on Find a Grave memorial 202306638
 1 NOTE URL: https://www.findagrave.com/memorial/202306638/frank_j-lerro
-0 @S089@ SOUR
+0 @S090@ SOUR
 1 TITL Find a Grave, memorial 202306638, Frank J. Lerro (1907–1989), linked as Mary Ann’s spouse (no photos)
 1 NOTE URL: https://www.findagrave.com/memorial/202306638/frank_j-lerro
-0 @S090@ SOUR
+0 @S091@ SOUR
 1 TITL Find a Grave, memorial 138551412, Louise Mazzaccaro Aulisio (1917–2007)
 1 NOTE URL: https://www.findagrave.com/memorial/138551412/louise-aulisio
-0 @S091@ SOUR
+0 @S092@ SOUR
 1 TITL “Dominick Aulisio, 69” obituary, The Daily Register (Red Bank, N.J.), 22 Jan. 1981, as transcribed on Find a Grave memorial 202303753
 1 NOTE URL: https://www.findagrave.com/memorial/202303753/dominick-aulisio
-0 @S092@ SOUR
+0 @S093@ SOUR
 1 TITL “Leo Aulisio” obituary, Paul Ippolito Berkeley Memorial, via Legacy.com, 1 July 2022
 1 NOTE URL: https://www.legacy.com/us/obituaries/name/leo-aulisio-obituary?id=35532795
-0 @S093@ SOUR
+0 @S094@ SOUR
 1 TITL Find a Grave, memorial 202303753, Dominick Aulisio (1911–1981), linked as Louise’s spouse (no photos)
 1 NOTE URL: https://www.findagrave.com/memorial/202303753/dominick-aulisio
-0 @S094@ SOUR
+0 @S095@ SOUR
 1 TITL Find a Grave, memorial 202305098, Patrick Joseph Mazzaccaro (1920–1968)
 1 NOTE URL: https://www.findagrave.com/memorial/202305098/patrick_joseph-mazzaccaro
-0 @S095@ SOUR
+0 @S096@ SOUR
 1 TITL “Mary Febbo Mazzaccaro Yaniello, Old Forge” obituary, The Times-Tribune (Scranton), 2017
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/mary-febbo-mazzaccaro-yaniello-old-forge-pa/
-0 @S096@ SOUR
+0 @S097@ SOUR
 1 TITL “Patrick J. Mazzaccaro” obituary, Wroblewski Funeral Home, Jan. 2017
 1 NOTE URL: https://www.wroblewskifuneralhome.com/obituary/patrick-j-mazzaccaro/
-0 @S097@ SOUR
+0 @S098@ SOUR
 1 TITL “James Joseph Graziano, Old Forge” obituary, The Times-Tribune (Scranton), 22 Feb. 2024
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/james-joseph-graziano-old-forge-pa/
-0 @S098@ SOUR
+0 @S099@ SOUR
 1 TITL “Funeral notices for Wednesday, Feb. 10” (Yaniello, Industrial “Dusty”), The Times-Tribune, 9 Feb. 2010
 1 NOTE URL: https://www.thetimes-tribune.com/2010/02/09/funeral-notices-for-wednesday-feb-10/
-0 @S099@ SOUR
+0 @S100@ SOUR
 1 TITL LocateAncestors.com, Azzollini surname page (SSA Death Master File abstracts: Gennaro, Lucrezia)
 1 NOTE URL: https://www.locateancestors.com/azzollini/
-0 @S100@ SOUR
+0 @S101@ SOUR
 1 TITL “Jennie Febo Resavy” obituary, The Times-Tribune (Scranton), 24 Sept. 2007
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/jennie-febo-resavy-scranton-pa/
-0 @S101@ SOUR
+0 @S102@ SOUR
 1 TITL “Louis Febbo, Sept. 1, 1995” death notice (headline only), Times Leader archive, 2 Sept. 1995
 1 NOTE URL: https://archive.timesleader.com/article/874412/louis-febbo-sept-1-1995-louis-v-febbo-of-connell-street-old-forge-died-friday-at-mercy-hospital-scranton
-0 @S102@ SOUR
+0 @S103@ SOUR
 1 TITL “Louis F. Febbo” obituary, The Times-Tribune (Scranton), Dec. 2025
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/louis-f-febbo-old-forge-pa/
-0 @S103@ SOUR
+0 @S104@ SOUR
 1 TITL Carl Guzzi obituary listing, Harmon Funeral Home (Dignity Memorial), 2017
 1 NOTE URL: https://www.dignitymemorial.com/obituaries/staten-island-ny/carl-guzzi-7308672
 0 TRLR
