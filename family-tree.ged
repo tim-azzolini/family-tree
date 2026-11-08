@@ -575,7 +575,7 @@
 2 SOUR @S047@
 3 QUAY 3
 1 FAMS @F012@
-1 FAMC @F090@
+1 FAMC @F091@
 0 @I022@ INDI
 1 NAME Living
 1 SEX M
@@ -792,7 +792,7 @@
 2 SOUR @S060@
 3 QUAY 3
 1 FAMS @F019@
-1 FAMS @F080@
+1 FAMS @F081@
 0 @I040@ INDI
 1 NAME Alice /Andreoni/
 2 GIVN Alice
@@ -1650,7 +1650,7 @@
 2 SOUR @S109@
 3 QUAY 1
 1 FAMS @F053@
-1 FAMS @F077@
+1 FAMS @F078@
 1 FAMC @F068@
 0 @M042@ INDI
 1 NAME Living
@@ -1743,6 +1743,7 @@
 1 NAME Living
 1 SEX F
 1 FAMS @F057@
+1 FAMC @F099@
 0 @N001@ INDI
 1 NAME Living
 1 SEX F
@@ -1779,7 +1780,7 @@
 2 SOUR @S068@
 3 QUAY 3
 1 NOTE [Record; likely] SSA death index “Gennaro Azzollini”: born 8 Oct 1902, died May 1982, Union City, N.J.
-2 SOUR @S111@
+2 SOUR @S113@
 3 QUAY 2
 1 FAMS @F062@
 0 @A002@ INDI
@@ -1806,7 +1807,7 @@
 2 SOUR @S068@
 3 QUAY 3
 1 NOTE [Record; likely] SSA death index “Lucrezia Azzollini”: born 25 Jan 1907, died 6 Mar 1980, Union City.
-2 SOUR @S111@
+2 SOUR @S113@
 3 QUAY 2
 1 FAMS @F062@
 0 @A010@ INDI
@@ -2070,7 +2071,7 @@
 1 NOTE [Record; confirmed] Father of Mary (Febbo) Mazzaccaro Yaniello and of Jennie Febo Resavy; named “the late David” in both obituaries.
 2 SOUR @S107@
 3 QUAY 3
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 FAMS @F068@
 0 @FB002@ INDI
@@ -2084,7 +2085,7 @@
 1 NOTE [Record; confirmed] Mother of Mary and Jennie (“the late … Julia DiGennari Febbo/Febo”).
 2 SOUR @S107@
 3 QUAY 3
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 FAMS @F068@
 0 @FB010@ INDI
@@ -2096,7 +2097,7 @@
 2 DATE 1 SEP 1995
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Pennsylvania, USA
 2 SOUR @S107@
@@ -2104,11 +2105,11 @@
 1 NOTE [Record; confirmed] Brother of Mary; listed as predeceased in Mary’s 2017 and Jennie’s 2007 obituaries.
 2 SOUR @S107@
 3 QUAY 3
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 NOTE [Record; likely] Times Leader death notice: “Louis V. Febbo, of Connell Street, Old Forge, died Friday [1 Sept. 1995] at Mercy Hospital, Scranton.” Taken to be the same Louis (Connell St. is the famil
 2 CONC y street).
-2 SOUR @S113@
+2 SOUR @S115@
 3 QUAY 2
 1 NOTE [Record; confirmed] Full obituary read: born in Old Forge, son of the late David and Julia De Gennari Febbo; Old Forge H.S. graduate; worked for the Pennsylvania Liquor Control Board. He and his wife
 2 CONC , the former Frances Cavalier, would have marked their 57th anniversary on 3 Dec (so married ABT 3 Dec 1938). Scranton Junior Football Conference commissioner; Old Forge Little League commissioner an
@@ -2116,7 +2117,7 @@
 2 CONC r Lackawanna Valley Sewer Authority; St. Mary’s Church. Preceded in death by a granddaughter, Julie, and sisters Angeline Glodzik, Ann Wollner and Josephine Bruno. Survived by his wife; sons David A.
 2 CONC , Louis F. and Robert J.; daughter Julie Ann Belotti; sisters Mary Yanniello, Jennie Resavy and Nora Madrak; 12 grandchildren and 4 great-grandchildren. Louis V. Ciuccio Funeral Home; interment Old Fo
 2 CONC rge Cemetery.
-2 SOUR @S113@
+2 SOUR @S115@
 3 QUAY 3
 1 FAMS @F069@
 1 FAMC @F068@
@@ -2129,11 +2130,11 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] “Francis Cavalier Febbo”, the late mother of Louis F. Febbo (2025 obituary); wife of Louis Febbo. Link to this Louis is inferred (see Louis F.).
-2 SOUR @S114@
+2 SOUR @S116@
 3 QUAY 2
 1 NOTE [Record; confirmed] Named “the former Frances Cavalier” in her husband Louis V. Febbo’s 1995 obituary; married ABT Dec 1938 (57th anniversary would have been 3 Dec 1995). This confirms she is the moth
 2 CONC er of Louis F.
-2 SOUR @S113@
+2 SOUR @S115@
 3 QUAY 3
 1 FAMS @F069@
 0 @FB012@ INDI
@@ -2149,24 +2150,24 @@
 2 DATE 10 NOV 1914
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 DEAT
 2 DATE 5 JUN 1995
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
 2 SOUR @S107@
 3 QUAY 3
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Josephine Jean Febo Bruno, born 10 Nov 1914 in Old Forge, daughter of David Febo and Julia “DeGinary”; died 5 Jun 1995. Listed as predeceased in brother Loui
 2 CONC s’s Sept. 1995 obituary, which fits.
+2 SOUR @S120@
+3 QUAY 3
+2 SOUR @S121@
+3 QUAY 3
 2 SOUR @S115@
-3 QUAY 3
-2 SOUR @S116@
-3 QUAY 3
-2 SOUR @S113@
 3 QUAY 3
 1 FAMC @F068@
 0 @FB013@ INDI
@@ -2182,25 +2183,25 @@
 2 DATE 10 JUL 1918
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 DEAT
 2 DATE 30 SEP 1992
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 NOTE Spelling variants: Anna Rose Febbo
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
 2 SOUR @S107@
 3 QUAY 3
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Ann Rose (Anna Rose Febbo) Wollner, born 10 Jul 1918 in Old Forge, daughter of David Febbo and Julia DiGennari; died 30 Sep 1992.
-2 SOUR @S117@
+2 SOUR @S122@
 3 QUAY 3
 1 NOTE [Record; confirmed] Her son Daniel J. Wollner’s 2022 obituary calls him the son of “the late Paul and Ann Febbo Wollner”, so her husband was Paul Wollner.
-2 SOUR @S118@
+2 SOUR @S123@
 3 QUAY 3
-1 FAMS @F071@
+1 FAMS @F072@
 1 FAMC @F068@
 0 @FB014@ INDI
 1 NAME Nora Catherine /Febbo/
@@ -2215,12 +2216,12 @@
 2 DATE 24 OCT 1924
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 DEAT
 2 DATE 6 DEC 1995
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
 2 SOUR @S107@
@@ -2228,23 +2229,23 @@
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
 2 SOUR @S107@
 3 QUAY 3
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Nora Catherine Febo Madrak, born 24 Oct 1924 in Old Forge, daughter of David Febo and Julia DeGennaro; died Dec 1995. The Times Leader notice says Nora C. Ma
 2 CONC drak of Old Forge died Wednesday [6 Dec 1995] at Community Medical Center, Scranton (only the headline was readable). She is listed as a living sister in Louis’s Sept. 1995 obituary.
-2 SOUR @S119@
+2 SOUR @S124@
 3 QUAY 3
-2 SOUR @S120@
+2 SOUR @S125@
 3 QUAY 3
-2 SOUR @S113@
+2 SOUR @S115@
 3 QUAY 3
 1 NOTE [Record; confirmed] Full obituary (Times Leader, 7 Dec 1995): daughter of the late David and Julia DeGennari Febbo; Old Forge H.S. graduate; member of St. Mary’s Church. “She and her husband, Stanle
 2 CONC y J., celebrated their 45th wedding anniversary on April 29” (so married ABT 29 Apr 1950). Preceded in death by brother Louis Febbo and sisters Angeline Glodzik, Ann Wollner and Josephine Bruno. Survi
 2 CONC ved by her husband; son Stanley J. Jr.; daughters Donna Skutack and Linda English; sisters Mary Yaniello and Jennie Resavy; three grandchildren. Louis V. Ciuccio Funeral Home; interment Marcy Cemetery
 2 CONC , Duryea. This replaces the earlier “husband not identified” note.
-2 SOUR @S120@
+2 SOUR @S125@
 3 QUAY 3
-1 FAMS @F073@
+1 FAMS @F074@
 1 FAMC @F068@
 0 @FB015@ INDI
 1 NAME Angeline Ann /Febbo/
@@ -2260,32 +2261,32 @@
 2 DATE 1 SEP 1926
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 DEAT
 2 DATE 18 APR 1981
 2 SOUR @S107@
-2 SOUR @S112@
+2 SOUR @S114@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary (as “Angie Glodzik”).
 2 SOUR @S107@
 3 QUAY 3
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Angeline Ann Febo Glodzik, born 1 Sep 1926 in Old Forge, daughter of David Febo and Julia DeGenaro; died Apr 1981. The same index lists a son, Chester M. Glo
 2 CONC dzik (born 16 Jun 1951, Old Forge; died 4 Nov 1996), whose parents are Angeline Febo and Chester Glodzik.
-2 SOUR @S123@
+2 SOUR @S128@
 3 QUAY 3
-2 SOUR @S116@
+2 SOUR @S121@
 3 QUAY 3
 1 NOTE [Record; confirmed] Her husband’s 1996 obituary says he was “preceded in death by his wife, the former Angeline Febo, on April 18, 1981” (exact date; SSA abstract gives Apr 1981). Her son Chester Jr.’
 2 CONC s 1996 obituary names his parents as “the late Chester M. and Angelina Febbo Glodzik Sr.”
-2 SOUR @S124@
+2 SOUR @S129@
 3 QUAY 3
-2 SOUR @S125@
+2 SOUR @S130@
 3 QUAY 3
-2 SOUR @S123@
+2 SOUR @S128@
 3 QUAY 3
-1 FAMS @F074@
+1 FAMS @F075@
 1 FAMC @F068@
 0 @FB016@ INDI
 1 NAME Jennie /Febbo/
@@ -2299,30 +2300,30 @@
 1 BIRT
 2 DATE 29 JAN 1923
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S112@
+2 SOUR @S114@
 2 SOUR @S107@
 1 DEAT
 2 DATE 22 SEP 2007
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S112@
+2 SOUR @S114@
 2 SOUR @S107@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S112@
+2 SOUR @S114@
 1 NOTE Spelling variants: Febo (her obituary), Jenny (Mary’s obituary)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Jennie Febo Resavy, 84, of Old Forge, died at home (obituary published 24 Sept. 2007); daughter of David and Julia DiGennari Febo; garment worker (Brooks Manufacturing; Hy Grade Pa
 2 CONC nts); St. Mary of the Assumption parish. Survived by daughter Roberta Scarnato (husband David), sister Mary Yaniello (husband Dusty), grandson Dave Scarnato Jr. Predeceased by brother Louis Febbo an
 2 CONC d sisters Josephine Bruno, Ann Wollner, Nora Madrak and Angie Glodzik.
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
 1 NOTE [Record; confirmed] Listed as sister “Jenny Resavy”, predeceased, in Mary’s 2017 obituary.
 2 SOUR @S107@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Jennie Teresa Febo Resavy, born 29 Jan 1923 in Old Forge, daughter of David Febo and Julie DeGenaro; died 22 Sep 2007.
-2 SOUR @S116@
+2 SOUR @S121@
 3 QUAY 3
-1 FAMS @F076@
+1 FAMS @F077@
 1 FAMC @F068@
 0 @FB017@ INDI
 1 NAME Robert /Resavy/
@@ -2331,16 +2332,16 @@
 1 SEX M
 1 DEAT
 2 DATE 12 JUL 1989
-2 SOUR @S112@
+2 SOUR @S114@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Jennie Febo Resavy; died 12 July 1989.
-2 SOUR @S112@
+2 SOUR @S114@
 3 QUAY 3
-1 FAMS @F076@
+1 FAMS @F077@
 0 @FB018@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F076@
+1 FAMC @F077@
 0 @FB020@ INDI
 1 NAME Louis F. /Febbo/
 2 GIVN Louis F.
@@ -2349,30 +2350,30 @@
 1 BIRT
 2 DATE 9 SEP 1944
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S114@
-2 SOUR @S113@
+2 SOUR @S116@
+2 SOUR @S115@
 1 DEAT
 2 DATE DEC 2025
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S114@
-2 SOUR @S113@
+2 SOUR @S116@
+2 SOUR @S115@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S114@
+2 SOUR @S116@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Born 9 Sept. 1944, Old Forge, son of the late Louis and Francis Cavalier Febbo; special-education teacher; U.S. Navy veteran; Old Forge Borough Council 8 years; died at home (obitu
 2 CONC ary dated 12 Dec. 2025). Survived by wife Rosemary (Ciuccio), son Louis, daughter Maura, brother David (wife Mary Lou), sister Julie Mele, grandson Louis Diego Febbo; predeceased by brother Robert J
 2 CONC . Febbo.
-2 SOUR @S114@
+2 SOUR @S116@
 3 QUAY 3
 1 NOTE [Assumed; likely] Identified as a nephew of Mary Febbo (son of her brother Louis): “Louis and Robert Febbo, nephews” were honorary pallbearers for her husband Dusty Yaniello in 2010, and this Louis ha
 2 CONC d a brother Robert. Not stated outright.
 2 SOUR @S110@
 3 QUAY 2
-2 SOUR @S114@
+2 SOUR @S116@
 3 QUAY 2
 1 NOTE [Record; confirmed] Confirmed: named as son Louis F. in his father Louis V. Febbo’s 1995 obituary. This replaces the earlier inference from the 2010 pallbearer list.
-2 SOUR @S113@
+2 SOUR @S115@
 3 QUAY 3
 1 FAMS @F070@
 1 FAMC @F069@
@@ -2380,6 +2381,7 @@
 1 NAME Living
 1 SEX F
 1 FAMS @F070@
+1 FAMC @F101@
 0 @FB022@ INDI
 1 NAME Living
 1 SEX M
@@ -2395,12 +2397,12 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Brother of Louis F. Febbo; predeceased him (2025 obituary). Probably the “Robert Febbo, nephew” at Dusty Yaniello’s 2010 funeral.
-2 SOUR @S114@
+2 SOUR @S116@
 3 QUAY 2
 2 SOUR @S110@
 3 QUAY 2
 1 NOTE [Record; confirmed] Confirmed as son Robert J. in his father Louis V. Febbo’s 1995 obituary.
-2 SOUR @S113@
+2 SOUR @S115@
 3 QUAY 3
 1 FAMC @F069@
 0 @Y001@ INDI
@@ -2427,25 +2429,25 @@
 2 CONC nald and Gary Gengo; Patrick Mazzaccaro and James Graziano Jr. Honorary: nephews John Yanniello, Richard Yaniello, Louis and Robert Febbo; grandson Mike Gillern; great-grandson Jacob Gillern.
 2 SOUR @S110@
 3 QUAY 3
-1 FAMS @F077@
 1 FAMS @F078@
+1 FAMS @F079@
 0 @Y010@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F079@
-1 FAMC @F078@
+1 FAMS @F080@
+1 FAMC @F079@
 0 @Y012@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F078@
+1 FAMC @F079@
 0 @Y013@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F078@
+1 FAMC @F079@
 0 @Y011@ INDI
 1 NAME Living
 1 SEX M
-1 FAMS @F079@
+1 FAMS @F080@
 0 @M046@ INDI
 1 NAME Living
 1 SEX M
@@ -2757,7 +2759,7 @@
 3 QUAY 3
 2 SOUR @S057@
 3 QUAY 3
-1 FAMS @F080@
+1 FAMS @F081@
 0 @I033@ INDI
 1 NAME Dominick R. /Guzzi/
 2 GIVN Dominick R.
@@ -2781,12 +2783,12 @@
 2 SOUR @S057@
 3 QUAY 3
 1 NOTE [Record; confirmed] His children are Dominic J. Guzzi (d. 2016), Joanne Guzzi and Jeanne Guzzi Thorne (d. 2024); wife Theda Johns. Source: both surviving children’s obituaries.
-2 SOUR @S126@
+2 SOUR @S131@
 3 QUAY 3
-2 SOUR @S127@
+2 SOUR @S132@
 3 QUAY 3
-1 FAMS @F081@
-1 FAMC @F080@
+1 FAMS @F082@
+1 FAMC @F081@
 0 @I034@ INDI
 1 NAME Mary Josephine /Guzzi/
 2 GIVN Mary Josephine
@@ -2815,15 +2817,15 @@
 1 NOTE [Record; confirmed] SSA Numident abstract: Mary Josephine Guzzi / Marie J. Cimino, born 18 Mar 1919 in Old Forge, daughter of Louis Guzzi and Josephine Scavo; died 1 Sep 1988.
 2 SOUR @S059@
 3 QUAY 3
-2 SOUR @S128@
+2 SOUR @S133@
 3 QUAY 3
 1 NOTE [Record; confirmed] Mother of Frank Joseph Cimino (1942–1999); his SSA abstract names his parents as Santo Cimino and Marie Guzzi.
 2 SOUR @S060@
 3 QUAY 3
-2 SOUR @S129@
+2 SOUR @S134@
 3 QUAY 3
-1 FAMS @F085@
-1 FAMC @F080@
+1 FAMS @F086@
+1 FAMC @F081@
 0 @I035@ INDI
 1 NAME Rose M. /Guzzi/
 2 GIVN Rose M.
@@ -2863,8 +2865,8 @@
 3 QUAY 2
 2 SOUR @S057@
 3 QUAY 2
-1 FAMS @F086@
-1 FAMC @F080@
+1 FAMS @F087@
+1 FAMC @F081@
 0 @I036@ INDI
 1 NAME James J. /Cherundolo/
 2 GIVN James J.
@@ -2877,7 +2879,7 @@
 1 NOTE [Record; confirmed] Husband of Rose M. Guzzi Cherundolo; died 23 Aug 2002.
 2 SOUR @S057@
 3 QUAY 3
-1 FAMS @F086@
+1 FAMS @F087@
 0 @I037@ INDI
 1 NAME Louis Ralph /Guzzi/
 2 GIVN Louis Ralph
@@ -2907,15 +2909,15 @@
 1 NOTE [Record; confirmed] Wife Gloria (Redfield), per her 2024 obituary: “Louis R Guzzi, originally from Old Forge, PA”, an installer for Western Electric. He met Gloria, a Bell Telephone operator, throug
 2 CONC h work in Philadelphia, and they married in 1955 at her parents’ home. Lived in West Oak Lane, Philadelphia, then Flourtown (1980) and Maple Glen (1992); with their son and daughter-in-law, they opene
 2 CONC d Scoogi’s Classic Italian Restaurant in Flourtown in December 1990. Children: Susan and Louis D. Guzzi. This resolves the “Gloria Guzzi” named as an aunt in Dominic J. Guzzi’s 2016 obituary.
-2 SOUR @S132@
+2 SOUR @S137@
 3 QUAY 3
-2 SOUR @S126@
+2 SOUR @S131@
 3 QUAY 3
 1 NOTE [Record; likely] His 6 Nov 2001 Philadelphia Inquirer death notice names Carl Guzzi as a brother (seen only as a search-index snippet).
-2 SOUR @S131@
+2 SOUR @S136@
 3 QUAY 2
-1 FAMS @F087@
-1 FAMC @F080@
+1 FAMS @F088@
+1 FAMC @F081@
 0 @I090@ INDI
 1 NAME Teresa Cecily /Bramhall/
 2 GIVN Teresa Cecily
@@ -3117,12 +3119,12 @@
 2 DATE 3 JUN 1926
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S058@
-2 SOUR @S130@
+2 SOUR @S135@
 1 DEAT
 2 DATE 25 FEB 2017
 2 PLAC Staten Island, Richmond, New York, USA
 2 SOUR @S058@
-2 SOUR @S130@
+2 SOUR @S135@
 1 BURI
 2 PLAC Moravian Cemetery, Staten Island, New York, USA
 2 SOUR @S058@
@@ -3132,7 +3134,7 @@
 2 CONC n Funeral Home; buried at Moravian Cemetery. His parents are not named.
 2 SOUR @S058@
 3 QUAY 3
-2 SOUR @S130@
+2 SOUR @S135@
 3 QUAY 3
 1 NOTE [Conflict; likely] Parentage: he was born 3 Jun 1926 in Old Forge, when Irma (b. 1913) was 12, so he can’t be Irma’s son. He is very probably a son of Louis J. Guzzi and his first wife Josephine Scav
 2 CONC o (between Rose, 1924, and Louis Jr., 1929), even though Louis’s memorial doesn’t list him. If so, he is Irma’s stepson and not related to Norma by blood. His own obituary doesn’t name his parents.
@@ -3144,12 +3146,12 @@
 3 QUAY 2
 1 NOTE [Record; likely] Update 2026-11-03: Dominic J. Guzzi (son of Dominick “Traveler”) is called a nephew of Carl Guzzi of Staten Island in his 2016 obituary. That makes Carl a brother of Dominick and supp
 2 CONC orts him being Louis J. Guzzi’s son. Carl’s mother is still not named in any record.
-2 SOUR @S126@
+2 SOUR @S131@
 3 QUAY 2
 2 SOUR @S058@
 3 QUAY 2
 1 NOTE [Record; likely] Update 2026-11-04: Louis Guzzi Jr.’s 6 Nov 2001 Inquirer death notice names Carl Guzzi as his brother (index snippet), which further supports Carl being a son of Louis J. Guzzi.
-2 SOUR @S131@
+2 SOUR @S136@
 3 QUAY 2
 0 @I125@ INDI
 1 NAME Living
@@ -3166,9 +3168,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Ann Febbo; father of Daniel J. Wollner (“the late Paul and Ann Febbo Wollner”, 2022 obituary).
-2 SOUR @S118@
+2 SOUR @S123@
 3 QUAY 3
-1 FAMS @F071@
+1 FAMS @F072@
 0 @FB032@ INDI
 1 NAME Daniel J. /Wollner/
 2 GIVN Daniel J.
@@ -3180,15 +3182,15 @@
 1 DEAT
 2 DATE 9 MAR 2022
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S118@
+2 SOUR @S123@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Dan Wollner, 79, of Dickson City, died Wednesday [9 Mar 2022] at Geisinger Community Medical Center, Scranton. Born in Taylor, son of the late Paul and Ann Febbo Wollner
 2 CONC ; Old Forge H.S. graduate; U.S. Coast Guard in the Vietnam War (BM3); maintenance supervisor at Beverly Health Care, Scranton. Husband of the late Ann Lisko Wollner (died 2016; married 47 years). Surv
 2 CONC ived by daughter Janine and numerous cousins. John J. Turko & Sons Funeral Home, Dickson City.
-2 SOUR @S118@
+2 SOUR @S123@
 3 QUAY 3
-1 FAMS @F072@
-1 FAMC @F071@
+1 FAMS @F073@
+1 FAMC @F072@
 0 @FB033@ INDI
 1 NAME Ann /Lisko/
 2 GIVN Ann
@@ -3198,16 +3200,16 @@
 1 SEX F
 1 DEAT
 2 DATE 2016
-2 SOUR @S118@
+2 SOUR @S123@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Wife of Daniel J. Wollner (married 47 years); died 2016, per his 2022 obituary.
-2 SOUR @S118@
+2 SOUR @S123@
 3 QUAY 3
-1 FAMS @F072@
+1 FAMS @F073@
 0 @FB034@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F072@
+1 FAMC @F073@
 0 @FB035@ INDI
 1 NAME Chester M. /Glodzik/
 2 GIVN Chester M.
@@ -3217,29 +3219,29 @@
 1 SEX M
 1 BIRT
 2 PLAC Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S124@
-2 SOUR @S123@
+2 SOUR @S129@
+2 SOUR @S128@
 1 DEAT
 2 DATE 15 MAY 1996
-2 SOUR @S124@
-2 SOUR @S123@
+2 SOUR @S129@
+2 SOUR @S128@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S124@
+2 SOUR @S129@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Full obituary (Times Leader, 17 May 1996): Chester Glodzik Sr., of Old Forge, died Wednesday [15 May 1996] at Geisinger/Wyoming Valley Medical Center, Plains Twp. Born in Duryea, s
 2 CONC on of the late Michael and Helen Streyeski Glodzik; heavy equipment operator (Operating Engineers Local 542); member of St. Mary’s Church. Preceded in death by his wife, the former Angeline Febo (18 A
 2 CONC pr 1981); sister Mrs. Martha Gollem; brothers Stanley, Henry and Frank. Survived by sons Chester Jr. and John; brother Leo; sister Mrs. James (Matilda) McAndrew; five grandchildren. Bernard J. Pionte
 2 CONC k Funeral Home, Duryea; interment Marcy Cemetery. This confirms he is Angeline’s husband.
-2 SOUR @S124@
+2 SOUR @S129@
 3 QUAY 3
 1 NOTE [Record; confirmed] Father of Chester M. Glodzik (SSA abstract of the son, which names Chester Glodzik and Angeline Febo); middle initial M. from the son’s 1996 obituary.
-2 SOUR @S123@
+2 SOUR @S128@
 3 QUAY 3
-2 SOUR @S125@
+2 SOUR @S130@
 3 QUAY 3
-1 FAMS @F074@
-1 FAMC @F094@
+1 FAMS @F075@
+1 FAMC @F095@
 0 @FB036@ INDI
 1 NAME Chester M. /Glodzik/
 2 GIVN Chester M.
@@ -3250,26 +3252,26 @@
 1 BIRT
 2 DATE 16 JUN 1951
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
-2 SOUR @S125@
+2 SOUR @S128@
+2 SOUR @S130@
 1 DEAT
 2 DATE 4 NOV 1996
-2 SOUR @S123@
-2 SOUR @S125@
+2 SOUR @S128@
+2 SOUR @S130@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S123@
+2 SOUR @S128@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Chester M. Glodzik, born 16 Jun 1951 in Old Forge, son of Chester Glodzik and Angeline Febo; died 4 Nov 1996.
-2 SOUR @S123@
+2 SOUR @S128@
 3 QUAY 3
 1 NOTE [Record; confirmed] Obituary (Times Leader, 6 Nov 1996): Chester M. Glodzik Jr., of Old Forge, died Monday [4 Nov 1996] at Community Medical Center, Scranton. Son of the late Chester M. and Angelina F
 2 CONC ebbo Glodzik Sr.; Old Forge H.S. 1969; worked for Pope and Talbott, Inc.; United Paperworkers International Union; St. Mary’s Church. He and his wife, the former Grace Packer, marked their 20th annive
 2 CONC rsary on 13 Mar 1996 (so married ABT 13 Mar 1976). Survived by daughter Angelina Ann; brother Jack; nieces and nephews. Ciuccio Funeral Home; interment Marcy Cemetery, Duryea.
-2 SOUR @S125@
+2 SOUR @S130@
 3 QUAY 3
-1 FAMS @F075@
-1 FAMC @F074@
+1 FAMS @F076@
+1 FAMC @F075@
 0 @I127@ INDI
 1 NAME Theda /Johns/
 2 GIVN Theda
@@ -3279,11 +3281,11 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Wife of Dominick “Traveler” Guzzi; called “the late … Theda Johns Guzzi” in both her children’s obituaries (2016, 2024).
-2 SOUR @S126@
+2 SOUR @S131@
 3 QUAY 3
-2 SOUR @S127@
+2 SOUR @S132@
 3 QUAY 3
-1 FAMS @F081@
+1 FAMS @F082@
 0 @I128@ INDI
 1 NAME Dominic J. /Guzzi/
 2 GIVN Dominic J.
@@ -3292,18 +3294,18 @@
 1 DEAT
 2 DATE 30 NOV 2016
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S126@
+2 SOUR @S131@
 1 BURI
 2 PLAC Cathedral Cemetery Mausoleum, Scranton, Pennsylvania, USA
-2 SOUR @S126@
+2 SOUR @S131@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Dominic J. Guzzi, 79, lifelong resident of Old Forge, died Wednesday [30 Nov 2016] at Regional Hospital of Scranton. Son of the late Dominic “Traveler” Guzzi and Theda Jo
 2 CONC hns Guzzi; brother of the late Joanne Guzzi and of Jeanne Guzzi Thorne (husband Edward Thorne). Uncle of Dr. Joanne Thorne-Richberg (husband Josef; son Joshua) and Marc Thorne (wife Melissa); nephew o
 2 CONC f Carl Guzzi (Staten Island) and Gloria Guzzi. Old Forge H.S. 1954; East Stroudsburg (B.S. biology); University of Scranton (master’s). Teacher at Scranton Tech and Hershey; principal of Old Forge Hig
 2 CONC h School 1972–1992; later principal of Holy Rosary Elementary, Scranton. Called the family historian. Semian Funeral Home; entombed at Cathedral Cemetery Mausoleum.
-2 SOUR @S126@
+2 SOUR @S131@
 3 QUAY 3
-1 FAMC @F081@
+1 FAMC @F082@
 0 @I129@ INDI
 1 NAME Joanne /Guzzi/
 2 GIVN Joanne
@@ -3311,11 +3313,11 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Daughter of Dominick “Traveler” and Theda Guzzi. She predeceased her brother Dominic (2016) and her sister Jeanne (2024). No dates given.
-2 SOUR @S126@
+2 SOUR @S131@
 3 QUAY 3
-2 SOUR @S127@
+2 SOUR @S132@
 3 QUAY 3
-1 FAMC @F081@
+1 FAMC @F082@
 0 @I130@ INDI
 1 NAME Jeanne /Guzzi/
 2 GIVN Jeanne
@@ -3328,22 +3330,22 @@
 1 BIRT
 2 DATE 6 JAN 1946
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S127@
+2 SOUR @S132@
 1 DEAT
 2 DATE 27 AUG 2024
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S127@
+2 SOUR @S132@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
-2 SOUR @S127@
+2 SOUR @S132@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Jeanne Guzzi Thorne (6 Jan 1946 – 27 Aug 2024), 78, of Old Forge, died at home. Daughter of the late Dominick “Traveler” and Theda Johns Guzzi; Old Forge H.S. 1964; Princ
 2 CONC e of Peace Parish. Preceded by husband Edward P. Thorne (6 Jul 2018), sister Joanne Guzzi and brother Dominic Guzzi. Survived by daughter Dr. Joanne Thorne-Richberg (husband Josef), son Marc E. Thorn
 2 CONC e (wife Melissa), grandson Joshua Richberg, cousins and an aunt. Carlucci-Golden-DeSantis Funeral Home; Mass at Prince of Peace Parish on 4 Sep 2024; entombed at Cathedral Cemetery, Scranton.
-2 SOUR @S127@
+2 SOUR @S132@
 3 QUAY 3
-1 FAMS @F082@
-1 FAMC @F081@
+1 FAMS @F083@
+1 FAMC @F082@
 0 @I131@ INDI
 1 NAME Edward P. /Thorne/
 2 GIVN Edward P.
@@ -3351,37 +3353,37 @@
 1 SEX M
 1 DEAT
 2 DATE 6 JUL 2018
-2 SOUR @S127@
-2 SOUR @S126@
+2 SOUR @S132@
+2 SOUR @S131@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Jeanne Guzzi Thorne; died 6 Jul 2018, per her 2024 obituary.
-2 SOUR @S127@
+2 SOUR @S132@
 3 QUAY 3
-2 SOUR @S126@
+2 SOUR @S131@
 3 QUAY 3
-1 FAMS @F082@
+1 FAMS @F083@
 0 @I132@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F083@
-1 FAMC @F082@
+1 FAMS @F084@
+1 FAMC @F083@
 0 @I133@ INDI
 1 NAME Living
 1 SEX M
-1 FAMS @F083@
+1 FAMS @F084@
 0 @I134@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F083@
+1 FAMC @F084@
 0 @I135@ INDI
 1 NAME Living
 1 SEX M
-1 FAMS @F084@
-1 FAMC @F082@
+1 FAMS @F085@
+1 FAMC @F083@
 0 @I136@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F084@
+1 FAMS @F085@
 0 @I137@ INDI
 1 NAME Gloria Starr /Redfield/
 2 GIVN Gloria Starr
@@ -3394,22 +3396,22 @@
 1 BIRT
 2 DATE 10 NOV 1933
 2 PLAC Philadelphia, Pennsylvania, USA
-2 SOUR @S132@
+2 SOUR @S137@
 1 DEAT
 2 DATE 7 DEC 2024
 2 PLAC Maple Glen, Montgomery, Pennsylvania, USA
-2 SOUR @S132@
+2 SOUR @S137@
 1 BURI
 2 PLAC Whitemarsh Memorial Park, Pennsylvania, USA
-2 SOUR @S132@
+2 SOUR @S137@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Gloria R. Guzzi (née Redfield), 91, of Maple Glen, formerly of West Oak Lane, Philadelphia, died at home on 7 Dec 2024; born in Philadelphia on 10 Nov 1933. Daughter of t
 2 CONC he late David Homer Redfield and Susan Ida (O’Neill) Redfield; wife of the late Louis R. Guzzi (married 1955). Attended Germantown High School for Girls; Bell Telephone operator; homemaker; Avon repre
 2 CONC sentative for over 50 years; choir at Cedar Park Presbyterian Church. Survived by children Susan Guzzi Montclair (Alan Deutsch) and Louis D. Guzzi (Laurie N.); grandchildren Heather (Brian) McKeon, St
 2 CONC ephanie George, Amber Guzzi, Brandon George and Crystal Guzzi; great-grandchildren Zachary, Kody and Hope McKeon. Service at Angelone Funeral Home, Willow Grove; interment Whitemarsh Memorial Park.
-2 SOUR @S132@
+2 SOUR @S137@
 3 QUAY 3
-1 FAMS @F087@
+1 FAMS @F088@
 0 @I138@ INDI
 1 NAME David Homer /Redfield/
 2 GIVN David Homer
@@ -3417,7 +3419,7 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Gloria (Redfield) Guzzi, named “the late David Homer Redfield” in her 2024 obituary; went by Homer.
-2 SOUR @S132@
+2 SOUR @S137@
 3 QUAY 3
 0 @I139@ INDI
 1 NAME Susan Ida /O’Neill/
@@ -3428,26 +3430,26 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Gloria (Redfield) Guzzi, named “the late Susan Ida Redfield (nee: O’Neill)” in her 2024 obituary.
-2 SOUR @S132@
+2 SOUR @S137@
 3 QUAY 3
 0 @I140@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F088@
-1 FAMC @F087@
+1 FAMS @F089@
+1 FAMC @F088@
 0 @I141@ INDI
 1 NAME Living
 1 SEX M
-1 FAMS @F088@
+1 FAMS @F089@
 0 @I142@ INDI
 1 NAME Living
 1 SEX M
-1 FAMS @F089@
-1 FAMC @F087@
+1 FAMS @F090@
+1 FAMC @F088@
 0 @I143@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F089@
+1 FAMS @F090@
 0 @I144@ INDI
 1 NAME Santo /Cimino/
 2 GIVN Santo
@@ -3455,19 +3457,19 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Marie Guzzi and father of Frank Joseph Cimino, per the son’s SSA Numident abstract. His own dates were not found.
-2 SOUR @S129@
+2 SOUR @S134@
 3 QUAY 3
 2 SOUR @S060@
 3 QUAY 3
 1 NOTE [Record; unconfirmed] A Santo Cimino (SSN 197-01-9829, PA-issued) born 3 Oct 1916, died Sep 1979, last residence Glendora, N.J., appears in SSA indexes. No record yet ties him to Marie Guzzi or to so
 2 CONC n Frank Joseph Cimino beyond the shared given name Santo; left unlinked.
-2 SOUR @S129@
+2 SOUR @S134@
 3 QUAY 1
 1 NOTE [Record; unconfirmed] Update 2026-11-07: SortedByName military abstract for SANTO S. CIMINO (SSN 197-01-9829) gives death 15 Sep 1979 (DMF previously said September 1979) and WWII service 28 Apr 1941–
 2 CONC 16 Nov 1945. Still no Scranton/Taylor record tying this Glendora, N.J., man to Marie Guzzi.
-2 SOUR @S129@
+2 SOUR @S134@
 3 QUAY 1
-1 FAMS @F085@
+1 FAMS @F086@
 0 @I145@ INDI
 1 NAME Frank Joseph /Cimino/
 2 GIVN Frank Joseph
@@ -3476,23 +3478,23 @@
 1 BIRT
 2 DATE 9 JUL 1942
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S129@
+2 SOUR @S134@
 2 SOUR @S060@
 1 DEAT
 2 DATE 14 JUL 1999
-2 SOUR @S129@
+2 SOUR @S134@
 2 SOUR @S060@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Frank Joseph Cimino, born 9 Jul 1942 in Taylor, Pa., son of Santo Cimino and Marie Guzzi; died 14 Jul 1999. No obituary found yet.
-2 SOUR @S129@
+2 SOUR @S134@
 3 QUAY 3
 2 SOUR @S060@
 3 QUAY 3
 1 NOTE [Record; likely] 2026-11-06 search: WikiTree/Cathedral Cemetery category lists Frank Cimino 9 Jul 1942 Taylor – 14 Jul 1999 Scranton (same dates as SSA), but no full obituary or survivors list found i
 2 CONC n free Times Leader / Scranton Times mirrors.
-2 SOUR @S129@
+2 SOUR @S134@
 3 QUAY 2
-1 FAMC @F085@
+1 FAMC @F086@
 0 @FB037@ INDI
 1 NAME Stanley Joseph /Madrak/
 2 GIVN Stanley Joseph
@@ -3503,31 +3505,31 @@
 1 BIRT
 2 DATE 9 JUL 1928
 2 PLAC Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S121@
-2 SOUR @S122@
+2 SOUR @S126@
+2 SOUR @S127@
 1 DEAT
 2 DATE 10 MAY 2000
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S121@
-2 SOUR @S122@
+2 SOUR @S126@
+2 SOUR @S127@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S121@
+2 SOUR @S126@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Stanley Joseph Madrak, born 9 Jul 1928 in Duryea, Luzerne Co., son of Peter Madrak and Catherine Resuit; died 10 May 2000.
-2 SOUR @S121@
+2 SOUR @S126@
 3 QUAY 3
 1 NOTE [Record; confirmed] Obituary (Times Leader, 11 May 2000): Stanley Madrak, formerly of Old Forge, died Wednesday [10 May 2000] at Community Medical Center, Scranton. Born in Duryea, son of the late Pet
 2 CONC er and Katerina Madrak; Duryea schools; worked at Pope and Talbot Co., Ransom; member of Holy Rosary Church, Duryea. Preceded in death by “his wife, the former Nora Febbo”; brother Joseph; sisters Ste
 2 CONC lla Madrak, Anna Poska, Mary Bodzon and Helen Robak. Survived by son Stanley J. Jr.; daughters Donna Skutack and Linda English; three grandchildren; sisters Dorothy Wirhanowsky, Cecilia Hardwicke an
 2 CONC d Alice Martinich (all of Connecticut). Ciuccio Funeral Home; Mass at Holy Rosary; interment Marcy Cemetery, Duryea.
-2 SOUR @S122@
+2 SOUR @S127@
 3 QUAY 3
 1 NOTE [Record; likely] Husband of Nora Febbo; married ABT 29 Apr 1950 (her obituary says they marked their 45th anniversary on 29 Apr 1995).
-2 SOUR @S120@
+2 SOUR @S125@
 3 QUAY 2
-1 FAMS @F073@
-1 FAMC @F093@
+1 FAMS @F074@
+1 FAMC @F094@
 0 @FB038@ INDI
 1 NAME Peter /Madrak/
 2 GIVN Peter
@@ -3535,11 +3537,11 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Stanley J. Madrak Sr. (“the late Peter … Madrak”, 2000 obituary; SSA abstract).
-2 SOUR @S122@
+2 SOUR @S127@
 3 QUAY 3
-2 SOUR @S121@
+2 SOUR @S126@
 3 QUAY 3
-1 FAMS @F093@
+1 FAMS @F094@
 0 @FB039@ INDI
 1 NAME Catherine /Resuit/
 2 GIVN Catherine
@@ -3550,27 +3552,27 @@
 1 NOTE Spelling variants: Katerina (obituary)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Stanley J. Madrak Sr.: “Catherine Resuit” in his SSA abstract, “the late … Katerina Madrak” in his 2000 obituary (compatible forms).
-2 SOUR @S121@
+2 SOUR @S126@
 3 QUAY 3
-2 SOUR @S122@
+2 SOUR @S127@
 3 QUAY 3
-1 FAMS @F093@
+1 FAMS @F094@
 0 @FB040@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F073@
+1 FAMC @F074@
 0 @FB041@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F073@
+1 FAMC @F074@
 0 @FB042@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F073@
+1 FAMC @F074@
 0 @FB043@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F074@
+1 FAMC @F075@
 0 @FB044@ INDI
 1 NAME Michael /Glodzik/
 2 GIVN Michael
@@ -3578,9 +3580,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Chester Glodzik Sr. (“the late Michael and Helen Streyeski Glodzik”, 1996 obituary).
-2 SOUR @S124@
+2 SOUR @S129@
 3 QUAY 3
-1 FAMS @F094@
+1 FAMS @F095@
 0 @FB045@ INDI
 1 NAME Helen /Streyeski/
 2 GIVN Helen
@@ -3590,17 +3592,17 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Chester Glodzik Sr. (“the late Michael and Helen Streyeski Glodzik”, 1996 obituary).
-2 SOUR @S124@
+2 SOUR @S129@
 3 QUAY 3
-1 FAMS @F094@
+1 FAMS @F095@
 0 @FB046@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F075@
+1 FAMS @F076@
 0 @FB047@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F075@
+1 FAMC @F076@
 0 @I146@ INDI
 1 NAME Enrico /Beccaloni/
 2 GIVN Enrico
@@ -3610,9 +3612,9 @@
 1 NOTE [Record; confirmed] Father of Catherine Andreoni and Alfred J. Beccaloni (“the late Enrico and Zelinda (Isopi) Beccaloni”, 1999 and 2000 obituaries).
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMS @F090@
+1 FAMS @F091@
 0 @I147@ INDI
 1 NAME Zelinda /Isopi/
 2 GIVN Zelinda
@@ -3624,9 +3626,9 @@
 1 NOTE [Record; confirmed] Mother of Catherine Andreoni and Alfred J. Beccaloni, per their 1999 and 2000 obituaries.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMS @F090@
+1 FAMS @F091@
 0 @I148@ INDI
 1 NAME Mario /Beccaloni/
 2 GIVN Mario
@@ -3636,9 +3638,9 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMC @F090@
+1 FAMC @F091@
 0 @I149@ INDI
 1 NAME Merico /Beccaloni/
 2 GIVN Merico
@@ -3649,9 +3651,9 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found. Called “Americo” in Alfred’s 2000 obituary.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMC @F090@
+1 FAMC @F091@
 0 @I150@ INDI
 1 NAME Peter /Beccaloni/
 2 GIVN Peter
@@ -3661,9 +3663,9 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMC @F090@
+1 FAMC @F091@
 0 @I151@ INDI
 1 NAME Nello /Beccaloni/
 2 GIVN Nello
@@ -3673,9 +3675,9 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMC @F090@
+1 FAMC @F091@
 0 @I152@ INDI
 1 NAME Alfred J. /Beccaloni/
 2 GIVN Alfred J.
@@ -3684,23 +3686,23 @@
 1 BIRT
 2 DATE 28 JUN 1923
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S133@
+2 SOUR @S138@
 1 DEAT
 2 DATE 17 NOV 2000
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S133@
+2 SOUR @S138@
 1 BURI
 2 PLAC Holy Cross Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S133@
+2 SOUR @S138@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times Leader, 18 Nov 2000): Alfred J. Beccaloni, 77, of Old Forge, died Friday [17 Nov 2000] at Mercy Hospital, Scranton. Born 28 Jun 1923 in Old Forge, son of the late E
 2 CONC nrico and Zelinda (Isopi) Beccaloni. Coal miner; Chamberlain Corp.; heavy-duty welder for Sullivan Trail Manufacturing. U.S. Navy, WWII (motor machinist’s mate 3rd class, South Pacific); Civilian Cons
 2 CONC ervation Corps. St. Mary of the Assumption Church; Giovanile Moderna Society. Preceded in death by brothers Mario, Americo, Nello and Peter and sister Catherine Andreoni. Survived by his wife of 52 ye
 2 CONC ars, the former Leona Narogovich; sons Fred Jr., Gary and Richard; three grandchildren. Thomas P. Kearney Funeral Home; interment Holy Cross Cemetery, Old Forge.
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMS @F091@
-1 FAMC @F090@
+1 FAMS @F092@
+1 FAMC @F091@
 0 @I153@ INDI
 1 NAME Leona /Narogovich/
 2 GIVN Leona
@@ -3711,26 +3713,26 @@
 1 BIRT
 2 DATE 14 SEP 1924
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S134@
-2 SOUR @S133@
+2 SOUR @S139@
+2 SOUR @S138@
 1 DEAT
 2 DATE 4 FEB 2003
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S134@
-2 SOUR @S133@
+2 SOUR @S139@
+2 SOUR @S138@
 1 BURI
 2 PLAC Holy Cross Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S134@
+2 SOUR @S139@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times Leader, 6 Feb 2003): Leona Narogovich Beccaloni, 78, of Old Forge, died Tuesday [4 Feb 2003] at Mercy Hospital, Scranton. Born 14 Sep 1924 in Taylor, daughter of th
 2 CONC e late Anthony and Mary (Prysianzniuk) Narogovich; Taylor H.S. 1942; secretary, Scranton State Hospital School of Nursing. Preceded in death by husband Alfred J. and sisters Olga Fasiska, Helen M. Pod
 2 CONC racky and Jane A. Longo. Survived by sons Fred Jr., Gary and Richard; three grandchildren. Married ABT 1948 (Alfred’s 2000 obituary: “wife of 52 years”).
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-1 FAMS @F091@
-1 FAMC @F095@
+1 FAMS @F092@
+1 FAMC @F096@
 0 @I154@ INDI
 1 NAME Fred /Beccaloni/
 2 GIVN Fred
@@ -3740,41 +3742,41 @@
 1 SEX M
 1 DEAT
 2 DATE 1 FEB 2009
-2 SOUR @S135@
-2 SOUR @S133@
+2 SOUR @S140@
+2 SOUR @S138@
 1 NOTE Spelling variants: Alfred (assumed full name, not stated)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times Leader, Feb 2009): Fred Beccaloni, 57, of Old Forge, died unexpectedly Sunday, 1 Feb 2009. Survived by his wife Beverly Duddek Beccaloni (they would have marked the
 2 CONC ir 30th anniversary on 28 Apr, so married ABT 28 Apr 1979); daughters Amanda and Ashley; brothers Richard (wife Cathy) and Gary (wife Nancy). Named as son “Fred, Jr.” in his parents’ obituaries. Kearn
 2 CONC ey Funeral Home.
-2 SOUR @S135@
+2 SOUR @S140@
 3 QUAY 3
-2 SOUR @S133@
+2 SOUR @S138@
 3 QUAY 3
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 3
-1 FAMS @F092@
-1 FAMC @F091@
+1 FAMS @F093@
+1 FAMC @F092@
 0 @I155@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F091@
+1 FAMC @F092@
 0 @I156@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F091@
+1 FAMC @F092@
 0 @I157@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F092@
+1 FAMS @F093@
 0 @I158@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F092@
+1 FAMC @F093@
 0 @I159@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F092@
+1 FAMC @F093@
 0 @I166@ INDI
 1 NAME Living
 1 SEX M
@@ -3788,13 +3790,13 @@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Leona (Narogovich) Beccaloni (“the late Anthony and Mary (Prysianzniuk) Narogovich”, her 2003 obituary). SSA abstracts for daughters Helen and Jane also name Anthony Naro
 2 CONC govitch.
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 3
-2 SOUR @S136@
+2 SOUR @S141@
 3 QUAY 3
-2 SOUR @S137@
+2 SOUR @S142@
 3 QUAY 3
-1 FAMS @F095@
+1 FAMS @F096@
 0 @I161@ INDI
 1 NAME Mary /Prysianzniuk/
 2 GIVN Mary
@@ -3805,13 +3807,13 @@
 1 NOTE Spelling variants: Pryzaszniuk / Prysiazniuk / Presiaznuick / Preshsnuk (SSA spellings)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Leona Beccaloni (“Mary (Prysianzniuk) Narogovich”, 2003 obituary). SSA abstracts for Helen and Jane give compatible spellings (Pryzaszniuk, Prysiazniuk, etc.).
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 3
-2 SOUR @S136@
+2 SOUR @S141@
 3 QUAY 3
-2 SOUR @S137@
+2 SOUR @S142@
 3 QUAY 3
-1 FAMS @F095@
+1 FAMS @F096@
 0 @I162@ INDI
 1 NAME Olga /Narogovich/
 2 GIVN Olga
@@ -3823,23 +3825,23 @@
 1 SEX F
 1 BIRT
 2 DATE 24 JAN 1916
-2 SOUR @S134@
-2 SOUR @S138@
+2 SOUR @S139@
+2 SOUR @S143@
 1 DEAT
 2 DATE NOV 1982
-2 SOUR @S134@
-2 SOUR @S138@
+2 SOUR @S139@
+2 SOUR @S143@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Leona Beccaloni; listed as predeceased “Olga Fasiska” in Leona’s 2003 obituary.
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 3
 1 NOTE [Record; likely] SSA Death Master File: Olga Fasiska, born 24 Jan 1916, died Nov 1982 (last residence New Jersey). Parents are not named on that abstract; that this is Leona’s sister is likely (name a
 2 CONC nd timing fit) but not proven.
-2 SOUR @S138@
+2 SOUR @S143@
 3 QUAY 2
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 2
-1 FAMC @F095@
+1 FAMC @F096@
 0 @I163@ INDI
 1 NAME Helen M. /Narogovich/
 2 GIVN Helen M.
@@ -3852,20 +3854,20 @@
 1 BIRT
 2 DATE 1 JUN 1920
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S136@
-2 SOUR @S134@
+2 SOUR @S141@
+2 SOUR @S139@
 1 DEAT
 2 DATE APR 1990
-2 SOUR @S136@
-2 SOUR @S134@
+2 SOUR @S141@
+2 SOUR @S139@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Helen Podracky, also known as Helen Narogovitch, born 1 Jun 1920 in Taylor, Pa., daughter of Anthony Narogovitch and Mary Pryzaszniuk; died Apr 1990. Matche
 2 CONC s “Helen M. Podracky,” sister predeceased in Leona Beccaloni’s 2003 obituary.
-2 SOUR @S136@
+2 SOUR @S141@
 3 QUAY 3
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 3
-1 FAMC @F095@
+1 FAMC @F096@
 0 @I164@ INDI
 1 NAME Jane Antoinette /Narogovich/
 2 GIVN Jane Antoinette
@@ -3879,25 +3881,25 @@
 1 BIRT
 2 DATE 14 OCT 1927
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S137@
-2 SOUR @S134@
+2 SOUR @S142@
+2 SOUR @S139@
 1 DEAT
 2 DATE 30 SEP 1999
-2 SOUR @S137@
-2 SOUR @S134@
+2 SOUR @S142@
+2 SOUR @S139@
 1 NOTE Spelling variants: Lucas (earlier married name)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Jane A. Longo, also Jane Antoinette Narogovitch and Jane Antoinette Lucas, born 14 Oct 1927 in Taylor, Pa., daughter of Anthony Narogovitch and Mary Prysiazn
 2 CONC iuk; died 30 Sep 1999. Matches “Jane A. Longo,” sister predeceased in Leona’s 2003 obituary.
-2 SOUR @S137@
+2 SOUR @S142@
 3 QUAY 3
-2 SOUR @S134@
+2 SOUR @S139@
 3 QUAY 3
 1 NOTE [Record; likely] Edward L. Longo’s Scranton Times-Tribune obituary says he was preceded by his second wife, Jane Longo, in 1999 — consistent with this Jane.
-2 SOUR @S139@
+2 SOUR @S144@
 3 QUAY 2
-1 FAMS @F096@
-1 FAMC @F095@
+1 FAMS @F097@
+1 FAMC @F096@
 0 @I165@ INDI
 1 NAME Edward L. /Longo/
 2 GIVN Edward L.
@@ -3906,11 +3908,11 @@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Second husband of Jane A. (Narogovich) Longo; his Scranton Times-Tribune obituary says he was preceded by first wife Annette (1985) and second wife Jane Longo (1999). His children nam
 2 CONC ed there are from the first marriage and are not added.
-2 SOUR @S139@
+2 SOUR @S144@
 3 QUAY 2
-2 SOUR @S137@
+2 SOUR @S142@
 3 QUAY 2
-1 FAMS @F096@
+1 FAMS @F097@
 0 @I167@ INDI
 1 NAME Living
 1 SEX M
@@ -3919,6 +3921,274 @@
 1 NAME Living
 1 SEX F
 1 FAMC @F004@
+0 @KR001@ INDI
+1 NAME Anthony /Krogulski/
+2 GIVN Anthony
+2 SURN Krogulski
+1 SEX M
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Father of Edward J. Krogulski: “son of the late Anthony and Mary (Gunton) Krogulski” (2001 obituary). His SSA Numident abstract names the father as Anthony S. Krogulski.
+2 SOUR @S111@
+3 QUAY 3
+2 SOUR @S145@
+3 QUAY 3
+1 FAMS @F098@
+0 @KR002@ INDI
+1 NAME Mary /Gunton/
+2 GIVN Mary
+2 SURN Gunton
+1 NAME Mary /Krogulski/
+2 TYPE married
+1 SEX F
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Named as Edward J. Krogulski’s mother, “Mary (Gunton) Krogulski”, in his 2001 obituary. The obituary also names a stepmother, Margaret.
+2 SOUR @S111@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Edward’s SSA Numident abstract names his mother as Clara Grabowski, not Mary Gunton. Unresolved (could be a first wife, a records error, or a naming difference). Flagged on Edw
+2 CONC ard too.
+2 SOUR @S145@
+3 QUAY 1
+2 SOUR @S111@
+3 QUAY 1
+1 FAMS @F098@
+0 @KR003@ INDI
+1 NAME Edward Joseph /Krogulski/
+2 GIVN Edward Joseph
+2 SURN Krogulski
+1 NAME Edward J. Krogulski
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 4 NOV 1925
+2 PLAC Bear Creek, Luzerne, Pennsylvania, USA
+2 SOUR @S111@
+2 SOUR @S145@
+1 DEAT
+2 DATE 28 DEC 2001
+2 PLAC Forty Fort, Luzerne, Pennsylvania, USA
+2 SOUR @S111@
+2 SOUR @S145@
+1 BURI
+2 PLAC St. Mary’s Maternity Cemetery, West Wyoming, Luzerne, Pennsylvania, USA
+2 SOUR @S111@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary (Times Leader, 29 Dec 2001): Edward J. Krogulski, of Forty Fort, formerly of Swoyersville, died Friday [28 Dec 2001] at home. Born in Mountaintop, son of the late Anthon
+2 CONC y and Mary (Gunton) Krogulski; Swoyersville H.S. 1943; owned and managed Sheporaitis Beverages, Pittston, for 15 years; U.S. Navy, WWII (Pacific). Preceded in death by brother Larry Newhart. Survive
+2 CONC d by his wife of 55 years, the former Marjorie Hovan; sons Anthony, Edward J. and Joseph; daughters Karen Mazzaccaro (Dallas), Mary Krolewski and Pricilla Barnes; stepmother Margaret; 14 grandchildren
+2 CONC ; 4 great-grandchildren; brother John; sister Dianne Butler. Interment St. Mary’s Maternity Cemetery, West Wyoming.
+2 SOUR @S111@
+3 QUAY 3
+1 NOTE [Record; confirmed] SSA Numident abstract: Edward Joseph Krogulski, born 4 Nov 1925 in Bear Creek, Luzerne Co., son of Anthony S. Krogulski and Clara Grabowski; died 28 Dec 2001. BIRLS: U.S. Navy 10 N
+2 CONC ov 1943 – 21 May 1946.
+2 SOUR @S145@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birthplace: Mountaintop (obituary) vs Bear Creek (SSA); the two places are neighbours. Mother: Mary Gunton (obituary) vs Clara Grabowski (SSA). Unresolved.
+2 SOUR @S111@
+3 QUAY 1
+2 SOUR @S145@
+3 QUAY 1
+1 NOTE [Record; confirmed] Father of Karen (Krogulski) Mazzaccaro, wife of Patrick J. “Pat Mazz” Mazzaccaro Jr.: daughter “Karen Mazzaccaro, Dallas” in this obituary, and “Karen Mazzaccaro and her husband Pa
+2 CONC trick, of Dallas” in his wife’s 2014 obituary.
+2 SOUR @S111@
+3 QUAY 3
+2 SOUR @S112@
+3 QUAY 3
+2 SOUR @S108@
+3 QUAY 3
+1 FAMS @F099@
+1 FAMC @F098@
+0 @KR004@ INDI
+1 NAME Marguerite “Marjorie” /Hovan/
+2 GIVN Marguerite “Marjorie”
+2 SURN Hovan
+1 NAME Marguerite “Marjorie” /Krogulski/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 2 APR 1925
+2 PLAC Swoyersville, Luzerne, Pennsylvania, USA
+2 SOUR @S112@
+1 DEAT
+2 DATE 2 JAN 2014
+2 SOUR @S112@
+1 BURI
+2 PLAC St. Mary the Maternity Cemetery, West Wyoming, Luzerne, Pennsylvania, USA
+2 SOUR @S112@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary (Wroblewski Funeral Home, Jan 2014): Marguerite “Marjorie” Krogulski, 88, formerly of Forty Fort, died 2 Jan 2014. Born 2 Apr 1925 in Swoyersville, daughter of the late Jo
+2 CONC hn and Mary (Breha) Hovan; Swoyersville H.S. 1943; bookkeeper for Shep’s Beverages, Pittston, which she and Edward owned. Wife of the late Edward J. Krogulski (d. 28 Dec 2001; 55 years married, so mar
+2 CONC ried ABT 1946). Preceded in death by brothers Michael and Andrew Hovan and sisters Mary Baiz, Elizabeth Hudock, Agnes Clothier, Anna Lisnak, Helen Jarrett, Irene Gorda, Josephine Reggie and Alberta Wa
+2 CONC wer. Survived by children Anthony (Jennifer), Edward Jr. (Carolyn), Joseph (Lynn), Karen Mazzaccaro (Patrick), Mary Krolewski (David) and Priscilla Barnes (Curtis); 16 grandchildren; 26 great-grandchi
+2 CONC ldren; a brother and a sister.
+2 SOUR @S112@
+3 QUAY 3
+1 FAMS @F099@
+0 @KR005@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F099@
+0 @KR006@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F099@
+0 @KR007@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F099@
+0 @KR008@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F099@
+0 @KR009@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F099@
+0 @CI001@ INDI
+1 NAME Vito /Ciuccio/
+2 GIVN Vito
+2 SURN Ciuccio
+1 SEX M
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Father of Louis Ciuccio (“the late Vito and Rosa Trotta Ciuccio”, 2013 obituaries) and of Vito A. Ciuccio Jr. (SSA abstract).
+2 SOUR @S117@
+3 QUAY 3
+2 SOUR @S118@
+3 QUAY 3
+2 SOUR @S146@
+3 QUAY 3
+1 FAMS @F100@
+0 @CI002@ INDI
+1 NAME Rosa /Trotta/
+2 GIVN Rosa
+2 SURN Trotta
+1 NAME Rosa /Ciuccio/
+2 TYPE married
+1 SEX F
+1 NOTE Spelling variants: Rose Terotta (SSA)
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Mother of Louis Ciuccio (“Rosa Trotta Ciuccio”, 2013 obituaries); given as “Rose Terotta” in son Vito Jr.’s SSA abstract.
+2 SOUR @S117@
+3 QUAY 3
+2 SOUR @S118@
+3 QUAY 3
+2 SOUR @S146@
+3 QUAY 3
+1 FAMS @F100@
+0 @CI003@ INDI
+1 NAME Louis /Ciuccio/
+2 GIVN Louis
+2 SURN Ciuccio
+1 SEX M
+1 BIRT
+2 DATE 13 NOV 1923
+2 PLAC Felitto, Salerno, Campania, Italy
+2 SOUR @S118@
+2 SOUR @S117@
+1 DEAT
+2 DATE 29 JAN 2013
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S118@
+2 SOUR @S117@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S118@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary (Times-Tribune / Times Leader, Jan 2013): Louis Ciuccio, 89, of Old Forge, died Tuesday [29 Jan 2013] at the VNA Hospice Unit, Geisinger Community Medical Center, Scranton
+2 CONC . Born in Felitto, Italy, son of the late Vito and Rosa Trotta Ciuccio; attended Old Forge schools; Army, WWII, First Infantry Division, Omaha Beach, two Purple Hearts; owned Lou’s Blue Room and devel
+2 CONC oped Rose Mount Estates, Old Forge; Felittese Association. Husband of the former Rosemarie Piccolini (65th anniversary would have been 4 Feb, so married ABT 4 Feb 1948). Preceded in death by brother V
+2 CONC ito “Junior”. Survived by daughters Rosemary Febbo (husband Louis), Nancy Moylan and Ginny Jurosky (husband John); son Louis Jr. (wife JoAnne); seven grandchildren incl. Louis and Maura Febbo; great-g
+2 CONC randson Louis Febbo. Interment Old Forge Cemetery.
+2 SOUR @S118@
+3 QUAY 3
+2 SOUR @S117@
+3 QUAY 3
+1 NOTE [Record; confirmed] SSA death index: Louis Ciuccio, born 13 Nov 1923, died 29 Jan 2013; BIRLS: U.S. Army 13 Feb 1943 – 18 Oct 1945.
+2 SOUR @S146@
+3 QUAY 3
+1 NOTE [Record; confirmed] Father of Rosemary (Ciuccio) Febbo, wife of Louis F. Febbo — which links the Ciuccio family to the Febbo line.
+2 SOUR @S117@
+3 QUAY 3
+2 SOUR @S119@
+3 QUAY 3
+2 SOUR @S116@
+3 QUAY 3
+1 FAMS @F101@
+1 FAMC @F100@
+0 @CI004@ INDI
+1 NAME Rosemarie A. /Piccolini/
+2 GIVN Rosemarie A.
+2 SURN Piccolini
+1 NAME Rosemarie A. /Ciuccio/
+2 TYPE married
+1 SEX F
+1 DEAT
+2 DATE 3 JUN 2016
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S119@
+2 SOUR @S147@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S119@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary (Times-Tribune, June 2016): Rosemarie A. Ciuccio, 88, of Old Forge, died Friday [3 Jun 2016] at Geisinger Community Medical Center from injuries in a car accident in Old F
+2 CONC orge. Born in Old Forge, daughter of the late James and Angela Semenza Piccolini; Old Forge H.S. 1945; Lackawanna Business College. Widow of Louis Ciuccio (d. 2013). Survived by son Louis Jr. (JoAnne)
+2 CONC ; daughters Nancy Moylan, Ginny Jurosky (John) and Rosemary Febbo (Louis); seven grandchildren (Louis III and Joseph Ciuccio; John, Jill and Jeffrey Jurosky; Louis and Maura Febbo); great-grandchildre
+2 CONC n including Louis D. Febbo. Preceded in death by sister Lenore Ilaria and brothers Louis and Vincent Piccolini. Interment Old Forge Cemetery.
+2 SOUR @S119@
+3 QUAY 3
+1 NOTE [Record; confirmed] News report: died Friday of injuries from a crash at Smull Street and Moosic Road the day before; married 65 years.
+2 SOUR @S147@
+3 QUAY 3
+1 FAMS @F101@
+0 @CI005@ INDI
+1 NAME Vito Anthony /Ciuccio/
+2 GIVN Vito Anthony
+2 SURN Ciuccio
+2 NICK Junior
+1 NAME Vito A. “Junior” Ciuccio Jr.
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 18 OCT 1931
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S146@
+2 SOUR @S117@
+1 DEAT
+2 DATE JUL 1982
+2 SOUR @S146@
+2 SOUR @S117@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] SSA Numident abstract: Vito Anthony Ciuccio (Jr.), born 18 Oct 1931 in Old Forge, son of Vito Ciuccio and Rose Terotta; died Jul 1982. Named as brother Vito “Junior”, predeceased
+2 CONC , in Louis Ciuccio’s 2013 obituary.
+2 SOUR @S146@
+3 QUAY 3
+2 SOUR @S117@
+3 QUAY 3
+1 FAMC @F100@
+0 @CI006@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F101@
+0 @CI007@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F101@
+0 @CI008@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F101@
+0 @FB050@ INDI
+1 NAME Living
+1 SEX M
+1 FAMS @F071@
+1 FAMC @F070@
+0 @FB051@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F070@
+0 @FB052@ INDI
+1 NAME Living
+1 SEX M
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -4235,88 +4505,92 @@
 0 @F070@ FAM
 1 HUSB @FB020@
 1 WIFE @FB021@
+1 CHIL @FB050@
+1 CHIL @FB051@
 0 @F071@ FAM
+1 HUSB @FB050@
+0 @F072@ FAM
 1 HUSB @FB031@
 1 WIFE @FB013@
 1 CHIL @FB032@
-0 @F072@ FAM
+0 @F073@ FAM
 1 HUSB @FB032@
 1 WIFE @FB033@
 1 CHIL @FB034@
-0 @F073@ FAM
+0 @F074@ FAM
 1 HUSB @FB037@
 1 WIFE @FB014@
 1 CHIL @FB040@
 1 CHIL @FB041@
 1 CHIL @FB042@
-0 @F074@ FAM
+0 @F075@ FAM
 1 HUSB @FB035@
 1 WIFE @FB015@
 1 CHIL @FB036@
 1 CHIL @FB043@
-0 @F075@ FAM
+0 @F076@ FAM
 1 HUSB @FB036@
 1 WIFE @FB046@
 1 CHIL @FB047@
-0 @F076@ FAM
+0 @F077@ FAM
 1 HUSB @FB017@
 1 WIFE @FB016@
 1 CHIL @FB018@
-0 @F077@ FAM
+0 @F078@ FAM
 1 HUSB @Y001@
 1 WIFE @M041@
-0 @F078@ FAM
+0 @F079@ FAM
 1 HUSB @Y001@
 1 CHIL @Y010@
 1 CHIL @Y012@
 1 CHIL @Y013@
-0 @F079@ FAM
+0 @F080@ FAM
 1 HUSB @Y011@
 1 WIFE @Y010@
-0 @F080@ FAM
+0 @F081@ FAM
 1 HUSB @I031@
 1 WIFE @I032@
 1 CHIL @I033@
 1 CHIL @I034@
 1 CHIL @I035@
 1 CHIL @I037@
-0 @F081@ FAM
+0 @F082@ FAM
 1 HUSB @I033@
 1 WIFE @I127@
 1 CHIL @I128@
 1 CHIL @I129@
 1 CHIL @I130@
-0 @F082@ FAM
+0 @F083@ FAM
 1 HUSB @I131@
 1 WIFE @I130@
 1 CHIL @I132@
 1 CHIL @I135@
-0 @F083@ FAM
+0 @F084@ FAM
 1 HUSB @I133@
 1 WIFE @I132@
 1 CHIL @I134@
-0 @F084@ FAM
+0 @F085@ FAM
 1 HUSB @I135@
 1 WIFE @I136@
-0 @F085@ FAM
+0 @F086@ FAM
 1 HUSB @I144@
 1 WIFE @I034@
 1 CHIL @I145@
-0 @F086@ FAM
+0 @F087@ FAM
 1 HUSB @I036@
 1 WIFE @I035@
-0 @F087@ FAM
+0 @F088@ FAM
 1 HUSB @I037@
 1 WIFE @I137@
 1 CHIL @I140@
 1 CHIL @I142@
-0 @F088@ FAM
+0 @F089@ FAM
 1 HUSB @I141@
 1 WIFE @I140@
-0 @F089@ FAM
+0 @F090@ FAM
 1 HUSB @I142@
 1 WIFE @I143@
-0 @F090@ FAM
+0 @F091@ FAM
 1 HUSB @I146@
 1 WIFE @I147@
 1 CHIL @I148@
@@ -4325,35 +4599,60 @@
 1 CHIL @I151@
 1 CHIL @I021@
 1 CHIL @I152@
-0 @F091@ FAM
+0 @F092@ FAM
 1 HUSB @I152@
 1 WIFE @I153@
 1 CHIL @I154@
 1 CHIL @I155@
 1 CHIL @I156@
-0 @F092@ FAM
+0 @F093@ FAM
 1 HUSB @I154@
 1 WIFE @I157@
 1 CHIL @I158@
 1 CHIL @I159@
-0 @F093@ FAM
+0 @F094@ FAM
 1 HUSB @FB038@
 1 WIFE @FB039@
 1 CHIL @FB037@
-0 @F094@ FAM
+0 @F095@ FAM
 1 HUSB @FB044@
 1 WIFE @FB045@
 1 CHIL @FB035@
-0 @F095@ FAM
+0 @F096@ FAM
 1 HUSB @I160@
 1 WIFE @I161@
 1 CHIL @I162@
 1 CHIL @I163@
 1 CHIL @I153@
 1 CHIL @I164@
-0 @F096@ FAM
+0 @F097@ FAM
 1 HUSB @I165@
 1 WIFE @I164@
+0 @F098@ FAM
+1 HUSB @KR001@
+1 WIFE @KR002@
+1 CHIL @KR003@
+0 @F099@ FAM
+1 HUSB @KR003@
+1 WIFE @KR004@
+1 CHIL @KR005@
+1 CHIL @KR006@
+1 CHIL @KR007@
+1 CHIL @M044@
+1 CHIL @KR008@
+1 CHIL @KR009@
+0 @F100@ FAM
+1 HUSB @CI001@
+1 WIFE @CI002@
+1 CHIL @CI003@
+1 CHIL @CI005@
+0 @F101@ FAM
+1 HUSB @CI003@
+1 WIFE @CI004@
+1 CHIL @CI006@
+1 CHIL @CI007@
+1 CHIL @CI008@
+1 CHIL @FB021@
 0 @S001@ SOUR
 1 TITL Interview of Norma (Mazzaccaro) Azzolini by her son Tim Azzolini, Old Forge, Pa., 31 Oct 2026; relayed notes (interview-summary-2026-10-31.md). Narrative kept in the separate interview-context documen
 2 CONC t.
@@ -4685,91 +4984,115 @@
 1 TITL “Funeral notices for Wednesday, Feb. 10” (Yaniello, Industrial “Dusty”), The Times-Tribune, 9 Feb. 2010
 1 NOTE URL: https://www.thetimes-tribune.com/2010/02/09/funeral-notices-for-wednesday-feb-10/
 0 @S111@ SOUR
+1 TITL “Edward J. Krogulski” obituary, Times Leader, 29 Dec. 2001, p. 10A
+1 NOTE URL: https://archive.timesleader.com/article/1014097/edward-j-krogulski
+0 @S112@ SOUR
+1 TITL “Marguerite “Marjorie” Krogulski” obituary, Wroblewski Funeral Home, Forty Fort, Pa., Jan. 2014
+1 NOTE URL: https://www.wroblewskifuneralhome.com/obituary/marguerite-marjorie-krogulski/
+0 @S113@ SOUR
 1 TITL LocateAncestors.com, Azzollini surname page (SSA Death Master File abstracts: Gennaro, Lucrezia)
 1 NOTE URL: https://www.locateancestors.com/azzollini/
-0 @S112@ SOUR
+0 @S114@ SOUR
 1 TITL “Jennie Febo Resavy” obituary, The Times-Tribune (Scranton), 24 Sept. 2007
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/jennie-febo-resavy-scranton-pa/
-0 @S113@ SOUR
+0 @S115@ SOUR
 1 TITL “Louis Febbo, Sept. 1, 1995” obituary, Times Leader (Wilkes-Barre), 2 Sept. 1995, p. 5A (archive page; full text read from the indexed copy of this page)
 1 NOTE URL: https://archive.timesleader.com/article/874412/louis-febbo-sept-1-1995-louis-v-febbo-of-connell-street-old-forge-died-friday-at-mercy-hospital-scranton
-0 @S114@ SOUR
+0 @S116@ SOUR
 1 TITL “Louis F. Febbo” obituary, The Times-Tribune (Scranton), Dec. 2025
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/louis-f-febbo-old-forge-pa/
-0 @S115@ SOUR
+0 @S117@ SOUR
+1 TITL “Louis Ciuccio” obituary, Times Leader, 30 Jan. 2013
+1 NOTE URL: https://archive.timesleader.com/article/296927/stories-louis-ciuccio-89-old-forge-died-tuesday-in-scranton-husband-of-the-former-rosemarie-piccolini-h
+0 @S118@ SOUR
+1 TITL “Louis Ciuccio” obituary, The Times-Tribune (Scranton), Jan. 2013
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/louis-ciuccio-wilkes-barre-pa/
+0 @S119@ SOUR
+1 TITL “Rosemarie A. Ciuccio” obituary, The Times-Tribune (Scranton), June 2016
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/rosemarie-a-ciuccio-old-forge-pa/
+0 @S120@ SOUR
 1 TITL SortedByName.com, Josephine Bruno p.4 (SSA Numident abstract: Josephine Jean Febo Bruno)
 1 NOTE URL: https://sortedbyname.com/letter_b/bruno/josephine_bruno_4.html
-0 @S116@ SOUR
+0 @S121@ SOUR
 1 TITL SortedByName.com, Febo index p.2 (SSA Numident abstracts: children of David Febo and Julia DeGennaro)
 1 NOTE URL: https://sortedbyname.com/letter_f/febo/index_2.html
-0 @S117@ SOUR
+0 @S122@ SOUR
 1 TITL SortedByName.com, Wollner index p.1 (SSA Numident abstract: Ann Rose Febbo Wollner)
 1 NOTE URL: https://sortedbyname.com/letter_w/wollner/index_1.html
-0 @S118@ SOUR
+0 @S123@ SOUR
 1 TITL “Daniel J. Wollner” obituary, The Times-Tribune (Scranton), 11 Mar 2022
 1 NOTE URL: https://www.thetimes-tribune.com/2022/03/11/daniel-j-wollner/
-0 @S119@ SOUR
+0 @S124@ SOUR
 1 TITL SortedByName.com, Febo index p.7 (SSA Numident abstract: Nora Catherine Febo Madrak)
 1 NOTE URL: https://sortedbyname.com/letter_f/febo/index_7.html
-0 @S120@ SOUR
+0 @S125@ SOUR
 1 TITL “Nora Madrak, Dec. 6, 1995” obituary, Times Leader, 7 Dec. 1995 (full text read from the archive page)
 1 NOTE URL: https://archive.timesleader.com/article/879958/nora-madrak-dec-6-1995-nora-c-madrak-of-brook-street-old-forge-died-wednesday-at-the-community-medical-center-scranton
-0 @S121@ SOUR
+0 @S126@ SOUR
 1 TITL SortedByName.com, Madrak index p.4 (SSA Numident abstract: Stanley Joseph Madrak)
 1 NOTE URL: https://sortedbyname.com/letter_m/madrak/index_4.html
-0 @S122@ SOUR
+0 @S127@ SOUR
 1 TITL “Stanley Madrak” obituary, Times Leader, 11 May 2000, p. 5A
 1 NOTE URL: https://archive.timesleader.com/article/981199/stanley-madrak
-0 @S123@ SOUR
+0 @S128@ SOUR
 1 TITL SortedByName.com, Febo index p.1 (SSA Numident abstracts: Angeline Ann Febo Glodzik; Chester M. Glodzik)
 1 NOTE URL: https://sortedbyname.com/letter_f/febo/index_1.html
-0 @S124@ SOUR
+0 @S129@ SOUR
 1 TITL “Chester Glodzik, May 15, 1996” obituary, Times Leader, 17 May 1996 (full text read from the archive page)
 1 NOTE URL: https://archive.timesleader.com/article/889034/chester-glodzik-may-15-1996-chester-glodzik-sr-of-foundry-street-old-forge-died-wednesday-in-the-geisinger-wyoming-valley-medical-center-plains-town
 2 CONC ship
-0 @S125@ SOUR
+0 @S130@ SOUR
 1 TITL “Chester Glodzik, November 4, 1996” obituary (Chester M. Glodzik Jr.), Times Leader, 6 Nov. 1996
 1 NOTE URL: https://archive.timesleader.com/article/899855/chester-glodzik-november-4-1996-chester-m-glodzik-jr-of-foundry-street-old-forge-died-monday-at-the-community-medical-center-scranton
-0 @S126@ SOUR
+0 @S131@ SOUR
 1 TITL “Dominic J. Guzzi” obituary, The Times-Tribune (Scranton), 4 Dec 2016
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/dominic-j-guzzi-old-forge-pa/
-0 @S127@ SOUR
+0 @S132@ SOUR
 1 TITL “Jeanne Guzzi Thorne” obituary, Carlucci-Golden-DeSantis Funeral Home, Aug. 2024
 1 NOTE URL: https://www.nepafuneralhome.com/obituary/JeanneGuzzi-Thorne
-0 @S128@ SOUR
+0 @S133@ SOUR
 1 TITL SortedByName.com, Cimino index p.41 (SSA Numident abstract: Marie Josephine Cimino)
 1 NOTE URL: https://sortedbyname.com/letter_c/cimino/index_41.html
-0 @S129@ SOUR
+0 @S134@ SOUR
 1 TITL SortedByName.com, Cimino index p.23 (SSA Numident abstract: Frank Joseph Cimino)
 1 NOTE URL: https://sortedbyname.com/letter_c/cimino/index_23.html
-0 @S130@ SOUR
+0 @S135@ SOUR
 1 TITL Carl Guzzi obituary listing, Harmon Funeral Home (Dignity Memorial), 2017
 1 NOTE URL: https://www.dignitymemorial.com/obituaries/staten-island-ny/carl-guzzi-7308672
-0 @S131@ SOUR
+0 @S136@ SOUR
 1 TITL The Philadelphia Inquirer, Tue. 6 Nov 2001, p. 76 (death notices; Louis Guzzi Jr.; index snippet only, full text not read)
 1 NOTE URL: https://www.newspapers.com/newspage/180171296/
-0 @S132@ SOUR
+0 @S137@ SOUR
 1 TITL “Gloria R. Guzzi (nee Redfield)” obituary, Angelone Funeral Home, Willow Grove, Pa., December 2024
 1 NOTE URL: https://www.angelonefuneralhome.com/obituary/Gloria-Guzzi
-0 @S133@ SOUR
+0 @S138@ SOUR
 1 TITL “Alfred Beccaloni, Nov. 17, 2000” obituary, Times Leader, 18 Nov. 2000, p. 12A
 1 NOTE URL: https://archive.timesleader.com/article/992737/alfred-beccaloni
-0 @S134@ SOUR
+0 @S139@ SOUR
 1 TITL “Leona Beccaloni, February 4, 2003” obituary, Times Leader, 6 Feb. 2003, p. 6A
 1 NOTE URL: https://archive.timesleader.com/article/1034420/leona-beccaloni
-0 @S135@ SOUR
+0 @S140@ SOUR
 1 TITL “Fred Beccaloni, 57, of Old Forge” obituary, Times Leader, Feb. 2009
 1 NOTE URL: https://archive.timesleader.com/article/1217713/fred-beccaloni-57-of-old-forge-passed-away-unexpectedly-early
-0 @S136@ SOUR
+0 @S141@ SOUR
 1 TITL SortedByName.com, Podracky index p.1 (SSA Numident abstract: Helen Podracky / Helen Narogovitch)
 1 NOTE URL: https://sortedbyname.com/letter_p/podracky/index_1.html
-0 @S137@ SOUR
+0 @S142@ SOUR
 1 TITL SortedByName.com, Narogovich (SSA Numident abstracts: Leona Beccaloni; Jane A. Longo / Jane Antoinette Narogovitch / Lucas)
 1 NOTE URL: https://sortedbyname.com/letter_n/narogovich.html
-0 @S138@ SOUR
+0 @S143@ SOUR
 1 TITL SortedByName.com, Fasiska (SSA Death Master File: Olga Fasiska)
 1 NOTE URL: https://sortedbyname.com/letter_f/fasiska.html
-0 @S139@ SOUR
+0 @S144@ SOUR
 1 TITL “Edward L. Longo” obituary, Scranton Times-Tribune / Legacy (names second wife Jane Longo, died 1999)
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/edward-l-longo-scranton-pa/
+0 @S145@ SOUR
+1 TITL SortedByName.com, Krogulski index p.1 (SSA Numident abstract and BIRLS entry: Edward Joseph Krogulski)
+1 NOTE URL: https://sortedbyname.com/letter_k/krogulski/index_1.html
+0 @S146@ SOUR
+1 TITL SortedByName.com, Ciuccio index p.2 (SSA death index, BIRLS and Numident abstracts: Louis Ciuccio; Vito Anthony Ciuccio Jr.)
+1 NOTE URL: https://sortedbyname.com/letter_c/ciuccio/index_2.html
+0 @S147@ SOUR
+1 TITL “Old Forge woman dies in crash”, The Times-Tribune, 4 June 2016
+1 NOTE URL: https://www.thetimes-tribune.com/2016/06/04/old-forge-woman-dies-in-crash/
 0 TRLR
