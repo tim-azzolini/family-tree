@@ -4369,6 +4369,11 @@
 1 NAME Rosemarie A. /Ciuccio/
 2 TYPE married
 1 SEX F
+1 BIRT
+2 DATE 28 APR 1928
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S128@
+2 SOUR @S164@
 1 DEAT
 2 DATE 3 JUN 2016
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
@@ -4387,7 +4392,28 @@
 1 NOTE [Record; confirmed] News report: died Friday of injuries from a crash at Smull Street and Moosic Road the day before; married 65 years.
 2 SOUR @S164@
 3 QUAY 3
+1 NOTE [Record; likely] Find a Grave memorial: Rosemarie Ann Piccolini Ciuccio, born 28 Apr 1928, Old Forge; Old Forge Cemetery; parents Vincenzo “Jimmy” and Angela (Semenza) Piccolini; siblings Lenore, Loui
+2 CONC s and Vincent (see the Piccolini family chart).
+2 SOUR @S165@
+3 QUAY 2
+1 NOTE [Conflict; unconfirmed] Death date: 3 Jun 2016 (the obituary says she died “Friday”, and 3 Jun 2016 was a Friday) vs 4 Jun 2016 on her Find a Grave memorial. The tree keeps 3 Jun 2016 from the obituar
+2 CONC y.
+2 SOUR @S128@
+3 QUAY 1
+2 SOUR @S165@
+3 QUAY 1
+1 NOTE [Record; confirmed] Siblings: Lenore L. Ilaria (1930–2015), Louis J. “Buddy” Piccolini (1932–2001) and Vincent A. Piccolini Sr. (1934–2009), per their obituaries and Find a Grave memorials; grandparen
+2 CONC ts Lorenzo Semenza and Rosaria Pilosi. See the Piccolini & Semenza family chart.
+2 SOUR @S128@
+3 QUAY 3
+2 SOUR @S166@
+3 QUAY 3
+2 SOUR @S167@
+3 QUAY 3
+2 SOUR @S168@
+3 QUAY 3
 1 FAMS @F111@
+1 FAMC @F116@
 0 @CI005@ INDI
 1 NAME Vito Anthony /Ciuccio/
 2 GIVN Vito Anthony
@@ -4866,17 +4892,17 @@
 1 BIRT
 2 DATE 27 OCT 1884
 2 PLAC Italy
-2 SOUR @S165@
+2 SOUR @S169@
 1 DEAT
 2 DATE DEC 1979
-2 SOUR @S165@
+2 SOUR @S169@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S165@
+2 SOUR @S169@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Raffaella Pugliano Cavalieri, born 27 Oct 1884, Italy; died Dec 1979 (aged 95); Old Forge Cemetery. Wife of Salvatore Cavalieri; mother of Mary, Frances Vivia
 2 CONC n (Cavalier) Febbo and Angelo Salvatore Cavalier.
-2 SOUR @S165@
+2 SOUR @S169@
 3 QUAY 2
 1 FAMS @F113@
 0 @CV003@ INDI
@@ -4887,18 +4913,18 @@
 1 BIRT
 2 DATE 4 AUG 1911
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S166@
+2 SOUR @S170@
 1 DEAT
 2 DATE 5 JUL 2006
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S166@
+2 SOUR @S170@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S166@
+2 SOUR @S170@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Mary Cavalieri, born 4 Aug 1911, Old Forge; died 5 Jul 2006 (aged 94), Scranton; Old Forge Cemetery. Daughter of Salvatore and Raffaella; sister of Frances Febb
 2 CONC o and Angelo. No spouse linked; her obituary was not found.
-2 SOUR @S166@
+2 SOUR @S170@
 3 QUAY 2
 1 FAMC @F113@
 0 @CV004@ INDI
@@ -4909,34 +4935,64 @@
 1 BIRT
 2 DATE 5 JUL 1917
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S167@
+2 SOUR @S171@
+2 SOUR @S172@
 1 DEAT
 2 DATE 12 DEC 2001
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S167@
+2 SOUR @S171@
+2 SOUR @S172@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S167@
+2 SOUR @S171@
 1 NOTE Spelling variants: Cavalieri (birth surname)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Angelo Salvatore Cavalier (veteran), born 5 Jul 1917, Old Forge; died 12 Dec 2001 (aged 84), Scranton; “birth surname Cavalieri.” Son of Salvatore and Raffaella
 2 CONC ; brother of Mary and Frances; wife Helen Klepadlo Cavalier. His obituary was not found, so his children (if any) are unknown.
-2 SOUR @S167@
+2 SOUR @S171@
+3 QUAY 2
+1 NOTE [Record; likely] Social Security Death Index (LocateAncestors abstract): Angelo S. Cavalier, born 5 Jul 1917, died 12 Dec 2001, last residence Scranton. Agrees with Find a Grave.
+2 SOUR @S172@
 3 QUAY 2
 1 FAMS @F114@
 1 FAMC @F113@
 0 @CV005@ INDI
-1 NAME Helen /Klepadlo/
-2 GIVN Helen
+1 NAME Helen “Len” /Klepadlo/
+2 GIVN Helen “Len”
 2 SURN Klepadlo
-1 NAME Helen /Cavalier/
+1 NAME Helen “Len” /Cavalier/
 2 TYPE married
 1 SEX F
+1 BIRT
+2 DATE 1918
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S173@
+2 SOUR @S172@
+1 DEAT
+2 DATE 27 NOV 1997
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S173@
+2 SOUR @S172@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S173@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
-1 NOTE [Record; likely] Wife of Angelo Salvatore Cavalier (“Helen Len Klepadlo Cavalier”), per the Find a Grave family links on his memorial. Her dates were not read.
-2 SOUR @S167@
+1 NOTE [Record; likely] Find a Grave memorial: Helen Len Klepadlo Cavalier, born 4 Mar 1918, Scranton (bio: “alternate birth date of 4 Jan 1918”); died 27 Nov 1997 (aged 79), Scranton; Sacred Hearts of Jesu
+2 CONC s and Mary Cemetery. Bio: “Wife of Angelo S. Cavalier.” Parents Boleslaw Antoni Klepadlo and Waleria Sadowski; siblings Anna Mazur, Joseph John, John Anthony, Stanley John, Francis Joseph “Frank” Klep
+2 CONC adlo and Catherine M. Kosar (see the Klepadlo family chart).
+2 SOUR @S173@
 3 QUAY 2
+1 NOTE [Record; likely] Social Security Death Index (LocateAncestors abstract): Helen Cavalier, born 13 Jan 1918, died 27 Nov 1997, last residence Scranton (same ZIP code as Angelo S. Cavalier, d. 2001).
+2 SOUR @S172@
+3 QUAY 2
+1 NOTE [Conflict; unconfirmed] Birth date: 4 Mar 1918 (Find a Grave), 4 Jan 1918 (alternate date in the same memorial bio) and 13 Jan 1918 (Social Security Death Index). The card shows only 1918 until a birt
+2 CONC h or baptism record settles it. Death date 27 Nov 1997 agrees in both sources.
+2 SOUR @S173@
+3 QUAY 1
+2 SOUR @S172@
+3 QUAY 1
 1 FAMS @F114@
+1 FAMC @F121@
 0 @I183@ INDI
 1 NAME Living
 1 SEX M
@@ -4949,6 +5005,488 @@
 1 NAME Living
 1 SEX F
 1 FAMS @F097@
+0 @PC001@ INDI
+1 NAME Lorenzo “Lawrence” /Semenza/
+2 GIVN Lorenzo “Lawrence”
+2 SURN Semenza
+1 SEX M
+1 BIRT
+2 DATE 1866
+2 PLAC Italy
+2 SOUR @S174@
+2 SOUR @S168@
+1 DEAT
+2 DATE 6 NOV 1922
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S174@
+2 SOUR @S168@
+1 BURI
+2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S174@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Lorenzo “Lawrence” Semenza, born 1866, Italy; died 6 Nov 1922, Old Forge; Cathedral Cemetery, Scranton. Bio: “Storekeeper, aged 52 years. Son of Giovanni Semenz
+2 CONC a and Nancy Vasalla.” (The bio’s age 52 does not fit a 1866 birth; memorial dates kept as shown.) Wife: Rosaria Pilosi Semenza. Children linked: Margaret (Semenez) Ripa, Nancy (Semenza) Tenneriello, A
+2 CONC ngela (Semenza) Piccolini, Vera R., Margaret, Lawrence Vincent, John Francis, Viola E. (Semenza) Featherstonhaugh and Rocco V. Semenza (their dates were not read).
+2 SOUR @S174@
+3 QUAY 2
+1 NOTE [Record; likely] Maternal grandfather of Rosemarie A. (Piccolini) Ciuccio, whose 2016 obituary names her mother as Angela Semenza Piccolini.
+2 SOUR @S174@
+3 QUAY 2
+2 SOUR @S168@
+3 QUAY 2
+2 SOUR @S128@
+3 QUAY 2
+1 FAMS @F115@
+0 @PC002@ INDI
+1 NAME Rosaria /Pilosi/
+2 GIVN Rosaria
+2 SURN Pilosi
+1 NAME Rosaria /Semenza/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1873
+2 SOUR @S175@
+1 DEAT
+2 DATE 1961
+2 SOUR @S175@
+1 BURI
+2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S175@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Rosaria Pilosi Semenza, 1873–1961, Cathedral Cemetery, Scranton; wife of Lorenzo Semenza, mother of Angela Semenza Piccolini and the siblings listed on Lorenzo’
+2 CONC s card.
+2 SOUR @S175@
+3 QUAY 2
+1 FAMS @F115@
+0 @PC003@ INDI
+1 NAME Angela /Semenza/
+2 GIVN Angela
+2 SURN Semenza
+1 NAME Angela /Piccolini/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE OCT 1899
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S168@
+2 SOUR @S128@
+1 DEAT
+2 DATE 21 MAR 1988
+2 PLAC Taylor, Lackawanna, Pennsylvania, USA
+2 SOUR @S168@
+2 SOUR @S128@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S168@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Angela Semenza Piccolini, born Oct 1899, Old Forge; died 21 Mar 1988 (aged 88), Taylor, Pa.; Old Forge Cemetery. Parents Lorenzo “Lawrence” Semenza and Rosari
+2 CONC a Pilosi; husband Vincenzo “Jimmy” Piccolini; children Rosemarie Ann Ciuccio, Lenore L. Ilaria, Louis Joseph and Vincent A. Piccolini Sr.
+2 SOUR @S168@
+3 QUAY 2
+1 NOTE [Record; confirmed] Mother of Rosemarie A. Ciuccio (“daughter of the late James and Angela Semenza Piccolini”, 2016 obituary) and of Louis J. and Vincent A. Piccolini (their 2001 and 2009 obituaries).
+2 SOUR @S128@
+3 QUAY 3
+2 SOUR @S166@
+3 QUAY 3
+2 SOUR @S167@
+3 QUAY 3
+1 FAMS @F116@
+1 FAMC @F115@
+0 @PC004@ INDI
+1 NAME Vincenzo “Jimmy” /Piccolini/
+2 GIVN Vincenzo “Jimmy”
+2 SURN Piccolini
+1 SEX M
+1 BIRT
+2 DATE 20 MAY 1894
+2 PLAC Montecelio, Roma, Lazio, Italy
+2 SOUR @S176@
+2 SOUR @S128@
+1 DEAT
+2 DATE 8 AUG 1967
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S176@
+2 SOUR @S128@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S176@
+1 NOTE Spelling variants: James Piccolini (daughter Rosemarie’s 2016 obituary)
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Vincenzo “Jimmy” Piccolini (veteran), born 20 May 1894, Montecelio, Rome, Italy; died 8 Aug 1967 (aged 73), Scranton; Old Forge Cemetery. Bio: son of Luigi an
+2 CONC d Rosa Mezzanatte Piccolini; slightly wounded in action 23 Oct 1918 (presumably Meuse-Argonne, France); coal miner.
+2 SOUR @S176@
+3 QUAY 2
+1 NOTE [Record; confirmed] Called “James” in daughter Rosemarie’s 2016 obituary and “Vincenzo (Jimmy)” in son Vincent’s 2009 obituary. Same man: Jimmy is the American nickname.
+2 SOUR @S128@
+3 QUAY 3
+2 SOUR @S167@
+3 QUAY 3
+1 FAMS @F116@
+0 @PC010@ INDI
+1 NAME Lenore L. /Piccolini/
+2 GIVN Lenore L.
+2 SURN Piccolini
+1 NAME Lenore L. /Ilaria/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 14 JAN 1930
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S177@
+2 SOUR @S166@
+1 DEAT
+2 DATE 23 APR 2015
+2 PLAC Saylorsburg, Monroe, Pennsylvania, USA
+2 SOUR @S177@
+2 SOUR @S166@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S177@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Lenore L. Piccolini Ilaria, born 14 Jan 1930, Old Forge; died 23 Apr 2015 (aged 85), Saylorsburg, Pa.; Old Forge Cemetery. Bio: married Carl R. Scarlata in 195
+2 CONC 0 (“presumed mother of Randall V. Scarlata”) and Alfons A. Ilaria in 1964.
+2 SOUR @S177@
+3 QUAY 2
+1 NOTE [Record; confirmed] Named as sister “Lenore Ilaria” in brother Louis’s 2001 obituary (Staten Island, N.Y.) and brother Vincent’s 2009 obituary (Woodbridge, N.J.); named as predeceased sister “Lenore I
+2 CONC laria” in Rosemarie Ciuccio’s 2016 obituary.
+2 SOUR @S166@
+3 QUAY 3
+2 SOUR @S167@
+3 QUAY 3
+2 SOUR @S128@
+3 QUAY 3
+1 FAMC @F116@
+0 @PC011@ INDI
+1 NAME Louis Joseph “Buddy” /Piccolini/
+2 GIVN Louis Joseph “Buddy”
+2 SURN Piccolini
+1 NAME Louis J. “Buddy” Piccolini
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 2 JUL 1932
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S166@
+2 SOUR @S178@
+1 DEAT
+2 DATE 23 AUG 2001
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S166@
+2 SOUR @S178@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S166@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; confirmed] Obituary (Times Leader, 25 Aug 2001): Louis J. “Buddy” Piccolini of Old Forge died Thursday [23 Aug 2001] at the Northeastern Veterans Center, Scranton. Son of the late Vincenzo an
+2 CONC d Angela (Semenza) Piccolini; Old Forge H.S. 1950; co-owned Valley Auto Parts, Old Forge; U.S. Navy veteran. Survived by his wife, the former Alice D. Francis; son Louis “Buddy”; daughters Donna Nyzi
+2 CONC o and Gayle Piccolini; six grandchildren; brother Vincent; sisters Rosemarie Ciuccio and Lenore Ilaria. Interment Old Forge Cemetery.
+2 SOUR @S166@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Death place: Find a Grave says Philadelphia; his obituary says the Northeastern Veterans Center, Scranton. The tree uses Scranton from the obituary.
+2 SOUR @S178@
+3 QUAY 1
+2 SOUR @S166@
+3 QUAY 1
+1 NOTE [Record; likely] Find a Grave memorial: Louis Joseph Piccolini, born 2 Jul 1932, Old Forge; died 23 Aug 2001; Old Forge Cemetery; Navy, Korea, enlisted 5 Mar 1952, discharged 23 Dec 1953.
+2 SOUR @S178@
+3 QUAY 2
+1 FAMS @F117@
+1 FAMC @F116@
+0 @PC012@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F117@
+0 @PC013@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F117@
+0 @PC014@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F117@
+0 @PC015@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F117@
+0 @PC016@ INDI
+1 NAME Vincent A. Sr. /Piccolini/
+2 GIVN Vincent A. Sr.
+2 SURN Piccolini
+1 NAME Vincent A. Piccolini Sr.
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 3 AUG 1934
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S167@
+1 DEAT
+2 DATE 30 DEC 2009
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S167@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S167@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; confirmed] Obituary (text on his Find a Grave memorial): Vincent A. Piccolini Sr., 75, of Old Forge, died 30 Dec 2009 in the VNA Hospice Unit, Community Medical Center (Scranton). Son of th
+2 CONC e late Vincenzo (Jimmy) and Angela Semenza Piccolini; Old Forge H.S. 1952; co-founded Valley Auto Parts in 1960 with brother Louis “Buddy”; U.S. Navy 1954–1956 (radar operator, USS Mississippi). Survi
+2 CONC ved by wife Marie Carra Piccolini (married 11 Feb 1956); son Vince Jr. (wife Paula); daughter Denise Slack (husband Will); sisters Rosemarie Ciuccio and Lenore Ilaria; five grandchildren Amanda Slack
+2 CONC , Vince Piccolini III, Dustin Slack, Michele Piccolini and Anthony Piccolini. Predeceased by brother Louis “Buddy”. It thanks “Rosemary and Louis Febbo” (his niece and her husband). Victor M. Ferri Fu
+2 CONC neral Home; Old Forge Cemetery.
+2 SOUR @S167@
+3 QUAY 3
+1 FAMS @F118@
+1 FAMC @F116@
+0 @PC017@ INDI
+1 NAME Marie /Carra/
+2 GIVN Marie
+2 SURN Carra
+2 NICK Jitterbug
+1 NAME Marie /Piccolini/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 1 OCT 1931
+2 PLAC Dunmore, Lackawanna, Pennsylvania, USA
+2 SOUR @S179@
+1 DEAT
+2 DATE 3 AUG 2011
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S179@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S179@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; confirmed] Obituary (text on her Find a Grave memorial): Marie Piccolini, 79, of Old Forge, died Wednesday [3 Aug 2011] soon after admission to the Regional Hospital of Scranton; widow of Vin
+2 CONC cent A. Piccolini Sr. (d. 30 Dec 2009). Born in Dunmore, daughter of the late Charles and Theresa “Tessie” Killino Carra; raised in Old Forge after her father died when she was 6; Old Forge H.S. 194
+2 CONC 9 (known as “Jitterbug”). The text read does not include a survivors list.
+2 SOUR @S179@
+3 QUAY 3
+1 FAMS @F118@
+0 @PC018@ INDI
+1 NAME Living
+1 SEX M
+1 FAMS @F119@
+1 FAMC @F118@
+0 @PC019@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F119@
+0 @PC020@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F120@
+1 FAMC @F118@
+0 @PC021@ INDI
+1 NAME Living
+1 SEX M
+1 FAMS @F120@
+0 @KL001@ INDI
+1 NAME Boleslaw Antoni /Klepadlo/
+2 GIVN Boleslaw Antoni
+2 SURN Klepadlo
+1 SEX M
+1 BIRT
+2 DATE 13 JAN 1889
+2 PLAC Poland
+2 SOUR @S180@
+2 SOUR @S173@
+1 DEAT
+2 DATE 25 NOV 1953
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S180@
+2 SOUR @S173@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S180@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Boleslaw Antoni Klepadlo, born 13 Jan 1889, Poland (bio: Nowa Wieś, “but there are many ‘new villages’”); died 25 Nov 1953 (aged 64), Scranton; Sacred Hearts o
+2 CONC f Jesus and Mary Cemetery. Bio: son of John and Victoria Klepadlo. Father of Helen (Klepadlo) Cavalier, through the family links on her memorial.
+2 SOUR @S180@
+3 QUAY 2
+2 SOUR @S173@
+3 QUAY 2
+1 FAMS @F121@
+0 @KL002@ INDI
+1 NAME Waleria /Sadowski/
+2 GIVN Waleria
+2 SURN Sadowski
+1 NAME Waleria /Klepadlo/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 4 MAR 1896
+2 PLAC Poland
+2 SOUR @S181@
+1 DEAT
+2 DATE 24 DEC 1975
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S181@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S181@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Waleria Sadowski Klepadlo, born 4 Mar 1896, Poland (bio: Nowa Wieś); died 24 Dec 1975 (aged 79), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Bio: daught
+2 CONC er of Anthony and Anna Sadowski. Wife of Boleslaw; mother of Helen Cavalier and her six siblings.
+2 SOUR @S181@
+3 QUAY 2
+1 FAMS @F121@
+0 @KL003@ INDI
+1 NAME Anna /Klepadlo/
+2 GIVN Anna
+2 SURN Klepadlo
+1 NAME Anna /Mazur/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 23 JUN 1914
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S182@
+2 SOUR @S173@
+1 DEAT
+2 DATE 6 SEP 1962
+2 PLAC Blakely, Lackawanna, Pennsylvania, USA
+2 SOUR @S182@
+2 SOUR @S173@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S182@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Anna Klepadlo Mazur, born 23 Jun 1914, Scranton; died 6 Sep 1962 (aged 48), Blakely, Pa.; silk worker when she married; Sacred Hearts of Jesus and Mary Cemetery
+2 CONC . Sister of Helen Cavalier. Husband’s first name not read.
+2 SOUR @S182@
+3 QUAY 2
+2 SOUR @S173@
+3 QUAY 2
+1 FAMC @F121@
+0 @KL004@ INDI
+1 NAME Joseph John /Klepadlo/
+2 GIVN Joseph John
+2 SURN Klepadlo
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1920
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S183@
+2 SOUR @S173@
+1 DEAT
+2 DATE 27 JAN 1986
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S183@
+2 SOUR @S173@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S183@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Joseph John Klepadlo (veteran), born 19 Feb 1920, Scranton; died 27 Jan 1986 (aged 65), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Brother of Helen Cav
+2 CONC alier (family links).
+2 SOUR @S183@
+3 QUAY 2
+2 SOUR @S173@
+3 QUAY 2
+1 FAMC @F121@
+0 @KL005@ INDI
+1 NAME John Anthony /Klepadlo/
+2 GIVN John Anthony
+2 SURN Klepadlo
+1 SEX M
+1 BIRT
+2 DATE 19 NOV 1921
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S184@
+2 SOUR @S173@
+1 DEAT
+2 DATE 6 MAY 1992
+2 PLAC Nanticoke, Luzerne, Pennsylvania, USA
+2 SOUR @S184@
+2 SOUR @S173@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S184@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: John Anthony Klepadlo (veteran), born 19 Nov 1921, Scranton; died 6 May 1992 (aged 70), Nanticoke, Pa.; Sacred Hearts of Jesus and Mary Cemetery. Brother of Hel
+2 CONC en Cavalier (family links).
+2 SOUR @S184@
+3 QUAY 2
+2 SOUR @S173@
+3 QUAY 2
+1 FAMC @F121@
+0 @KL006@ INDI
+1 NAME Stanley John /Klepadlo/
+2 GIVN Stanley John
+2 SURN Klepadlo
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 1924
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S185@
+1 DEAT
+2 DATE 24 AUG 1951
+2 PLAC Chester County, Pennsylvania, USA
+2 SOUR @S185@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S185@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Stanley John Klepadlo (veteran), born 18 Jan 1924, Scranton; died 24 Aug 1951 (aged 27), Chester County, Pa. (accidental death); never married; served in the 50
+2 CONC 3rd Military Police Company, 3rd Armored Division, in World War II. Sacred Hearts of Jesus and Mary Cemetery.
+2 SOUR @S185@
+3 QUAY 2
+1 FAMC @F121@
+0 @KL007@ INDI
+1 NAME Francis Joseph “Frank” /Klepadlo/
+2 GIVN Francis Joseph “Frank”
+2 SURN Klepadlo
+1 SEX M
+1 BIRT
+2 DATE 5 OCT 1926
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S186@
+2 SOUR @S173@
+1 DEAT
+2 DATE 10 APR 1998
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S186@
+2 SOUR @S173@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S186@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Francis Joseph “Frank” Klepadlo (veteran), born 5 Oct 1926, Scranton; died 10 Apr 1998 (aged 71), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Brother o
+2 CONC f Helen Cavalier (family links).
+2 SOUR @S186@
+3 QUAY 2
+2 SOUR @S173@
+3 QUAY 2
+1 FAMC @F121@
+0 @KL008@ INDI
+1 NAME Catherine M. /Klepadlo/
+2 GIVN Catherine M.
+2 SURN Klepadlo
+1 NAME Catherine M. /Kosar/
+2 TYPE married
+1 SEX F
+1 BIRT
+2 DATE 25 JUN 1928
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S187@
+2 SOUR @S173@
+1 DEAT
+2 DATE 24 DEC 1995
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S187@
+2 SOUR @S173@
+1 BURI
+2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S187@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Catherine M. Klepadlo Kosar, born 25 Jun 1928, Scranton; died 24 Dec 1995 (aged 67), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Sister of Helen Cavalie
+2 CONC r (family links). Her obituary was not found.
+2 SOUR @S187@
+3 QUAY 2
+2 SOUR @S173@
+3 QUAY 2
+1 FAMC @F121@
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -5466,6 +6004,44 @@
 0 @F114@ FAM
 1 HUSB @CV004@
 1 WIFE @CV005@
+0 @F115@ FAM
+1 HUSB @PC001@
+1 WIFE @PC002@
+1 CHIL @PC003@
+0 @F116@ FAM
+1 HUSB @PC004@
+1 WIFE @PC003@
+1 CHIL @CI004@
+1 CHIL @PC010@
+1 CHIL @PC011@
+1 CHIL @PC016@
+0 @F117@ FAM
+1 HUSB @PC011@
+1 WIFE @PC012@
+1 CHIL @PC013@
+1 CHIL @PC014@
+1 CHIL @PC015@
+0 @F118@ FAM
+1 HUSB @PC016@
+1 WIFE @PC017@
+1 CHIL @PC018@
+1 CHIL @PC020@
+0 @F119@ FAM
+1 HUSB @PC018@
+1 WIFE @PC019@
+0 @F120@ FAM
+1 HUSB @PC021@
+1 WIFE @PC020@
+0 @F121@ FAM
+1 HUSB @KL001@
+1 WIFE @KL002@
+1 CHIL @KL003@
+1 CHIL @CV005@
+1 CHIL @KL004@
+1 CHIL @KL005@
+1 CHIL @KL006@
+1 CHIL @KL007@
+1 CHIL @KL008@
 0 @S001@ SOUR
 1 TITL Interview of Norma (Mazzaccaro) Azzolini by her son Tim Azzolini, Old Forge, Pa., 31 Oct 2026; relayed notes (interview-summary-2026-10-31.md). Narrative kept in the separate interview-context documen
 2 CONC t.
@@ -5960,12 +6536,72 @@
 1 TITL “Old Forge woman dies in crash”, The Times-Tribune, 4 June 2016
 1 NOTE URL: https://www.thetimes-tribune.com/2016/06/04/old-forge-woman-dies-in-crash/
 0 @S165@ SOUR
+1 TITL Find a Grave, memorial 163938827: Rosemarie Ann Piccolini Ciuccio (1928–2016), Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/163938827/rosemarie_ann-ciuccio
+0 @S166@ SOUR
+1 TITL “Louis Piccolini” obituary, Times Leader (Wilkes-Barre), 25 Aug 2001, p. 8A (Times Leader digital archive)
+1 NOTE URL: https://archive.timesleader.com/article/1007433/louis-piccolini
+0 @S167@ SOUR
+1 TITL Find a Grave, memorial 46226698: Vincent A. Piccolini Sr. (1934–2009), veteran, Old Forge Cemetery (includes obituary text)
+1 NOTE URL: https://www.findagrave.com/memorial/46226698/vincent_a-piccolini
+0 @S168@ SOUR
+1 TITL Find a Grave, memorial 197552025: Angela Semenza Piccolini (1899–1988), Old Forge Cemetery (family links)
+1 NOTE URL: https://www.findagrave.com/memorial/197552025/angela-piccolini
+0 @S169@ SOUR
 1 TITL Find a Grave, memorial 234515553: Raffaella Pugliano Cavalieri (1884–1979), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/234515553/raffaella-cavalieri
-0 @S166@ SOUR
+0 @S170@ SOUR
 1 TITL Find a Grave, memorial 234516456: Mary Cavalieri (1911–2006), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/234516456/mary-cavalieri
-0 @S167@ SOUR
+0 @S171@ SOUR
 1 TITL Find a Grave, memorial 284960804: Angelo Salvatore Cavalier (1917–2001), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/284960804/angelo-salvatore-cavalier
+0 @S172@ SOUR
+1 TITL LocateAncestors, “Cavalier – Pennsylvania” (Social Security Death Index abstracts; numbers not copied)
+1 NOTE URL: https://www.locateancestors.com/cavalier-pennsylvania/
+0 @S173@ SOUR
+1 TITL Find a Grave, memorial 235931980: Helen Len Klepadlo Cavalier (1918–1997), Sacred Hearts of Jesus and Mary Cemetery, Scranton (family links)
+1 NOTE URL: https://www.findagrave.com/memorial/235931980/helen_len-cavalier
+0 @S174@ SOUR
+1 TITL Find a Grave, memorial 156783007: Lorenzo “Lawrence” Semenza (1866–1922), Cathedral Cemetery, Scranton (bio and family links)
+1 NOTE URL: https://www.findagrave.com/memorial/156783007/lorenzo-semenza
+0 @S175@ SOUR
+1 TITL Find a Grave, memorial 232592639: Rosaria Pilosi Semenza (1873–1961), Cathedral Cemetery, Scranton
+1 NOTE URL: https://www.findagrave.com/memorial/232592639/rosaria-semenza
+0 @S176@ SOUR
+1 TITL Find a Grave, memorial 233158333: Vincenzo “Jimmy” Piccolini (1894–1967), veteran, Old Forge Cemetery (bio and family links)
+1 NOTE URL: https://www.findagrave.com/memorial/233158333/vincenzo-piccolini
+0 @S177@ SOUR
+1 TITL Find a Grave, memorial 234002661: Lenore L. Piccolini Ilaria (1930–2015), Old Forge Cemetery (bio)
+1 NOTE URL: https://www.findagrave.com/memorial/234002661/lenore_l-ilaria
+0 @S178@ SOUR
+1 TITL Find a Grave, memorial 185552825: Louis Joseph Piccolini (1932–2001), Navy veteran, Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/185552825/louis_joseph-piccolini
+0 @S179@ SOUR
+1 TITL Find a Grave, memorial 133556421: Marie Carra Piccolini (1931–2011), Old Forge Cemetery (includes obituary text)
+1 NOTE URL: https://www.findagrave.com/memorial/133556421/marie-piccolini
+0 @S180@ SOUR
+1 TITL Find a Grave, memorial 235932525: Boleslaw Antoni Klepadlo (1889–1953), Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
+1 NOTE URL: https://www.findagrave.com/memorial/235932525/boleslaw_antoni-klepadlo
+0 @S181@ SOUR
+1 TITL Find a Grave, memorial 235931799: Waleria Sadowski Klepadlo (1896–1975), Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
+1 NOTE URL: https://www.findagrave.com/memorial/235931799/waleria-klepadlo
+0 @S182@ SOUR
+1 TITL Find a Grave, memorial 262459131: Anna Klepadlo Mazur (1914–1962), Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
+1 NOTE URL: https://www.findagrave.com/memorial/262459131/anna-mazur
+0 @S183@ SOUR
+1 TITL Find a Grave, memorial 262458483: Joseph John Klepadlo (1920–1986), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
+1 NOTE URL: https://www.findagrave.com/memorial/262458483/joseph_john-klepadlo
+0 @S184@ SOUR
+1 TITL Find a Grave, memorial 262454644: John Anthony Klepadlo (1921–1992), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
+1 NOTE URL: https://www.findagrave.com/memorial/262454644/john_anthony-klepadlo
+0 @S185@ SOUR
+1 TITL Find a Grave, memorial 262457774: Stanley John Klepadlo (1924–1951), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
+1 NOTE URL: https://www.findagrave.com/memorial/262457774/stanley_john-klepadlo
+0 @S186@ SOUR
+1 TITL Find a Grave, memorial 262458848: Francis Joseph “Frank” Klepadlo (1926–1998), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
+1 NOTE URL: https://www.findagrave.com/memorial/262458848/francis_joseph-klepadlo
+0 @S187@ SOUR
+1 TITL Find a Grave, memorial 235931679: Catherine M. Klepadlo Kosar (1928–1995), Sacred Hearts of Jesus and Mary Cemetery, Scranton
+1 NOTE URL: https://www.findagrave.com/memorial/235931679/catherine_m-kosar
 0 TRLR
