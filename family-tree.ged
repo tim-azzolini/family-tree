@@ -1870,6 +1870,12 @@
 3 QUAY 3
 2 SOUR @S071@
 3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birth date: 25 Jan 1907 in three SSA abstracts (Numident death record and Death Master Files), but one SSA source in the same abstract gives 25 Nov 1907. The tree keeps 25 Ja
+2 CONC n 1907. No parents are named in the public SSA abstract, so her DiNicolo parents are still unidentified.
+2 SOUR @S118@
+3 QUAY 1
+2 SOUR @S116@
+3 QUAY 1
 1 FAMS @F062@
 0 @A010@ INDI
 1 NAME Patrick /Azzolini/
@@ -2192,12 +2198,12 @@
 2 DATE 21 JAN 1888
 2 PLAC Italy
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 DEAT
 2 DATE 1 JUL 1959
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
 2 SOUR @S110@
@@ -2206,11 +2212,11 @@
 1 NOTE [Record; confirmed] Father of Mary (Febbo) Mazzaccaro Yaniello and of Jennie Febo Resavy; named “the late David” in both obituaries.
 2 SOUR @S110@
 3 QUAY 3
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial “David A. Febo”: born 21 Jan 1888, Italy; died 1 Jul 1959, Taylor, Pa.; buried Marcy Cemetery, Duryea. Family links: wife Julia DeGennaro Febo; children Josephin
 2 CONC e Bruno, Louis Vincent Febbo, Ann Wollner, Mary Yaniello, Jennie Resavy, Nora Madrak (matches the tree).
-2 SOUR @S119@
+2 SOUR @S120@
 3 QUAY 2
 1 FAMS @F070@
 0 @FB002@ INDI
@@ -2224,12 +2230,12 @@
 2 DATE 9 MAY 1900
 2 PLAC Italy
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 DEAT
 2 DATE 21 MAR 1961
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
 2 SOUR @S110@
@@ -2238,10 +2244,10 @@
 1 NOTE [Record; confirmed] Mother of Mary and Jennie (“the late … Julia DiGennari Febbo/Febo”).
 2 SOUR @S110@
 3 QUAY 3
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial “Julia DeGennaro Febo”: born 9 May 1900, Italy; died 21 Mar 1961, Old Forge; buried Marcy Cemetery, Duryea, with husband David A. Febo; same six children linked.
-2 SOUR @S120@
+2 SOUR @S121@
 3 QUAY 2
 1 FAMS @F070@
 0 @FB010@ INDI
@@ -2255,12 +2261,12 @@
 2 DATE 10 MAY 1916
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 DEAT
 2 DATE 1 SEP 1995
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Pennsylvania, USA
 2 SOUR @S110@
@@ -2268,11 +2274,11 @@
 1 NOTE [Record; confirmed] Brother of Mary; listed as predeceased in Mary’s 2017 and Jennie’s 2007 obituaries.
 2 SOUR @S110@
 3 QUAY 3
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; likely] Times Leader death notice: “Louis V. Febbo, of Connell Street, Old Forge, died Friday [1 Sept. 1995] at Mercy Hospital, Scranton.” Taken to be the same Louis (Connell St. is the famil
 2 CONC y street).
-2 SOUR @S121@
+2 SOUR @S122@
 3 QUAY 2
 1 NOTE [Record; confirmed] Full obituary read: born in Old Forge, son of the late David and Julia De Gennari Febbo; Old Forge H.S. graduate; worked for the Pennsylvania Liquor Control Board. He and his wife
 2 CONC , the former Frances Cavalier, would have marked their 57th anniversary on 3 Dec (so married ABT 3 Dec 1938). Scranton Junior Football Conference commissioner; Old Forge Little League commissioner an
@@ -2280,11 +2286,11 @@
 2 CONC r Lackawanna Valley Sewer Authority; St. Mary’s Church. Preceded in death by a granddaughter, Julie, and sisters Angeline Glodzik, Ann Wollner and Josephine Bruno. Survived by his wife; sons David A.
 2 CONC , Louis F. and Robert J.; daughter Julie Ann Belotti; sisters Mary Yanniello, Jennie Resavy and Nora Madrak; 12 grandchildren and 4 great-grandchildren. Louis V. Ciuccio Funeral Home; interment Old Fo
 2 CONC rge Cemetery.
-2 SOUR @S121@
+2 SOUR @S122@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial “Louis Vincent Febbo”: born 10 May 1916, Old Forge; died 1 Sep 1995 (aged 79), Scranton; Old Forge Cemetery. Bio: “Son of David and Julia Gennari DeFebbo.” Wif
 2 CONC e linked: Frances Vivian Cavalier Febbo.
-2 SOUR @S122@
+2 SOUR @S123@
 3 QUAY 2
 1 FAMS @F071@
 1 FAMC @F070@
@@ -2298,30 +2304,30 @@
 1 BIRT
 2 DATE 3 MAR 1916
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
-2 SOUR @S121@
+2 SOUR @S124@
+2 SOUR @S122@
 1 DEAT
 2 DATE 30 NOV 2005
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
-2 SOUR @S121@
+2 SOUR @S124@
+2 SOUR @S122@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
+2 SOUR @S124@
 1 NOTE Spelling variants: Cavalieri (family birth surname, parents’ memorials); “Francis” (son Louis F.’s 2025 obituary)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] “Francis Cavalier Febbo”, the late mother of Louis F. Febbo (2025 obituary); wife of Louis Febbo. Link to this Louis is inferred (see Louis F.).
-2 SOUR @S123@
+2 SOUR @S124@
 3 QUAY 2
 1 NOTE [Record; confirmed] Named “the former Frances Cavalier” in her husband Louis V. Febbo’s 1995 obituary; married ABT Dec 1938 (57th anniversary would have been 3 Dec 1995). This confirms she is the moth
 2 CONC er of Louis F.
-2 SOUR @S121@
+2 SOUR @S122@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial “Frances Vivian Cavalier Febbo”: born 3 Mar 1916, Old Forge; died 30 Nov 2005 (aged 89), Scranton; Old Forge Cemetery. Linked to husband Louis Vincent Febbo an
 2 CONC d to parents Salvatore Cavalieri and Raffaella Pugliano Cavalieri, with siblings Mary Cavalieri and Angelo Salvatore Cavalier.
-2 SOUR @S124@
-3 QUAY 2
 2 SOUR @S125@
+3 QUAY 2
+2 SOUR @S126@
 3 QUAY 2
 1 FAMS @F071@
 1 FAMC @F113@
@@ -2338,24 +2344,24 @@
 2 DATE 10 NOV 1914
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 DEAT
 2 DATE 5 JUN 1995
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
 2 SOUR @S110@
 3 QUAY 3
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Josephine Jean Febo Bruno, born 10 Nov 1914 in Old Forge, daughter of David Febo and Julia “DeGinary”; died 5 Jun 1995. Listed as predeceased in brother Loui
 2 CONC s’s Sept. 1995 obituary, which fits.
-2 SOUR @S135@
-3 QUAY 3
 2 SOUR @S136@
 3 QUAY 3
-2 SOUR @S121@
+2 SOUR @S137@
+3 QUAY 3
+2 SOUR @S122@
 3 QUAY 3
 1 FAMC @F070@
 0 @FB013@ INDI
@@ -2371,23 +2377,23 @@
 2 DATE 10 JUL 1918
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 DEAT
 2 DATE 30 SEP 1992
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 NOTE Spelling variants: Anna Rose Febbo
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
 2 SOUR @S110@
 3 QUAY 3
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Ann Rose (Anna Rose Febbo) Wollner, born 10 Jul 1918 in Old Forge, daughter of David Febbo and Julia DiGennari; died 30 Sep 1992.
-2 SOUR @S137@
+2 SOUR @S138@
 3 QUAY 3
 1 NOTE [Record; confirmed] Her son Daniel J. Wollner’s 2022 obituary calls him the son of “the late Paul and Ann Febbo Wollner”, so her husband was Paul Wollner.
-2 SOUR @S138@
+2 SOUR @S139@
 3 QUAY 3
 1 FAMS @F077@
 1 FAMC @F070@
@@ -2404,12 +2410,12 @@
 2 DATE 24 OCT 1924
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 DEAT
 2 DATE 6 DEC 1995
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
 2 SOUR @S110@
@@ -2417,21 +2423,21 @@
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary.
 2 SOUR @S110@
 3 QUAY 3
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Nora Catherine Febo Madrak, born 24 Oct 1924 in Old Forge, daughter of David Febo and Julia DeGennaro; died Dec 1995. The Times Leader notice says Nora C. Ma
 2 CONC drak of Old Forge died Wednesday [6 Dec 1995] at Community Medical Center, Scranton (only the headline was readable). She is listed as a living sister in Louis’s Sept. 1995 obituary.
-2 SOUR @S139@
-3 QUAY 3
 2 SOUR @S140@
 3 QUAY 3
-2 SOUR @S121@
+2 SOUR @S141@
+3 QUAY 3
+2 SOUR @S122@
 3 QUAY 3
 1 NOTE [Record; confirmed] Full obituary (Times Leader, 7 Dec 1995): daughter of the late David and Julia DeGennari Febbo; Old Forge H.S. graduate; member of St. Mary’s Church. “She and her husband, Stanle
 2 CONC y J., celebrated their 45th wedding anniversary on April 29” (so married ABT 29 Apr 1950). Preceded in death by brother Louis Febbo and sisters Angeline Glodzik, Ann Wollner and Josephine Bruno. Survi
 2 CONC ved by her husband; son Stanley J. Jr.; daughters Donna Skutack and Linda English; sisters Mary Yaniello and Jennie Resavy; three grandchildren. Louis V. Ciuccio Funeral Home; interment Marcy Cemetery
 2 CONC , Duryea. This replaces the earlier “husband not identified” note.
-2 SOUR @S140@
+2 SOUR @S141@
 3 QUAY 3
 1 FAMS @F079@
 1 FAMC @F070@
@@ -2449,30 +2455,30 @@
 2 DATE 1 SEP 1926
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 DEAT
 2 DATE 18 APR 1981
 2 SOUR @S110@
-2 SOUR @S118@
+2 SOUR @S119@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Mary (Febbo) Mazzaccaro Yaniello; predeceased her (2017 obituary) and also listed as predeceased in sister Jennie’s 2007 obituary (as “Angie Glodzik”).
 2 SOUR @S110@
 3 QUAY 3
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Angeline Ann Febo Glodzik, born 1 Sep 1926 in Old Forge, daughter of David Febo and Julia DeGenaro; died Apr 1981. The same index lists a son, Chester M. Glo
 2 CONC dzik (born 16 Jun 1951, Old Forge; died 4 Nov 1996), whose parents are Angeline Febo and Chester Glodzik.
-2 SOUR @S143@
+2 SOUR @S144@
 3 QUAY 3
-2 SOUR @S136@
+2 SOUR @S137@
 3 QUAY 3
 1 NOTE [Record; confirmed] Her husband’s 1996 obituary says he was “preceded in death by his wife, the former Angeline Febo, on April 18, 1981” (exact date; SSA abstract gives Apr 1981). Her son Chester Jr.’
 2 CONC s 1996 obituary names his parents as “the late Chester M. and Angelina Febbo Glodzik Sr.”
-2 SOUR @S144@
-3 QUAY 3
 2 SOUR @S145@
 3 QUAY 3
-2 SOUR @S143@
+2 SOUR @S146@
+3 QUAY 3
+2 SOUR @S144@
 3 QUAY 3
 1 FAMS @F080@
 1 FAMC @F070@
@@ -2488,28 +2494,28 @@
 1 BIRT
 2 DATE 29 JAN 1923
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S118@
+2 SOUR @S119@
 2 SOUR @S110@
 1 DEAT
 2 DATE 22 SEP 2007
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S118@
+2 SOUR @S119@
 2 SOUR @S110@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S118@
+2 SOUR @S119@
 1 NOTE Spelling variants: Febo (her obituary), Jenny (Mary’s obituary)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Jennie Febo Resavy, 84, of Old Forge, died at home (obituary published 24 Sept. 2007); daughter of David and Julia DiGennari Febo; garment worker (Brooks Manufacturing; Hy Grade Pa
 2 CONC nts); St. Mary of the Assumption parish. Survived by daughter Roberta Scarnato (husband David), sister Mary Yaniello (husband Dusty), grandson Dave Scarnato Jr. Predeceased by brother Louis Febbo an
 2 CONC d sisters Josephine Bruno, Ann Wollner, Nora Madrak and Angie Glodzik.
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 NOTE [Record; confirmed] Listed as sister “Jenny Resavy”, predeceased, in Mary’s 2017 obituary.
 2 SOUR @S110@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Jennie Teresa Febo Resavy, born 29 Jan 1923 in Old Forge, daughter of David Febo and Julie DeGenaro; died 22 Sep 2007.
-2 SOUR @S136@
+2 SOUR @S137@
 3 QUAY 3
 1 FAMS @F082@
 1 FAMC @F070@
@@ -2520,10 +2526,10 @@
 1 SEX M
 1 DEAT
 2 DATE 12 JUL 1989
-2 SOUR @S118@
+2 SOUR @S119@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Jennie Febo Resavy; died 12 July 1989.
-2 SOUR @S118@
+2 SOUR @S119@
 3 QUAY 3
 1 FAMS @F082@
 0 @FB018@ INDI
@@ -2538,30 +2544,30 @@
 1 BIRT
 2 DATE 9 SEP 1944
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
-2 SOUR @S121@
+2 SOUR @S124@
+2 SOUR @S122@
 1 DEAT
 2 DATE DEC 2025
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
-2 SOUR @S121@
+2 SOUR @S124@
+2 SOUR @S122@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S123@
+2 SOUR @S124@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Born 9 Sept. 1944, Old Forge, son of the late Louis and Francis Cavalier Febbo; special-education teacher; U.S. Navy veteran; Old Forge Borough Council 8 years; died at home (obitu
 2 CONC ary dated 12 Dec. 2025). Survived by wife Rosemary (Ciuccio), son Louis, daughter Maura, brother David (wife Mary Lou), sister Julie Mele, grandson Louis Diego Febbo; predeceased by brother Robert J
 2 CONC . Febbo.
-2 SOUR @S123@
+2 SOUR @S124@
 3 QUAY 3
 1 NOTE [Assumed; likely] Identified as a nephew of Mary Febbo (son of her brother Louis): “Louis and Robert Febbo, nephews” were honorary pallbearers for her husband Dusty Yaniello in 2010, and this Louis ha
 2 CONC d a brother Robert. Not stated outright.
 2 SOUR @S113@
 3 QUAY 2
-2 SOUR @S123@
+2 SOUR @S124@
 3 QUAY 2
 1 NOTE [Record; confirmed] Confirmed: named as son Louis F. in his father Louis V. Febbo’s 1995 obituary. This replaces the earlier inference from the 2010 pallbearer list.
-2 SOUR @S121@
+2 SOUR @S122@
 3 QUAY 3
 1 FAMS @F072@
 1 FAMC @F071@
@@ -2587,44 +2593,44 @@
 1 BIRT
 2 DATE 7 APR 1947
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
+2 SOUR @S124@
 2 SOUR @S113@
 1 DEAT
 2 DATE 19 OCT 2025
 2 PLAC Dunmore, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
+2 SOUR @S124@
 2 SOUR @S113@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S123@
+2 SOUR @S124@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Brother of Louis F. Febbo; predeceased him (2025 obituary). Probably the “Robert Febbo, nephew” at Dusty Yaniello’s 2010 funeral.
-2 SOUR @S123@
+2 SOUR @S124@
 3 QUAY 2
 2 SOUR @S113@
 3 QUAY 2
 1 NOTE [Record; confirmed] Confirmed as son Robert J. in his father Louis V. Febbo’s 1995 obituary.
-2 SOUR @S121@
+2 SOUR @S122@
 3 QUAY 3
 1 NOTE [Record; confirmed] Obituary (Louis V. Ciuccio Funeral Home, Oct 2025): Robert J. Febbo, 78, of Avoca, died Sunday [19 Oct 2025] at the Hospice of the Sacred Heart, Dunmore. Born 7 Apr 1947 in Old For
 2 CONC ge, son of the late Louis and Frances Cavalier Febbo; Old Forge H.S.; U.S. Navy veteran; owner of Febbo Auto Sales; Prince of Peace Parish and Sons of Italy. Married the former Patricia Dwyer (50th an
 2 CONC niversary July 2025). Survived by his wife; sons Christopher (wife Melanie) and Matthew; five grandchildren (first names given; living, not shown as cards); brothers David (wife Mary Lou) and Louis (w
 2 CONC ife Rosemary); sister Julie Mele. Preceded in death by a son, Robert Jr.; a daughter, Julie; and two granddaughters, Emily and Julianne. Interment Old Forge Cemetery.
-2 SOUR @S129@
+2 SOUR @S130@
 3 QUAY 3
 1 NOTE [Record; confirmed] Fits the family record: his brother Louis F. Febbo’s Dec 2025 obituary lists Robert as predeceased (Robert died two months earlier), and their father’s 1995 obituary names a grandd
 2 CONC aughter Julie as predeceased (Robert’s daughter Julie Ann, d. 1988).
-2 SOUR @S129@
+2 SOUR @S130@
 3 QUAY 3
-2 SOUR @S123@
+2 SOUR @S124@
 3 QUAY 3
-2 SOUR @S121@
+2 SOUR @S122@
 3 QUAY 3
 1 NOTE [Assumed; unconfirmed] Granddaughter Emily is probably Emily Aurora Febbo (died 3 May 2006, Old Forge Cemetery, Find a Grave). Her parents are not stated and Julianne was not found, so neither is show
 2 CONC n as a card.
-2 SOUR @S129@
+2 SOUR @S130@
 3 QUAY 1
-2 SOUR @S132@
+2 SOUR @S133@
 3 QUAY 1
 1 FAMS @F075@
 1 FAMC @F071@
@@ -3006,9 +3012,9 @@
 2 SOUR @S057@
 3 QUAY 3
 1 NOTE [Record; confirmed] His children are Dominic J. Guzzi (d. 2016), Joanne Guzzi and Jeanne Guzzi Thorne (d. 2024); wife Theda Johns. Source: both surviving children’s obituaries.
-2 SOUR @S146@
-3 QUAY 3
 2 SOUR @S147@
+3 QUAY 3
+2 SOUR @S148@
 3 QUAY 3
 1 FAMS @F087@
 1 FAMC @F086@
@@ -3044,16 +3050,16 @@
 1 NOTE [Record; confirmed] SSA Numident abstract: Mary Josephine Guzzi / Marie J. Cimino, born 18 Mar 1919 in Old Forge, daughter of Louis Guzzi and Josephine Scavo; died 1 Sep 1988.
 2 SOUR @S059@
 3 QUAY 3
-2 SOUR @S148@
+2 SOUR @S149@
 3 QUAY 3
 1 NOTE [Record; confirmed] Mother of Frank Joseph Cimino (1942–1999); his SSA abstract names his parents as Santo Cimino and Marie Guzzi.
 2 SOUR @S060@
 3 QUAY 3
-2 SOUR @S149@
+2 SOUR @S150@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial: Marie Cimino, born 18 Mar 1919, Old Forge; died 1 Sep 1988 (aged 69), Old Forge; Cathedral Cemetery, Scranton; spouse Santo F. Cimino, son Frank Joseph Cimino
 2 CONC , parents Louis J. and Josephine Guzzi.
-2 SOUR @S150@
+2 SOUR @S151@
 3 QUAY 2
 1 FAMS @F091@
 1 FAMC @F086@
@@ -3101,9 +3107,9 @@
 3 QUAY 3
 1 NOTE [Record; confirmed] Both of her children have died since her 2012 obituary: daughter Josephine Ann Grasso (d. 2 Dec 2020) and son James J. Cherundolo Jr. (d. 14 May 2026). Granddaughter Angela Cherund
 2 CONC olo died between 2020 and 2026.
-2 SOUR @S153@
-3 QUAY 3
 2 SOUR @S154@
+3 QUAY 3
+2 SOUR @S155@
 3 QUAY 3
 1 FAMS @F092@
 1 FAMC @F086@
@@ -3115,20 +3121,20 @@
 1 BIRT
 2 DATE 6 DEC 1920
 2 SOUR @S057@
-2 SOUR @S155@
+2 SOUR @S156@
 1 DEAT
 2 DATE 23 AUG 2002
 2 SOUR @S057@
-2 SOUR @S155@
+2 SOUR @S156@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Rose M. Guzzi Cherundolo; died 23 Aug 2002.
 2 SOUR @S057@
 3 QUAY 3
 1 NOTE [Record; likely] Death-index biography: James J. Cherundolo of Old Forge, born 6 Dec 1920, died 23 Aug 2002, aged 81.
-2 SOUR @S155@
+2 SOUR @S156@
 3 QUAY 2
 1 NOTE [Record; confirmed] Named “James J. Cherundolo, Sr.” in his son’s May 2026 obituary.
-2 SOUR @S154@
+2 SOUR @S155@
 3 QUAY 3
 1 FAMS @F092@
 0 @I037@ INDI
@@ -3160,12 +3166,12 @@
 1 NOTE [Record; confirmed] Wife Gloria (Redfield), per her 2024 obituary: “Louis R Guzzi, originally from Old Forge, PA”, an installer for Western Electric. He met Gloria, a Bell Telephone operator, throug
 2 CONC h work in Philadelphia, and they married in 1955 at her parents’ home. Lived in West Oak Lane, Philadelphia, then Flourtown (1980) and Maple Glen (1992); with their son and daughter-in-law, they opene
 2 CONC d Scoogi’s Classic Italian Restaurant in Flourtown in December 1990. Children: Susan and Louis D. Guzzi. This resolves the “Gloria Guzzi” named as an aunt in Dominic J. Guzzi’s 2016 obituary.
-2 SOUR @S159@
+2 SOUR @S160@
 3 QUAY 3
-2 SOUR @S146@
+2 SOUR @S147@
 3 QUAY 3
 1 NOTE [Record; likely] His 6 Nov 2001 Philadelphia Inquirer death notice names Carl Guzzi as a brother (seen only as a search-index snippet).
-2 SOUR @S157@
+2 SOUR @S158@
 3 QUAY 2
 1 FAMS @F098@
 1 FAMC @F086@
@@ -3372,12 +3378,12 @@
 2 DATE 3 JUN 1926
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S058@
-2 SOUR @S156@
+2 SOUR @S157@
 1 DEAT
 2 DATE 25 FEB 2017
 2 PLAC Staten Island, Richmond, New York, USA
 2 SOUR @S058@
-2 SOUR @S156@
+2 SOUR @S157@
 1 BURI
 2 PLAC Moravian Cemetery, Staten Island, New York, USA
 2 SOUR @S058@
@@ -3387,7 +3393,7 @@
 2 CONC n Funeral Home; buried at Moravian Cemetery. His parents are not named.
 2 SOUR @S058@
 3 QUAY 3
-2 SOUR @S156@
+2 SOUR @S157@
 3 QUAY 3
 1 NOTE [Conflict; likely] Parentage: he was born 3 Jun 1926 in Old Forge, when Irma (b. 1913) was 12, so he can’t be Irma’s son. He is very probably a son of Louis J. Guzzi and his first wife Josephine Scav
 2 CONC o (between Rose, 1924, and Louis Jr., 1929), even though Louis’s memorial doesn’t list him. If so, he is Irma’s stepson and not related to Norma by blood. His own obituary doesn’t name his parents.
@@ -3399,15 +3405,15 @@
 3 QUAY 2
 1 NOTE [Record; likely] Update 2026-11-03: Dominic J. Guzzi (son of Dominick “Traveler”) is called a nephew of Carl Guzzi of Staten Island in his 2016 obituary. That makes Carl a brother of Dominick and supp
 2 CONC orts him being Louis J. Guzzi’s son. Carl’s mother is still not named in any record.
-2 SOUR @S146@
+2 SOUR @S147@
 3 QUAY 2
 2 SOUR @S058@
 3 QUAY 2
 1 NOTE [Record; likely] Update 2026-11-04: Louis Guzzi Jr.’s 6 Nov 2001 Inquirer death notice names Carl Guzzi as his brother (index snippet), which further supports Carl being a son of Louis J. Guzzi.
-2 SOUR @S157@
+2 SOUR @S158@
 3 QUAY 2
 1 NOTE [Record; confirmed] Wife Marie D. (Battista) Guzzi died 21 Oct 2015 (obituary). Their daughter Diane Zerega and grandchildren Thomas, Brian and Lauren Zerega are named in it.
-2 SOUR @S158@
+2 SOUR @S159@
 3 QUAY 3
 0 @I125@ INDI
 1 NAME Living
@@ -3424,7 +3430,7 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Ann Febbo; father of Daniel J. Wollner (“the late Paul and Ann Febbo Wollner”, 2022 obituary).
-2 SOUR @S138@
+2 SOUR @S139@
 3 QUAY 3
 1 FAMS @F077@
 0 @FB032@ INDI
@@ -3438,12 +3444,12 @@
 1 DEAT
 2 DATE 9 MAR 2022
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S138@
+2 SOUR @S139@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Dan Wollner, 79, of Dickson City, died Wednesday [9 Mar 2022] at Geisinger Community Medical Center, Scranton. Born in Taylor, son of the late Paul and Ann Febbo Wollner
 2 CONC ; Old Forge H.S. graduate; U.S. Coast Guard in the Vietnam War (BM3); maintenance supervisor at Beverly Health Care, Scranton. Husband of the late Ann Lisko Wollner (died 2016; married 47 years). Surv
 2 CONC ived by daughter Janine and numerous cousins. John J. Turko & Sons Funeral Home, Dickson City.
-2 SOUR @S138@
+2 SOUR @S139@
 3 QUAY 3
 1 FAMS @F078@
 1 FAMC @F077@
@@ -3456,10 +3462,10 @@
 1 SEX F
 1 DEAT
 2 DATE 2016
-2 SOUR @S138@
+2 SOUR @S139@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Wife of Daniel J. Wollner (married 47 years); died 2016, per his 2022 obituary.
-2 SOUR @S138@
+2 SOUR @S139@
 3 QUAY 3
 1 FAMS @F078@
 0 @FB034@ INDI
@@ -3475,26 +3481,26 @@
 1 SEX M
 1 BIRT
 2 PLAC Duryea, Luzerne, Pennsylvania, USA
+2 SOUR @S145@
 2 SOUR @S144@
-2 SOUR @S143@
 1 DEAT
 2 DATE 15 MAY 1996
+2 SOUR @S145@
 2 SOUR @S144@
-2 SOUR @S143@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S144@
+2 SOUR @S145@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Full obituary (Times Leader, 17 May 1996): Chester Glodzik Sr., of Old Forge, died Wednesday [15 May 1996] at Geisinger/Wyoming Valley Medical Center, Plains Twp. Born in Duryea, s
 2 CONC on of the late Michael and Helen Streyeski Glodzik; heavy equipment operator (Operating Engineers Local 542); member of St. Mary’s Church. Preceded in death by his wife, the former Angeline Febo (18 A
 2 CONC pr 1981); sister Mrs. Martha Gollem; brothers Stanley, Henry and Frank. Survived by sons Chester Jr. and John; brother Leo; sister Mrs. James (Matilda) McAndrew; five grandchildren. Bernard J. Pionte
 2 CONC k Funeral Home, Duryea; interment Marcy Cemetery. This confirms he is Angeline’s husband.
-2 SOUR @S144@
+2 SOUR @S145@
 3 QUAY 3
 1 NOTE [Record; confirmed] Father of Chester M. Glodzik (SSA abstract of the son, which names Chester Glodzik and Angeline Febo); middle initial M. from the son’s 1996 obituary.
-2 SOUR @S143@
+2 SOUR @S144@
 3 QUAY 3
-2 SOUR @S145@
+2 SOUR @S146@
 3 QUAY 3
 1 FAMS @F080@
 1 FAMC @F105@
@@ -3508,23 +3514,23 @@
 1 BIRT
 2 DATE 16 JUN 1951
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S143@
-2 SOUR @S145@
+2 SOUR @S144@
+2 SOUR @S146@
 1 DEAT
 2 DATE 4 NOV 1996
-2 SOUR @S143@
-2 SOUR @S145@
+2 SOUR @S144@
+2 SOUR @S146@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S143@
+2 SOUR @S144@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Chester M. Glodzik, born 16 Jun 1951 in Old Forge, son of Chester Glodzik and Angeline Febo; died 4 Nov 1996.
-2 SOUR @S143@
+2 SOUR @S144@
 3 QUAY 3
 1 NOTE [Record; confirmed] Obituary (Times Leader, 6 Nov 1996): Chester M. Glodzik Jr., of Old Forge, died Monday [4 Nov 1996] at Community Medical Center, Scranton. Son of the late Chester M. and Angelina F
 2 CONC ebbo Glodzik Sr.; Old Forge H.S. 1969; worked for Pope and Talbott, Inc.; United Paperworkers International Union; St. Mary’s Church. He and his wife, the former Grace Packer, marked their 20th annive
 2 CONC rsary on 13 Mar 1996 (so married ABT 13 Mar 1976). Survived by daughter Angelina Ann; brother Jack; nieces and nephews. Ciuccio Funeral Home; interment Marcy Cemetery, Duryea.
-2 SOUR @S145@
+2 SOUR @S146@
 3 QUAY 3
 1 FAMS @F081@
 1 FAMC @F080@
@@ -3537,9 +3543,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Wife of Dominick “Traveler” Guzzi; called “the late … Theda Johns Guzzi” in both her children’s obituaries (2016, 2024).
-2 SOUR @S146@
-3 QUAY 3
 2 SOUR @S147@
+3 QUAY 3
+2 SOUR @S148@
 3 QUAY 3
 1 FAMS @F087@
 0 @I128@ INDI
@@ -3550,16 +3556,16 @@
 1 DEAT
 2 DATE 30 NOV 2016
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S146@
+2 SOUR @S147@
 1 BURI
 2 PLAC Cathedral Cemetery Mausoleum, Scranton, Pennsylvania, USA
-2 SOUR @S146@
+2 SOUR @S147@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Dominic J. Guzzi, 79, lifelong resident of Old Forge, died Wednesday [30 Nov 2016] at Regional Hospital of Scranton. Son of the late Dominic “Traveler” Guzzi and Theda Jo
 2 CONC hns Guzzi; brother of the late Joanne Guzzi and of Jeanne Guzzi Thorne (husband Edward Thorne). Uncle of Dr. Joanne Thorne-Richberg (husband Josef; son Joshua) and Marc Thorne (wife Melissa); nephew o
 2 CONC f Carl Guzzi (Staten Island) and Gloria Guzzi. Old Forge H.S. 1954; East Stroudsburg (B.S. biology); University of Scranton (master’s). Teacher at Scranton Tech and Hershey; principal of Old Forge Hig
 2 CONC h School 1972–1992; later principal of Holy Rosary Elementary, Scranton. Called the family historian. Semian Funeral Home; entombed at Cathedral Cemetery Mausoleum.
-2 SOUR @S146@
+2 SOUR @S147@
 3 QUAY 3
 1 FAMC @F087@
 0 @I129@ INDI
@@ -3569,9 +3575,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Daughter of Dominick “Traveler” and Theda Guzzi. She predeceased her brother Dominic (2016) and her sister Jeanne (2024). No dates given.
-2 SOUR @S146@
-3 QUAY 3
 2 SOUR @S147@
+3 QUAY 3
+2 SOUR @S148@
 3 QUAY 3
 1 FAMC @F087@
 0 @I130@ INDI
@@ -3586,19 +3592,19 @@
 1 BIRT
 2 DATE 6 JAN 1946
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S147@
+2 SOUR @S148@
 1 DEAT
 2 DATE 27 AUG 2024
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S147@
+2 SOUR @S148@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Pennsylvania, USA
-2 SOUR @S147@
+2 SOUR @S148@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Jeanne Guzzi Thorne (6 Jan 1946 – 27 Aug 2024), 78, of Old Forge, died at home. Daughter of the late Dominick “Traveler” and Theda Johns Guzzi; Old Forge H.S. 1964; Princ
 2 CONC e of Peace Parish. Preceded by husband Edward P. Thorne (6 Jul 2018), sister Joanne Guzzi and brother Dominic Guzzi. Survived by daughter Dr. Joanne Thorne-Richberg (husband Josef), son Marc E. Thorn
 2 CONC e (wife Melissa), grandson Joshua Richberg, cousins and an aunt. Carlucci-Golden-DeSantis Funeral Home; Mass at Prince of Peace Parish on 4 Sep 2024; entombed at Cathedral Cemetery, Scranton.
-2 SOUR @S147@
+2 SOUR @S148@
 3 QUAY 3
 1 FAMS @F088@
 1 FAMC @F087@
@@ -3609,13 +3615,13 @@
 1 SEX M
 1 DEAT
 2 DATE 6 JUL 2018
+2 SOUR @S148@
 2 SOUR @S147@
-2 SOUR @S146@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Jeanne Guzzi Thorne; died 6 Jul 2018, per her 2024 obituary.
-2 SOUR @S147@
+2 SOUR @S148@
 3 QUAY 3
-2 SOUR @S146@
+2 SOUR @S147@
 3 QUAY 3
 1 FAMS @F088@
 0 @I132@ INDI
@@ -3652,20 +3658,20 @@
 1 BIRT
 2 DATE 10 NOV 1933
 2 PLAC Philadelphia, Pennsylvania, USA
-2 SOUR @S159@
+2 SOUR @S160@
 1 DEAT
 2 DATE 7 DEC 2024
 2 PLAC Maple Glen, Montgomery, Pennsylvania, USA
-2 SOUR @S159@
+2 SOUR @S160@
 1 BURI
 2 PLAC Whitemarsh Memorial Park, Pennsylvania, USA
-2 SOUR @S159@
+2 SOUR @S160@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Gloria R. Guzzi (née Redfield), 91, of Maple Glen, formerly of West Oak Lane, Philadelphia, died at home on 7 Dec 2024; born in Philadelphia on 10 Nov 1933. Daughter of t
 2 CONC he late David Homer Redfield and Susan Ida (O’Neill) Redfield; wife of the late Louis R. Guzzi (married 1955). Attended Germantown High School for Girls; Bell Telephone operator; homemaker; Avon repre
 2 CONC sentative for over 50 years; choir at Cedar Park Presbyterian Church. Survived by children Susan Guzzi Montclair (Alan Deutsch) and Louis D. Guzzi (Laurie N.); grandchildren Heather (Brian) McKeon, St
 2 CONC ephanie George, Amber Guzzi, Brandon George and Crystal Guzzi; great-grandchildren Zachary, Kody and Hope McKeon. Service at Angelone Funeral Home, Willow Grove; interment Whitemarsh Memorial Park.
-2 SOUR @S159@
+2 SOUR @S160@
 3 QUAY 3
 1 FAMS @F098@
 0 @I138@ INDI
@@ -3675,7 +3681,7 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Gloria (Redfield) Guzzi, named “the late David Homer Redfield” in her 2024 obituary; went by Homer.
-2 SOUR @S159@
+2 SOUR @S160@
 3 QUAY 3
 0 @I139@ INDI
 1 NAME Susan Ida /O’Neill/
@@ -3686,7 +3692,7 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Gloria (Redfield) Guzzi, named “the late Susan Ida Redfield (nee: O’Neill)” in her 2024 obituary.
-2 SOUR @S159@
+2 SOUR @S160@
 3 QUAY 3
 0 @I140@ INDI
 1 NAME Living
@@ -3714,46 +3720,46 @@
 1 BIRT
 2 DATE 27 AUG 1915
 2 PLAC Joliet, Will, Illinois, USA
-2 SOUR @S149@
+2 SOUR @S150@
 2 SOUR @S060@
 1 DEAT
 2 DATE 16 OCT 1991
 2 PLAC Omaha, Douglas, Nebraska, USA
-2 SOUR @S149@
+2 SOUR @S150@
 2 SOUR @S060@
 1 BURI
 2 PLAC Saint Johns Cemetery, Bellevue, Nebraska, USA
-2 SOUR @S149@
+2 SOUR @S150@
 1 NOTE Spelling variants: Sandy (sister Carmella’s 2009 obituary, likely)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Husband of Marie Guzzi and father of Frank Joseph Cimino, per the son’s SSA Numident abstract.
-2 SOUR @S149@
+2 SOUR @S150@
 3 QUAY 3
 2 SOUR @S060@
 3 QUAY 3
 1 NOTE [Record; unconfirmed] A Santo Cimino (Pennsylvania-issued Social Security number) born 3 Oct 1916, died Sep 1979, last residence Glendora, N.J., appears in SSA indexes. No record yet ties him to Mari
 2 CONC e Guzzi or to son Frank Joseph Cimino beyond the shared given name Santo; left unlinked.
-2 SOUR @S149@
+2 SOUR @S150@
 3 QUAY 1
 1 NOTE [Record; unconfirmed] Update 2026-11-07: SortedByName military abstract for SANTO S. CIMINO gives death 15 Sep 1979 (DMF previously said September 1979) and WWII service 28 Apr 1941–16 Nov 1945. Stil
 2 CONC l no Scranton/Taylor record tying this Glendora, N.J., man to Marie Guzzi.
-2 SOUR @S149@
+2 SOUR @S150@
 3 QUAY 1
 1 NOTE [Record; likely] Find a Grave memorial: Santo F. Cimino (WWII, U.S. Marine Corps), born 27 Aug 1915, Joliet, Ill.; died 16 Oct 1991 (aged 76), Omaha, Neb.; Saint Johns Cemetery, Bellevue, Neb. The mem
 2 CONC orial links Marie Cimino (Guzzi, 1919–1988) as his spouse and Frank Joseph Cimino (1942–1999) as his child, and Frank Cimino and Caroline Gabriele as his parents. Two siblings were born in Carbondale
 2 CONC , Lackawanna County (1917, 1919), which fits a Pennsylvania-issued Social Security number and the marriage to an Old Forge woman. No obituary yet confirms it.
-2 SOUR @S151@
+2 SOUR @S152@
 3 QUAY 2
-2 SOUR @S150@
+2 SOUR @S151@
 3 QUAY 2
 1 NOTE [Record; unconfirmed] Update 12 Nov 2026: with the Find a Grave links above, the Glendora, N.J., Santo (S.) Cimino (born 3 Oct 1916, died 15 Sep 1979) noted earlier is probably a different man. Mari
 2 CONC e is buried in Scranton and Santo in Nebraska, so they may have separated; no divorce record was looked for.
-2 SOUR @S151@
+2 SOUR @S152@
 3 QUAY 1
-2 SOUR @S149@
+2 SOUR @S150@
 3 QUAY 1
 1 FAMS @F091@
-1 FAMC @F127@
+1 FAMC @F131@
 0 @I145@ INDI
 1 NAME Frank Joseph /Cimino/
 2 GIVN Frank Joseph
@@ -3762,28 +3768,28 @@
 1 BIRT
 2 DATE 9 JUL 1942
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S149@
+2 SOUR @S150@
 2 SOUR @S060@
 1 DEAT
 2 DATE 14 JUL 1999
-2 SOUR @S149@
+2 SOUR @S150@
 2 SOUR @S060@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S149@
+2 SOUR @S150@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Frank Joseph Cimino, born 9 Jul 1942 in Taylor, Pa., son of Santo Cimino and Marie Guzzi; died 14 Jul 1999. No obituary found yet.
-2 SOUR @S149@
+2 SOUR @S150@
 3 QUAY 3
 2 SOUR @S060@
 3 QUAY 3
 1 NOTE [Record; likely] 2026-11-06 search: WikiTree/Cathedral Cemetery category lists Frank Cimino 9 Jul 1942 Taylor – 14 Jul 1999 Scranton (same dates as SSA), but no full obituary or survivors list found i
 2 CONC n free Times Leader / Scranton Times mirrors.
-2 SOUR @S149@
+2 SOUR @S150@
 3 QUAY 2
 1 NOTE [Record; likely] Find a Grave memorial: Frank Joseph Cimino, born 9 Jul 1942, Taylor, Pa.; died 14 Jul 1999 (aged 57), Pennsylvania; Cathedral Cemetery, Scranton; linked to parents Santo F. and Mari
 2 CONC e Cimino.
-2 SOUR @S152@
+2 SOUR @S153@
 3 QUAY 2
 1 FAMC @F091@
 0 @FB037@ INDI
@@ -3796,28 +3802,28 @@
 1 BIRT
 2 DATE 9 JUL 1928
 2 PLAC Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S141@
 2 SOUR @S142@
+2 SOUR @S143@
 1 DEAT
 2 DATE 10 MAY 2000
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S141@
 2 SOUR @S142@
+2 SOUR @S143@
 1 BURI
 2 PLAC Marcy Cemetery, Duryea, Luzerne, Pennsylvania, USA
-2 SOUR @S141@
+2 SOUR @S142@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Stanley Joseph Madrak, born 9 Jul 1928 in Duryea, Luzerne Co., son of Peter Madrak and Catherine Resuit; died 10 May 2000.
-2 SOUR @S141@
+2 SOUR @S142@
 3 QUAY 3
 1 NOTE [Record; confirmed] Obituary (Times Leader, 11 May 2000): Stanley Madrak, formerly of Old Forge, died Wednesday [10 May 2000] at Community Medical Center, Scranton. Born in Duryea, son of the late Pet
 2 CONC er and Katerina Madrak; Duryea schools; worked at Pope and Talbot Co., Ransom; member of Holy Rosary Church, Duryea. Preceded in death by “his wife, the former Nora Febbo”; brother Joseph; sisters Ste
 2 CONC lla Madrak, Anna Poska, Mary Bodzon and Helen Robak. Survived by son Stanley J. Jr.; daughters Donna Skutack and Linda English; three grandchildren; sisters Dorothy Wirhanowsky, Cecilia Hardwicke an
 2 CONC d Alice Martinich (all of Connecticut). Ciuccio Funeral Home; Mass at Holy Rosary; interment Marcy Cemetery, Duryea.
-2 SOUR @S142@
+2 SOUR @S143@
 3 QUAY 3
 1 NOTE [Record; likely] Husband of Nora Febbo; married ABT 29 Apr 1950 (her obituary says they marked their 45th anniversary on 29 Apr 1995).
-2 SOUR @S140@
+2 SOUR @S141@
 3 QUAY 2
 1 FAMS @F079@
 1 FAMC @F104@
@@ -3828,9 +3834,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Stanley J. Madrak Sr. (“the late Peter … Madrak”, 2000 obituary; SSA abstract).
-2 SOUR @S142@
+2 SOUR @S143@
 3 QUAY 3
-2 SOUR @S141@
+2 SOUR @S142@
 3 QUAY 3
 1 FAMS @F104@
 0 @FB039@ INDI
@@ -3843,9 +3849,9 @@
 1 NOTE Spelling variants: Katerina (obituary)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Stanley J. Madrak Sr.: “Catherine Resuit” in his SSA abstract, “the late … Katerina Madrak” in his 2000 obituary (compatible forms).
-2 SOUR @S141@
-3 QUAY 3
 2 SOUR @S142@
+3 QUAY 3
+2 SOUR @S143@
 3 QUAY 3
 1 FAMS @F104@
 0 @FB040@ INDI
@@ -3871,7 +3877,7 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Chester Glodzik Sr. (“the late Michael and Helen Streyeski Glodzik”, 1996 obituary).
-2 SOUR @S144@
+2 SOUR @S145@
 3 QUAY 3
 1 FAMS @F105@
 0 @FB045@ INDI
@@ -3883,7 +3889,7 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Chester Glodzik Sr. (“the late Michael and Helen Streyeski Glodzik”, 1996 obituary).
-2 SOUR @S144@
+2 SOUR @S145@
 3 QUAY 3
 1 FAMS @F105@
 0 @FB046@ INDI
@@ -3903,7 +3909,7 @@
 1 NOTE [Record; confirmed] Father of Catherine Andreoni and Alfred J. Beccaloni (“the late Enrico and Zelinda (Isopi) Beccaloni”, 1999 and 2000 obituaries).
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMS @F101@
 0 @I147@ INDI
@@ -3917,7 +3923,7 @@
 1 NOTE [Record; confirmed] Mother of Catherine Andreoni and Alfred J. Beccaloni, per their 1999 and 2000 obituaries.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMS @F101@
 0 @I148@ INDI
@@ -3929,7 +3935,7 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMC @F101@
 0 @I149@ INDI
@@ -3942,7 +3948,7 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found. Called “Americo” in Alfred’s 2000 obituary.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMC @F101@
 0 @I150@ INDI
@@ -3954,7 +3960,7 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMC @F101@
 0 @I151@ INDI
@@ -3966,7 +3972,7 @@
 1 NOTE [Record; confirmed] Brother of Catherine Andreoni and Alfred Beccaloni; died before June 1999 (listed as predeceased in both obituaries). No dates found.
 2 SOUR @S047@
 3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMC @F101@
 0 @I152@ INDI
@@ -3977,20 +3983,20 @@
 1 BIRT
 2 DATE 28 JUN 1923
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S160@
+2 SOUR @S161@
 1 DEAT
 2 DATE 17 NOV 2000
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S160@
+2 SOUR @S161@
 1 BURI
 2 PLAC Holy Cross Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S160@
+2 SOUR @S161@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times Leader, 18 Nov 2000): Alfred J. Beccaloni, 77, of Old Forge, died Friday [17 Nov 2000] at Mercy Hospital, Scranton. Born 28 Jun 1923 in Old Forge, son of the late E
 2 CONC nrico and Zelinda (Isopi) Beccaloni. Coal miner; Chamberlain Corp.; heavy-duty welder for Sullivan Trail Manufacturing. U.S. Navy, WWII (motor machinist’s mate 3rd class, South Pacific); Civilian Cons
 2 CONC ervation Corps. St. Mary of the Assumption Church; Giovanile Moderna Society. Preceded in death by brothers Mario, Americo, Nello and Peter and sister Catherine Andreoni. Survived by his wife of 52 ye
 2 CONC ars, the former Leona Narogovich; sons Fred Jr., Gary and Richard; three grandchildren. Thomas P. Kearney Funeral Home; interment Holy Cross Cemetery, Old Forge.
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMS @F102@
 1 FAMC @F101@
@@ -4004,23 +4010,23 @@
 1 BIRT
 2 DATE 14 SEP 1924
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
+2 SOUR @S162@
 2 SOUR @S161@
-2 SOUR @S160@
 1 DEAT
 2 DATE 4 FEB 2003
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S162@
 2 SOUR @S161@
-2 SOUR @S160@
 1 BURI
 2 PLAC Holy Cross Cemetery, Old Forge, Pennsylvania, USA
-2 SOUR @S161@
+2 SOUR @S162@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times Leader, 6 Feb 2003): Leona Narogovich Beccaloni, 78, of Old Forge, died Tuesday [4 Feb 2003] at Mercy Hospital, Scranton. Born 14 Sep 1924 in Taylor, daughter of th
 2 CONC e late Anthony and Mary (Prysianzniuk) Narogovich; Taylor H.S. 1942; secretary, Scranton State Hospital School of Nursing. Preceded in death by husband Alfred J. and sisters Olga Fasiska, Helen M. Pod
 2 CONC racky and Jane A. Longo. Survived by sons Fred Jr., Gary and Richard; three grandchildren. Married ABT 1948 (Alfred’s 2000 obituary: “wife of 52 years”).
-2 SOUR @S161@
+2 SOUR @S162@
 3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S161@
 3 QUAY 3
 1 FAMS @F102@
 1 FAMC @F106@
@@ -4033,18 +4039,18 @@
 1 SEX M
 1 DEAT
 2 DATE 1 FEB 2009
-2 SOUR @S162@
-2 SOUR @S160@
+2 SOUR @S163@
+2 SOUR @S161@
 1 NOTE Spelling variants: Alfred (assumed full name, not stated)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times Leader, Feb 2009): Fred Beccaloni, 57, of Old Forge, died unexpectedly Sunday, 1 Feb 2009. Survived by his wife Beverly Duddek Beccaloni (they would have marked the
 2 CONC ir 30th anniversary on 28 Apr, so married ABT 28 Apr 1979); daughters Amanda and Ashley; brothers Richard (wife Cathy) and Gary (wife Nancy). Named as son “Fred, Jr.” in his parents’ obituaries. Kearn
 2 CONC ey Funeral Home.
-2 SOUR @S162@
-3 QUAY 3
-2 SOUR @S160@
+2 SOUR @S163@
 3 QUAY 3
 2 SOUR @S161@
+3 QUAY 3
+2 SOUR @S162@
 3 QUAY 3
 1 FAMS @F103@
 1 FAMC @F102@
@@ -4081,11 +4087,11 @@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Leona (Narogovich) Beccaloni (“the late Anthony and Mary (Prysianzniuk) Narogovich”, her 2003 obituary). SSA abstracts for daughters Helen and Jane also name Anthony Naro
 2 CONC govitch.
-2 SOUR @S161@
-3 QUAY 3
-2 SOUR @S163@
+2 SOUR @S162@
 3 QUAY 3
 2 SOUR @S164@
+3 QUAY 3
+2 SOUR @S165@
 3 QUAY 3
 1 FAMS @F106@
 0 @I161@ INDI
@@ -4098,11 +4104,11 @@
 1 NOTE Spelling variants: Pryzaszniuk / Prysiazniuk / Presiaznuick / Preshsnuk (SSA spellings)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Leona Beccaloni (“Mary (Prysianzniuk) Narogovich”, 2003 obituary). SSA abstracts for Helen and Jane give compatible spellings (Pryzaszniuk, Prysiazniuk, etc.).
-2 SOUR @S161@
-3 QUAY 3
-2 SOUR @S163@
+2 SOUR @S162@
 3 QUAY 3
 2 SOUR @S164@
+3 QUAY 3
+2 SOUR @S165@
 3 QUAY 3
 1 FAMS @F106@
 0 @I162@ INDI
@@ -4116,21 +4122,21 @@
 1 SEX F
 1 BIRT
 2 DATE 24 JAN 1916
-2 SOUR @S161@
-2 SOUR @S165@
+2 SOUR @S162@
+2 SOUR @S166@
 1 DEAT
 2 DATE NOV 1982
-2 SOUR @S161@
-2 SOUR @S165@
+2 SOUR @S162@
+2 SOUR @S166@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Sister of Leona Beccaloni; listed as predeceased “Olga Fasiska” in Leona’s 2003 obituary.
-2 SOUR @S161@
+2 SOUR @S162@
 3 QUAY 3
 1 NOTE [Record; likely] SSA Death Master File: Olga Fasiska, born 24 Jan 1916, died Nov 1982 (last residence New Jersey). Parents are not named on that abstract; that this is Leona’s sister is likely (name a
 2 CONC nd timing fit) but not proven.
-2 SOUR @S165@
+2 SOUR @S166@
 3 QUAY 2
-2 SOUR @S161@
+2 SOUR @S162@
 3 QUAY 2
 1 FAMC @F106@
 0 @I163@ INDI
@@ -4145,18 +4151,18 @@
 1 BIRT
 2 DATE 1 JUN 1920
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S163@
-2 SOUR @S161@
+2 SOUR @S164@
+2 SOUR @S162@
 1 DEAT
 2 DATE APR 1990
-2 SOUR @S163@
-2 SOUR @S161@
+2 SOUR @S164@
+2 SOUR @S162@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Helen Podracky, also known as Helen Narogovitch, born 1 Jun 1920 in Taylor, Pa., daughter of Anthony Narogovitch and Mary Pryzaszniuk; died Apr 1990. Matche
 2 CONC s “Helen M. Podracky,” sister predeceased in Leona Beccaloni’s 2003 obituary.
-2 SOUR @S163@
+2 SOUR @S164@
 3 QUAY 3
-2 SOUR @S161@
+2 SOUR @S162@
 3 QUAY 3
 1 FAMC @F106@
 0 @I164@ INDI
@@ -4172,22 +4178,22 @@
 1 BIRT
 2 DATE 14 OCT 1927
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S164@
-2 SOUR @S161@
+2 SOUR @S165@
+2 SOUR @S162@
 1 DEAT
 2 DATE 30 SEP 1999
-2 SOUR @S164@
-2 SOUR @S161@
+2 SOUR @S165@
+2 SOUR @S162@
 1 NOTE Spelling variants: Lucas (earlier married name)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Jane A. Longo, also Jane Antoinette Narogovitch and Jane Antoinette Lucas, born 14 Oct 1927 in Taylor, Pa., daughter of Anthony Narogovitch and Mary Prysiazn
 2 CONC iuk; died 30 Sep 1999. Matches “Jane A. Longo,” sister predeceased in Leona’s 2003 obituary.
-2 SOUR @S164@
+2 SOUR @S165@
 3 QUAY 3
-2 SOUR @S161@
+2 SOUR @S162@
 3 QUAY 3
 1 NOTE [Record; likely] Edward L. Longo’s Scranton Times-Tribune obituary says he was preceded by his second wife, Jane Longo, in 1999 — consistent with this Jane.
-2 SOUR @S166@
+2 SOUR @S167@
 3 QUAY 2
 1 FAMS @F107@
 1 FAMC @F106@
@@ -4199,9 +4205,9 @@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Second husband of Jane A. (Narogovich) Longo; his Scranton Times-Tribune obituary says he was preceded by first wife Annette (1985) and second wife Jane Longo (1999). His children nam
 2 CONC ed there are from the first marriage and are not added.
-2 SOUR @S166@
+2 SOUR @S167@
 3 QUAY 2
-2 SOUR @S164@
+2 SOUR @S165@
 3 QUAY 2
 1 FAMS @F107@
 0 @I167@ INDI
@@ -4221,7 +4227,7 @@
 1 NOTE [Record; confirmed] Father of Edward J. Krogulski: “son of the late Anthony and Mary (Gunton) Krogulski” (2001 obituary). His SSA Numident abstract names the father as Anthony S. Krogulski.
 2 SOUR @S114@
 3 QUAY 3
-2 SOUR @S167@
+2 SOUR @S168@
 3 QUAY 3
 1 FAMS @F108@
 0 @KR002@ INDI
@@ -4237,7 +4243,7 @@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Edward’s SSA Numident abstract names his mother as Clara Grabowski, not Mary Gunton. Unresolved (could be a first wife, a records error, or a naming difference). Flagged on Edw
 2 CONC ard too.
-2 SOUR @S167@
+2 SOUR @S168@
 3 QUAY 1
 2 SOUR @S114@
 3 QUAY 1
@@ -4253,12 +4259,12 @@
 2 DATE 4 NOV 1925
 2 PLAC Bear Creek, Luzerne, Pennsylvania, USA
 2 SOUR @S114@
-2 SOUR @S167@
+2 SOUR @S168@
 1 DEAT
 2 DATE 28 DEC 2001
 2 PLAC Forty Fort, Luzerne, Pennsylvania, USA
 2 SOUR @S114@
-2 SOUR @S167@
+2 SOUR @S168@
 1 BURI
 2 PLAC St. Mary’s Maternity Cemetery, West Wyoming, Luzerne, Pennsylvania, USA
 2 SOUR @S114@
@@ -4271,12 +4277,12 @@
 3 QUAY 3
 1 NOTE [Record; confirmed] SSA Numident abstract: Edward Joseph Krogulski, born 4 Nov 1925 in Bear Creek, Luzerne Co., son of Anthony S. Krogulski and Clara Grabowski; died 28 Dec 2001. BIRLS: U.S. Navy 10 N
 2 CONC ov 1943 – 21 May 1946.
-2 SOUR @S167@
+2 SOUR @S168@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Birthplace: Mountaintop (obituary) vs Bear Creek (SSA); the two places are neighbours. Mother: Mary Gunton (obituary) vs Clara Grabowski (SSA). Unresolved.
 2 SOUR @S114@
 3 QUAY 1
-2 SOUR @S167@
+2 SOUR @S168@
 3 QUAY 1
 1 NOTE [Record; confirmed] Father of Karen (Krogulski) Mazzaccaro, wife of Patrick J. “Pat Mazz” Mazzaccaro Jr.: daughter “Karen Mazzaccaro, Dallas” in this obituary, and “Karen Mazzaccaro and her husband Pa
 2 CONC trick, of Dallas” in his wife’s 2014 obituary.
@@ -4341,11 +4347,11 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Father of Louis Ciuccio (“the late Vito and Rosa Trotta Ciuccio”, 2013 obituaries) and of Vito A. Ciuccio Jr. (SSA abstract).
-2 SOUR @S126@
-3 QUAY 3
 2 SOUR @S127@
 3 QUAY 3
-2 SOUR @S168@
+2 SOUR @S128@
+3 QUAY 3
+2 SOUR @S169@
 3 QUAY 3
 1 FAMS @F110@
 0 @CI002@ INDI
@@ -4358,11 +4364,11 @@
 1 NOTE Spelling variants: Rose Terotta (SSA)
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Mother of Louis Ciuccio (“Rosa Trotta Ciuccio”, 2013 obituaries); given as “Rose Terotta” in son Vito Jr.’s SSA abstract.
-2 SOUR @S126@
-3 QUAY 3
 2 SOUR @S127@
 3 QUAY 3
-2 SOUR @S168@
+2 SOUR @S128@
+3 QUAY 3
+2 SOUR @S169@
 3 QUAY 3
 1 FAMS @F110@
 0 @CI003@ INDI
@@ -4373,35 +4379,35 @@
 1 BIRT
 2 DATE 13 NOV 1923
 2 PLAC Felitto, Salerno, Campania, Italy
+2 SOUR @S128@
 2 SOUR @S127@
-2 SOUR @S126@
 1 DEAT
 2 DATE 29 JAN 2013
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S128@
 2 SOUR @S127@
-2 SOUR @S126@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S127@
+2 SOUR @S128@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times-Tribune / Times Leader, Jan 2013): Louis Ciuccio, 89, of Old Forge, died Tuesday [29 Jan 2013] at the VNA Hospice Unit, Geisinger Community Medical Center, Scranton
 2 CONC . Born in Felitto, Italy, son of the late Vito and Rosa Trotta Ciuccio; attended Old Forge schools; Army, WWII, First Infantry Division, Omaha Beach, two Purple Hearts; owned Lou’s Blue Room and devel
 2 CONC oped Rose Mount Estates, Old Forge; Felittese Association. Husband of the former Rosemarie Piccolini (65th anniversary would have been 4 Feb, so married ABT 4 Feb 1948). Preceded in death by brother V
 2 CONC ito “Junior”. Survived by daughters Rosemary Febbo (husband Louis), Nancy Moylan and Ginny Jurosky (husband John); son Louis Jr. (wife JoAnne); seven grandchildren incl. Louis and Maura Febbo; great-g
 2 CONC randson Louis Febbo. Interment Old Forge Cemetery.
-2 SOUR @S127@
-3 QUAY 3
-2 SOUR @S126@
-3 QUAY 3
-1 NOTE [Record; confirmed] SSA death index: Louis Ciuccio, born 13 Nov 1923, died 29 Jan 2013; BIRLS: U.S. Army 13 Feb 1943 – 18 Oct 1945.
-2 SOUR @S168@
-3 QUAY 3
-1 NOTE [Record; confirmed] Father of Rosemary (Ciuccio) Febbo, wife of Louis F. Febbo — which links the Ciuccio family to the Febbo line.
-2 SOUR @S126@
-3 QUAY 3
 2 SOUR @S128@
 3 QUAY 3
-2 SOUR @S123@
+2 SOUR @S127@
+3 QUAY 3
+1 NOTE [Record; confirmed] SSA death index: Louis Ciuccio, born 13 Nov 1923, died 29 Jan 2013; BIRLS: U.S. Army 13 Feb 1943 – 18 Oct 1945.
+2 SOUR @S169@
+3 QUAY 3
+1 NOTE [Record; confirmed] Father of Rosemary (Ciuccio) Febbo, wife of Louis F. Febbo — which links the Ciuccio family to the Febbo line.
+2 SOUR @S127@
+3 QUAY 3
+2 SOUR @S129@
+3 QUAY 3
+2 SOUR @S124@
 3 QUAY 3
 1 FAMS @F111@
 1 FAMC @F110@
@@ -4415,45 +4421,45 @@
 1 BIRT
 2 DATE 28 APR 1928
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S128@
-2 SOUR @S169@
+2 SOUR @S129@
+2 SOUR @S170@
 1 DEAT
 2 DATE 3 JUN 2016
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S128@
-2 SOUR @S169@
+2 SOUR @S129@
+2 SOUR @S170@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S128@
+2 SOUR @S129@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Times-Tribune, June 2016): Rosemarie A. Ciuccio, 88, of Old Forge, died Friday [3 Jun 2016] at Geisinger Community Medical Center from injuries in a car accident in Old F
 2 CONC orge. Born in Old Forge, daughter of the late James and Angela Semenza Piccolini; Old Forge H.S. 1945; Lackawanna Business College. Widow of Louis Ciuccio (d. 2013). Survived by son Louis Jr. (JoAnne)
 2 CONC ; daughters Nancy Moylan, Ginny Jurosky (John) and Rosemary Febbo (Louis); seven grandchildren (Louis III and Joseph Ciuccio; John, Jill and Jeffrey Jurosky; Louis and Maura Febbo); great-grandchildre
 2 CONC n including Louis D. Febbo. Preceded in death by sister Lenore Ilaria and brothers Louis and Vincent Piccolini. Interment Old Forge Cemetery.
-2 SOUR @S128@
+2 SOUR @S129@
 3 QUAY 3
 1 NOTE [Record; confirmed] News report: died Friday of injuries from a crash at Smull Street and Moosic Road the day before; married 65 years.
-2 SOUR @S169@
+2 SOUR @S170@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial: Rosemarie Ann Piccolini Ciuccio, born 28 Apr 1928, Old Forge; Old Forge Cemetery; parents Vincenzo “Jimmy” and Angela (Semenza) Piccolini; siblings Lenore, Loui
 2 CONC s and Vincent (see the Piccolini family chart).
-2 SOUR @S170@
+2 SOUR @S171@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Death date: 3 Jun 2016 (the obituary says she died “Friday”, and 3 Jun 2016 was a Friday) vs 4 Jun 2016 on her Find a Grave memorial. The tree keeps 3 Jun 2016 from the obituar
 2 CONC y.
-2 SOUR @S128@
+2 SOUR @S129@
 3 QUAY 1
-2 SOUR @S170@
+2 SOUR @S171@
 3 QUAY 1
 1 NOTE [Record; confirmed] Siblings: Lenore L. Ilaria (1930–2015), Louis J. “Buddy” Piccolini (1932–2001) and Vincent A. Piccolini Sr. (1934–2009), per their obituaries and Find a Grave memorials; grandparen
 2 CONC ts Lorenzo Semenza and Rosaria Pilosi. See the Piccolini & Semenza family chart.
-2 SOUR @S128@
-3 QUAY 3
-2 SOUR @S171@
+2 SOUR @S129@
 3 QUAY 3
 2 SOUR @S172@
 3 QUAY 3
 2 SOUR @S173@
+3 QUAY 3
+2 SOUR @S174@
 3 QUAY 3
 1 FAMS @F111@
 1 FAMC @F118@
@@ -4468,18 +4474,18 @@
 1 BIRT
 2 DATE 18 OCT 1931
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S168@
-2 SOUR @S126@
+2 SOUR @S169@
+2 SOUR @S127@
 1 DEAT
 2 DATE JUL 1982
-2 SOUR @S168@
-2 SOUR @S126@
+2 SOUR @S169@
+2 SOUR @S127@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] SSA Numident abstract: Vito Anthony Ciuccio (Jr.), born 18 Oct 1931 in Old Forge, son of Vito Ciuccio and Rose Terotta; died Jul 1982. Named as brother Vito “Junior”, predeceased
 2 CONC , in Louis Ciuccio’s 2013 obituary.
-2 SOUR @S168@
+2 SOUR @S169@
 3 QUAY 3
-2 SOUR @S126@
+2 SOUR @S127@
 3 QUAY 3
 1 FAMC @F110@
 0 @CI006@ INDI
@@ -4623,12 +4629,12 @@
 2 DATE 15 JUL 1950
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
 2 SOUR @S057@
-2 SOUR @S153@
+2 SOUR @S154@
 1 DEAT
 2 DATE 2 DEC 2020
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S057@
-2 SOUR @S153@
+2 SOUR @S154@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Daughter of Rose M. (Guzzi) and James J. Cherundolo: “a daughter, Josephine A. Grasso and husband, Andrew” in her mother’s 2012 obituary.
 2 SOUR @S057@
@@ -4638,17 +4644,17 @@
 2 CONC ’s Overhead Door Company; she was a beautician and later Associate Director of Financial Aid at Lackawanna College. Survived by her husband; daughter JoAnna Duffy (husband Greg); son Andrew J. Grass
 2 CONC o (wife Kathryn); grandchildren Kayla and Hannah Grasso (living, not shown as cards); brother “James D.” Cherundolo (wife Donna); niece Angela Cherundolo (Florida); nephew Brian Cherundolo (wife Jill)
 2 CONC .
-2 SOUR @S153@
-3 QUAY 3
-1 NOTE [Record; confirmed] Her brother’s May 2026 obituary also lists “sister, Josephine Grasso” as predeceased.
 2 SOUR @S154@
 3 QUAY 3
+1 NOTE [Record; confirmed] Her brother’s May 2026 obituary also lists “sister, Josephine Grasso” as predeceased.
+2 SOUR @S155@
+3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Her obituary calls her brother “James D. Cherundolo.” Their mother’s 2012 obituary and the text of his own 2026 obituary say James J. (Jr.). See his card.
-2 SOUR @S153@
+2 SOUR @S154@
 3 QUAY 1
 2 SOUR @S057@
 3 QUAY 1
-2 SOUR @S154@
+2 SOUR @S155@
 3 QUAY 1
 1 FAMS @F093@
 1 FAMC @F092@
@@ -4667,12 +4673,12 @@
 2 DATE 1 DEC 1951
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
 2 SOUR @S057@
-2 SOUR @S154@
+2 SOUR @S155@
 1 DEAT
 2 DATE 14 MAY 2026
 2 PLAC Shrewsbury, York, Pennsylvania, USA
 2 SOUR @S057@
-2 SOUR @S154@
+2 SOUR @S155@
 1 NOTE Spelling variants: James D. Cherundolo (sister’s 2020 obituary; page title of his own 2026 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Son of Rose M. (Guzzi) and James J. Cherundolo: “a son, James J. Cherundolo and wife, Donna” in his mother’s 2012 obituary.
@@ -4682,15 +4688,15 @@
 2 CONC o the late Rose M. (Guzzi) and James J. Cherundolo, Sr.; Old Forge H.S. 1969; B.S. in electrical engineering, Penn State; engineer with Lockheed Martin for over 35 years; St. John the Baptist Church
 2 CONC , New Freedom. Survived by his wife Donna (50 years, so married ABT 1976); son Brian Cherundolo (wife Jill); grandchildren Matthew and Megan (living, not shown as cards). Preceded in death by his pare
 2 CONC nts, his daughter Angela Cherundolo and his sister Josephine Grasso. Services private.
-2 SOUR @S154@
+2 SOUR @S155@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Middle initial: “James J. Cherundolo, Jr.” in the text of his 2026 obituary and “James J.” in his mother’s 2012 obituary, but “James D.” in the page title of the same 2026 obit
 2 CONC uary and in his sister Josephine’s 2020 obituary. The tree keeps James J. Jr. (his father was James J.); James D. is listed as a variant.
-2 SOUR @S154@
+2 SOUR @S155@
 3 QUAY 1
 2 SOUR @S057@
 3 QUAY 1
-2 SOUR @S153@
+2 SOUR @S154@
 3 QUAY 1
 1 FAMS @F096@
 1 FAMC @F092@
@@ -4724,13 +4730,13 @@
 3 QUAY 3
 1 NOTE [Record; confirmed] Daughter of James J. Cherundolo Jr.: “He was preceded in death by … daughter, Angela Cherundolo” (his May 2026 obituary). This confirms the placement under James (it was earlier in
 2 CONC ferred from the surname).
-2 SOUR @S154@
+2 SOUR @S155@
 3 QUAY 3
 1 NOTE [Record; confirmed] Still living in December 2020, when she was listed as “niece Angela Cherundolo, FL” in her aunt Josephine Grasso’s obituary. So she died between Dec 2020 and May 2026. Her death re
 2 CONC cord and obituary were not found.
-2 SOUR @S153@
-3 QUAY 3
 2 SOUR @S154@
+3 QUAY 3
+2 SOUR @S155@
 3 QUAY 3
 1 FAMC @F096@
 0 @I178@ INDI
@@ -4758,15 +4764,15 @@
 1 DEAT
 2 DATE 21 OCT 2015
 2 PLAC West Brighton, Staten Island, Richmond, New York, USA
-2 SOUR @S158@
+2 SOUR @S159@
 2 SOUR @S058@
 1 BURI
 2 PLAC Moravian Cemetery, Staten Island, New York, USA
-2 SOUR @S158@
+2 SOUR @S159@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Harmon Home for Funerals, Oct 2015): Marie D. Guzzi (née Battista) of West Brighton died 21 Oct 2015. Wife of Carl J. Guzzi; mother of Diane Zerega; sister of Edna Miceli
 2 CONC ; grandmother of Thomas, Brian and Lauren Zerega; one great-grandchild. Mass at Blessed Sacrament Church; entombed at Moravian Cemetery.
-2 SOUR @S158@
+2 SOUR @S159@
 3 QUAY 3
 1 NOTE [Record; confirmed] Married Carl J. Guzzi in 1953 and died in October 2015, per his 2017 obituary.
 2 SOUR @S058@
@@ -4824,29 +4830,29 @@
 1 BIRT
 2 DATE 22 FEB 1973
 2 PLAC Savannah, Chatham, Georgia, USA
-2 SOUR @S129@
-2 SOUR @S133@
+2 SOUR @S130@
+2 SOUR @S134@
 1 DEAT
 2 DATE 28 JUL 2014
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S129@
-2 SOUR @S133@
+2 SOUR @S130@
+2 SOUR @S134@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S129@
+2 SOUR @S130@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Son “Robert Jr.” named as predeceased in his father Robert J. Febbo’s 2025 obituary.
-2 SOUR @S129@
+2 SOUR @S130@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial and obituary text: Robert J. Febbo Jr., 41, of Old Forge, died 28 Jul 2014 at home; born 22 Feb 1973 in Savannah, Ga.; Old Forge H.S. (1992 state championship ba
 2 CONC seball team); Lackawanna County Community College; Mass at St. Mary of the Assumption, Prince of Peace Parish; Victor M. Ferri Funeral Home; interment Old Forge Cemetery. Taken to be the same Robert J
 2 CONC r. (same name, town and cemetery).
-2 SOUR @S133@
+2 SOUR @S134@
 3 QUAY 2
 1 NOTE [Assumed; unconfirmed] Born Feb 1973, about two years before his father married Patricia Dwyer (July 1975). His mother is not named in any source found, so the card does not say who she was.
-2 SOUR @S133@
+2 SOUR @S134@
 3 QUAY 1
-2 SOUR @S129@
+2 SOUR @S130@
 3 QUAY 1
 1 FAMC @F075@
 0 @FB062@ INDI
@@ -4856,23 +4862,23 @@
 1 SEX F
 1 BIRT
 2 DATE 24 FEB 1976
-2 SOUR @S129@
-2 SOUR @S121@
+2 SOUR @S130@
+2 SOUR @S122@
 1 DEAT
 2 DATE 12 APR 1988
-2 SOUR @S129@
-2 SOUR @S121@
+2 SOUR @S130@
+2 SOUR @S122@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S129@
+2 SOUR @S130@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Daughter “Julie” named as predeceased in her father Robert J. Febbo’s 2025 obituary; granddaughter “Julie” named as predeceased in her grandfather Louis V. Febbo’s 1995 obituary.
-2 SOUR @S129@
+2 SOUR @S130@
 3 QUAY 3
-2 SOUR @S121@
+2 SOUR @S122@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial: Julie Ann Febbo, born 24 Feb 1976, died 12 Apr 1988 (aged 12), Old Forge Cemetery. Matched to Robert’s daughter by name, cemetery and timing.
-2 SOUR @S134@
+2 SOUR @S135@
 3 QUAY 2
 1 FAMC @F075@
 0 @FB063@ INDI
@@ -4901,29 +4907,29 @@
 1 BIRT
 2 DATE 4 JUN 1880
 2 PLAC Catanzaro, Calabria, Italy
+2 SOUR @S126@
 2 SOUR @S125@
-2 SOUR @S124@
 1 DEAT
 2 DATE 29 JAN 1949
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S126@
 2 SOUR @S125@
-2 SOUR @S124@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S125@
+2 SOUR @S126@
 1 NOTE Spelling variants: Cavalier; Cavaliere
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Salvatore Cavalieri (“AKA Cavalier”), born 4 Jun 1880, Province of Catanzaro, Calabria; died 29 Jan 1949, Scranton; shoemaker; “son of Francesco and Maria Baron
 2 CONC i Cavaliere.” Linked to wife Raffaella Pugliano Cavalieri and children Mary, Frances Vivian (Cavalier) Febbo and Angelo Salvatore Cavalier.
-2 SOUR @S125@
+2 SOUR @S126@
 3 QUAY 2
 1 NOTE [Record; likely] Father of Frances (Cavalier) Febbo, wife of Louis V. Febbo, through the Find a Grave family links on both memorials.
-2 SOUR @S125@
+2 SOUR @S126@
 3 QUAY 2
-2 SOUR @S124@
+2 SOUR @S125@
 3 QUAY 2
 1 NOTE [Assumed; unconfirmed] His parents, Francesco Cavaliere and Maria Baroni, are named only in this user-written memorial bio and are not shown as cards.
-2 SOUR @S125@
+2 SOUR @S126@
 3 QUAY 1
 1 FAMS @F113@
 0 @CV002@ INDI
@@ -4936,17 +4942,17 @@
 1 BIRT
 2 DATE 27 OCT 1884
 2 PLAC Italy
-2 SOUR @S174@
+2 SOUR @S175@
 1 DEAT
 2 DATE DEC 1979
-2 SOUR @S174@
+2 SOUR @S175@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S174@
+2 SOUR @S175@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Raffaella Pugliano Cavalieri, born 27 Oct 1884, Italy; died Dec 1979 (aged 95); Old Forge Cemetery. Wife of Salvatore Cavalieri; mother of Mary, Frances Vivia
 2 CONC n (Cavalier) Febbo and Angelo Salvatore Cavalier.
-2 SOUR @S174@
+2 SOUR @S175@
 3 QUAY 2
 1 FAMS @F113@
 0 @CV003@ INDI
@@ -4957,18 +4963,18 @@
 1 BIRT
 2 DATE 4 AUG 1911
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S175@
+2 SOUR @S176@
 1 DEAT
 2 DATE 5 JUL 2006
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S175@
+2 SOUR @S176@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S175@
+2 SOUR @S176@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Mary Cavalieri, born 4 Aug 1911, Old Forge; died 5 Jul 2006 (aged 94), Scranton; Old Forge Cemetery. Daughter of Salvatore and Raffaella; sister of Frances Febb
 2 CONC o and Angelo. No spouse linked; her obituary was not found.
-2 SOUR @S175@
+2 SOUR @S176@
 3 QUAY 2
 1 FAMC @F113@
 0 @CV004@ INDI
@@ -4979,24 +4985,24 @@
 1 BIRT
 2 DATE 5 JUL 1917
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S176@
 2 SOUR @S177@
+2 SOUR @S178@
 1 DEAT
 2 DATE 12 DEC 2001
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S176@
 2 SOUR @S177@
+2 SOUR @S178@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S176@
+2 SOUR @S177@
 1 NOTE Spelling variants: Cavalieri (birth surname)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Angelo Salvatore Cavalier (veteran), born 5 Jul 1917, Old Forge; died 12 Dec 2001 (aged 84), Scranton; “birth surname Cavalieri.” Son of Salvatore and Raffaella
 2 CONC ; brother of Mary and Frances; wife Helen Klepadlo Cavalier. His obituary was not found, so his children (if any) are unknown.
-2 SOUR @S176@
+2 SOUR @S177@
 3 QUAY 2
 1 NOTE [Record; likely] Social Security Death Index (LocateAncestors abstract): Angelo S. Cavalier, born 5 Jul 1917, died 12 Dec 2001, last residence Scranton. Agrees with Find a Grave.
-2 SOUR @S177@
+2 SOUR @S178@
 3 QUAY 2
 1 FAMS @F114@
 1 FAMC @F113@
@@ -5010,33 +5016,33 @@
 1 BIRT
 2 DATE 1918
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S179@
 2 SOUR @S178@
-2 SOUR @S177@
 1 DEAT
 2 DATE 27 NOV 1997
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S179@
 2 SOUR @S178@
-2 SOUR @S177@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S178@
+2 SOUR @S179@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Helen Len Klepadlo Cavalier, born 4 Mar 1918, Scranton (bio: “alternate birth date of 4 Jan 1918”); died 27 Nov 1997 (aged 79), Scranton; Sacred Hearts of Jesu
 2 CONC s and Mary Cemetery. Bio: “Wife of Angelo S. Cavalier.” Parents Boleslaw Antoni Klepadlo and Waleria Sadowski; siblings Anna Mazur, Joseph John, John Anthony, Stanley John, Francis Joseph “Frank” Klep
 2 CONC adlo and Catherine M. Kosar (see the Klepadlo family chart).
-2 SOUR @S178@
+2 SOUR @S179@
 3 QUAY 2
 1 NOTE [Record; likely] Social Security Death Index (LocateAncestors abstract): Helen Cavalier, born 13 Jan 1918, died 27 Nov 1997, last residence Scranton (same ZIP code as Angelo S. Cavalier, d. 2001).
-2 SOUR @S177@
+2 SOUR @S178@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Birth date: 4 Mar 1918 (Find a Grave), 4 Jan 1918 (alternate date in the same memorial bio) and 13 Jan 1918 (Social Security Death Index). The card shows only 1918 until a birt
 2 CONC h or baptism record settles it. Death date 27 Nov 1997 agrees in both sources.
+2 SOUR @S179@
+3 QUAY 1
 2 SOUR @S178@
 3 QUAY 1
-2 SOUR @S177@
-3 QUAY 1
 1 FAMS @F114@
-1 FAMC @F126@
+1 FAMC @F130@
 0 @I183@ INDI
 1 NAME Living
 1 SEX M
@@ -5057,34 +5063,34 @@
 1 BIRT
 2 DATE 1866
 2 PLAC Italy
-2 SOUR @S179@
-2 SOUR @S173@
+2 SOUR @S180@
+2 SOUR @S174@
 1 DEAT
 2 DATE 6 NOV 1922
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S179@
-2 SOUR @S173@
+2 SOUR @S180@
+2 SOUR @S174@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S179@
+2 SOUR @S180@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Lorenzo “Lawrence” Semenza, born 1866, Italy; died 6 Nov 1922, Old Forge; Cathedral Cemetery, Scranton. Bio: “Storekeeper, aged 52 years. Son of Giovanni Semenz
 2 CONC a and Nancy Vasalla.” (The bio’s age 52 does not fit a 1866 birth; memorial dates kept as shown.) Wife: Rosaria Pilosi Semenza. Children linked: Margaret (Semenez) Ripa, Nancy (Semenza) Tenneriello, A
 2 CONC ngela (Semenza) Piccolini, Vera R., Margaret, Lawrence Vincent, John Francis, Viola E. (Semenza) Featherstonhaugh and Rocco V. Semenza (their dates were not read).
-2 SOUR @S179@
+2 SOUR @S180@
 3 QUAY 2
 1 NOTE [Record; likely] Maternal grandfather of Rosemarie A. (Piccolini) Ciuccio, whose 2016 obituary names her mother as Angela Semenza Piccolini.
-2 SOUR @S179@
+2 SOUR @S180@
 3 QUAY 2
-2 SOUR @S173@
+2 SOUR @S174@
 3 QUAY 2
-2 SOUR @S128@
+2 SOUR @S129@
 3 QUAY 2
 1 NOTE [Record; confirmed] Children (update 12 Nov 2026): daughter Vera R. Semenza’s 2000 obituary names 13 children in all — John, Dr. Nicholas, Rocco, Lawrence V., Nancy Tenneriello, Angela Piccolini, Marg
 2 CONC aret Semenza, Mary Ruthkowski, Patricia Ripa, Josephine Joyce, Viola Featherstone and Vera herself. Dates for the Find a Grave-linked children have now been read and added to the chart.
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
-2 SOUR @S179@
+2 SOUR @S180@
 3 QUAY 3
 1 FAMS @F115@
 0 @PC002@ INDI
@@ -5096,24 +5102,24 @@
 1 SEX F
 1 BIRT
 2 DATE 1873
+2 SOUR @S182@
 2 SOUR @S181@
-2 SOUR @S180@
 1 DEAT
 2 DATE 1961
+2 SOUR @S182@
 2 SOUR @S181@
-2 SOUR @S180@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S181@
+2 SOUR @S182@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Rosaria Pilosi Semenza, 1873–1961, Cathedral Cemetery, Scranton; wife of Lorenzo Semenza, mother of Angela Semenza Piccolini and the siblings listed on Lorenzo’
 2 CONC s card.
-2 SOUR @S181@
+2 SOUR @S182@
 3 QUAY 2
 1 NOTE [Record; confirmed] Mother of Vera R. Semenza (“daughter of the late Lorenzo and Rosaria (Pilosi) Semenza”, 2000 obituary) and of Nancy Tenneriello (Find a Grave bio).
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
-2 SOUR @S182@
+2 SOUR @S183@
 3 QUAY 3
 1 FAMS @F115@
 0 @PC003@ INDI
@@ -5126,30 +5132,30 @@
 1 BIRT
 2 DATE OCT 1899
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S173@
-2 SOUR @S128@
+2 SOUR @S174@
+2 SOUR @S129@
 1 DEAT
 2 DATE 21 MAR 1988
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S173@
-2 SOUR @S128@
+2 SOUR @S174@
+2 SOUR @S129@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S173@
+2 SOUR @S174@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Angela Semenza Piccolini, born Oct 1899, Old Forge; died 21 Mar 1988 (aged 88), Taylor, Pa.; Old Forge Cemetery. Parents Lorenzo “Lawrence” Semenza and Rosari
 2 CONC a Pilosi; husband Vincenzo “Jimmy” Piccolini; children Rosemarie Ann Ciuccio, Lenore L. Ilaria, Louis Joseph and Vincent A. Piccolini Sr.
-2 SOUR @S173@
+2 SOUR @S174@
 3 QUAY 2
 1 NOTE [Record; confirmed] Mother of Rosemarie A. Ciuccio (“daughter of the late James and Angela Semenza Piccolini”, 2016 obituary) and of Louis J. and Vincent A. Piccolini (their 2001 and 2009 obituaries).
-2 SOUR @S128@
-3 QUAY 3
-2 SOUR @S171@
+2 SOUR @S129@
 3 QUAY 3
 2 SOUR @S172@
 3 QUAY 3
+2 SOUR @S173@
+3 QUAY 3
 1 NOTE [Record; confirmed] The late sister Angela Piccolini in her sister Vera R. Semenza’s 2000 obituary.
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
 1 FAMS @F118@
 1 FAMC @F115@
@@ -5161,26 +5167,26 @@
 1 BIRT
 2 DATE 20 MAY 1894
 2 PLAC Montecelio, Roma, Lazio, Italy
-2 SOUR @S192@
-2 SOUR @S128@
+2 SOUR @S197@
+2 SOUR @S129@
 1 DEAT
 2 DATE 8 AUG 1967
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S192@
-2 SOUR @S128@
+2 SOUR @S197@
+2 SOUR @S129@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S192@
+2 SOUR @S197@
 1 NOTE Spelling variants: James Piccolini (daughter Rosemarie’s 2016 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Vincenzo “Jimmy” Piccolini (veteran), born 20 May 1894, Montecelio, Rome, Italy; died 8 Aug 1967 (aged 73), Scranton; Old Forge Cemetery. Bio: son of Luigi an
 2 CONC d Rosa Mezzanatte Piccolini; slightly wounded in action 23 Oct 1918 (presumably Meuse-Argonne, France); coal miner.
-2 SOUR @S192@
+2 SOUR @S197@
 3 QUAY 2
 1 NOTE [Record; confirmed] Called “James” in daughter Rosemarie’s 2016 obituary and “Vincenzo (Jimmy)” in son Vincent’s 2009 obituary. Same man: Jimmy is the American nickname.
-2 SOUR @S128@
+2 SOUR @S129@
 3 QUAY 3
-2 SOUR @S172@
+2 SOUR @S173@
 3 QUAY 3
 1 FAMS @F118@
 0 @PC010@ INDI
@@ -5193,28 +5199,28 @@
 1 BIRT
 2 DATE 14 JAN 1930
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S193@
-2 SOUR @S171@
+2 SOUR @S198@
+2 SOUR @S172@
 1 DEAT
 2 DATE 23 APR 2015
 2 PLAC Saylorsburg, Monroe, Pennsylvania, USA
-2 SOUR @S193@
-2 SOUR @S171@
+2 SOUR @S198@
+2 SOUR @S172@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S193@
+2 SOUR @S198@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Lenore L. Piccolini Ilaria, born 14 Jan 1930, Old Forge; died 23 Apr 2015 (aged 85), Saylorsburg, Pa.; Old Forge Cemetery. Bio: married Carl R. Scarlata in 195
 2 CONC 0 (“presumed mother of Randall V. Scarlata”) and Alfons A. Ilaria in 1964.
-2 SOUR @S193@
+2 SOUR @S198@
 3 QUAY 2
 1 NOTE [Record; confirmed] Named as sister “Lenore Ilaria” in brother Louis’s 2001 obituary (Staten Island, N.Y.) and brother Vincent’s 2009 obituary (Woodbridge, N.J.); named as predeceased sister “Lenore I
 2 CONC laria” in Rosemarie Ciuccio’s 2016 obituary.
-2 SOUR @S171@
-3 QUAY 3
 2 SOUR @S172@
 3 QUAY 3
-2 SOUR @S128@
+2 SOUR @S173@
+3 QUAY 3
+2 SOUR @S129@
 3 QUAY 3
 1 FAMC @F118@
 0 @PC011@ INDI
@@ -5227,29 +5233,29 @@
 1 BIRT
 2 DATE 2 JUL 1932
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S171@
-2 SOUR @S194@
+2 SOUR @S172@
+2 SOUR @S199@
 1 DEAT
 2 DATE 23 AUG 2001
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S171@
-2 SOUR @S194@
+2 SOUR @S172@
+2 SOUR @S199@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S171@
+2 SOUR @S172@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (Times Leader, 25 Aug 2001): Louis J. “Buddy” Piccolini of Old Forge died Thursday [23 Aug 2001] at the Northeastern Veterans Center, Scranton. Son of the late Vincenzo an
 2 CONC d Angela (Semenza) Piccolini; Old Forge H.S. 1950; co-owned Valley Auto Parts, Old Forge; U.S. Navy veteran. Survived by his wife, the former Alice D. Francis; son Louis “Buddy”; daughters Donna Nyzi
 2 CONC o and Gayle Piccolini; six grandchildren; brother Vincent; sisters Rosemarie Ciuccio and Lenore Ilaria. Interment Old Forge Cemetery.
-2 SOUR @S171@
+2 SOUR @S172@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Death place: Find a Grave says Philadelphia; his obituary says the Northeastern Veterans Center, Scranton. The tree uses Scranton from the obituary.
-2 SOUR @S194@
+2 SOUR @S199@
 3 QUAY 1
-2 SOUR @S171@
+2 SOUR @S172@
 3 QUAY 1
 1 NOTE [Record; likely] Find a Grave memorial: Louis Joseph Piccolini, born 2 Jul 1932, Old Forge; died 23 Aug 2001; Old Forge Cemetery; Navy, Korea, enlisted 5 Mar 1952, discharged 23 Dec 1953.
-2 SOUR @S194@
+2 SOUR @S199@
 3 QUAY 2
 1 FAMS @F119@
 1 FAMC @F118@
@@ -5279,21 +5285,21 @@
 1 BIRT
 2 DATE 3 AUG 1934
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S172@
+2 SOUR @S173@
 1 DEAT
 2 DATE 30 DEC 2009
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S172@
+2 SOUR @S173@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S172@
+2 SOUR @S173@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (text on his Find a Grave memorial): Vincent A. Piccolini Sr., 75, of Old Forge, died 30 Dec 2009 in the VNA Hospice Unit, Community Medical Center (Scranton). Son of th
 2 CONC e late Vincenzo (Jimmy) and Angela Semenza Piccolini; Old Forge H.S. 1952; co-founded Valley Auto Parts in 1960 with brother Louis “Buddy”; U.S. Navy 1954–1956 (radar operator, USS Mississippi). Survi
 2 CONC ved by wife Marie Carra Piccolini (married 11 Feb 1956); son Vince Jr. (wife Paula); daughter Denise Slack (husband Will); sisters Rosemarie Ciuccio and Lenore Ilaria; five grandchildren Amanda Slack
 2 CONC , Vince Piccolini III, Dustin Slack, Michele Piccolini and Anthony Piccolini. Predeceased by brother Louis “Buddy”. It thanks “Rosemary and Louis Febbo” (his niece and her husband). Victor M. Ferri Fu
 2 CONC neral Home; Old Forge Cemetery.
-2 SOUR @S172@
+2 SOUR @S173@
 3 QUAY 3
 1 FAMS @F120@
 1 FAMC @F118@
@@ -5308,19 +5314,19 @@
 1 BIRT
 2 DATE 1 OCT 1931
 2 PLAC Dunmore, Lackawanna, Pennsylvania, USA
-2 SOUR @S195@
+2 SOUR @S200@
 1 DEAT
 2 DATE 3 AUG 2011
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S195@
+2 SOUR @S200@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S195@
+2 SOUR @S200@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (text on her Find a Grave memorial): Marie Piccolini, 79, of Old Forge, died Wednesday [3 Aug 2011] soon after admission to the Regional Hospital of Scranton; widow of Vin
 2 CONC cent A. Piccolini Sr. (d. 30 Dec 2009). Born in Dunmore, daughter of the late Charles and Theresa “Tessie” Killino Carra; raised in Old Forge after her father died when she was 6; Old Forge H.S. 194
 2 CONC 9 (known as “Jitterbug”). The text read does not include a survivors list.
-2 SOUR @S195@
+2 SOUR @S200@
 3 QUAY 3
 1 FAMS @F120@
 0 @PC018@ INDI
@@ -5349,24 +5355,24 @@
 1 BIRT
 2 DATE 13 JAN 1889
 2 PLAC Poland
-2 SOUR @S204@
-2 SOUR @S178@
+2 SOUR @S218@
+2 SOUR @S179@
 1 DEAT
 2 DATE 25 NOV 1953
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S204@
-2 SOUR @S178@
+2 SOUR @S218@
+2 SOUR @S179@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S204@
+2 SOUR @S218@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Boleslaw Antoni Klepadlo, born 13 Jan 1889, Poland (bio: Nowa Wieś, “but there are many ‘new villages’”); died 25 Nov 1953 (aged 64), Scranton; Sacred Hearts o
 2 CONC f Jesus and Mary Cemetery. Bio: son of John and Victoria Klepadlo. Father of Helen (Klepadlo) Cavalier, through the family links on her memorial.
-2 SOUR @S204@
+2 SOUR @S218@
 3 QUAY 2
-2 SOUR @S178@
+2 SOUR @S179@
 3 QUAY 2
-1 FAMS @F126@
+1 FAMS @F130@
 0 @KL002@ INDI
 1 NAME Waleria /Sadowski/
 2 GIVN Waleria
@@ -5377,20 +5383,20 @@
 1 BIRT
 2 DATE 4 MAR 1896
 2 PLAC Poland
-2 SOUR @S205@
+2 SOUR @S219@
 1 DEAT
 2 DATE 24 DEC 1975
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S205@
+2 SOUR @S219@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S205@
+2 SOUR @S219@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Waleria Sadowski Klepadlo, born 4 Mar 1896, Poland (bio: Nowa Wieś); died 24 Dec 1975 (aged 79), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Bio: daught
 2 CONC er of Anthony and Anna Sadowski. Wife of Boleslaw; mother of Helen Cavalier and her six siblings.
-2 SOUR @S205@
+2 SOUR @S219@
 3 QUAY 2
-1 FAMS @F126@
+1 FAMS @F130@
 0 @KL003@ INDI
 1 NAME Anna /Klepadlo/
 2 GIVN Anna
@@ -5401,24 +5407,24 @@
 1 BIRT
 2 DATE 23 JUN 1914
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S206@
-2 SOUR @S178@
+2 SOUR @S220@
+2 SOUR @S179@
 1 DEAT
 2 DATE 6 SEP 1962
 2 PLAC Blakely, Lackawanna, Pennsylvania, USA
-2 SOUR @S206@
-2 SOUR @S178@
+2 SOUR @S220@
+2 SOUR @S179@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S206@
+2 SOUR @S220@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Anna Klepadlo Mazur, born 23 Jun 1914, Scranton; died 6 Sep 1962 (aged 48), Blakely, Pa.; silk worker when she married; Sacred Hearts of Jesus and Mary Cemetery
 2 CONC . Sister of Helen Cavalier. Husband’s first name not read.
-2 SOUR @S206@
+2 SOUR @S220@
 3 QUAY 2
-2 SOUR @S178@
+2 SOUR @S179@
 3 QUAY 2
-1 FAMC @F126@
+1 FAMC @F130@
 0 @KL004@ INDI
 1 NAME Joseph John /Klepadlo/
 2 GIVN Joseph John
@@ -5427,24 +5433,24 @@
 1 BIRT
 2 DATE 19 FEB 1920
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S207@
-2 SOUR @S178@
+2 SOUR @S221@
+2 SOUR @S179@
 1 DEAT
 2 DATE 27 JAN 1986
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S207@
-2 SOUR @S178@
+2 SOUR @S221@
+2 SOUR @S179@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S207@
+2 SOUR @S221@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Joseph John Klepadlo (veteran), born 19 Feb 1920, Scranton; died 27 Jan 1986 (aged 65), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Brother of Helen Cav
 2 CONC alier (family links).
-2 SOUR @S207@
+2 SOUR @S221@
 3 QUAY 2
-2 SOUR @S178@
+2 SOUR @S179@
 3 QUAY 2
-1 FAMC @F126@
+1 FAMC @F130@
 0 @KL005@ INDI
 1 NAME John Anthony /Klepadlo/
 2 GIVN John Anthony
@@ -5453,24 +5459,24 @@
 1 BIRT
 2 DATE 19 NOV 1921
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S208@
-2 SOUR @S178@
+2 SOUR @S222@
+2 SOUR @S179@
 1 DEAT
 2 DATE 6 MAY 1992
 2 PLAC Nanticoke, Luzerne, Pennsylvania, USA
-2 SOUR @S208@
-2 SOUR @S178@
+2 SOUR @S222@
+2 SOUR @S179@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S208@
+2 SOUR @S222@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: John Anthony Klepadlo (veteran), born 19 Nov 1921, Scranton; died 6 May 1992 (aged 70), Nanticoke, Pa.; Sacred Hearts of Jesus and Mary Cemetery. Brother of Hel
 2 CONC en Cavalier (family links).
-2 SOUR @S208@
+2 SOUR @S222@
 3 QUAY 2
-2 SOUR @S178@
+2 SOUR @S179@
 3 QUAY 2
-1 FAMC @F126@
+1 FAMC @F130@
 0 @KL006@ INDI
 1 NAME Stanley John /Klepadlo/
 2 GIVN Stanley John
@@ -5479,20 +5485,20 @@
 1 BIRT
 2 DATE 18 JAN 1924
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S209@
+2 SOUR @S223@
 1 DEAT
 2 DATE 24 AUG 1951
 2 PLAC Chester County, Pennsylvania, USA
-2 SOUR @S209@
+2 SOUR @S223@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S209@
+2 SOUR @S223@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Stanley John Klepadlo (veteran), born 18 Jan 1924, Scranton; died 24 Aug 1951 (aged 27), Chester County, Pa. (accidental death); never married; served in the 50
 2 CONC 3rd Military Police Company, 3rd Armored Division, in World War II. Sacred Hearts of Jesus and Mary Cemetery.
-2 SOUR @S209@
+2 SOUR @S223@
 3 QUAY 2
-1 FAMC @F126@
+1 FAMC @F130@
 0 @KL007@ INDI
 1 NAME Francis Joseph “Frank” /Klepadlo/
 2 GIVN Francis Joseph “Frank”
@@ -5501,24 +5507,24 @@
 1 BIRT
 2 DATE 5 OCT 1926
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S210@
-2 SOUR @S178@
+2 SOUR @S224@
+2 SOUR @S179@
 1 DEAT
 2 DATE 10 APR 1998
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S210@
-2 SOUR @S178@
+2 SOUR @S224@
+2 SOUR @S179@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S210@
+2 SOUR @S224@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Francis Joseph “Frank” Klepadlo (veteran), born 5 Oct 1926, Scranton; died 10 Apr 1998 (aged 71), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Brother o
 2 CONC f Helen Cavalier (family links).
-2 SOUR @S210@
+2 SOUR @S224@
 3 QUAY 2
-2 SOUR @S178@
+2 SOUR @S179@
 3 QUAY 2
-1 FAMC @F126@
+1 FAMC @F130@
 0 @KL008@ INDI
 1 NAME Catherine M. /Klepadlo/
 2 GIVN Catherine M.
@@ -5529,24 +5535,24 @@
 1 BIRT
 2 DATE 25 JUN 1928
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S211@
-2 SOUR @S178@
+2 SOUR @S225@
+2 SOUR @S179@
 1 DEAT
 2 DATE 24 DEC 1995
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S211@
-2 SOUR @S178@
+2 SOUR @S225@
+2 SOUR @S179@
 1 BURI
 2 PLAC Sacred Hearts of Jesus and Mary Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S211@
+2 SOUR @S225@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Catherine M. Klepadlo Kosar, born 25 Jun 1928, Scranton; died 24 Dec 1995 (aged 67), Scranton; Sacred Hearts of Jesus and Mary Cemetery. Sister of Helen Cavalie
 2 CONC r (family links). Her obituary was not found.
-2 SOUR @S211@
+2 SOUR @S225@
 3 QUAY 2
-2 SOUR @S178@
+2 SOUR @S179@
 3 QUAY 2
-1 FAMC @F126@
+1 FAMC @F130@
 0 @SZ010@ INDI
 1 NAME Margaret /Semenza/
 2 GIVN Margaret
@@ -5559,29 +5565,40 @@
 1 BIRT
 2 DATE 16 OCT 1897
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S183@
+2 SOUR @S184@
 1 DEAT
 2 DATE 20 JAN 1993
 2 PLAC Wilmington, New Hanover, North Carolina, USA
-2 SOUR @S183@
+2 SOUR @S184@
 1 NOTE Spelling variants: Semenez (Find a Grave); possibly the “Patricia Ripa” of Vera’s 2000 obituary
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Margaret Semenez Ripa, born 16 Oct 1897, Scranton; died 20 Jan 1993 (aged 95), Wilmington, N.C.; linked as a daughter of Lorenzo Semenza and Rosaria Pilosi. Bur
 2 CONC ial place not given.
-2 SOUR @S183@
+2 SOUR @S184@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Name: Find a Grave calls her Margaret Semenez Ripa, but sister Vera’s 2000 obituary lists the late sisters as “Margaret Semenza … Patricia Ripa” (a separate Margaret Semenza, 1
 2 CONC 906–1983, is also on Find a Grave). Either this Ripa sister was known as Patricia or the memorial’s given name is wrong. Unresolved.
+2 SOUR @S184@
+3 QUAY 1
+2 SOUR @S181@
+3 QUAY 1
+2 SOUR @S185@
+3 QUAY 1
+1 NOTE [Conflict; unconfirmed] Birth date 16 Oct 1897 is only four months before sister Nancy’s 13 Feb 1898 (both from Find a Grave), so at least one date is wrong. Unresolved.
+2 SOUR @S184@
+3 QUAY 1
 2 SOUR @S183@
 3 QUAY 1
-2 SOUR @S180@
+1 NOTE [Assumed; unconfirmed] Possible source of the Ripa confusion: Old Forge also had an apparently separate Semenza family, Severino Semenza and his wife Margaret Ripa Semenza, whose children included Dan
+2 CONC iel Semenza (1908–2007) and Elizabeth Aliberti (1911–2007) (their 2007 obituaries). A “Margaret … Ripa” tied to a Semenza could come from that family. No link to Lorenzo and Rosaria’s family has bee
+2 CONC n found, so the Margaret/“Patricia” Ripa question stays open.
+2 SOUR @S186@
+3 QUAY 1
+2 SOUR @S187@
 3 QUAY 1
 2 SOUR @S184@
 3 QUAY 1
-1 NOTE [Conflict; unconfirmed] Birth date 16 Oct 1897 is only four months before sister Nancy’s 13 Feb 1898 (both from Find a Grave), so at least one date is wrong. Unresolved.
-2 SOUR @S183@
-3 QUAY 1
-2 SOUR @S182@
+2 SOUR @S181@
 3 QUAY 1
 1 FAMC @F115@
 0 @SZ001@ INDI
@@ -5596,32 +5613,35 @@
 1 BIRT
 2 DATE 13 FEB 1898
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S182@
-2 SOUR @S180@
+2 SOUR @S183@
+2 SOUR @S181@
 1 DEAT
 2 DATE 26 NOV 1983
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S182@
-2 SOUR @S180@
+2 SOUR @S183@
+2 SOUR @S181@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S182@
+2 SOUR @S183@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Nancy Semenza Tenneriello, born 13 Feb 1898, Old Forge; died 26 Nov 1983 (aged 85), Old Forge; Cathedral Cemetery, Scranton. Bio: “Daughter of Lorenzo and Rosar
 2 CONC ia (Pilosi) Semenza.” Husband Anthony Tenneriello; children Lawrence Joseph, Divina (Comes) and Anthony James.
-2 SOUR @S182@
+2 SOUR @S183@
 3 QUAY 2
 1 NOTE [Record; confirmed] Named as the late sister Nancy Tenneriello in Vera R. Semenza’s 2000 obituary, and as mother in son Anthony James Tenneriello’s 2008 obituary (“son of the late Anthony and Nancy Se
 2 CONC menza Tenneriello”).
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
-2 SOUR @S185@
+2 SOUR @S188@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Birth date 13 Feb 1898 is only four months after sister Margaret Ripa’s 16 Oct 1897 (both from Find a Grave). Unresolved.
-2 SOUR @S182@
-3 QUAY 1
 2 SOUR @S183@
 3 QUAY 1
+2 SOUR @S184@
+3 QUAY 1
+1 NOTE [Record; confirmed] Named as mother (“Nancy Semenza”) of Lawrence J. Tenneriello in his SSA Numident record.
+2 SOUR @S189@
+3 QUAY 3
 1 FAMS @F116@
 1 FAMC @F115@
 0 @SZ002@ INDI
@@ -5631,23 +5651,23 @@
 1 SEX M
 1 BIRT
 2 DATE 1886
-2 SOUR @S186@
-2 SOUR @S182@
+2 SOUR @S190@
+2 SOUR @S183@
 1 DEAT
 2 DATE 1926
-2 SOUR @S186@
-2 SOUR @S182@
+2 SOUR @S190@
+2 SOUR @S183@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S186@
+2 SOUR @S190@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Anthony Tenneriello, 1886–1926, Cathedral Cemetery, Scranton; linked as husband of Nancy Semenza Tenneriello.
-2 SOUR @S186@
+2 SOUR @S190@
 3 QUAY 2
-2 SOUR @S182@
+2 SOUR @S183@
 3 QUAY 2
 1 NOTE [Record; confirmed] Father of Anthony James Tenneriello (born 1921 on Mulberry Street, New York City), per the son’s 2008 obituary.
-2 SOUR @S185@
+2 SOUR @S188@
 3 QUAY 3
 1 FAMS @F116@
 0 @SZ003@ INDI
@@ -5658,27 +5678,27 @@
 1 BIRT
 2 DATE 10 JUL 1921
 2 PLAC New York, New York, New York, USA
-2 SOUR @S185@
-2 SOUR @S187@
+2 SOUR @S188@
+2 SOUR @S191@
 1 DEAT
 2 DATE 2 MAR 2008
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S185@
-2 SOUR @S187@
+2 SOUR @S188@
+2 SOUR @S191@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S185@
+2 SOUR @S188@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (2008): Anthony James Tenneriello of Old Forge died Sunday evening, 2 Mar 2008, at Moses Taylor Hospital, Scranton. Born on Mulberry Street, New York City, son of the lat
 2 CONC e Anthony and Nancy Semenza Tenneriello; Old Forge High School; World War II Army veteran (1942–1946; 10th Mountain Division, 51st Military Police Battalion on Okinawa and in Korea); worked for the De
 2 CONC laware Lackawanna Railroad and Valley Auto Parts. Survived by sister-in-law Irene Tenneriello and two nieces, Joanne and Nancy Tenneriello; preceded by brother Lawrence and sister Divina Comessa. Inte
 2 CONC rment Cathedral Cemetery.
-2 SOUR @S185@
+2 SOUR @S188@
 3 QUAY 3
-2 SOUR @S187@
+2 SOUR @S191@
 3 QUAY 3
 1 NOTE [Record; likely] The nephew “Anthony Tenneriello, with whom she resided” in his aunt Vera R. Semenza’s 2000 obituary.
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 2
 1 FAMC @F116@
 0 @SZ004@ INDI
@@ -5689,28 +5709,38 @@
 1 BIRT
 2 DATE 21 MAR 1923
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S188@
-2 SOUR @S182@
+2 SOUR @S192@
+2 SOUR @S183@
 1 DEAT
 2 DATE 13 SEP 1988
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S188@
-2 SOUR @S182@
+2 SOUR @S192@
+2 SOUR @S183@
 1 BURI
 2 PLAC Saint Mary’s Syrian Orthodox Church Cemetery, Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S188@
+2 SOUR @S192@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Pvt. Lawrence Joseph Tenneriello (veteran), born 21 Mar 1923, Old Forge; died 13 Sep 1988 (aged 65), Wilkes-Barre; St. Mary’s Syrian Orthodox Church Cemetery, W
 2 CONC ilkes-Barre; linked as son of Nancy Semenza Tenneriello.
-2 SOUR @S188@
+2 SOUR @S192@
 3 QUAY 2
-2 SOUR @S182@
+2 SOUR @S183@
 3 QUAY 2
 1 NOTE [Record; confirmed] The late brother Lawrence in Anthony James Tenneriello’s 2008 obituary; husband “Larry Tenneriello” in wife Irene’s 2012 obituary.
-2 SOUR @S185@
+2 SOUR @S188@
 3 QUAY 3
+2 SOUR @S193@
+3 QUAY 3
+1 NOTE [Record; confirmed] SSA Numident abstract: Lawrence Joseph Tenneriello, born 21 Mar 1923 in Old Forge, son of Anthony Tenneriello and Nancy Semenza; died 15 Sep 1988.
 2 SOUR @S189@
 3 QUAY 3
+2 SOUR @S194@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Death date: 13 Sep 1988 on Find a Grave vs 15 Sep 1988 in the SSA Numident / Death Master File. The tree keeps 13 Sep 1988 for now. Unresolved.
+2 SOUR @S192@
+3 QUAY 1
+2 SOUR @S189@
+3 QUAY 1
 1 FAMS @F117@
 1 FAMC @F116@
 0 @SZ005@ INDI
@@ -5723,23 +5753,23 @@
 1 BIRT
 2 DATE 26 JUN 1921
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S189@
-2 SOUR @S190@
+2 SOUR @S193@
+2 SOUR @S195@
 1 DEAT
 2 DATE 20 OCT 2012
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S189@
-2 SOUR @S190@
+2 SOUR @S193@
+2 SOUR @S195@
 1 BURI
 2 PLAC Saint Mary’s Syrian Orthodox Church Cemetery, Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S189@
+2 SOUR @S193@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (2012): Irene Namey Tenneriello of Wilkes-Barre died Saturday, 20 Oct 2012, at the Hospice Community Care Unit of Geisinger South Wilkes-Barre; daughter of the late Alber
 2 CONC t and Zanie Mamary Namey; served briefly in the WAVES; after marrying lived briefly in Old Forge with her husband’s family; met him at Rocky Glen Park on Italian Day. Survived by daughters Joanne an
 2 CONC d Nancy; preceded by husband Larry Tenneriello. Find a Grave gives birth 26 Jun 1921, Wilkes-Barre.
-2 SOUR @S189@
+2 SOUR @S193@
 3 QUAY 3
-2 SOUR @S190@
+2 SOUR @S195@
 3 QUAY 3
 1 FAMS @F117@
 0 @SZ006@ INDI
@@ -5762,23 +5792,23 @@
 1 BIRT
 2 DATE 3 NOV 1924
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S191@
-2 SOUR @S185@
+2 SOUR @S196@
+2 SOUR @S188@
 1 DEAT
 2 DATE 18 DEC 1949
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S191@
-2 SOUR @S185@
+2 SOUR @S196@
+2 SOUR @S188@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S191@
+2 SOUR @S196@
 1 NOTE Spelling variants: Comessa (brother’s 2008 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Divina Tenneriello Comes, born 3 Nov 1924, Old Forge; died 18 Dec 1949 (aged 25), Scranton; Cathedral Cemetery; linked as daughter of Nancy Semenza Tenneriello
 2 CONC . Brother Anthony’s 2008 obituary calls her “Divina Comessa”. Her husband’s name was not found.
-2 SOUR @S191@
+2 SOUR @S196@
 3 QUAY 2
-2 SOUR @S185@
+2 SOUR @S188@
 3 QUAY 2
 1 FAMC @F116@
 0 @SZ011@ INDI
@@ -5789,25 +5819,25 @@
 1 BIRT
 2 DATE 10 JUN 1905
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S180@
-2 SOUR @S196@
+2 SOUR @S181@
+2 SOUR @S201@
 1 DEAT
 2 DATE 7 APR 2000
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S180@
-2 SOUR @S196@
+2 SOUR @S181@
+2 SOUR @S201@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S180@
+2 SOUR @S181@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (Times Leader, 8 Apr 2000): Vera R. Semenza of Old Forge died Friday [7 Apr 2000] at Moses Taylor Hospital; daughter of the late Lorenzo and Rosaria (Pilosi) Semenza; Ol
 2 CONC d Forge High School and East Stroudsburg graduate; sixth-grade teacher at Old Forge Elementary School. Survived by sister Viola Featherstone of Honolulu, Hawaii, and nieces and nephews including Antho
 2 CONC ny Tenneriello. Preceded by brothers John, Dr. Nicholas, Rocco and Lawrence V., and sisters Nancy Tenneriello, Angela Piccolini, Margaret Semenza, Mary Ruthkowski, Patricia Ripa and Josephine Joyce. I
 2 CONC nterment Cathedral Cemetery.
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial: Vera R. Semenza, born 10 Jun 1905, Old Forge; died 7 Apr 2000 (aged 94), Scranton; buried 10 Apr 2000, Cathedral Cemetery.
-2 SOUR @S196@
+2 SOUR @S201@
 3 QUAY 2
 1 FAMC @F115@
 0 @SZ012@ INDI
@@ -5817,23 +5847,29 @@
 1 SEX F
 1 BIRT
 2 DATE 4 MAY 1906
-2 SOUR @S184@
-2 SOUR @S180@
+2 SOUR @S185@
+2 SOUR @S181@
 1 DEAT
 2 DATE 27 JAN 1983
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S184@
-2 SOUR @S180@
+2 SOUR @S185@
+2 SOUR @S181@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S184@
+2 SOUR @S185@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Margaret Semenza, born 4 May 1906, died 27 Jan 1983 (aged 76), Scranton; Cathedral Cemetery. Bio: dates from Social Security records; the birth year on the grav
 2 CONC e marker is different. The late sister Margaret Semenza in Vera’s 2000 obituary.
-2 SOUR @S184@
+2 SOUR @S185@
 3 QUAY 2
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 2
+1 NOTE [Assumed; unconfirmed] Vera’s 2000 obituary lists a late sister “Margaret Semenza” alongside “Patricia Ripa”; see the Ripa conflict on Margaret (Semenza) Ripa’s card. An unrelated(?) Margaret Ripa Sem
+2 CONC enza (wife of Severino Semenza) also lived in Old Forge.
+2 SOUR @S181@
+3 QUAY 1
+2 SOUR @S186@
+3 QUAY 1
 1 FAMC @F115@
 0 @SZ013@ INDI
 1 NAME Lawrence Vincent /Semenza/
@@ -5845,28 +5881,28 @@
 1 BIRT
 2 DATE 19 JUN 1907
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S197@
-2 SOUR @S180@
+2 SOUR @S202@
+2 SOUR @S181@
 1 DEAT
 2 DATE 9 MAR 1991
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S197@
-2 SOUR @S180@
+2 SOUR @S202@
+2 SOUR @S181@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S197@
+2 SOUR @S202@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Lawrence Vincent Semenza, born 19 Jun 1907, Old Forge; died 9 Mar 1991 (aged 83), Wilkes-Barre; buried 13 Mar 1991, Cathedral Cemetery; linked as son of Lorenz
 2 CONC o and Rosaria Semenza and husband of Mary T. Rosi Semenza.
-2 SOUR @S197@
+2 SOUR @S202@
 3 QUAY 2
 1 NOTE [Record; confirmed] The late brother Lawrence V. in Vera’s 2000 obituary; the late husband Lawrence V. in Mary T. Semenza’s 2003 obituary; father in son Robert V.’s 2012 obituary (“son of the late Law
 2 CONC rence V. and Mary Rosi Semenza”). Children: Lawrence V., Robert V., Mary Louise (Febbo) and Rosarie (Marino).
-2 SOUR @S180@
-3 QUAY 3
-2 SOUR @S130@
+2 SOUR @S181@
 3 QUAY 3
 2 SOUR @S131@
+3 QUAY 3
+2 SOUR @S132@
 3 QUAY 3
 1 FAMS @F123@
 1 FAMC @F115@
@@ -5880,24 +5916,24 @@
 1 BIRT
 2 DATE 1913
 2 PLAC Pittston, Luzerne, Pennsylvania, USA
-2 SOUR @S130@
-2 SOUR @S198@
+2 SOUR @S131@
+2 SOUR @S203@
 1 DEAT
 2 DATE 13 SEP 2003
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S130@
-2 SOUR @S198@
+2 SOUR @S131@
+2 SOUR @S203@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S130@
+2 SOUR @S131@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (Times Leader, 15 Sep 2003): Mary T. Semenza of Old Forge died Saturday [13 Sep 2003] at home; born in Pittston, daughter of the late Santino “Sandy” and Bernadine “Annie
 2 CONC ” Meola Rosi; involved with the Rosi Jewelry Store, Pittston; a founder of the Old Forge Elementary PTA. Preceded by husband Lawrence V.; sisters Helen Cobianchi and Theresa Stein; brothers Joseph an
 2 CONC d William Rosi. Survived by sons Lawrence V. and Robert V.; daughters Mary Louise Febbo and Rosarie Marino; 13 grandchildren and 12 great-grandchildren. Interment Cathedral Cemetery.
-2 SOUR @S130@
+2 SOUR @S131@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave memorial: Mary T. Rosi Semenza, born 1913, Pittston; died 13 Sep 2003, Old Forge; Cathedral Cemetery.
-2 SOUR @S198@
+2 SOUR @S203@
 3 QUAY 2
 1 FAMS @F123@
 0 @SZ015@ INDI
@@ -5908,22 +5944,22 @@
 1 BIRT
 2 DATE 29 NOV 1908
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S200@
-2 SOUR @S180@
+2 SOUR @S205@
+2 SOUR @S181@
 1 DEAT
 2 DATE 3 DEC 1975
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S200@
-2 SOUR @S180@
+2 SOUR @S205@
+2 SOUR @S181@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S200@
+2 SOUR @S205@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: John Francis Semenza, born 29 Nov 1908, Old Forge; died 3 Dec 1975 (aged 67), Taylor, Pa.; buried 6 Dec 1975, Cathedral Cemetery. The late brother John in Vera’
 2 CONC s 2000 obituary.
-2 SOUR @S200@
+2 SOUR @S205@
 3 QUAY 2
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 2
 1 FAMC @F115@
 0 @SZ016@ INDI
@@ -5938,23 +5974,23 @@
 1 BIRT
 2 DATE 8 MAR 1910
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S201@
-2 SOUR @S180@
+2 SOUR @S206@
+2 SOUR @S181@
 1 DEAT
 2 DATE 12 SEP 2005
-2 SOUR @S201@
-2 SOUR @S180@
+2 SOUR @S206@
+2 SOUR @S181@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S201@
+2 SOUR @S206@
 1 NOTE Spelling variants: Featherstone (sister Vera’s 2000 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Viola E. Semenza Featherstonhaugh, born 8 Mar 1910, Old Forge; died 12 Sep 2005 (aged 95); Cathedral Cemetery, Scranton; husband Norman Frederick Featherstonhau
 2 CONC gh.
-2 SOUR @S201@
+2 SOUR @S206@
 3 QUAY 2
 1 NOTE [Record; likely] The surviving sister “Viola Featherstone, Honolulu, Hawaii” in Vera’s 2000 obituary (last of the siblings).
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 2
 1 FAMS @F125@
 1 FAMC @F115@
@@ -5966,21 +6002,21 @@
 1 BIRT
 2 DATE 3 AUG 1908
 2 PLAC Syracuse, Onondaga, New York, USA
-2 SOUR @S202@
-2 SOUR @S201@
+2 SOUR @S207@
+2 SOUR @S206@
 1 DEAT
 2 DATE 14 JUL 1978
-2 SOUR @S202@
-2 SOUR @S201@
+2 SOUR @S207@
+2 SOUR @S206@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S202@
+2 SOUR @S207@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Norman Frederick Featherstonhaugh, born 3 Aug 1908, Syracuse, N.Y.; died 14 Jul 1978 (aged 69); Cathedral Cemetery, Scranton; linked as husband of Viola E. Seme
 2 CONC nza Featherstonhaugh.
-2 SOUR @S202@
+2 SOUR @S207@
 3 QUAY 2
-2 SOUR @S201@
+2 SOUR @S206@
 3 QUAY 2
 1 FAMS @F125@
 0 @SZ018@ INDI
@@ -5990,46 +6026,117 @@
 1 SEX M
 1 BIRT
 2 DATE 16 AUG 1913
-2 SOUR @S203@
-2 SOUR @S180@
+2 SOUR @S208@
+2 SOUR @S181@
 1 DEAT
 2 DATE 29 APR 1991
-2 SOUR @S203@
-2 SOUR @S180@
+2 SOUR @S208@
+2 SOUR @S181@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S203@
+2 SOUR @S208@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Rocco V. Semenza (veteran), born 16 Aug 1913, died 29 Apr 1991 (aged 77); Cathedral Cemetery, Scranton; linked as son of Lorenzo Semenza. The late brother Rocc
 2 CONC o in Vera’s 2000 obituary.
-2 SOUR @S203@
+2 SOUR @S208@
 3 QUAY 2
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 2
+1 NOTE [Record; likely] WWII enlistment and VA BIRLS abstracts: Rocco V. Semenza, born 1913, enlisted as a private in the U.S. Army in January 1943 (9 Jan 1943 in the enlistment file, 16 Jan 1943 in BIRLS)
+2 CONC , released 9 Jan 1946; died 29 Apr 1991 (natural causes).
+2 SOUR @S209@
+3 QUAY 2
+1 NOTE [Conflict; unconfirmed] Birth date: 16 Aug 1913 on Find a Grave and in the VA BIRLS file, but 16 Jul 1913 in the SSA Death Master File. The tree keeps 16 Aug 1913 (two sources). Unresolved.
+2 SOUR @S208@
+3 QUAY 1
+2 SOUR @S209@
+3 QUAY 1
 1 FAMC @F115@
 0 @SZ019@ INDI
-1 NAME Dr. Nicholas /Semenza/
-2 GIVN Dr. Nicholas
+1 NAME Nicholas James /Semenza/
+2 GIVN Nicholas James
 2 SURN Semenza
+1 NAME Dr. Nicholas J. Semenza
+2 TYPE aka
 1 SEX M
+1 BIRT
+2 DATE 26 SEP 1915
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S181@
+2 SOUR @S210@
+1 DEAT
+2 DATE 5 APR 1976
+2 PLAC Boston, Suffolk, Massachusetts, USA
+2 SOUR @S181@
+2 SOUR @S210@
+1 BURI
+2 PLAC Mount Feake Cemetery, Waltham, Middlesex, Massachusetts, USA
+2 SOUR @S181@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] The late brother “Dr. Nicholas” in Vera R. Semenza’s 2000 obituary. No dates or memorial found yet.
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
+1 NOTE [Record; confirmed] SSA Numident abstract: Nicholas James Semenza, born 26 Sep 1915 in Old Forge, son of Lawrence Semenza and Rosaria “Dilosi” (a transcription of Pilosi); died April 1976. This ties t
+2 CONC he Massachusetts doctor to the Old Forge family and to the “Dr. Nicholas” in sister Vera’s 2000 obituary.
+2 SOUR @S210@
+3 QUAY 3
+2 SOUR @S194@
+3 QUAY 3
+2 SOUR @S181@
+3 QUAY 3
+1 NOTE [Record; likely] Find a Grave memorial: Dr. Nicholas J. Semenza (veteran), born 26 Sep 1915, Pennsylvania; died 5 Apr 1976 (aged 60), Boston; Mount Feake Cemetery, Waltham, Mass.; linked to wife Marjo
+2 CONC rie and daughter Nancy R. Semenza Lufkin.
+2 SOUR @S211@
+3 QUAY 2
+1 NOTE [Record; likely] VA BIRLS abstract: Nicholas J. Semenza, born 26 Sep 1915, entered the U.S. Army 18 Nov 1944, released 24 Sep 1946; died 5 Apr 1976.
+2 SOUR @S194@
+3 QUAY 2
+1 FAMS @F126@
 1 FAMC @F115@
 0 @SZ020@ INDI
-1 NAME Mary /Semenza/
-2 GIVN Mary
+1 NAME Mary Elaine /Semenza/
+2 GIVN Mary Elaine
 2 SURN Semenza
-1 NAME Mary /Ruthkowski/
+1 NAME Mary Elaine /Rutkowski/
 2 TYPE married
-1 NAME Mary (Semenza) Ruthkowski
+1 NAME Mary E. (Semenza) Rutkowski
 2 TYPE aka
 1 SEX F
+1 BIRT
+2 DATE 22 SEP 1917
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S181@
+2 SOUR @S210@
+1 DEAT
+2 DATE 4 JUL 1988
+2 PLAC Tunkhannock, Wyoming, Pennsylvania, USA
+2 SOUR @S181@
+2 SOUR @S210@
+1 BURI
+2 PLAC Holy Cross Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S181@
+1 NOTE Spelling variants: Ruthkowski (Vera’s 2000 obituary); “Mary E. Pilosi Rutkowski” (Find a Grave, which puts her mother’s maiden name in her name)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] The late sister “Mary Ruthkowski” in Vera R. Semenza’s 2000 obituary. No dates or memorial found yet.
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
+1 NOTE [Record; confirmed] SSA Numident abstract: Mary Elaine Semenza, later Mary E. Rutkowski, born 22 Sep 1917 in Old Forge, daughter of Lorenzo Semenza and Rose Pilosi; died 4 Jul 1988.
+2 SOUR @S210@
+3 QUAY 3
+2 SOUR @S194@
+3 QUAY 3
+1 NOTE [Record; likely] Find a Grave memorial: “Mary E. Pilosi Rutkowski”, born Old Forge; died 4 Jul 1988, Tunkhannock, Pa.; Holy Cross Cemetery, Old Forge. Bio: “Wife of Anthony Rutkowski. Dau of Lorenzo a
+2 CONC nd Rosaria Pilosi.” Her maiden name was Semenza (husband’s obituary and the SSA record); Pilosi was her mother’s maiden name.
+2 SOUR @S215@
+3 QUAY 2
+2 SOUR @S216@
+3 QUAY 2
+2 SOUR @S210@
+3 QUAY 2
+1 NOTE [Record; confirmed] Son A.J. Rutkowski Jr.’s 2021 obituary: “Born in Scranton to the late Anthony and Mary Semenza Rutkowski.”
+2 SOUR @S217@
+3 QUAY 3
+1 FAMS @F128@
 1 FAMC @F115@
 0 @SZ021@ INDI
 1 NAME Josephine /Semenza/
@@ -6042,7 +6149,7 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] The late sister “Josephine Joyce” in Vera R. Semenza’s 2000 obituary. No dates or memorial found yet.
-2 SOUR @S180@
+2 SOUR @S181@
 3 QUAY 3
 1 FAMC @F115@
 0 @SZ030@ INDI
@@ -6058,24 +6165,24 @@
 1 SEX M
 1 BIRT
 2 DATE 1 NOV 1946
-2 SOUR @S131@
-2 SOUR @S199@
+2 SOUR @S132@
+2 SOUR @S204@
 1 DEAT
 2 DATE 26 FEB 2012
-2 SOUR @S131@
-2 SOUR @S199@
+2 SOUR @S132@
+2 SOUR @S204@
 1 BURI
 2 PLAC Holy Cross Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S131@
+2 SOUR @S132@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (Feb 2012): Robert Vincent Semenza, 65, of Old Forge, died Sunday afternoon [26 Feb 2012] of stomach cancer; born 1 Nov 1946, son of the late Lawrence V. and Mary Rosi Sem
 2 CONC enza; Old Forge H.S. 1964, Valley Forge Military Academy Junior College 1966, King’s College 1969; 35 years with the Pa. Department of Labor and Industry (retired 2005 as CareerLink site administrator
 2 CONC ); Old Forge Borough Council vice president; the Robert V. Semenza Softball Field at Pagnotti Park is named for him. He and wife Marguerite (Boccolini) marked their 43rd anniversary on 30 Oct 2011 (s
 2 CONC o married 30 Oct 1968). Survived by three children, six grandchildren, siblings Mary Lou Febbo (David), Larry Semenza (MaryAnn) and Rosarie Marino (Louis), and nieces and nephews including David Febb
 2 CONC o Jr. Interment Holy Cross Cemetery, Old Forge.
-2 SOUR @S131@
+2 SOUR @S132@
 3 QUAY 3
-2 SOUR @S199@
+2 SOUR @S204@
 3 QUAY 3
 1 FAMS @F124@
 1 FAMC @F123@
@@ -6111,27 +6218,27 @@
 1 BIRT
 2 DATE 25 MAR 1886
 2 PLAC Calabria, Italy
-2 SOUR @S212@
-2 SOUR @S151@
+2 SOUR @S226@
+2 SOUR @S152@
 1 DEAT
 2 DATE 4 JAN 1978
 2 PLAC Joliet, Will, Illinois, USA
-2 SOUR @S212@
-2 SOUR @S151@
+2 SOUR @S226@
+2 SOUR @S152@
 1 BURI
 2 PLAC Woodlawn Memorial Park I, Joliet, Will, Illinois, USA
-2 SOUR @S212@
+2 SOUR @S226@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Frank Cimino, born 25 Mar 1886, Calabria, Italy; died 4 Jan 1978 (aged 91), Joliet, Ill.; Woodlawn Memorial Park I, Joliet. Bio lists his siblings Salvatore Cim
 2 CONC ino (1881–1958) and Francesca Cimino Mancuso (1884–1965). Linked as father of Santo F. Cimino.
-2 SOUR @S212@
+2 SOUR @S226@
 3 QUAY 2
-2 SOUR @S151@
+2 SOUR @S152@
 3 QUAY 2
 1 NOTE [Record; confirmed] Father of Carmella M. Sweedler (“parents Frank and Caroline (Gaberlin) Cimino”, 2009 obituary).
-2 SOUR @S213@
+2 SOUR @S227@
 3 QUAY 3
-1 FAMS @F127@
+1 FAMS @F131@
 0 @CM002@ INDI
 1 NAME Caroline /Gabriele/
 2 GIVN Caroline
@@ -6142,30 +6249,30 @@
 1 BIRT
 2 DATE 22 OCT 1894
 2 PLAC Calabria, Italy
-2 SOUR @S214@
-2 SOUR @S151@
+2 SOUR @S228@
+2 SOUR @S152@
 1 DEAT
 2 DATE 13 NOV 1990
 2 PLAC Naperville, Will, Illinois, USA
-2 SOUR @S214@
-2 SOUR @S151@
+2 SOUR @S228@
+2 SOUR @S152@
 1 BURI
 2 PLAC Woodlawn Memorial Park I, Joliet, Will, Illinois, USA
-2 SOUR @S214@
+2 SOUR @S228@
 1 NOTE Spelling variants: Gaberlin (daughter Carmella’s 2009 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Caroline Gabriele Cimino, born 22 Oct 1894, Calabria, Italy; died 13 Nov 1990 (aged 96), Naperville, Ill.; Woodlawn Memorial Park I, Joliet. Linked as mother o
 2 CONC f Santo F. Cimino.
-2 SOUR @S214@
+2 SOUR @S228@
 3 QUAY 2
-2 SOUR @S151@
+2 SOUR @S152@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Maiden name: Gabriele (Find a Grave) vs “Gaberlin” (daughter Carmella’s 2009 obituary as transcribed on Find a Grave). The tree uses Gabriele.
-2 SOUR @S214@
+2 SOUR @S228@
 3 QUAY 1
-2 SOUR @S213@
+2 SOUR @S227@
 3 QUAY 1
-1 FAMS @F127@
+1 FAMS @F131@
 0 @CM003@ INDI
 1 NAME Catherine /Cimino/
 2 GIVN Catherine
@@ -6178,24 +6285,24 @@
 1 BIRT
 2 DATE 14 OCT 1911
 2 PLAC Calabria, Italy
-2 SOUR @S215@
-2 SOUR @S213@
+2 SOUR @S229@
+2 SOUR @S227@
 1 DEAT
 2 DATE 22 SEP 2006
 2 PLAC Joliet, Will, Illinois, USA
-2 SOUR @S215@
-2 SOUR @S213@
+2 SOUR @S229@
+2 SOUR @S227@
 1 BURI
 2 PLAC Woodlawn Memorial Park I, Joliet, Will, Illinois, USA
-2 SOUR @S215@
+2 SOUR @S229@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Catherine Cimino Pettinato, born 14 Oct 1911, Calabria, Italy; died 22 Sep 2006 (aged 94), Joliet, Ill.; Woodlawn Memorial Park I; linked as a sister of Santo F
 2 CONC . Cimino. The late sister Catherine Pettinato in Carmella Sweedler’s 2009 obituary.
-2 SOUR @S215@
+2 SOUR @S229@
 3 QUAY 2
-2 SOUR @S213@
+2 SOUR @S227@
 3 QUAY 2
-1 FAMC @F127@
+1 FAMC @F131@
 0 @CM004@ INDI
 1 NAME Santo /Cimino/
 2 GIVN Santo
@@ -6205,24 +6312,24 @@
 1 SEX M
 1 BIRT
 2 DATE 1914
-2 SOUR @S216@
-2 SOUR @S151@
+2 SOUR @S230@
+2 SOUR @S152@
 1 DEAT
 2 DATE 21 APR 1915
 2 PLAC Joliet, Will, Illinois, USA
-2 SOUR @S216@
-2 SOUR @S151@
+2 SOUR @S230@
+2 SOUR @S152@
 1 BURI
 2 PLAC Saint Patricks Cemetery, Joliet, Will, Illinois, USA
-2 SOUR @S216@
+2 SOUR @S230@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial: Santo Cimino, 1914 – 21 Apr 1915, Joliet; Saint Patricks Cemetery, Joliet; linked as a sibling of Santo F. Cimino, who was born four months later and apparentl
 2 CONC y given the same name.
-2 SOUR @S216@
+2 SOUR @S230@
 3 QUAY 2
-2 SOUR @S151@
+2 SOUR @S152@
 3 QUAY 2
-1 FAMC @F127@
+1 FAMC @F131@
 0 @CM005@ INDI
 1 NAME Salvatore J. “Sam” /Cimino/
 2 GIVN Salvatore J. “Sam”
@@ -6231,24 +6338,24 @@
 1 BIRT
 2 DATE 14 MAY 1917
 2 PLAC Carbondale, Lackawanna, Pennsylvania, USA
-2 SOUR @S217@
-2 SOUR @S213@
+2 SOUR @S231@
+2 SOUR @S227@
 1 DEAT
 2 DATE 25 DEC 1994
 2 PLAC Joliet, Will, Illinois, USA
-2 SOUR @S217@
-2 SOUR @S213@
+2 SOUR @S231@
+2 SOUR @S227@
 1 BURI
 2 PLAC Woodlawn Memorial Park I, Joliet, Will, Illinois, USA
-2 SOUR @S217@
+2 SOUR @S231@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; likely] Find a Grave memorial (with obituary text): Salvatore J. “Sam” Cimino, born 14 May 1917, Carbondale, Pa.; died Sunday 25 Dec 1994, Joliet; WWII Army veteran; Joliet-area resident fro
 2 CONC m 1949; plumbing contractor and inspector for the Village of Rockdale and 18 years with the U.S. Post Office. Woodlawn Memorial Park I. Brother “Sam” in Carmella Sweedler’s 2009 obituary.
-2 SOUR @S217@
+2 SOUR @S231@
 3 QUAY 2
-2 SOUR @S213@
+2 SOUR @S227@
 3 QUAY 2
-1 FAMC @F127@
+1 FAMC @F131@
 0 @CM006@ INDI
 1 NAME Carmella M. /Cimino/
 2 GIVN Carmella M.
@@ -6261,21 +6368,166 @@
 1 BIRT
 2 DATE 11 JUN 1919
 2 PLAC Carbondale, Lackawanna, Pennsylvania, USA
-2 SOUR @S213@
+2 SOUR @S227@
 1 DEAT
 2 DATE 26 AUG 2009
 2 PLAC Aurora, Kane, Illinois, USA
-2 SOUR @S213@
+2 SOUR @S227@
 1 BURI
 2 PLAC Woodlawn Memorial Park I, Joliet, Will, Illinois, USA
-2 SOUR @S213@
+2 SOUR @S227@
 1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
 1 NOTE [Record; confirmed] Obituary (2009, transcribed on Find a Grave): Carmella M. Sweedler (née Cimino), 90, died Wednesday 26 Aug 2009 at Alden Courts of Waterford, Aurora, Ill.; preceded by husband Joh
 2 CONC n “Jay” Sweedler, parents Frank and Caroline (Gaberlin) Cimino, brothers Sam and Sandy Cimino and sister Catherine Pettinato; survived by two nieces and two nephews (named; living, not added) and grea
 2 CONC t-nieces and nephews. Born 11 Jun 1919, Carbondale, Pa.
-2 SOUR @S213@
+2 SOUR @S227@
 3 QUAY 3
-1 FAMC @F127@
+1 FAMC @F131@
+0 @SZ040@ INDI
+1 NAME Marjorie /Owens/
+2 GIVN Marjorie
+2 SURN Owens
+1 NAME Marjorie /Semenza/
+2 TYPE married
+1 NAME Marjorie (Owens) Semenza
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 21 DEC 1919
+2 PLAC Pennsylvania, USA
+2 SOUR @S212@
+2 SOUR @S213@
+1 DEAT
+2 DATE 4 NOV 1995
+2 PLAC Waltham, Middlesex, Massachusetts, USA
+2 SOUR @S212@
+2 SOUR @S213@
+1 BURI
+2 PLAC Mount Feake Cemetery, Waltham, Middlesex, Massachusetts, USA
+2 SOUR @S212@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Marjorie Semenza, born 21 Dec 1919, Pennsylvania; died 4 Nov 1995 (aged 75), Waltham, Mass.; interred 8 Nov 1995, Mount Feake Cemetery; linked as wife of Dr. Ni
+2 CONC cholas J. Semenza and mother of Nancy R. Semenza Lufkin. Maiden name Owens comes from daughter Nancy’s memorial bio.
+2 SOUR @S212@
+3 QUAY 2
+2 SOUR @S213@
+3 QUAY 2
+1 FAMS @F126@
+0 @SZ041@ INDI
+1 NAME Nancy R. /Semenza/
+2 GIVN Nancy R.
+2 SURN Semenza
+1 NAME Nancy R. /Lufkin/
+2 TYPE married
+1 NAME Nancy R. (Semenza) Lufkin
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 3 MAY 1943
+2 PLAC Queens County, New York, USA
+2 SOUR @S213@
+1 DEAT
+2 DATE 30 DEC 2015
+2 SOUR @S213@
+1 BURI
+2 PLAC Sleepy Hollow Cemetery, Concord, Middlesex, Massachusetts, USA
+2 SOUR @S213@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Nancy R. Semenza Lufkin, born 3 May 1943, Queens County, N.Y.; died 30 Dec 2015 (aged 72); buried 1 May 2016, Sleepy Hollow Cemetery, Concord, Mass. Bio: “Daugh
+2 CONC ter of Nicholas James Semenza and Marjorie Owens. Married Richard Nevens Lufkin, May 26, 1962, in Albany, New York.” No obituary found yet.
+2 SOUR @S213@
+3 QUAY 2
+1 FAMS @F127@
+1 FAMC @F126@
+0 @SZ042@ INDI
+1 NAME Richard Nevens /Lufkin/
+2 GIVN Richard Nevens
+2 SURN Lufkin
+1 SEX M
+1 BIRT
+2 DATE 19 OCT 1933
+2 PLAC Concord, Middlesex, Massachusetts, USA
+2 SOUR @S214@
+2 SOUR @S213@
+1 DEAT
+2 DATE 8 JUL 2013
+2 SOUR @S214@
+2 SOUR @S213@
+1 BURI
+2 PLAC Sleepy Hollow Cemetery, Concord, Middlesex, Massachusetts, USA
+2 SOUR @S214@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial: Richard Nevens Lufkin (veteran), born 19 Oct 1933, Concord, Mass.; died 8 Jul 2013 (aged 79); Sleepy Hollow Cemetery, Concord; son of Alfred Nevens Lufkin and E
+2 CONC meline Webster. Married Nancy R. Semenza 26 May 1962 in Albany, N.Y. (per her memorial).
+2 SOUR @S214@
+3 QUAY 2
+2 SOUR @S213@
+3 QUAY 2
+1 FAMS @F127@
+0 @SZ043@ INDI
+1 NAME Anthony J. /Rutkowski/
+2 GIVN Anthony J.
+2 SURN Rutkowski
+1 SEX M
+1 BIRT
+2 PLAC Moosic, Lackawanna, Pennsylvania, USA
+2 SOUR @S216@
+1 DEAT
+2 DATE 10 MAR 1990
+2 PLAC Pennsylvania, USA
+2 SOUR @S216@
+1 BURI
+2 PLAC Holy Cross Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S216@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; likely] Find a Grave memorial (quoting his Times-Tribune obituary): Anthony J. Rutkowski, born Moosic, Pa.; died 10 Mar 1990; Holy Cross Cemetery, Old Forge. “He was the husband of the forme
+2 CONC r Mary E. Semenza, who died in July 1988. Son of the late Charles and Anna Wysocki Rutkowski. He was preceded in death by three brothers, Stanley, Charles and Frank.” (Parents and brothers noted here
+2 CONC , not yet added as people.)
+2 SOUR @S216@
+3 QUAY 2
+1 FAMS @F128@
+0 @SZ044@ INDI
+1 NAME Anthony J. “A.J.” Jr. /Rutkowski/
+2 GIVN Anthony J. “A.J.” Jr.
+2 SURN Rutkowski
+1 NAME Anthony J. “A.J.” Rutkowski Jr.
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S217@
+1 DEAT
+2 DATE 24 JAN 2021
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S217@
+1 NOTE Photo: none found publicly (searched: Find a Grave, web obituaries).
+1 NOTE [Record; confirmed] Obituary (The Times-Tribune, published 25 Jan 2021): Anthony J. “A.J.” Rutkowski Jr., 67, retired owner of Rutkowski Insurance, Old Forge (40 years), died “Sunday morning” (24 Ja
+2 CONC n 2021) at Geisinger Community Medical Center. Born in Scranton to the late Anthony and Mary Semenza Rutkowski; graduate of Valley Forge Military Academy; attended Lycoming College and Penn State. Mar
+2 CONC ried 25 Aug 1973 (47th anniversary in 2020). Survived by his wife, a daughter, a son, two grandchildren and two sisters (living; names only on this tree). Ferri & Gillette Funeral Services, Old Forge.
+2 SOUR @S217@
+3 QUAY 3
+1 FAMS @F129@
+1 FAMC @F128@
+0 @SZ045@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F129@
+0 @SZ046@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F129@
+0 @SZ047@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F129@
+0 @SZ048@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F128@
+0 @SZ049@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F128@
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -6861,6 +7113,24 @@
 1 HUSB @SZ017@
 1 WIFE @SZ016@
 0 @F126@ FAM
+1 HUSB @SZ019@
+1 WIFE @SZ040@
+1 CHIL @SZ041@
+0 @F127@ FAM
+1 HUSB @SZ042@
+1 WIFE @SZ041@
+0 @F128@ FAM
+1 HUSB @SZ043@
+1 WIFE @SZ020@
+1 CHIL @SZ044@
+1 CHIL @SZ048@
+1 CHIL @SZ049@
+0 @F129@ FAM
+1 HUSB @SZ044@
+1 WIFE @SZ045@
+1 CHIL @SZ046@
+1 CHIL @SZ047@
+0 @F130@ FAM
 1 HUSB @KL001@
 1 WIFE @KL002@
 1 CHIL @KL003@
@@ -6870,7 +7140,7 @@
 1 CHIL @KL006@
 1 CHIL @KL007@
 1 CHIL @KL008@
-0 @F127@ FAM
+0 @F131@ FAM
 1 HUSB @CM001@
 1 WIFE @CM002@
 1 CHIL @CM003@
@@ -7230,304 +7500,346 @@
 1 TITL “Patrick Azzolini” memorial notice, Thomas D. Egan Glen Rock VFW Post 850 (full text matching Feeney Funeral Home obituary)
 1 NOTE URL: https://www.glenrockvfw.org/our-memorial.html
 0 @S118@ SOUR
+1 TITL SortedByName.com, Azzolini index p.2 (SSA Numident / Death Master File abstract: Lucrezia Azzolini / Azzollini)
+1 NOTE URL: https://sortedbyname.com/letter_a/azzolini/index_2.html
+0 @S119@ SOUR
 1 TITL “Jennie Febo Resavy” obituary, The Times-Tribune (Scranton), 24 Sept. 2007
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/jennie-febo-resavy-scranton-pa/
-0 @S119@ SOUR
+0 @S120@ SOUR
 1 TITL Find a Grave, memorial 283543138: David A. Febo (1888–1959), Marcy Cemetery, Duryea (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/283543138/david-a-febo
-0 @S120@ SOUR
+0 @S121@ SOUR
 1 TITL Find a Grave, memorial 283543162: Julia DeGennaro Febo (1900–1961), Marcy Cemetery, Duryea (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/283543162/julia-febo
-0 @S121@ SOUR
+0 @S122@ SOUR
 1 TITL “Louis Febbo, Sept. 1, 1995” obituary, Times Leader (Wilkes-Barre), 2 Sept. 1995, p. 5A (archive page; full text read from the indexed copy of this page)
 1 NOTE URL: https://archive.timesleader.com/article/874412/louis-febbo-sept-1-1995-louis-v-febbo-of-connell-street-old-forge-died-friday-at-mercy-hospital-scranton
-0 @S122@ SOUR
+0 @S123@ SOUR
 1 TITL Find a Grave, memorial 238883840: Louis Vincent Febbo (1916–1995), Old Forge Cemetery (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/238883840/louis-vincent-febbo
-0 @S123@ SOUR
+0 @S124@ SOUR
 1 TITL “Louis F. Febbo” obituary, The Times-Tribune (Scranton), Dec. 2025
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/louis-f-febbo-old-forge-pa/
-0 @S124@ SOUR
+0 @S125@ SOUR
 1 TITL Find a Grave, memorial 238883991: Frances Vivian Cavalier Febbo (1916–2005), Old Forge Cemetery (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/238883991/frances-vivian-febbo
-0 @S125@ SOUR
+0 @S126@ SOUR
 1 TITL Find a Grave, memorial 234515415: Salvatore Cavalieri (1880–1949), Old Forge Cemetery (bio and family links)
 1 NOTE URL: https://www.findagrave.com/memorial/234515415/salvatore-cavalieri
-0 @S126@ SOUR
+0 @S127@ SOUR
 1 TITL “Louis Ciuccio” obituary, Times Leader, 30 Jan. 2013
 1 NOTE URL: https://archive.timesleader.com/article/296927/stories-louis-ciuccio-89-old-forge-died-tuesday-in-scranton-husband-of-the-former-rosemarie-piccolini-h
-0 @S127@ SOUR
+0 @S128@ SOUR
 1 TITL “Louis Ciuccio” obituary, The Times-Tribune (Scranton), Jan. 2013
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/louis-ciuccio-wilkes-barre-pa/
-0 @S128@ SOUR
+0 @S129@ SOUR
 1 TITL “Rosemarie A. Ciuccio” obituary, The Times-Tribune (Scranton), June 2016
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/rosemarie-a-ciuccio-old-forge-pa/
-0 @S129@ SOUR
+0 @S130@ SOUR
 1 TITL “Robert J. Febbo” obituary, Louis V. Ciuccio Funeral Home, Old Forge, Pa., Oct. 2025
 1 NOTE URL: https://www.ciucciofuneralhome.com/obituaries/robert-febbo
-0 @S130@ SOUR
+0 @S131@ SOUR
 1 TITL “Mary Semenza” obituary (Mary T. Rosi Semenza), Times Leader (Wilkes-Barre), 15 Sep 2003, p. 6A (Times Leader digital archive)
 1 NOTE URL: https://archive.timesleader.com/article/1046091/mary-semenza
-0 @S131@ SOUR
+0 @S132@ SOUR
 1 TITL “Robert Vincent Semenza” obituary, Times Leader (Wilkes-Barre), Feb 2012 (Times Leader digital archive)
 1 NOTE URL: https://archive.timesleader.com/article/1418686/robert-vincent-semenza
-0 @S132@ SOUR
+0 @S133@ SOUR
 1 TITL Find a Grave, memorial 238884415: Emily Aurora Febbo (d. 2006), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/238884415/emily-aurora-febbo
-0 @S133@ SOUR
+0 @S134@ SOUR
 1 TITL Find a Grave, memorial 134657647: Robert J Febbo Jr. (1973–2014), Old Forge Cemetery (includes obituary text)
 1 NOTE URL: https://www.findagrave.com/memorial/134657647/robert-j-febbo
-0 @S134@ SOUR
+0 @S135@ SOUR
 1 TITL Find a Grave, memorial 238884286: Julie Ann Febbo (1976–1988), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/238884286/julie-ann-febbo
-0 @S135@ SOUR
+0 @S136@ SOUR
 1 TITL SortedByName.com, Josephine Bruno p.4 (SSA Numident abstract: Josephine Jean Febo Bruno)
 1 NOTE URL: https://sortedbyname.com/letter_b/bruno/josephine_bruno_4.html
-0 @S136@ SOUR
+0 @S137@ SOUR
 1 TITL SortedByName.com, Febo index p.2 (SSA Numident abstracts: children of David Febo and Julia DeGennaro)
 1 NOTE URL: https://sortedbyname.com/letter_f/febo/index_2.html
-0 @S137@ SOUR
+0 @S138@ SOUR
 1 TITL SortedByName.com, Wollner index p.1 (SSA Numident abstract: Ann Rose Febbo Wollner)
 1 NOTE URL: https://sortedbyname.com/letter_w/wollner/index_1.html
-0 @S138@ SOUR
+0 @S139@ SOUR
 1 TITL “Daniel J. Wollner” obituary, The Times-Tribune (Scranton), 11 Mar 2022
 1 NOTE URL: https://www.thetimes-tribune.com/2022/03/11/daniel-j-wollner/
-0 @S139@ SOUR
+0 @S140@ SOUR
 1 TITL SortedByName.com, Febo index p.7 (SSA Numident abstract: Nora Catherine Febo Madrak)
 1 NOTE URL: https://sortedbyname.com/letter_f/febo/index_7.html
-0 @S140@ SOUR
+0 @S141@ SOUR
 1 TITL “Nora Madrak, Dec. 6, 1995” obituary, Times Leader, 7 Dec. 1995 (full text read from the archive page)
 1 NOTE URL: https://archive.timesleader.com/article/879958/nora-madrak-dec-6-1995-nora-c-madrak-of-brook-street-old-forge-died-wednesday-at-the-community-medical-center-scranton
-0 @S141@ SOUR
+0 @S142@ SOUR
 1 TITL SortedByName.com, Madrak index p.4 (SSA Numident abstract: Stanley Joseph Madrak)
 1 NOTE URL: https://sortedbyname.com/letter_m/madrak/index_4.html
-0 @S142@ SOUR
+0 @S143@ SOUR
 1 TITL “Stanley Madrak” obituary, Times Leader, 11 May 2000, p. 5A
 1 NOTE URL: https://archive.timesleader.com/article/981199/stanley-madrak
-0 @S143@ SOUR
+0 @S144@ SOUR
 1 TITL SortedByName.com, Febo index p.1 (SSA Numident abstracts: Angeline Ann Febo Glodzik; Chester M. Glodzik)
 1 NOTE URL: https://sortedbyname.com/letter_f/febo/index_1.html
-0 @S144@ SOUR
+0 @S145@ SOUR
 1 TITL “Chester Glodzik, May 15, 1996” obituary, Times Leader, 17 May 1996 (full text read from the archive page)
 1 NOTE URL: https://archive.timesleader.com/article/889034/chester-glodzik-may-15-1996-chester-glodzik-sr-of-foundry-street-old-forge-died-wednesday-in-the-geisinger-wyoming-valley-medical-center-plains-town
 2 CONC ship
-0 @S145@ SOUR
+0 @S146@ SOUR
 1 TITL “Chester Glodzik, November 4, 1996” obituary (Chester M. Glodzik Jr.), Times Leader, 6 Nov. 1996
 1 NOTE URL: https://archive.timesleader.com/article/899855/chester-glodzik-november-4-1996-chester-m-glodzik-jr-of-foundry-street-old-forge-died-monday-at-the-community-medical-center-scranton
-0 @S146@ SOUR
+0 @S147@ SOUR
 1 TITL “Dominic J. Guzzi” obituary, The Times-Tribune (Scranton), 4 Dec 2016
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/dominic-j-guzzi-old-forge-pa/
-0 @S147@ SOUR
+0 @S148@ SOUR
 1 TITL “Jeanne Guzzi Thorne” obituary, Carlucci-Golden-DeSantis Funeral Home, Aug. 2024
 1 NOTE URL: https://www.nepafuneralhome.com/obituary/JeanneGuzzi-Thorne
-0 @S148@ SOUR
+0 @S149@ SOUR
 1 TITL SortedByName.com, Cimino index p.41 (SSA Numident abstract: Marie Josephine Cimino)
 1 NOTE URL: https://sortedbyname.com/letter_c/cimino/index_41.html
-0 @S149@ SOUR
+0 @S150@ SOUR
 1 TITL SortedByName.com, Cimino index p.23 (SSA Numident abstract: Frank Joseph Cimino)
 1 NOTE URL: https://sortedbyname.com/letter_c/cimino/index_23.html
-0 @S150@ SOUR
+0 @S151@ SOUR
 1 TITL Find a Grave, memorial 199300104: Marie Guzzi Cimino (1919–1988), Cathedral Cemetery, Scranton (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/199300104/marie-cimino
-0 @S151@ SOUR
+0 @S152@ SOUR
 1 TITL Find a Grave, memorial 17308307: Santo F. Cimino (1915–1991), WWII U.S. Marine Corps, Saint Johns Cemetery, Bellevue, Nebraska (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/17308307/santo_f-cimino
-0 @S152@ SOUR
+0 @S153@ SOUR
 1 TITL Find a Grave, memorial 199299451: Frank Joseph Cimino (1942–1999), Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/199299451/frank_joseph-cimino
-0 @S153@ SOUR
+0 @S154@ SOUR
 1 TITL “Josephine Ann (Cherundolo) Grasso” obituary, Carlucci-Golden-DeSantis Funeral Home, Dec. 2020
 1 NOTE URL: https://www.nepafuneralhome.com/obituary/Josephine-Grasso
-0 @S154@ SOUR
+0 @S155@ SOUR
 1 TITL “James D. Cherundolo Jr.” (text: James J. Cherundolo, Jr.) obituary, Geiple-Predicce Funeral and Cremation Services, Glen Rock, Pa., May 2026
 1 NOTE URL: https://www.geiple.com/obituaries/james-cherundolo
-0 @S155@ SOUR
+0 @S156@ SOUR
 1 TITL AncientFaces, Cherundolo family history page (death-index biography: James J. Cherundolo, 6 Dec 1920 – 23 Aug 2002, Old Forge)
 1 NOTE URL: https://www.ancientfaces.com/surname/cherundolo-family-history/520202
-0 @S156@ SOUR
+0 @S157@ SOUR
 1 TITL Carl Guzzi obituary listing, Harmon Funeral Home (Dignity Memorial), 2017
 1 NOTE URL: https://www.dignitymemorial.com/obituaries/staten-island-ny/carl-guzzi-7308672
-0 @S157@ SOUR
+0 @S158@ SOUR
 1 TITL The Philadelphia Inquirer, Tue. 6 Nov 2001, p. 76 (death notices; Louis Guzzi Jr.; index snippet only, full text not read)
 1 NOTE URL: https://www.newspapers.com/newspage/180171296/
-0 @S158@ SOUR
+0 @S159@ SOUR
 1 TITL “Marie D. Guzzi” obituary, Harmon Home for Funerals, West Brighton, Staten Island, Oct. 2015, via Dignity Memorial
 1 NOTE URL: https://www.dignitymemorial.com/obituaries/staten-island-ny/marie-guzzi-6645225
-0 @S159@ SOUR
+0 @S160@ SOUR
 1 TITL “Gloria R. Guzzi (nee Redfield)” obituary, Angelone Funeral Home, Willow Grove, Pa., December 2024
 1 NOTE URL: https://www.angelonefuneralhome.com/obituary/Gloria-Guzzi
-0 @S160@ SOUR
+0 @S161@ SOUR
 1 TITL “Alfred Beccaloni, Nov. 17, 2000” obituary, Times Leader, 18 Nov. 2000, p. 12A
 1 NOTE URL: https://archive.timesleader.com/article/992737/alfred-beccaloni
-0 @S161@ SOUR
+0 @S162@ SOUR
 1 TITL “Leona Beccaloni, February 4, 2003” obituary, Times Leader, 6 Feb. 2003, p. 6A
 1 NOTE URL: https://archive.timesleader.com/article/1034420/leona-beccaloni
-0 @S162@ SOUR
+0 @S163@ SOUR
 1 TITL “Fred Beccaloni, 57, of Old Forge” obituary, Times Leader, Feb. 2009
 1 NOTE URL: https://archive.timesleader.com/article/1217713/fred-beccaloni-57-of-old-forge-passed-away-unexpectedly-early
-0 @S163@ SOUR
+0 @S164@ SOUR
 1 TITL SortedByName.com, Podracky index p.1 (SSA Numident abstract: Helen Podracky / Helen Narogovitch)
 1 NOTE URL: https://sortedbyname.com/letter_p/podracky/index_1.html
-0 @S164@ SOUR
+0 @S165@ SOUR
 1 TITL SortedByName.com, Narogovich (SSA Numident abstracts: Leona Beccaloni; Jane A. Longo / Jane Antoinette Narogovitch / Lucas)
 1 NOTE URL: https://sortedbyname.com/letter_n/narogovich.html
-0 @S165@ SOUR
+0 @S166@ SOUR
 1 TITL SortedByName.com, Fasiska (SSA Death Master File: Olga Fasiska)
 1 NOTE URL: https://sortedbyname.com/letter_f/fasiska.html
-0 @S166@ SOUR
+0 @S167@ SOUR
 1 TITL “Edward L. Longo” obituary, Scranton Times-Tribune / Legacy (names second wife Jane Longo, died 1999)
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/edward-l-longo-scranton-pa/
-0 @S167@ SOUR
+0 @S168@ SOUR
 1 TITL SortedByName.com, Krogulski index p.1 (SSA Numident abstract and BIRLS entry: Edward Joseph Krogulski)
 1 NOTE URL: https://sortedbyname.com/letter_k/krogulski/index_1.html
-0 @S168@ SOUR
+0 @S169@ SOUR
 1 TITL SortedByName.com, Ciuccio index p.2 (SSA death index, BIRLS and Numident abstracts: Louis Ciuccio; Vito Anthony Ciuccio Jr.)
 1 NOTE URL: https://sortedbyname.com/letter_c/ciuccio/index_2.html
-0 @S169@ SOUR
+0 @S170@ SOUR
 1 TITL “Old Forge woman dies in crash”, The Times-Tribune, 4 June 2016
 1 NOTE URL: https://www.thetimes-tribune.com/2016/06/04/old-forge-woman-dies-in-crash/
-0 @S170@ SOUR
+0 @S171@ SOUR
 1 TITL Find a Grave, memorial 163938827: Rosemarie Ann Piccolini Ciuccio (1928–2016), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/163938827/rosemarie_ann-ciuccio
-0 @S171@ SOUR
+0 @S172@ SOUR
 1 TITL “Louis Piccolini” obituary, Times Leader (Wilkes-Barre), 25 Aug 2001, p. 8A (Times Leader digital archive)
 1 NOTE URL: https://archive.timesleader.com/article/1007433/louis-piccolini
-0 @S172@ SOUR
+0 @S173@ SOUR
 1 TITL Find a Grave, memorial 46226698: Vincent A. Piccolini Sr. (1934–2009), veteran, Old Forge Cemetery (includes obituary text)
 1 NOTE URL: https://www.findagrave.com/memorial/46226698/vincent_a-piccolini
-0 @S173@ SOUR
+0 @S174@ SOUR
 1 TITL Find a Grave, memorial 197552025: Angela Semenza Piccolini (1899–1988), Old Forge Cemetery (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/197552025/angela-piccolini
-0 @S174@ SOUR
+0 @S175@ SOUR
 1 TITL Find a Grave, memorial 234515553: Raffaella Pugliano Cavalieri (1884–1979), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/234515553/raffaella-cavalieri
-0 @S175@ SOUR
+0 @S176@ SOUR
 1 TITL Find a Grave, memorial 234516456: Mary Cavalieri (1911–2006), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/234516456/mary-cavalieri
-0 @S176@ SOUR
+0 @S177@ SOUR
 1 TITL Find a Grave, memorial 284960804: Angelo Salvatore Cavalier (1917–2001), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/284960804/angelo-salvatore-cavalier
-0 @S177@ SOUR
+0 @S178@ SOUR
 1 TITL LocateAncestors, “Cavalier – Pennsylvania” (Social Security Death Index abstracts; numbers not copied)
 1 NOTE URL: https://www.locateancestors.com/cavalier-pennsylvania/
-0 @S178@ SOUR
+0 @S179@ SOUR
 1 TITL Find a Grave, memorial 235931980: Helen Len Klepadlo Cavalier (1918–1997), Sacred Hearts of Jesus and Mary Cemetery, Scranton (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/235931980/helen_len-cavalier
-0 @S179@ SOUR
+0 @S180@ SOUR
 1 TITL Find a Grave, memorial 156783007: Lorenzo “Lawrence” Semenza (1866–1922), Cathedral Cemetery, Scranton (bio and family links)
 1 NOTE URL: https://www.findagrave.com/memorial/156783007/lorenzo-semenza
-0 @S180@ SOUR
+0 @S181@ SOUR
 1 TITL “Vera R. Semenza” obituary, Times Leader (Wilkes-Barre), 8 Apr 2000, p. 5A (Times Leader digital archive)
 1 NOTE URL: https://archive.timesleader.com/article/979102/vera-r-semenza
-0 @S181@ SOUR
+0 @S182@ SOUR
 1 TITL Find a Grave, memorial 232592639: Rosaria Pilosi Semenza (1873–1961), Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/232592639/rosaria-semenza
-0 @S182@ SOUR
+0 @S183@ SOUR
 1 TITL Find a Grave, memorial 204334941: Nancy Semenza Tenneriello (1898–1983), Cathedral Cemetery, Scranton (bio and family links)
 1 NOTE URL: https://www.findagrave.com/memorial/204334941/nancy-tenneriello
-0 @S183@ SOUR
+0 @S184@ SOUR
 1 TITL Find a Grave, memorial 286551860: Margaret Semenez Ripa (1897–1993) (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/286551860/margaret-ripa
-0 @S184@ SOUR
+0 @S185@ SOUR
 1 TITL Find a Grave, memorial 242679530: Margaret Semenza (1906–1983), Cathedral Cemetery, Scranton (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/242679530/margaret-semenza
-0 @S185@ SOUR
+0 @S186@ SOUR
+1 TITL “Daniel Semenza” obituary, The Times-Tribune (Scranton), 13 Dec 2007
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/daniel-semenza-scranton-pa/
+0 @S187@ SOUR
+1 TITL “Elizabeth Aliberti” obituary, The Times-Tribune (Scranton), 2 Jul 2007
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/elizabeth-aliberti-scranton-pa/
+0 @S188@ SOUR
 1 TITL “Anthony James Tenneriello” obituary, Times Leader (Wilkes-Barre), Mar 2008 (Times Leader digital archive)
 1 NOTE URL: https://archive.timesleader.com/article/1169727/anthony-james-tenneriello-of-old-forge-died-on-sunday-evening
-0 @S186@ SOUR
+0 @S189@ SOUR
+1 TITL SortedByName.com, Tenneriello index p.2 (SSA Numident abstract: Lawrence Joseph Tenneriello)
+1 NOTE URL: https://sortedbyname.com/letter_t/tenneriello/index_2.html
+0 @S190@ SOUR
 1 TITL Find a Grave, memorial 242672400: Anthony Tenneriello (1886–1926), Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/242672400/anthony-tenneriello
-0 @S187@ SOUR
+0 @S191@ SOUR
 1 TITL Find a Grave, memorial 242672647: Anthony James Tenneriello (1921–2008), veteran, Cathedral Cemetery, Scranton (includes obituary text)
 1 NOTE URL: https://www.findagrave.com/memorial/242672647/anthony_james-tenneriello
-0 @S188@ SOUR
+0 @S192@ SOUR
 1 TITL Find a Grave, memorial 121277029: Pvt. Lawrence Joseph Tenneriello (1923–1988), veteran, St. Mary’s Syrian Orthodox Church Cemetery, Wilkes-Barre
 1 NOTE URL: https://www.findagrave.com/memorial/121277029/lawrence_joseph-tenneriello
-0 @S189@ SOUR
+0 @S193@ SOUR
 1 TITL “Irene Namey Tenneriello” obituary, Times Leader (Wilkes-Barre), 22 Oct 2012 (Times Leader digital archive)
 1 NOTE URL: https://archive.timesleader.com/article/56499/stories-irene-namey-tenneriello219974
-0 @S190@ SOUR
+0 @S194@ SOUR
+1 TITL SortedByName.com, Semenza index p.5 (SSA Numident and VA BIRLS abstracts: Nicholas J. Semenza; Mary Elaine Semenza; Lawrence J. Tenneriello, mother Nancy Semenza)
+1 NOTE URL: https://sortedbyname.com/letter_s/semenza/index_5.html
+0 @S195@ SOUR
 1 TITL Find a Grave, memorial 121276568: Irene Namey Tenneriello (1921–2012), St. Mary’s Syrian Orthodox Church Cemetery, Wilkes-Barre (includes obituary text)
 1 NOTE URL: https://www.findagrave.com/memorial/121276568/irene-tenneriello
-0 @S191@ SOUR
+0 @S196@ SOUR
 1 TITL Find a Grave, memorial 204335002: Divina Tenneriello Comes (1924–1949), Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/204335002/divina-comes
-0 @S192@ SOUR
+0 @S197@ SOUR
 1 TITL Find a Grave, memorial 233158333: Vincenzo “Jimmy” Piccolini (1894–1967), veteran, Old Forge Cemetery (bio and family links)
 1 NOTE URL: https://www.findagrave.com/memorial/233158333/vincenzo-piccolini
-0 @S193@ SOUR
+0 @S198@ SOUR
 1 TITL Find a Grave, memorial 234002661: Lenore L. Piccolini Ilaria (1930–2015), Old Forge Cemetery (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/234002661/lenore_l-ilaria
-0 @S194@ SOUR
+0 @S199@ SOUR
 1 TITL Find a Grave, memorial 185552825: Louis Joseph Piccolini (1932–2001), Navy veteran, Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/185552825/louis_joseph-piccolini
-0 @S195@ SOUR
+0 @S200@ SOUR
 1 TITL Find a Grave, memorial 133556421: Marie Carra Piccolini (1931–2011), Old Forge Cemetery (includes obituary text)
 1 NOTE URL: https://www.findagrave.com/memorial/133556421/marie-piccolini
-0 @S196@ SOUR
+0 @S201@ SOUR
 1 TITL Find a Grave, memorial 241437104: Vera R. Semenza (1905–2000), Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/241437104/vera_r-semenza
-0 @S197@ SOUR
+0 @S202@ SOUR
 1 TITL Find a Grave, memorial 241437545: Lawrence Vincent Semenza (1907–1991), Cathedral Cemetery, Scranton (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/241437545/lawrence_vincent-semenza
-0 @S198@ SOUR
+0 @S203@ SOUR
 1 TITL Find a Grave, memorial 242675713: Mary T. Rosi Semenza (1913–2003), Cathedral Cemetery, Scranton (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/242675713/mary_t-semenza
-0 @S199@ SOUR
+0 @S204@ SOUR
 1 TITL “Robert Vincent Semenza” obituary, The Times-Tribune (Scranton), Feb 2012
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/robert-vincent-semenza-scranton-pa-2/
-0 @S200@ SOUR
+0 @S205@ SOUR
 1 TITL Find a Grave, memorial 241436963: John Francis Semenza (1908–1975), Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/241436963/john_francis-semenza
-0 @S201@ SOUR
+0 @S206@ SOUR
 1 TITL Find a Grave, memorial 242740099: Viola E. Semenza Featherstonhaugh (1910–2005), Cathedral Cemetery, Scranton (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/242740099/viola_e-featherstonhaugh
-0 @S202@ SOUR
+0 @S207@ SOUR
 1 TITL Find a Grave, memorial 242740048: Norman Frederick Featherstonhaugh (1908–1978), Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/242740048/norman_frederick-featherstonhaugh
-0 @S203@ SOUR
+0 @S208@ SOUR
 1 TITL Find a Grave, memorial 172648425: Rocco V. Semenza (1913–1991), veteran, Cathedral Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/172648425/rocco_v-semenza
-0 @S204@ SOUR
+0 @S209@ SOUR
+1 TITL SortedByName.com, Semenza index p.6 (SSA Death Master File, VA BIRLS and WWII enlistment abstracts: Rocco V. Semenza)
+1 NOTE URL: https://sortedbyname.com/letter_s/semenza/index_6.html
+0 @S210@ SOUR
+1 TITL SortedByName.com, Semenza index p.4 (SSA Numident abstracts: Nicholas James Semenza; Mary Elaine Semenza / Rutkowski, parents Lorenzo/Lawrence Semenza & Rosaria/Rose Pilosi)
+1 NOTE URL: https://sortedbyname.com/letter_s/semenza/index_4.html
+0 @S211@ SOUR
+1 TITL Find a Grave, memorial 195818011: Dr. Nicholas J. Semenza (1915–1976), veteran, Mount Feake Cemetery, Waltham, Mass. (family links)
+1 NOTE URL: https://www.findagrave.com/memorial/195818011/nicholas_j-semenza
+0 @S212@ SOUR
+1 TITL Find a Grave, memorial 200753301: Marjorie Semenza (1919–1995), Mount Feake Cemetery, Waltham, Mass. (family links)
+1 NOTE URL: https://www.findagrave.com/memorial/200753301/marjorie-semenza
+0 @S213@ SOUR
+1 TITL Find a Grave, memorial 242474058: Nancy R. Semenza Lufkin (1943–2015), Sleepy Hollow Cemetery, Concord, Mass. (bio and family links)
+1 NOTE URL: https://www.findagrave.com/memorial/242474058/nancy_r-lufkin
+0 @S214@ SOUR
+1 TITL Find a Grave, memorial 242474528: Richard Nevens Lufkin (1933–2013), veteran, Sleepy Hollow Cemetery, Concord, Mass. (bio)
+1 NOTE URL: https://www.findagrave.com/memorial/242474528/richard_nevens-lufkin
+0 @S215@ SOUR
+1 TITL Find a Grave, memorial 206304675: Mary E. “Pilosi” Rutkowski (d. 1988), Holy Cross Cemetery, Old Forge (bio and family links)
+1 NOTE URL: https://www.findagrave.com/memorial/206304675/mary_e-rutkowski
+0 @S216@ SOUR
+1 TITL Find a Grave, memorial 208934053: Anthony J. Rutkowski (d. 1990), Holy Cross Cemetery, Old Forge (bio quoting The Times-Tribune obituary)
+1 NOTE URL: https://www.findagrave.com/memorial/208934053/anthony_j-rutkowski
+0 @S217@ SOUR
+1 TITL “Anthony J. Rutkowski” obituary (Anthony J. “A.J.” Rutkowski Jr.), The Times-Tribune (Scranton), 25 Jan 2021
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/anthony-j-rutkowski-old-forge-pa/
+0 @S218@ SOUR
 1 TITL Find a Grave, memorial 235932525: Boleslaw Antoni Klepadlo (1889–1953), Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/235932525/boleslaw_antoni-klepadlo
-0 @S205@ SOUR
+0 @S219@ SOUR
 1 TITL Find a Grave, memorial 235931799: Waleria Sadowski Klepadlo (1896–1975), Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/235931799/waleria-klepadlo
-0 @S206@ SOUR
+0 @S220@ SOUR
 1 TITL Find a Grave, memorial 262459131: Anna Klepadlo Mazur (1914–1962), Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/262459131/anna-mazur
-0 @S207@ SOUR
+0 @S221@ SOUR
 1 TITL Find a Grave, memorial 262458483: Joseph John Klepadlo (1920–1986), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/262458483/joseph_john-klepadlo
-0 @S208@ SOUR
+0 @S222@ SOUR
 1 TITL Find a Grave, memorial 262454644: John Anthony Klepadlo (1921–1992), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/262454644/john_anthony-klepadlo
-0 @S209@ SOUR
+0 @S223@ SOUR
 1 TITL Find a Grave, memorial 262457774: Stanley John Klepadlo (1924–1951), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/262457774/stanley_john-klepadlo
-0 @S210@ SOUR
+0 @S224@ SOUR
 1 TITL Find a Grave, memorial 262458848: Francis Joseph “Frank” Klepadlo (1926–1998), veteran, Sacred Hearts of Jesus and Mary Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/262458848/francis_joseph-klepadlo
-0 @S211@ SOUR
+0 @S225@ SOUR
 1 TITL Find a Grave, memorial 235931679: Catherine M. Klepadlo Kosar (1928–1995), Sacred Hearts of Jesus and Mary Cemetery, Scranton
 1 NOTE URL: https://www.findagrave.com/memorial/235931679/catherine_m-kosar
-0 @S212@ SOUR
+0 @S226@ SOUR
 1 TITL Find a Grave, memorial 107558452: Frank Cimino (1886–1978), Woodlawn Memorial Park I, Joliet, Ill. (bio)
 1 NOTE URL: https://www.findagrave.com/memorial/107558452/frank-cimino
-0 @S213@ SOUR
+0 @S227@ SOUR
 1 TITL Find a Grave, memorial 42782116: Carmella M. Cimino Sweedler (1919–2009), Woodlawn Memorial Park I, Joliet, Ill. (includes obituary text)
 1 NOTE URL: https://www.findagrave.com/memorial/42782116/carmella_m-sweedler
-0 @S214@ SOUR
+0 @S228@ SOUR
 1 TITL Find a Grave, memorial 107558541: Caroline Gabriele Cimino (1894–1990), Woodlawn Memorial Park I, Joliet, Ill.
 1 NOTE URL: https://www.findagrave.com/memorial/107558541/caroline-cimino
-0 @S215@ SOUR
+0 @S229@ SOUR
 1 TITL Find a Grave, memorial 103009130: Catherine Cimino Pettinato (1911–2006), Woodlawn Memorial Park I, Joliet, Ill.
 1 NOTE URL: https://www.findagrave.com/memorial/103009130/catherine-pettinato
-0 @S216@ SOUR
+0 @S230@ SOUR
 1 TITL Find a Grave, memorial 206578751: Santo Cimino (1914–1915), Saint Patricks Cemetery, Joliet, Ill.
 1 NOTE URL: https://www.findagrave.com/memorial/206578751/santo-cimino
-0 @S217@ SOUR
+0 @S231@ SOUR
 1 TITL Find a Grave, memorial 102949556: Salvatore J. “Sam” Cimino (1917–1994), Army veteran, Woodlawn Memorial Park I, Joliet, Ill. (includes obituary text)
 1 NOTE URL: https://www.findagrave.com/memorial/102949556/salvatore_j-cimino
 0 TRLR
