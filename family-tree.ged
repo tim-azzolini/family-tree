@@ -6799,9 +6799,11 @@
 2 DATE 15 APR 1911
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S240@
+2 SOUR @S241@
 1 DEAT
 2 DATE 23 OCT 1989
 2 SOUR @S240@
+2 SOUR @S241@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
 2 SOUR @S240@
@@ -6809,6 +6811,19 @@
 1 NOTE [Record; confirmed] Find a Grave: born 15 Apr 1911, Old Forge; died 23 Oct 1989; veteran; buried Old Forge Cemetery. Wife Henrietta Frati Barbetti (1917–2010); son Joseph Louis Barbetti (1935–1997).
 2 SOUR @S240@
 3 QUAY 3
+1 NOTE [Record; confirmed] Wife Henrietta (Frati) Barbetti’s 2010 obituary: she was “the widow of Dominic Barbetti, who died Oct. 23, 1989”; their only named child was Joseph L. Barbetti (d. 1997).
+2 SOUR @S241@
+3 QUAY 3
+2 SOUR @S242@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birth date: 15 Apr 1911 (Find a Grave) vs 20 Apr 1911 (SSA death index abstract for Dominic Barbetti, Old Forge). Tree keeps 15 Apr 1911.
+2 SOUR @S240@
+3 QUAY 1
+2 SOUR @S243@
+3 QUAY 1
+2 SOUR @S019@
+3 QUAY 1
+1 FAMS @F136@
 1 FAMC @F135@
 0 @BT005@ INDI
 1 NAME Orlando L. /Barbetti/
@@ -6818,18 +6833,26 @@
 1 BIRT
 2 DATE 24 JAN 1913
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S241@
+2 SOUR @S246@
+2 SOUR @S247@
 1 DEAT
 2 DATE FEB 1979
-2 SOUR @S241@
+2 SOUR @S246@
+2 SOUR @S247@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S241@
+2 SOUR @S246@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Find a Grave: born 24 Jan 1913, Old Forge; died Feb 1979; buried Old Forge Cemetery. Wives Anna Maria Galacci (1914–1943) and Jennie Cariati (1919–1983, married 1945); son Eugene L
 2 CONC ouis Barbetti (1940–1995).
-2 SOUR @S241@
+2 SOUR @S246@
 3 QUAY 3
+1 NOTE [Record; confirmed] Daughter Mary’s 2023 obituary names her parents as Orlando and Anna (Galacci) Barbetti and stepmother Eugenia (Jennie) Cariati Barbetti; siblings Michael (living) and Eugene (decea
+2 CONC sed).
+2 SOUR @S247@
+3 QUAY 3
+1 FAMS @F138@
+1 FAMS @F139@
 1 FAMC @F135@
 0 @BT006@ INDI
 1 NAME Sandy Roy /Barbetti/
@@ -6839,15 +6862,333 @@
 1 BIRT
 2 DATE 19 JUN 1916
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S242@
+2 SOUR @S251@
 1 DEAT
 2 DATE APR 1981
-2 SOUR @S242@
+2 SOUR @S251@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Find a Grave: born 19 Jun 1916, Old Forge; died Apr 1981. Wife Viola E. Fiorentini (1921–2011, married 1936); son Fernando “Fred” Barbetti (1957–2026).
+2 SOUR @S251@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birth year: 19 Jun 1916 (Find a Grave) vs 19 Jun 1915 (SSA death index abstract for Sandy Barbetti). Tree keeps 1916.
+2 SOUR @S251@
+3 QUAY 1
+2 SOUR @S019@
+3 QUAY 1
+1 FAMS @F140@
+1 FAMC @F135@
+0 @BT007@ INDI
+1 NAME Henrietta /Frati/
+2 GIVN Henrietta
+2 SURN Frati
+1 NAME Henrietta /Barbetti/
+2 TYPE married
+1 NAME Henrietta (Frati) Barbetti
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 8 JUN 1917
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S241@
+2 SOUR @S242@
+1 DEAT
+2 DATE 3 JUL 2010
+2 PLAC Peckville, Lackawanna, Pennsylvania, USA
+2 SOUR @S241@
+2 SOUR @S242@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S241@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary: Henrietta Barbetti, 93, lifelong Old Forge resident, died Saturday evening (3 Jul 2010) at the Laurels of Mid Valley, Peckville; widow of Dominic Barbetti (d. 23 Oct 1989
+2 CONC ). Daughter of Attilio and Righetta (Mascolini) Frati. Worked 50 years for Rohr Lingerie; Prince of Peace Parish (St. Mary’s), Old Forge. Survived by grandchildren Joseph Barbetti, Deborah Sarcone, Do
+2 CONC nna Antonio and David Barbetti; daughter-in-law Jacqueline Barbetti; six great-grandchildren (living; not given cards); brother Nello Frati. Preceded by son Joseph L. Barbetti (1997), brothers Philip
+2 CONC , Peter, Quinto, Emilio and Attilio Frati, and sisters Irene Pennini and Ida Lucarelli. Buried Old Forge Cemetery.
+2 SOUR @S241@
+3 QUAY 3
 2 SOUR @S242@
 3 QUAY 3
-1 FAMC @F135@
+1 NOTE [Record; confirmed] Find a Grave: born 8 Jun 1917, Old Forge; died 3 Jul 2010, Peckville. SSA index abstract agrees on both dates.
+2 SOUR @S242@
+3 QUAY 3
+2 SOUR @S243@
+3 QUAY 3
+1 FAMS @F136@
+0 @BT008@ INDI
+1 NAME Joseph Louis /Barbetti/
+2 GIVN Joseph Louis
+2 SURN Barbetti
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1935
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S244@
+2 SOUR @S240@
+1 DEAT
+2 DATE 8 MAR 1997
+2 PLAC Atlantic City, Atlantic, New Jersey, USA
+2 SOUR @S244@
+2 SOUR @S240@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S244@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Find a Grave: born 15 May 1935, Old Forge; died 8 Mar 1997, Atlantic City, N.J.; buried Old Forge Cemetery (“Beloved son – father”). Linked as son of Domenico and Henrietta Barbett
+2 CONC i.
+2 SOUR @S244@
+3 QUAY 3
+2 SOUR @S240@
+3 QUAY 3
+1 NOTE [Record; confirmed] Named as Henrietta’s son who died in 1997, and as the late husband of Jacqueline Salerno Barbetti.
+2 SOUR @S241@
+3 QUAY 3
+2 SOUR @S245@
+3 QUAY 3
+1 FAMS @F137@
+1 FAMC @F136@
+0 @BT009@ INDI
+1 NAME Jacqueline /Salerno/
+2 GIVN Jacqueline
+2 SURN Salerno
+1 NAME Jacqueline /Barbetti/
+2 TYPE married
+1 NAME Jacqueline (Salerno) Barbetti
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 9 APR 1936
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S245@
+1 DEAT
+2 DATE 27 JUN 2025
+2 PLAC Linwood Nursing & Rehab. Center (Scranton area), Pennsylvania, USA
+2 SOUR @S245@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S245@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary: born 9 Apr 1936 in Old Forge, daughter of Louis “Deuce” and Sophie (Zaleski) Salerno; Old Forge High School graduate and band majorette; died Friday 27 Jun 2025 at Linwoo
+2 CONC d Nursing & Rehab. Center. Survived by children Joseph Barbetti, Deborah Barbetti Sarcone and Donna Barbetti, four grandchildren and a great-grandson (living; not given cards). Preceded by husband Jos
+2 CONC eph Louis Barbetti and sister Jeanette Moluski Colwell. Burial Old Forge Cemetery.
+2 SOUR @S245@
+3 QUAY 3
+1 FAMS @F137@
+0 @BT010@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F137@
+0 @BT011@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F137@
+0 @BT012@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F137@
+0 @BT013@ INDI
+1 NAME Living
+1 SEX M
+0 @BT014@ INDI
+1 NAME Anna Maria /Galacci/
+2 GIVN Anna Maria
+2 SURN Galacci
+1 NAME Anna Maria /Barbetti/
+2 TYPE married
+1 NAME Anna Maria (Galacci) Barbetti
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1914
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S248@
+2 SOUR @S246@
+1 DEAT
+2 DATE 8 OCT 1943
+2 PLAC Quincy Township, Franklin, Pennsylvania, USA
+2 SOUR @S248@
+2 SOUR @S246@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S248@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; likely] Find a Grave: born 16 Jun 1914, Old Forge; died 8 Oct 1943, Quincy Township, Franklin Co., Pa., aged 29 (tuberculosis); daughter of Guy and Theresa Galacci; buried next to her parents
+2 CONC , Old Forge Cemetery. First wife of Orlando L. Barbetti.
+2 SOUR @S248@
+3 QUAY 2
+2 SOUR @S246@
+3 QUAY 2
+1 NOTE [Record; confirmed] Mother of Mary Barbetti Prokarym, per Mary’s obituary.
+2 SOUR @S247@
+3 QUAY 3
+1 FAMS @F138@
+0 @BT015@ INDI
+1 NAME Jennie /Cariati/
+2 GIVN Jennie
+2 SURN Cariati
+2 NICK Jennie
+1 NAME Jennie /Barbetti/
+2 TYPE married
+1 NAME Jennie (Cariati) Barbetti
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 29 JUL 1919
+2 PLAC Pennsylvania, USA
+2 SOUR @S249@
+2 SOUR @S246@
+1 DEAT
+2 DATE OCT 1983
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S249@
+2 SOUR @S246@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S249@
+1 NOTE Spelling variants: Eugenia Cariati
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; likely] Find a Grave: born 29 Jul 1919, Pa.; died Oct 1983, Old Forge; buried Old Forge Cemetery. Second wife of Orlando L. Barbetti (married 1945).
+2 SOUR @S249@
+3 QUAY 2
+2 SOUR @S246@
+3 QUAY 2
+1 NOTE [Record; confirmed] “Eugenia Cariati Barbetti”, stepmother of Mary Barbetti Prokarym, per Mary’s obituary.
+2 SOUR @S247@
+3 QUAY 3
+1 FAMS @F139@
+0 @BT016@ INDI
+1 NAME Mary /Barbetti/
+2 GIVN Mary
+2 SURN Barbetti
+1 NAME Mary /Prokarym/
+2 TYPE married
+1 NAME Mary (Barbetti) Prokarym
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE ABT 1935
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S247@
+1 DEAT
+2 DATE 5 JUN 2023
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S247@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S247@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary: Mary Barbetti Prokarym, RN, BSN, 88, formerly of Scranton and Old Forge, died Monday (5 Jun 2023) at Regional Hospital of Scranton. Born in Old Forge to Orlando and Ann
+2 CONC a (Galacci) Barbetti; stepdaughter of Eugenia Cariati Barbetti. Scranton State Hospital School of Nursing; B.S.N., East Stroudsburg University; school nurse for the Old Forge School District and St. M
+2 CONC ary’s School until June 2000. Survived by children Lisa Rauschmayer (Joseph), Janine Prokarym and Kurt Prokarym (Theresa); grandchildren Mark and Laura Rauschmayer and Marisa Prokarym (living; not giv
+2 CONC en cards); brother Michael Barbetti (Donna). Preceded by brother Eugene Barbetti. Burial Old Forge Cemetery. Husband not named.
+2 SOUR @S247@
+3 QUAY 3
+1 NOTE [Assumed; likely] Birth about 1934–35, from age 88 at death; exact date not found.
+2 SOUR @S247@
+3 QUAY 2
+0 @BT017@ INDI
+1 NAME Eugene Louis /Barbetti/
+2 GIVN Eugene Louis
+2 SURN Barbetti
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1940
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S250@
+2 SOUR @S246@
+1 DEAT
+2 DATE 15 JAN 1995
+2 PLAC West Palm Beach, Palm Beach, Florida, USA
+2 SOUR @S250@
+2 SOUR @S246@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S250@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Find a Grave: born 2 Oct 1940, Old Forge; died 15 Jan 1995, West Palm Beach, Fla.; A3C, U.S. Air Force; buried Old Forge Cemetery. Linked as son of Orlando L. Barbetti.
+2 SOUR @S250@
+3 QUAY 3
+2 SOUR @S246@
+3 QUAY 3
+1 NOTE [Record; confirmed] Named as Mary Barbetti Prokarym’s late brother.
+2 SOUR @S247@
+3 QUAY 3
+1 FAMC @F138@
+0 @BT018@ INDI
+1 NAME Living
+1 SEX M
+0 @BT019@ INDI
+1 NAME Living
+1 SEX F
+0 @BT020@ INDI
+1 NAME Living
+1 SEX F
+0 @BT021@ INDI
+1 NAME Living
+1 SEX M
+0 @BT022@ INDI
+1 NAME Viola E. /Fiorentini/
+2 GIVN Viola E.
+2 SURN Fiorentini
+1 NAME Viola E. /Barbetti/
+2 TYPE married
+1 NAME Viola E. (Fiorentini) Barbetti
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1921
+2 SOUR @S252@
+2 SOUR @S251@
+1 DEAT
+2 DATE 12 DEC 2011
+2 SOUR @S252@
+2 SOUR @S251@
+1 BURI
+2 PLAC All Saints Cemetery, Northfield, Summit, Ohio, USA
+2 SOUR @S252@
+1 NOTE Spelling variants: Berbetti (Find a Grave spelling)
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; likely] Find a Grave (spelled “Berbetti”): Viola E. Fiorentini, born 15 Jun 1921, died 12 Dec 2011, buried All Saints Cemetery, Northfield, Ohio. Linked as wife of Sandy Roy Barbetti (marrie
+2 CONC d 1936).
+2 SOUR @S252@
+3 QUAY 2
+2 SOUR @S251@
+3 QUAY 2
+1 NOTE [Record; confirmed] Mother of Fernando “Fred” Barbetti (“son of the late Viola (nee Fiorentini)”). Her family evidently included Lupia relatives (Fred’s cousins Eleanor Franko, Rose Lupia, Ben Lupia
+2 CONC , Mary Nemec and Sam Lupia Jr.).
+2 SOUR @S253@
+3 QUAY 3
+1 FAMS @F140@
+0 @BT023@ INDI
+1 NAME Fernando /Barbetti/
+2 GIVN Fernando
+2 SURN Barbetti
+2 NICK Fred
+1 NAME Fernando “Fred” Barbetti
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 3 DEC 1957
+2 SOUR @S253@
+2 SOUR @S254@
+1 DEAT
+2 DATE 13 SEP 2026
+2 SOUR @S253@
+2 SOUR @S254@
+1 BURI
+2 PLAC All Saints Cemetery, Northfield, Summit, Ohio, USA
+2 SOUR @S253@
+1 NOTE Photo: none found publicly (searched: ).
+1 NOTE [Record; confirmed] Obituary: Fernando “Fred” Barbetti, 68, of Melbourne, Fla., formerly of Garfield Heights, Ohio, died Sunday 13 Sep 2026. Son of the late Viola (née Fiorentini). U.S. Air Force vete
+2 CONC ran; retired from Tomlinson Industries; co-owner of the Adventures in Stamping convention for over 20 years. Survived by goddaughter, nephew John Petal (so he had a sibling, not named), great-nieces/n
+2 CONC ephews, and cousins (living; not given cards). Interment with military honors, All Saints Cemetery. Father not named in the obituary.
+2 SOUR @S253@
+3 QUAY 3
+1 NOTE [Record; likely] Find a Grave: born 3 Dec 1957; died 13 Sep 2026; All Saints Cemetery, Northfield, Ohio; linked as son of Sandy Roy Barbetti.
+2 SOUR @S254@
+3 QUAY 2
+2 SOUR @S251@
+3 QUAY 2
+1 FAMC @F140@
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -7486,6 +7827,27 @@
 1 CHIL @BT004@
 1 CHIL @BT005@
 1 CHIL @BT006@
+0 @F136@ FAM
+1 HUSB @BT004@
+1 WIFE @BT007@
+1 CHIL @BT008@
+0 @F137@ FAM
+1 HUSB @BT008@
+1 WIFE @BT009@
+1 CHIL @BT010@
+1 CHIL @BT011@
+1 CHIL @BT012@
+0 @F138@ FAM
+1 HUSB @BT005@
+1 WIFE @BT014@
+1 CHIL @BT017@
+0 @F139@ FAM
+1 HUSB @BT005@
+1 WIFE @BT015@
+0 @F140@ FAM
+1 HUSB @BT006@
+1 WIFE @BT022@
+1 CHIL @BT023@
 0 @S001@ SOUR
 1 TITL Interview of Norma (Mazzaccaro) Azzolini by her son Tim Azzolini, Old Forge, Pa., 31 Oct 2026; relayed notes (interview-summary-2026-10-31.md). Narrative kept in the separate interview-context documen
 2 CONC t.
@@ -8210,9 +8572,45 @@
 1 TITL Find a Grave, memorial 71507422, Domenico “Dominick” Barbetti (1911–1989), Old Forge Cemetery, family links
 1 NOTE URL: https://www.findagrave.com/memorial/71507422/domenico-barbetti
 0 @S241@ SOUR
+1 TITL “Henrietta Barbetti” obituary, The Times-Tribune (Scranton, Pa.), Jul. 2010
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/henrietta-barbetti-scranton-pa/
+0 @S242@ SOUR
+1 TITL Find a Grave, memorial 132893669, Henrietta Frati Barbetti (8 Jun 1917–3 Jul 2010), Old Forge Cemetery; bio quotes her obituary
+1 NOTE URL: https://www.findagrave.com/memorial/132893669/henrietta-barbetti
+0 @S243@ SOUR
+1 TITL AncientFaces, Barbetti family history page (SSA death index abstracts: Dominic Barbetti 20 Apr 1911–23 Oct 1989; Henrietta Barbetti 8 Jun 1917–3 Jul 2010)
+1 NOTE URL: https://www.ancientfaces.com/surname/barbetti-family-history/327078
+0 @S244@ SOUR
+1 TITL Find a Grave, memorial 240871930, Joseph Louis Barbetti (15 May 1935–8 Mar 1997), Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/240871930/joseph_louis-barbetti
+0 @S245@ SOUR
+1 TITL “Jacqueline Salerno Barbetti” obituary, The Times-Tribune (Scranton, Pa.), Jun. 2025
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/jacqueline-salerno-barbetti-old-forge-pa/
+0 @S246@ SOUR
 1 TITL Find a Grave, memorial 234896855, Orlando L. Barbetti (1913–1979), Old Forge Cemetery, family links
 1 NOTE URL: https://www.findagrave.com/memorial/234896855/orlando_l-barbetti
-0 @S242@ SOUR
+0 @S247@ SOUR
+1 TITL “Mary Barbetti Prokarym” obituary, The Times-Tribune (Scranton, Pa.), Jun. 2023
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/mary-barbetti-prokarym-scranton-pa/
+0 @S248@ SOUR
+1 TITL Find a Grave, memorial 234897104, Anna Maria Galacci Barbetti (16 Jun 1914–8 Oct 1943), Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/234897104/anna_maria-barbetti
+0 @S249@ SOUR
+1 TITL Find a Grave, memorial 242533409, Jennie Cariati Barbetti (1919–1983), Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/242533409/jennie-barbetti
+0 @S250@ SOUR
+1 TITL Find a Grave, memorial 241413075, Eugene Louis Barbetti (2 Oct 1940–15 Jan 1995), Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/241413075/eugene_louis-barbetti
+0 @S251@ SOUR
 1 TITL Find a Grave, memorial 306933729, Sandy Roy Barbetti (1916–1981), family links
 1 NOTE URL: https://www.findagrave.com/memorial/306933729/sandy_roy-barbetti
+0 @S252@ SOUR
+1 TITL Find a Grave, memorial 150254714, Viola E. Fiorentini “Berbetti” [Barbetti] (15 Jun 1921–12 Dec 2011), All Saints Cemetery, Northfield, Ohio
+1 NOTE URL: https://www.findagrave.com/memorial/150254714/viola_e-berbetti
+0 @S253@ SOUR
+1 TITL “Fernando “Fred” Barbetti” obituary, Busch-Romito Funeral Home, Northfield, Ohio, Sep. 2026 (via Legacy.com)
+1 NOTE URL: https://www.legacy.com/us/obituaries/name/fernando-barbetti-obituary?id=62431917
+0 @S254@ SOUR
+1 TITL Find a Grave, memorial 306933518, Fernando “Fred” Barbetti (3 Dec 1957–13 Sep 2026), All Saints Cemetery, Northfield, Ohio
+1 NOTE URL: https://www.findagrave.com/memorial/306933518/fernando-barbetti
 0 TRLR
