@@ -7804,7 +7804,7 @@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
 2 SOUR @S280@
-1 NOTE Spelling variants: Angelina, Angiolina
+1 NOTE Spelling variants: Angelina, Angiolina, Mastergivno (son Joseph’s 2005 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Find a Grave: born 28 Jun 1888, Italy; died 18 Feb 1951, Wilkes-Barre, three weeks after her husband Basilio. Maiden name Mastrogiovanni in her children’s obituaries.
 2 SOUR @S280@
@@ -7813,6 +7813,9 @@
 3 QUAY 3
 2 SOUR @S282@
 3 QUAY 3
+1 NOTE [Record; likely] Son Joseph J. Baratta’s 2005 Times Leader obituary spells her maiden name “Angeline Mastergivno Baratta”; read as a variant/misspelling of Mastrogiovanni.
+2 SOUR @S283@
+3 QUAY 2
 1 FAMS @F148@
 0 @BR010@ INDI
 1 NAME Patrick /Baratta/
@@ -7822,19 +7825,19 @@
 1 BIRT
 2 DATE 8 MAR 1911
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S283@
+2 SOUR @S284@
 2 SOUR @S278@
 1 DEAT
 2 DATE 12 JUN 1943
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S283@
+2 SOUR @S284@
 2 SOUR @S278@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S283@
+2 SOUR @S284@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Eldest of the ten children of Basilio and Angeline Baratta; born 8 Mar 1911, died 12 Jun 1943, Wilkes-Barre, aged 32. Married Venus Ciavarella in 1931.
-2 SOUR @S283@
+2 SOUR @S284@
 3 QUAY 3
 2 SOUR @S278@
 3 QUAY 3
@@ -7850,24 +7853,31 @@
 1 BIRT
 2 DATE 28 DEC 1913
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S284@
 2 SOUR @S285@
+2 SOUR @S286@
 1 DEAT
 2 DATE 25 JAN 2001
 2 PLAC North Palm Beach, Palm Beach, Florida, USA
-2 SOUR @S284@
 2 SOUR @S285@
+2 SOUR @S286@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S284@
+2 SOUR @S285@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Wife of Patrick Baratta (m. 1931); after his death she married Lester Zuercher (1918–2000) in 1977. Son Joseph’s obituary says he was raised by his mother and grandmother in a hous
 2 CONC e with a family bakery.
-2 SOUR @S284@
-3 QUAY 3
 2 SOUR @S285@
 3 QUAY 3
+2 SOUR @S286@
+3 QUAY 3
+1 NOTE [Record; confirmed] 2001 obituary: daughter of the late Joseph and Theresa (Castrignano) Ciavarella; born and raised in Wilkes-Barre; moved to North Palm Beach in 1961. She, her first husband Patric
+2 CONC k Baratta and the Ciavarella family owned and ran the Thrifty Food Store and Bakery, Wilkes-Barre; later a receptionist at her daughter’s beauty salon. Preceded by husbands Patrick Baratta and Leste
+2 CONC r Zuercher, brothers Ben and Frank, sister Emma Starcun. Survived by children Angeline Cullinan, Patrick Baratta, Joseph Baratta and Terry Gallagher; 13 grandchildren; 18 great-grandchildren; sister
+2 CONC s Caroline DelBalso, Rachael Donnini, Mary Muzupapa and Rose Middleton. See the Ciavarella family tab.
+2 SOUR @S287@
+3 QUAY 3
 1 FAMS @F149@
+1 FAMC @F164@
 0 @BR012@ INDI
 1 NAME Angeline /Baratta/
 2 GIVN Angeline
@@ -7880,17 +7890,17 @@
 1 SEX F
 1 BIRT
 2 DATE 2 FEB 1933
-2 SOUR @S286@
+2 SOUR @S288@
 2 SOUR @S279@
 1 DEAT
 2 DATE 9 OCT 2020
 2 PLAC Henrietta, Monroe, New York, USA
-2 SOUR @S286@
+2 SOUR @S288@
 2 SOUR @S279@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Patrick and Venus Baratta. Radiologic-technology administrator, educator and textbook author; Wyoming Seminary graduate. Predeceased by husband John “Jack” Cullinan, da
 2 CONC ughter Dr. Jeanne Cullinan and brothers Patrick and Joseph Baratta. Survived by daughters (living relatives masked) and sister Terry.
-2 SOUR @S286@
+2 SOUR @S288@
 3 QUAY 3
 1 NOTE [Record; confirmed] Called “her first niece … born when Loretta was only six years old” in aunt Loretta Orndorff’s 2014 obituary.
 2 SOUR @S279@
@@ -7907,7 +7917,7 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of Angie Baratta; 1930–2012 per Find a Grave family links; predeceased her.
-2 SOUR @S286@
+2 SOUR @S288@
 3 QUAY 2
 1 FAMS @F150@
 0 @BR014@ INDI
@@ -7919,7 +7929,7 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Angie (Baratta) Cullinan; predeceased her mother (2020 obituary). Dates not found.
-2 SOUR @S286@
+2 SOUR @S288@
 3 QUAY 3
 1 FAMC @F150@
 0 @BR016@ INDI
@@ -7942,18 +7952,18 @@
 1 BIRT
 2 DATE 24 APR 1938
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S285@
+2 SOUR @S286@
 1 DEAT
 2 DATE 11 OCT 2017
 2 PLAC Palm Beach County, Florida, USA
-2 SOUR @S285@
+2 SOUR @S286@
 1 BURI
 2 PLAC South Florida National Cemetery, Lake Worth Beach, Palm Beach, Florida, USA
-2 SOUR @S285@
+2 SOUR @S286@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Patrick and Venus Baratta; raised by his mother and grandmother. Army (Nike Ajax missile system, Germany), then electrician with Phillips Electronics; family moved to Sout
 2 CONC h Florida in the early 1960s. Survived by a son, three daughters (living relatives masked), sisters Angela Cullinan and Theresa “Terry” Gallagher, and brother Patrick (wife Gladys).
-2 SOUR @S285@
+2 SOUR @S286@
 3 QUAY 3
 1 FAMS @F151@
 1 FAMC @F149@
@@ -7987,10 +7997,13 @@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Brother of Joseph P. Baratta, alive at Joseph’s death (Oct 2017; wife Gladys) but listed as predeceased in sister Angie’s Oct 2020 obituary, so he died between 2017 and 2020. Presumab
 2 CONC ly a son of Patrick and Venus; exact dates not found.
-2 SOUR @S285@
-3 QUAY 2
 2 SOUR @S286@
 3 QUAY 2
+2 SOUR @S288@
+3 QUAY 2
+1 NOTE [Record; confirmed] Named as a son, “Patrick (Gladys) Baratta,” in his mother Venus’s 2001 obituary, which confirms he is a son of Patrick and Venus.
+2 SOUR @S287@
+3 QUAY 3
 1 FAMC @F149@
 0 @BR030@ INDI
 1 NAME Anthony /Baratta/
@@ -8000,17 +8013,23 @@
 1 BIRT
 2 DATE 6 MAR 1912
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S287@
+2 SOUR @S289@
+2 SOUR @S290@
 1 DEAT
 2 DATE 25 JUL 1972
 2 PLAC Middletown, New Castle, Delaware, USA
-2 SOUR @S287@
+2 SOUR @S289@
+2 SOUR @S290@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S287@
+2 SOUR @S289@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Basilio and Angeline; born 6 Mar 1912; died 25 Jul 1972, Middletown, Del. Married Sophia Eleanor Rogus in 1938.
-2 SOUR @S287@
+2 SOUR @S289@
+3 QUAY 3
+1 NOTE [Record; confirmed] Called “Tony,” “second son of local Italian immigrants” and a noted body-and-fender man in the Wyoming Valley for over 25 years, in wife Sophia’s 2003 obituary; family moved to Che
+2 CONC ster, Pa., in the early 1950s.
+2 SOUR @S290@
 3 QUAY 3
 1 FAMS @F152@
 1 FAMC @F148@
@@ -8021,10 +8040,40 @@
 1 NAME Sophia Eleanor /Baratta/
 2 TYPE married
 1 SEX F
+1 BIRT
+2 DATE 11 APR 1915
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S289@
+2 SOUR @S291@
+1 DEAT
+2 DATE 10 APR 2003
+2 PLAC Holy Redeemer Hospital, near Philadelphia, Pennsylvania, USA
+2 SOUR @S289@
+2 SOUR @S291@
+1 BURI
+2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
+2 SOUR @S289@
+1 NOTE Spelling variants: Sophia Elizabeth (obituary); Sophie
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Anthony Baratta (m. 1938); 1915–2003 per Find a Grave family links.
-2 SOUR @S287@
+2 SOUR @S289@
 3 QUAY 2
+1 NOTE [Record; likely] Find a Grave: born 11 Apr 1915, Wilkes-Barre; died 10 Apr 2003, Philadelphia; buried Saint Mary’s Cemetery, Hanover Twp. Parents Joseph G. Rogus (1885–1938) and Phillipine Rogus (1887
+2 CONC –1945); brothers John Rogus (1916–1979) and Joseph Albert Rogus (1926–2011).
+2 SOUR @S291@
+3 QUAY 2
+1 NOTE [Record; confirmed] 2003 obituary: Sophia Elizabeth (Rogus) Baratta died 10 Apr 2003 at Holy Redeemer Hospital near Philadelphia, a resident of Lafayette Redeemer, Northeast Philadelphia. Born in Wilk
+2 CONC es-Barre to Polish immigrant parents; worked in local mills and was active in the union movement; moved to Chester in the early 1950s and stayed active in the union until retiring in the late 1970s. H
+2 CONC er husband Tony (Anthony), “second son of local Italian immigrants,” was a body-and-fender man in the Wyoming Valley. Her children (not named individually) included three lawyers, a paralegal, a teach
+2 CONC er and a Hollywood actor-writer-director; donations went c/o Anthony P. Baratta, Esq. Children are living or unknown, so they are not added. Buried St. Mary’s Cemetery.
+2 SOUR @S290@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birth year: the obituary says she died “one day short of her 89th birthday,” which gives 11 Apr 1914; Find a Grave gives 11 Apr 1915. Middle name: obituary “Elizabeth,” Fin
+2 CONC d a Grave “Eleanor.” Unresolved.
+2 SOUR @S290@
+3 QUAY 1
+2 SOUR @S291@
+3 QUAY 1
 1 FAMS @F152@
 0 @BR032@ INDI
 1 NAME John Carl /Baratta/
@@ -8034,17 +8083,17 @@
 1 BIRT
 2 DATE 4 JAN 1914
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S288@
+2 SOUR @S292@
 1 DEAT
 2 DATE 30 JUN 1978
 2 PLAC Orlando, Orange, Florida, USA
-2 SOUR @S288@
+2 SOUR @S292@
 1 BURI
 2 PLAC Woodlawn Memorial Park, Gotha, Orange, Florida, USA
-2 SOUR @S288@
+2 SOUR @S292@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Basilio and Angeline; U.S. Army, World War II; died 30 Jun 1978, Orlando, Fla.
-2 SOUR @S288@
+2 SOUR @S292@
 3 QUAY 3
 1 FAMC @F148@
 0 @BR033@ INDI
@@ -8055,17 +8104,17 @@
 1 BIRT
 2 DATE 1 OCT 1915
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S289@
+2 SOUR @S293@
 1 DEAT
 2 DATE 6 FEB 1921
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S289@
+2 SOUR @S293@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S289@
+2 SOUR @S293@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of “Mr. and Mrs. Bassel Baratta”; died of pneumonia aged 5; funeral at Holy Rosary Church, Wilkes-Barre (Times Leader, 8 Feb 1921).
-2 SOUR @S289@
+2 SOUR @S293@
 3 QUAY 3
 1 FAMC @F148@
 0 @BR034@ INDI
@@ -8126,6 +8175,12 @@
 2 CONC vived by son Daniel, daughters Joan and Carla (living relatives masked) and nine grandchildren.
 2 SOUR @S282@
 3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Grandchildren count: his Feb 2005 obituary says nine grandchildren; wife Marie’s Dec 2007 obituary says eight (grandson Christopher Pesta died in 2006, which may explain the di
+2 CONC fference).
+2 SOUR @S283@
+3 QUAY 1
+2 SOUR @S294@
+3 QUAY 1
 1 FAMS @F154@
 1 FAMC @F148@
 0 @BR037@ INDI
@@ -8135,11 +8190,28 @@
 1 NAME Mary Magdalene “Marie” /Baratta/
 2 TYPE married
 1 SEX F
+1 BIRT
+2 DATE 27 FEB 1922
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S282@
+2 SOUR @S294@
+1 DEAT
+2 DATE 20 DEC 2007
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S282@
+2 SOUR @S294@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Joseph J. Baratta (m. 1944); 1922–2007 per Find a Grave family links.
 2 SOUR @S282@
 3 QUAY 2
+1 NOTE [Record; confirmed] 2007 obituary: Mary M. (Marie) Baratta, 85, of the Newtown section of Hanover Twp., died Thursday (20 Dec 2007) in Hospice Community Care at Geisinger South Wilkes-Barre. Born in W
+2 CONC ilkes-Barre 27 Feb 1922, daughter of the late Daniel and Lucia Gaglardi Gigliotti; Hanover Township High School, class of 1941. Preceded by husband Joseph J. (2005), an infant son Joseph and grandso
+2 CONC n Christopher Pesta (2006). Survived by son Daniel, daughters Joan Pesta and Carla Koziel, eight grandchildren, one great-grandson and sister Frances Sireno. Entombed St. Nicholas Mausoleum, Shavertow
+2 CONC n. See the Gigliotti family tab.
+2 SOUR @S294@
+3 QUAY 3
 1 FAMS @F154@
+1 FAMC @F172@
 0 @BR038@ INDI
 1 NAME Joseph /Baratta/
 2 GIVN Joseph
@@ -8159,6 +8231,7 @@
 0 @BR040@ INDI
 1 NAME Living
 1 SEX F
+1 FAMS @F155@
 1 FAMC @F154@
 0 @BR041@ INDI
 1 NAME Living
@@ -8194,19 +8267,19 @@
 1 BIRT
 2 DATE 5 MAY 1923
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S290@
+2 SOUR @S295@
 1 DEAT
 2 DATE 21 FEB 2012
 2 PLAC Orlando, Orange, Florida, USA
-2 SOUR @S290@
+2 SOUR @S295@
 1 BURI
 2 PLAC Woodlawn Memorial Park, Gotha, Orange, Florida, USA
-2 SOUR @S290@
+2 SOUR @S295@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Basilio and Angeline; died 21 Feb 2012, Orlando, Fla. Find a Grave links a spouse Barbara Jean Baratta.
-2 SOUR @S290@
+2 SOUR @S295@
 3 QUAY 3
-1 FAMS @F155@
+1 FAMS @F156@
 1 FAMC @F148@
 0 @BR044@ INDI
 1 NAME Barbara Jean //
@@ -8218,9 +8291,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; unconfirmed] Spouse of Carl P. Baratta per Find a Grave family links (dates there 1949–1990, a birth year that looks doubtful for a wife of a man born 1923; unverified).
-2 SOUR @S290@
+2 SOUR @S295@
 3 QUAY 1
-1 FAMS @F155@
+1 FAMS @F156@
 0 @BR045@ INDI
 1 NAME Loretta L. /Baratta/
 2 GIVN Loretta L.
@@ -8250,9 +8323,9 @@
 2 CONC ff Sr. and the son John T. Orndorff Jr. Unresolved.
 2 SOUR @S279@
 3 QUAY 1
-2 SOUR @S291@
+2 SOUR @S296@
 3 QUAY 1
-1 FAMS @F156@
+1 FAMS @F157@
 1 FAMC @F148@
 0 @BR046@ INDI
 1 NAME John Thomas /Orndorff/
@@ -8268,9 +8341,9 @@
 1 NOTE [Conflict; unconfirmed] Called “Jr.” on Find a Grave and in Loretta’s obituary but “John T. Orndorff, Sr.” in daughter Diane’s 2013 obituary. Unresolved.
 2 SOUR @S279@
 3 QUAY 1
-2 SOUR @S291@
+2 SOUR @S296@
 3 QUAY 1
-1 FAMS @F156@
+1 FAMS @F157@
 0 @BR047@ INDI
 1 NAME Diane M. /Orndorff/
 2 GIVN Diane M.
@@ -8282,32 +8355,32 @@
 1 SEX F
 1 BIRT
 2 DATE 11 MAR 1955
-2 SOUR @S291@
+2 SOUR @S296@
 1 DEAT
 2 DATE 3 MAR 2013
 2 PLAC Media, Delaware, Pennsylvania, USA
-2 SOUR @S291@
+2 SOUR @S296@
 1 BURI
 2 PLAC Calvary Cemetery, Media, Delaware, Pennsylvania, USA
-2 SOUR @S291@
+2 SOUR @S296@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of John T. and Loretta (Baratta) Orndorff; Penncrest H.S. 1973; bank employee. Survived by her husband, mother and two brothers.
-2 SOUR @S291@
+2 SOUR @S296@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Her obituary calls her father John T. Orndorff Sr. and brother John T. Jr.; her mother’s obituary has John Jr. and John III. Unresolved.
-2 SOUR @S291@
+2 SOUR @S296@
 3 QUAY 1
 2 SOUR @S279@
 3 QUAY 1
-1 FAMC @F156@
+1 FAMC @F157@
 0 @BR048@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F156@
+1 FAMC @F157@
 0 @BR049@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F156@
+1 FAMC @F157@
 0 @BR050@ INDI
 1 NAME June /Baratta/
 2 GIVN June
@@ -8320,20 +8393,20 @@
 1 BIRT
 2 DATE 23 JUN 1928
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S292@
+2 SOUR @S297@
 1 DEAT
 2 DATE 15 NOV 2011
 2 PLAC Cinnaminson, Burlington, New Jersey, USA
-2 SOUR @S292@
+2 SOUR @S297@
 1 BURI
 2 PLAC Brigadier General William C. Doyle Memorial Cemetery, Arneytown, Burlington, New Jersey, USA
-2 SOUR @S292@
+2 SOUR @S297@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Youngest of Basilio and Angeline’s children; Sleeper’s Business College, Chester. Survived by husband of 52 years William Gill and sons William and Joseph (living relatives masked)
 2 CONC , brother Carl and sisters Anna and Loretta.
-2 SOUR @S292@
+2 SOUR @S297@
 3 QUAY 3
-1 FAMS @F157@
+1 FAMS @F158@
 1 FAMC @F148@
 0 @BR051@ INDI
 1 NAME William John “Bill” /Gill/
@@ -8342,17 +8415,17 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of June Baratta (m. 1959); 1927–2019 per Find a Grave family links.
-2 SOUR @S292@
+2 SOUR @S297@
 3 QUAY 2
-1 FAMS @F157@
+1 FAMS @F158@
 0 @BR052@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F157@
+1 FAMC @F158@
 0 @BR053@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F157@
+1 FAMC @F158@
 0 @OR001@ INDI
 1 NAME Louise /Baratta/
 2 GIVN Louise
@@ -8386,7 +8459,7 @@
 2 CONC e (Mrs. Carrara), Patrick and Joseph Jr.
 2 SOUR @S102@
 3 QUAY 3
-1 FAMS @F158@
+1 FAMS @F159@
 0 @OR002@ INDI
 1 NAME Joseph /Orrick/
 2 GIVN Joseph
@@ -8395,28 +8468,28 @@
 1 BIRT
 2 DATE 1868
 2 PLAC Italy
-2 SOUR @S293@
+2 SOUR @S298@
 2 SOUR @S102@
 1 DEAT
 2 DATE 2 APR 1955
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S293@
+2 SOUR @S298@
 2 SOUR @S102@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S293@
+2 SOUR @S298@
 1 NOTE Spelling variants: Orrico
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Husband of Louise (Baratta); a retired downtown butcher in 1941. His 1955 obituary names children Carl, Patrick A., Mrs. Christine Carrara and the late Joseph J. Orrick, and a sist
 2 CONC er Mrs. Marlena Palladino and the late brother Anthony Orrick.
-2 SOUR @S293@
+2 SOUR @S298@
 3 QUAY 3
 2 SOUR @S102@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave links his mother Clementine Ritcha Orrick (1848–1931) and siblings Anthony Orrico (1874–1946) and Amalia “Marlena” Orrico Palladino (1880–1979).
-2 SOUR @S293@
+2 SOUR @S298@
 3 QUAY 2
-1 FAMS @F158@
+1 FAMS @F159@
 0 @OR010@ INDI
 1 NAME Carl Anthony /Orrick/
 2 GIVN Carl Anthony
@@ -8425,24 +8498,24 @@
 1 BIRT
 2 DATE 26 JAN 1896
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S294@
+2 SOUR @S299@
 2 SOUR @S102@
 1 DEAT
 2 DATE 9 JUN 1960
 2 PLAC New Jersey, USA
-2 SOUR @S294@
+2 SOUR @S299@
 2 SOUR @S102@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S294@
+2 SOUR @S299@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Joseph and Louise (Baratta) Orrick; born Jersey City. Spouse Veronica White Orrick (1905–1957) per Find a Grave.
-2 SOUR @S294@
+2 SOUR @S299@
 3 QUAY 3
 2 SOUR @S102@
 3 QUAY 3
-1 FAMS @F159@
-1 FAMC @F158@
+1 FAMS @F160@
+1 FAMC @F159@
 0 @OR011@ INDI
 1 NAME Veronica /White/
 2 GIVN Veronica
@@ -8452,9 +8525,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Carl A. Orrick; 1905–1957 per Find a Grave family links.
-2 SOUR @S294@
+2 SOUR @S299@
 3 QUAY 2
-1 FAMS @F159@
+1 FAMS @F160@
 0 @OR012@ INDI
 1 NAME Christine /Orrick/
 2 GIVN Christine
@@ -8467,20 +8540,20 @@
 1 BIRT
 2 DATE 18 JAN 1900
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S295@
+2 SOUR @S300@
 1 DEAT
 2 DATE 19 SEP 1975
 2 PLAC Paramus, Bergen, New Jersey, USA
-2 SOUR @S295@
+2 SOUR @S300@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S295@
+2 SOUR @S300@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Joseph and Louise Orrick; of Harrington Park, formerly of Hoboken; widow of Frank L. Carrara; survived by brother Patrick A. Orrick and four nieces (no children named).
-2 SOUR @S295@
+2 SOUR @S300@
 3 QUAY 3
-1 FAMS @F160@
-1 FAMC @F158@
+1 FAMS @F161@
+1 FAMC @F159@
 0 @OR013@ INDI
 1 NAME Frank Louis /Carrara/
 2 GIVN Frank Louis
@@ -8488,9 +8561,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of Christine Orrick; 1897–1974 per Find a Grave; predeceased her.
-2 SOUR @S295@
+2 SOUR @S300@
 3 QUAY 2
-1 FAMS @F160@
+1 FAMS @F161@
 0 @OR014@ INDI
 1 NAME Patrick A. /Orrick/
 2 GIVN Patrick A.
@@ -8499,33 +8572,33 @@
 1 BIRT
 2 DATE 25 DEC 1905
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S296@
+2 SOUR @S301@
 1 DEAT
 2 DATE 3 DEC 1981
 2 PLAC Harrington Park, Bergen, New Jersey, USA
-2 SOUR @S296@
+2 SOUR @S301@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S296@
+2 SOUR @S301@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Joseph and Louise Orrick. Superintendent of fire-department repairs for Jersey City’s Department of Public Safety for 32 years (retired 1969), then DiFeo Buick service manag
 2 CONC er to 1975; Army master sergeant in WWII. Survived by wife Carmella and daughter Louise Gorman.
-2 SOUR @S296@
+2 SOUR @S301@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Residence: sister Christine’s Sept. 1975 obituary places him in Greenville, Pa., but his own 1981 obituary says of Harrington Park, N.J., former Jersey City resident. Could b
 2 CONC e a move or a mistake. Unresolved.
-2 SOUR @S295@
+2 SOUR @S300@
 3 QUAY 1
-2 SOUR @S296@
+2 SOUR @S301@
 3 QUAY 1
 1 NOTE [Assumed; unconfirmed] Daughter Louise was born 1924, twenty years before his 1944 marriage to Carmella Giardina (born 1925), so Louise’s mother was presumably an earlier wife who is not named. Infere
 2 CONC nce only.
-2 SOUR @S296@
+2 SOUR @S301@
 3 QUAY 1
-2 SOUR @S297@
+2 SOUR @S302@
 3 QUAY 1
-1 FAMS @F161@
-1 FAMC @F158@
+1 FAMS @F162@
+1 FAMC @F159@
 0 @OR015@ INDI
 1 NAME Carmella A. /Giardina/
 2 GIVN Carmella A.
@@ -8535,9 +8608,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Patrick A. Orrick (m. 1944); 1925–2010 per Find a Grave family links.
-2 SOUR @S296@
+2 SOUR @S301@
 3 QUAY 2
-1 FAMS @F161@
+1 FAMS @F162@
 0 @OR016@ INDI
 1 NAME Louise Mary /Orrick/
 2 GIVN Louise Mary
@@ -8550,25 +8623,25 @@
 1 BIRT
 2 DATE 26 MAY 1924
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S297@
-2 SOUR @S296@
+2 SOUR @S302@
+2 SOUR @S301@
 1 DEAT
 2 DATE 2 JUL 2016
 2 PLAC Tenafly, Bergen, New Jersey, USA
-2 SOUR @S297@
-2 SOUR @S296@
+2 SOUR @S302@
+2 SOUR @S301@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S297@
+2 SOUR @S302@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Patrick A. Orrick; widow of James F. Gorman (d. 1991); administrative assistant at Holy Name Medical Center, Teaneck, 45+ years. Survived by four daughters (living rela
 2 CONC tives masked), eight grandchildren and eight great-grandchildren.
-2 SOUR @S297@
+2 SOUR @S302@
 3 QUAY 3
-2 SOUR @S296@
+2 SOUR @S301@
 3 QUAY 3
-1 FAMS @F162@
-1 FAMC @F161@
+1 FAMS @F163@
+1 FAMC @F162@
 0 @OR017@ INDI
 1 NAME James Francis /Gorman/
 2 GIVN James Francis
@@ -8576,25 +8649,25 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Husband of Louise Orrick; died 1991 (her obituary); 1918–1991 per Find a Grave.
-2 SOUR @S297@
+2 SOUR @S302@
 3 QUAY 3
-1 FAMS @F162@
+1 FAMS @F163@
 0 @OR020@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F162@
+1 FAMC @F163@
 0 @OR021@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F162@
+1 FAMC @F163@
 0 @OR022@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F162@
+1 FAMC @F163@
 0 @OR023@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F162@
+1 FAMC @F163@
 0 @OR018@ INDI
 1 NAME Joseph J. /Orrick/
 2 GIVN Joseph J.
@@ -8606,15 +8679,497 @@
 2 DATE 14 DEC 1953
 2 PLAC Hackensack, Bergen, New Jersey, USA
 2 SOUR @S102@
-2 SOUR @S293@
+2 SOUR @S298@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Son of Joseph and Louise Orrick (her 1941 obituary); “the late Joseph J. Orrick” in his father’s 1955 obituary. A researcher’s note on the memorials says he died in an automobile acci
 2 CONC dent on 14 Dec 1953 in Hackensack; burial place not found.
 2 SOUR @S102@
 3 QUAY 2
-2 SOUR @S293@
+2 SOUR @S298@
 3 QUAY 2
-1 FAMC @F158@
+1 FAMC @F159@
+0 @BR054@ INDI
+1 NAME Christopher /Pesta/
+2 GIVN Christopher
+2 SURN Pesta
+1 SEX M
+1 DEAT
+2 DATE 2006
+2 SOUR @S294@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; likely] Grandson of Joseph J. and Marie Baratta; died in 2006, before his grandmother (her 2007 obituary). Presumably a son of Joan (Baratta) Pesta, the only daughter with that married name
+2 CONC . Exact dates not found.
+2 SOUR @S294@
+3 QUAY 2
+1 FAMC @F155@
+0 @CZ001@ INDI
+1 NAME Joseph /Ciavarella/
+2 GIVN Joseph
+2 SURN Ciavarella
+1 SEX M
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Father of Venus Baratta, Rachel Donnini and Mary Muzzupappa (“the late Joseph and Theresa (Castrignano) Ciavarella” in their obituaries). The family ran the Thrifty Food Store an
+2 CONC d Bakery in Wilkes-Barre. Dates not found.
+2 SOUR @S287@
+3 QUAY 3
+2 SOUR @S303@
+3 QUAY 3
+2 SOUR @S304@
+3 QUAY 3
+2 SOUR @S305@
+3 QUAY 3
+1 FAMS @F164@
+0 @CZ002@ INDI
+1 NAME Theresa /Castrignano/
+2 GIVN Theresa
+2 SURN Castrignano
+1 NAME Theresa /Ciavarella/
+2 TYPE married
+1 SEX F
+1 NOTE Spelling variants: Castrigano (2009 obituary)
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Mother of Venus, Rachel, Mary and their siblings; named Theresa (Castrignano) Ciavarella in the obituaries (“Castrigano” in Mary’s). Dates not found.
+2 SOUR @S287@
+3 QUAY 3
+2 SOUR @S303@
+3 QUAY 3
+2 SOUR @S304@
+3 QUAY 3
+2 SOUR @S305@
+3 QUAY 3
+1 FAMS @F164@
+0 @CZ010@ INDI
+1 NAME Ben /Ciavarella/
+2 GIVN Ben
+2 SURN Ciavarella
+1 SEX M
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Brother of Venus Baratta; died before Jan 2001 (preceded her). Dates not found.
+2 SOUR @S287@
+3 QUAY 3
+2 SOUR @S303@
+3 QUAY 3
+2 SOUR @S304@
+3 QUAY 3
+1 FAMC @F164@
+0 @CZ011@ INDI
+1 NAME Frank /Ciavarella/
+2 GIVN Frank
+2 SURN Ciavarella
+1 SEX M
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Brother of Venus Baratta; died before Jan 2001 (preceded her). Dates not found.
+2 SOUR @S287@
+3 QUAY 3
+2 SOUR @S303@
+3 QUAY 3
+2 SOUR @S304@
+3 QUAY 3
+1 FAMC @F164@
+0 @CZ012@ INDI
+1 NAME Emma /Ciavarella/
+2 GIVN Emma
+2 SURN Ciavarella
+1 NAME Emma /Starcun/
+2 TYPE married
+1 NAME Emma Starcun (née Ciavarella)
+2 TYPE aka
+1 SEX F
+1 NOTE Spelling variants: Starcum (2003 obituary)
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Sister of Venus; died before Jan 2001. Married Peter J. Starcun on 26 Nov 1958; they then moved to North Palm Beach, Fla.
+2 SOUR @S287@
+3 QUAY 3
+2 SOUR @S306@
+3 QUAY 3
+1 FAMS @F165@
+1 FAMC @F164@
+0 @CZ013@ INDI
+1 NAME Peter J. /Starcun/
+2 GIVN Peter J.
+2 SURN Starcun
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1923
+2 PLAC Plymouth, Luzerne, Pennsylvania, USA
+2 SOUR @S306@
+1 DEAT
+2 DATE 28 JUL 2008
+2 PLAC North Palm Beach, Palm Beach, Florida, USA
+2 SOUR @S306@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 2008 obituary: born 5 Jun 1923, Plymouth, Pa.; U.S. Army Air Corps, WWII; married Emma Ciavarella 26 Nov 1958 and moved to North Palm Beach; died 28 Jul 2008, aged 85. Survivors we
+2 CONC re in-laws, nieces and nephews (no children named).
+2 SOUR @S306@
+3 QUAY 3
+1 FAMS @F165@
+0 @CZ014@ INDI
+1 NAME Rachel /Ciavarella/
+2 GIVN Rachel
+2 SURN Ciavarella
+1 NAME Rachel /Donnini/
+2 TYPE married
+1 NAME Rachel Donnini (née Ciavarella)
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1916
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S303@
+2 SOUR @S305@
+1 DEAT
+2 DATE 14 JUN 2003
+2 PLAC West Palm Beach, Palm Beach, Florida, USA
+2 SOUR @S303@
+2 SOUR @S305@
+1 BURI
+2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
+2 SOUR @S303@
+1 NOTE Spelling variants: Rachael
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 2003 obituary: of North Palm Beach, formerly Grove Street, Wilkes-Barre; died Saturday (14 Jun 2003) at St. Mary’s Medical Center, West Palm Beach. Born 23 Jan 1916, Wilkes-Barre
+2 CONC , daughter of Joseph and Theresa (Castrignano) Ciavarella. Preceded by husband Anyo, brothers Ben and Frank, sisters Venus Baratta and Emma Starcun. Survived by sons John, Joseph, Gerald and James; ni
+2 CONC ne grandchildren; two great-grandchildren; sisters Caroline DelBalso, Mary Muzzupappa and Rose Middleton. Buried St. Mary’s Cemetery.
+2 SOUR @S303@
+3 QUAY 3
+2 SOUR @S305@
+3 QUAY 3
+1 FAMS @F166@
+1 FAMC @F164@
+0 @CZ015@ INDI
+1 NAME Anyo /Donnini/
+2 GIVN Anyo
+2 SURN Donnini
+1 SEX M
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Husband of Rachel Ciavarella; died before June 2003. Dates not found.
+2 SOUR @S303@
+3 QUAY 3
+2 SOUR @S305@
+3 QUAY 3
+1 FAMS @F166@
+0 @CZ016@ INDI
+1 NAME John M. /Donnini/
+2 GIVN John M.
+2 SURN Donnini
+1 SEX M
+1 DEAT
+2 DATE 23 NOV 2017
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S307@
+1 BURI
+2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
+2 SOUR @S307@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 2017 obituary: son of Anyo and Rachael Ciavarella Donnini; died 23 Nov 2017 at home, Wilkes-Barre, aged 77; GAR High School class of 1959; U.S. Navy veteran; independent insuranc
+2 CONC e agent. Married 56 years to Carol Lazar. Survived by a daughter and son (living, masked), grandchildren and brothers Joseph, Gerald and James.
+2 SOUR @S307@
+3 QUAY 3
+1 FAMS @F167@
+1 FAMC @F166@
+0 @CZ017@ INDI
+1 NAME Carol /Lazar/
+2 GIVN Carol
+2 SURN Lazar
+1 NAME Carol /Donnini/
+2 TYPE married
+1 SEX F
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; likely] Wife of John M. Donnini (56 years at his death in 2017). Her 2019 status is unclear: James Donnini’s 2019 obituary lists “sister-in-law Carol” in a sentence that may refer to the dece
+2 CONC ased. Dates not found.
+2 SOUR @S307@
+3 QUAY 2
+2 SOUR @S308@
+3 QUAY 2
+1 FAMS @F167@
+0 @CZ018@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F167@
+0 @CZ019@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F167@
+0 @CZ020@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F166@
+0 @CZ021@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F166@
+0 @CZ022@ INDI
+1 NAME James T. /Donnini/
+2 GIVN James T.
+2 SURN Donnini
+2 NICK Jim
+1 NAME James T. “Jim” Donnini
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 30 OCT 1953
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S308@
+2 SOUR @S305@
+1 DEAT
+2 DATE 13 NOV 2019
+2 PLAC Florida, USA
+2 SOUR @S308@
+2 SOUR @S305@
+1 BURI
+2 PLAC Riverside Memorial Park, Tequesta, Martin, Florida, USA
+2 SOUR @S308@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 2019 obituary: born 30 Oct 1953, Wilkes-Barre, son of Anyo and Rachel Donnini; died 13 Nov 2019, aged 66; raised his family in Palm Beach Gardens. Survived by his wife, a son an
+2 CONC d a daughter (living, masked), two grandchildren and brother Gerald; brother John predeceased him.
+2 SOUR @S308@
+3 QUAY 3
+2 SOUR @S305@
+3 QUAY 3
+1 FAMS @F168@
+1 FAMC @F166@
+0 @CZ023@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F168@
+0 @CZ024@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F168@
+0 @CZ030@ INDI
+1 NAME Caroline /Ciavarella/
+2 GIVN Caroline
+2 SURN Ciavarella
+1 NAME Caroline /DelBalso/
+2 TYPE married
+1 NAME Caroline DelBalso (née Ciavarella)
+2 TYPE aka
+1 SEX F
+1 NOTE Spelling variants: Del Balso; “Del Balson” (2003 obituary)
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Sister of Venus Baratta; of Wilkes-Barre; living at her sisters’ deaths in 2001, 2003 and Apr 2009 and at brother-in-law Dominick Muzzupappa’s death in Sept 2009. Married Daniel De
+2 CONC lBalso Sr. in Oct 1933 (60th anniversary Oct 1993). Death not found.
+2 SOUR @S287@
+3 QUAY 3
+2 SOUR @S303@
+3 QUAY 3
+2 SOUR @S304@
+3 QUAY 3
+2 SOUR @S309@
+3 QUAY 3
+2 SOUR @S310@
+3 QUAY 3
+1 NOTE [Assumed; unconfirmed] Married in 1933, so she was born about 1915 or earlier and is presumed deceased, not living. Inference only; no death record found yet.
+2 SOUR @S310@
+3 QUAY 1
+1 FAMS @F169@
+1 FAMC @F164@
+0 @CZ031@ INDI
+1 NAME Daniel /DelBalso/
+2 GIVN Daniel
+2 SURN DelBalso
+1 NAME Daniel DelBalso Sr.
+2 TYPE aka
+1 SEX M
+1 DEAT
+2 DATE 28 JAN 1994
+2 PLAC Mercy Hospital, Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S310@
+1 BURI
+2 PLAC St. Mary's Mausoleum, Hanover Township, Luzerne, Pennsylvania, USA
+2 SOUR @S310@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 1994 obituary: born in McAdoo, son of Michael and Mary Baltier DelBalso; Wilkes-Barre resident 63 years; founded D&D Auto Supply (1940) and D&D Motors; DelBalso Brothers Realty. Ma
+2 CONC rried Caroline Ciavarella (60th anniversary Oct 1993). Survived by sons Michael, Joseph and Daniel Jr., daughter Marie Littzi (living, masked), 10 grandchildren and one great-grandchild.
+2 SOUR @S310@
+3 QUAY 3
+1 FAMS @F169@
+0 @CZ032@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F169@
+0 @CZ033@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F169@
+0 @CZ034@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F169@
+0 @CZ035@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F169@
+0 @CZ040@ INDI
+1 NAME Mary /Ciavarella/
+2 GIVN Mary
+2 SURN Ciavarella
+1 NAME Mary /Muzzupappa/
+2 TYPE married
+1 NAME Mary Muzzupappa (née Ciavarella)
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 5 JUL 1917
+2 SOUR @S304@
+1 DEAT
+2 DATE 18 APR 2009
+2 PLAC North Palm Beach, Palm Beach, Florida, USA
+2 SOUR @S304@
+1 NOTE Spelling variants: Muzupapa (2001/2003 obituaries)
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 2009 obituary: born 5 Jul 1917, daughter of Joseph and Theresa Castrigano Ciavarella; raised in Wilkes-Barre; moved to North Palm Beach in 1956; died 18 Apr 2009. Survived by husba
+2 CONC nd of 62 years Dominick, sisters Caroline DelBalso and Rose Middleton, sister-in-law Mary Ciavarella. Preceded by brothers Ben and Frank and sisters Venus Baratta, Rachel Donnini and Emma Starcun. Bur
+2 CONC ied Royal Palm Memorial Gardens. No children named.
+2 SOUR @S304@
+3 QUAY 3
+1 FAMS @F170@
+1 FAMC @F164@
+0 @CZ041@ INDI
+1 NAME Dominick J. /Muzzupappa/
+2 GIVN Dominick J.
+2 SURN Muzzupappa
+1 SEX M
+1 DEAT
+2 DATE 22 SEP 2009
+2 PLAC Florida, USA
+2 SOUR @S309@
+1 BURI
+2 PLAC Royal Palm Memorial Gardens, West Palm Beach, Florida, USA
+2 SOUR @S309@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 2009 obituary: died 22 Sep 2009, aged 98; WWII veteran and a sergeant in the Pittston Police Department; moved to North Palm Beach in 1956; played in dance bands. Son of Paul and M
+2 CONC ary Muzzupappa. Preceded by wife Mary Ciavarella Muzzupappa. Survivors included sisters-in-law Rose Middleton, Mary Ciavarella and Caroline DelBalso.
+2 SOUR @S309@
+3 QUAY 3
+1 FAMS @F170@
+0 @CZ050@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F171@
+1 FAMC @F164@
+0 @CZ051@ INDI
+1 NAME Donald /Middleton/
+2 GIVN Donald
+2 SURN Middleton
+1 SEX M
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Husband of Rose Ciavarella; died before Jan 2001 (listed among Venus Baratta’s late brothers-in-law). Dates not found.
+2 SOUR @S287@
+3 QUAY 3
+1 FAMS @F171@
+0 @GT001@ INDI
+1 NAME Daniel /Gigliotti/
+2 GIVN Daniel
+2 SURN Gigliotti
+1 SEX M
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Father of Marie Baratta, Frances Sireno and Frank J. Gigliotti (“the late Daniel and Lucia Gaglardi Gigliotti”). Dates not found.
+2 SOUR @S294@
+3 QUAY 3
+2 SOUR @S311@
+3 QUAY 3
+2 SOUR @S312@
+3 QUAY 3
+1 FAMS @F172@
+0 @GT002@ INDI
+1 NAME Lucia /Gaglardi/
+2 GIVN Lucia
+2 SURN Gaglardi
+2 NICK Lucy
+1 NAME Lucia /Gigliotti/
+2 TYPE married
+1 SEX F
+1 NOTE Spelling variants: Gagliardi (1998 obituary); Lucy
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Mother of Marie, Frances and Frank; “Lucia Gaglardi Gigliotti” in her daughters’ obituaries. Dates not found.
+2 SOUR @S294@
+3 QUAY 3
+2 SOUR @S311@
+3 QUAY 3
+2 SOUR @S312@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Maiden name spelling: Gaglardi (daughters Marie’s 2007 and Frances’s 2011 obituaries) vs Gagliardi (son Frank’s 1998 obituary, “Lucy Gagliardi”). Unresolved.
+2 SOUR @S294@
+3 QUAY 1
+2 SOUR @S311@
+3 QUAY 1
+2 SOUR @S312@
+3 QUAY 1
+1 FAMS @F172@
+0 @GT010@ INDI
+1 NAME Frank J. /Gigliotti/
+2 GIVN Frank J.
+2 SURN Gigliotti
+1 SEX M
+1 DEAT
+2 DATE 14 MAY 1998
+2 PLAC VA Medical Center, Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S312@
+2 SOUR @S311@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 1998 obituary: of Wyoming Street, Wilkes-Barre; born in Ashley, son of Daniel Gigliotti and Lucy Gagliardi; U.S. Army, WWII; died 14 May 1998. Named as predeceased brother in siste
+2 CONC r Frances’s 2011 obituary.
+2 SOUR @S312@
+3 QUAY 3
+2 SOUR @S311@
+3 QUAY 3
+1 FAMC @F172@
+0 @GT011@ INDI
+1 NAME Frances R. /Gigliotti/
+2 GIVN Frances R.
+2 SURN Gigliotti
+1 NAME Frances R. /Sireno/
+2 TYPE married
+1 NAME Frances R. Sireno (née Gigliotti)
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1924
+2 PLAC Hanover Township, Luzerne, Pennsylvania, USA
+2 SOUR @S311@
+1 DEAT
+2 DATE 12 DEC 2011
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S311@
+1 BURI
+2 PLAC St. Mary's Mausoleum, Hanover Township, Luzerne, Pennsylvania, USA
+2 SOUR @S311@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] 2011 obituary: born 20 Jan 1924, Hanover Twp., daughter of Daniel and Lucia Gaglardi Gigliotti; died 12 Dec 2011 at Wilkes-Barre General Hospital, aged 87; worked in the shoe and g
+2 CONC arment industries (ILGWU). Preceded by husband Leonard P. Sireno (1996), infant daughter Donna Marie, sister Marie Baratta and brother Frank Gigliotti. Survived by a daughter and grandson (living, mas
+2 CONC ked).
+2 SOUR @S311@
+3 QUAY 3
+1 FAMS @F173@
+1 FAMC @F172@
+0 @GT012@ INDI
+1 NAME Leonard P. /Sireno/
+2 GIVN Leonard P.
+2 SURN Sireno
+1 SEX M
+1 DEAT
+2 DATE 1996
+2 SOUR @S311@
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Husband of Frances Gigliotti; died 1996 (her obituary).
+2 SOUR @S311@
+3 QUAY 3
+1 FAMS @F173@
+0 @GT013@ INDI
+1 NAME Donna Marie /Sireno/
+2 GIVN Donna Marie
+2 SURN Sireno
+1 SEX F
+1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
+1 NOTE [Record; confirmed] Infant daughter of Leonard and Frances Sireno; predeceased her mother. Dates not found.
+2 SOUR @S311@
+3 QUAY 3
+1 FAMC @F173@
+0 @GT014@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F173@
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -9356,43 +9911,100 @@
 1 CHIL @BR040@
 1 CHIL @BR041@
 0 @F155@ FAM
+1 WIFE @BR040@
+1 CHIL @BR054@
+0 @F156@ FAM
 1 HUSB @BR043@
 1 WIFE @BR044@
-0 @F156@ FAM
+0 @F157@ FAM
 1 HUSB @BR046@
 1 WIFE @BR045@
 1 CHIL @BR047@
 1 CHIL @BR048@
 1 CHIL @BR049@
-0 @F157@ FAM
+0 @F158@ FAM
 1 HUSB @BR051@
 1 WIFE @BR050@
 1 CHIL @BR052@
 1 CHIL @BR053@
-0 @F158@ FAM
+0 @F159@ FAM
 1 HUSB @OR002@
 1 WIFE @OR001@
 1 CHIL @OR010@
 1 CHIL @OR012@
 1 CHIL @OR014@
 1 CHIL @OR018@
-0 @F159@ FAM
+0 @F160@ FAM
 1 HUSB @OR010@
 1 WIFE @OR011@
-0 @F160@ FAM
+0 @F161@ FAM
 1 HUSB @OR013@
 1 WIFE @OR012@
-0 @F161@ FAM
+0 @F162@ FAM
 1 HUSB @OR014@
 1 WIFE @OR015@
 1 CHIL @OR016@
-0 @F162@ FAM
+0 @F163@ FAM
 1 HUSB @OR017@
 1 WIFE @OR016@
 1 CHIL @OR020@
 1 CHIL @OR021@
 1 CHIL @OR022@
 1 CHIL @OR023@
+0 @F164@ FAM
+1 HUSB @CZ001@
+1 WIFE @CZ002@
+1 CHIL @CZ010@
+1 CHIL @CZ011@
+1 CHIL @CZ012@
+1 CHIL @BR011@
+1 CHIL @CZ014@
+1 CHIL @CZ030@
+1 CHIL @CZ040@
+1 CHIL @CZ050@
+0 @F165@ FAM
+1 HUSB @CZ013@
+1 WIFE @CZ012@
+0 @F166@ FAM
+1 HUSB @CZ015@
+1 WIFE @CZ014@
+1 CHIL @CZ016@
+1 CHIL @CZ020@
+1 CHIL @CZ021@
+1 CHIL @CZ022@
+0 @F167@ FAM
+1 HUSB @CZ016@
+1 WIFE @CZ017@
+1 CHIL @CZ018@
+1 CHIL @CZ019@
+0 @F168@ FAM
+1 HUSB @CZ022@
+1 CHIL @CZ023@
+1 CHIL @CZ024@
+0 @F169@ FAM
+1 HUSB @CZ031@
+1 WIFE @CZ030@
+1 CHIL @CZ032@
+1 CHIL @CZ033@
+1 CHIL @CZ034@
+1 CHIL @CZ035@
+0 @F170@ FAM
+1 HUSB @CZ041@
+1 WIFE @CZ040@
+0 @F171@ FAM
+1 HUSB @CZ051@
+1 WIFE @CZ050@
+0 @F172@ FAM
+1 HUSB @GT001@
+1 WIFE @GT002@
+1 CHIL @BR037@
+1 CHIL @GT010@
+1 CHIL @GT011@
+0 @F173@ FAM
+1 HUSB @GT012@
+1 WIFE @GT011@
+1 CHIL @GT013@
+1 CHIL @GT014@
 0 @S001@ SOUR
 1 TITL Interview of Norma (Mazzaccaro) Azzolini by her son Tim Azzolini, Old Forge, Pa., 31 Oct 2026; relayed notes (interview-summary-2026-10-31.md). Narrative kept in the separate interview-context documen
 2 CONC t.
@@ -9778,7 +10390,7 @@
 1 NOTE URL: https://sortedbyname.com/letter_a/azzolini/index_2.html
 0 @S128@ SOUR
 1 TITL Interview: Tim Azzolini, 15 Nov 2026 (family belief relayed from Norma); spelling of the married name not confirmed by any record
-1 NOTE URL: #interview-context
+1 NOTE URL: https://docs.google.com/document/d/18t8EJ5608CoNQjCamGO0R7DgE2P6i4t91AQD8LxIILQ/edit?usp=drivesdk
 0 @S129@ SOUR
 1 TITL Find a Grave, surname search “Ianuale” (no Philomena/Filomena listed; Innuale, Iannuale, Innuali, Iannuali return no results)
 1 NOTE URL: https://www.findagrave.com/memorial/search?lastname=Ianuale
@@ -10243,48 +10855,95 @@
 1 TITL Find a Grave, memorial 202294368: Joseph James Baratta (1918–2005), St. Nicholas Cemetery, Shavertown, Pa., quoting his 2005 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/202294368/joseph_james-baratta
 0 @S283@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Joseph J. Baratta, 12 Feb 2005, p. 6A
+1 NOTE URL: https://archive.timesleader.com/article/1074894/joseph-baratta
+0 @S284@ SOUR
 1 TITL Find a Grave, memorial 66289044: Patrick Baratta (1911–1943), Saint Mary’s Cemetery, Hanover Twp., Pa.
 1 NOTE URL: https://www.findagrave.com/memorial/66289044/patrick-baratta
-0 @S284@ SOUR
+0 @S285@ SOUR
 1 TITL Find a Grave, memorial 143662726: Venus Ciavarella Baratta (1913–2001) (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/143662726/venus-baratta
-0 @S285@ SOUR
+0 @S286@ SOUR
 1 TITL Find a Grave, memorial 184571907: Joseph Patrick Baratta (1938–2017), South Florida National Cemetery, quoting his 2017 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/184571907/joseph_patrick-baratta
-0 @S286@ SOUR
+0 @S287@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Mrs. Venus (Ciavarella) Baratta, 2 Feb 2001, p. 8A
+1 NOTE URL: https://archive.timesleader.com/article/996795/mrs-venus-ciavarella-baratta-age-87
+0 @S288@ SOUR
 1 TITL Find a Grave, memorial 216849461: Angeline M. “Angie” Baratta Cullinan (1933–2020), quoting her 2020 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/216849461/angeline_m-cullinan
-0 @S287@ SOUR
+0 @S289@ SOUR
 1 TITL Find a Grave, memorial 66288968: Anthony Baratta (1912–1972), Saint Mary’s Cemetery, Hanover Twp., Pa.
 1 NOTE URL: https://www.findagrave.com/memorial/66288968/anthony-baratta
-0 @S288@ SOUR
+0 @S290@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Sophia Elizabeth (Rogus) Baratta, 14 Apr 2003, p. 6A
+1 NOTE URL: https://archive.timesleader.com/article/1037864/sophia-baratta
+0 @S291@ SOUR
+1 TITL Find a Grave, memorial 253272302: Sophia Eleanor Rogus Baratta (1915–2003), Saint Mary’s Cemetery, Hanover Twp., Pa. (family links)
+1 NOTE URL: https://www.findagrave.com/memorial/253272302/sophia_eleanor-baratta
+0 @S292@ SOUR
 1 TITL Find a Grave, memorial 107361992: John Carl Baratta (1914–1978), WWII veteran, Woodlawn Memorial Park, Gotha, Fla.
 1 NOTE URL: https://www.findagrave.com/memorial/107361992/john_carl-baratta
-0 @S289@ SOUR
+0 @S293@ SOUR
 1 TITL Find a Grave, memorial 143368764: Mary Baratta (1915–1921), quoting Wilkes-Barre Times Leader, 8 Feb 1921
 1 NOTE URL: https://www.findagrave.com/memorial/143368764/mary-baratta
-0 @S290@ SOUR
+0 @S294@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Mary M. (Marie) Baratta (née Gigliotti), 24 Dec 2007
+1 NOTE URL: https://archive.timesleader.com/article/1166977/mary-baratta
+0 @S295@ SOUR
 1 TITL Find a Grave, memorial 159493772: Carl Philip Baratta (1923–2012), Woodlawn Memorial Park, Gotha, Fla.
 1 NOTE URL: https://www.findagrave.com/memorial/159493772/carl_philip-baratta
-0 @S291@ SOUR
+0 @S296@ SOUR
 1 TITL Find a Grave, memorial 106263337: Diane M. Orndorff Stoccardo (1955–2013), quoting her 2013 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/106263337/diane_m-stoccardo
-0 @S292@ SOUR
+0 @S297@ SOUR
 1 TITL Find a Grave, memorial 142949947: June Baratta Gill (1928–2011), quoting Burlington County Times obituary, 18 Nov 2011
 1 NOTE URL: https://www.findagrave.com/memorial/142949947/june-gill
-0 @S293@ SOUR
+0 @S298@ SOUR
 1 TITL Find a Grave, memorial 98834752: Joseph Orrick (1868–1955), quoting Jersey Journal obituary, 5 Apr 1955
 1 NOTE URL: https://www.findagrave.com/memorial/98834752/joseph-orrick
-0 @S294@ SOUR
+0 @S299@ SOUR
 1 TITL Find a Grave, memorial 98834751: Carl Anthony Orrick (1896–1960), Holy Cross Cemetery, North Arlington, N.J.
 1 NOTE URL: https://www.findagrave.com/memorial/98834751/carl_anthony-orrick
-0 @S295@ SOUR
+0 @S300@ SOUR
 1 TITL Find a Grave, memorial 180924362: Christine Orrick Carrara (1900–1975), quoting Jersey Journal obituary, 22 Sep 1975
 1 NOTE URL: https://www.findagrave.com/memorial/180924362/christine-carrara
-0 @S296@ SOUR
+0 @S301@ SOUR
 1 TITL Find a Grave, memorial 98834755: Patrick A. Orrick (1905–1981), quoting The Record (Hackensack) obituary, 4 Dec 1981
 1 NOTE URL: https://www.findagrave.com/memorial/98834755/patrick_a-orrick
-0 @S297@ SOUR
+0 @S302@ SOUR
 1 TITL Find a Grave, memorial 202109404: Louise Mary Orrick Gorman (1924–2016), quoting The Record obituary, 5 Jul 2016
 1 NOTE URL: https://www.findagrave.com/memorial/202109404/louise_mary-gorman
+0 @S303@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Rachel Donnini (née Ciavarella), 18 Jun 2003, p. 6A
+1 NOTE URL: https://archive.timesleader.com/article/1041411/rachel-donnini
+0 @S304@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Mrs. Mary Muzzupappa (née Ciavarella), 30 Apr 2009
+1 NOTE URL: https://archive.timesleader.com/article/1267969/mary-muzzupappa
+0 @S305@ SOUR
+1 TITL Find a Grave, memorial 123153883: Rachel Ciavarella Donnini (1916–2003), Saint Mary’s Cemetery, Hanover Twp., Pa.
+1 NOTE URL: https://www.findagrave.com/memorial/123153883/rachel-donnini
+0 @S306@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Peter J. Starcun, 30 Jul 2008
+1 NOTE URL: https://archive.timesleader.com/article/1196404/peter-j-starcun-85-of-north-palm-beach-fla-passed-away-peac
+0 @S307@ SOUR
+1 TITL Find a Grave, memorial 185485159: John M. Donnini (d. 2017), Saint Mary’s Cemetery, Hanover Twp., Pa., quoting his 2017 obituary
+1 NOTE URL: https://www.findagrave.com/memorial/185485159/john_m-donnini
+0 @S308@ SOUR
+1 TITL Find a Grave, memorial 206990235: James T. “Jim” Donnini (1953–2019), Riverside Memorial Park, Tequesta, Fla., quoting his 2019 obituary
+1 NOTE URL: https://www.findagrave.com/memorial/206990235/james_t-donnini
+0 @S309@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Dominick J. Muzzupappa, 25 Sep 2009
+1 NOTE URL: https://archive.timesleader.com/article/1261604/dominick-j-muzzupappa
+0 @S310@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Daniel DelBalso Sr., 29 Jan 1994
+1 NOTE URL: https://archive.timesleader.com/article/838534/daniel-delbalso-sr-who-founded-dd-auto-supply-in-1940-dies-daniel-delbalso-sr-a-local-businessman-of-riverside-drive-wilkes-barre-died-friday-jan-28
+2 CONC -1994-at-mercy-hospital-wilkes-b
+0 @S311@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Frances R. Sireno (née Gigliotti), 13 Dec 2011
+1 NOTE URL: https://archive.timesleader.com/article/1374996/frances-r-sireno
+0 @S312@ SOUR
+1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Frank J. Gigliotti, 20 May 1998
+1 NOTE URL: https://archive.timesleader.com/article/934556/frank-gigliotti-may-14-1998-frank-j-gigliotti-of-wyoming-street-wilkes-barre-died-may-14-at-the-department-of-veterans-affairs-medical-center-wilkes
+2 CONC -barre
 0 TRLR
