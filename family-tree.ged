@@ -1109,7 +1109,7 @@
 2 SOUR @S088@
 3 QUAY 2
 1 FAMS @F041@
-1 FAMC @F180@
+1 FAMC @F182@
 0 @I062@ INDI
 1 NAME Angeline /Widdick/
 2 GIVN Angeline
@@ -7285,7 +7285,7 @@
 2 SOUR @S278@
 3 QUAY 1
 1 FAMS @F143@
-1 FAMC @F148@
+1 FAMC @F150@
 0 @BT016@ INDI
 1 NAME Mary /Barbetti/
 2 GIVN Mary
@@ -7446,8 +7446,8 @@
 2 CONC taly (place not identified). Wife Theresa Iola Uticone.
 2 SOUR @S271@
 3 QUAY 2
-1 NOTE [Record; likely] Memorial bio names his children as Mary, John, Michael, Anna, Robert, Beatrice, Florence and Donald Galacci. Only Mary, Anna (Barbetti) and Florence (Agostini) are linked on Find a Gr
-2 CONC ave and given cards here; John, Michael, Robert, Beatrice and Donald are open leads.
+1 NOTE [Record; likely] Memorial bio names his children as Mary, John, Michael, Anna, Robert, Beatrice, Florence and Donald Galacci. Mary, Anna (Barbetti) and Florence (Agostini) are linked on Find a Grave
+2 CONC ; Michael (1911–1978) is identified by his own memorial (21 Nov 2026) and Donald is placed as Donald G. Galacci Sr. (1925–1986, likely). John, Robert and Beatrice are still open leads.
 2 SOUR @S271@
 3 QUAY 2
 1 NOTE [Record; confirmed] Father of Anna Maria Galacci, first wife of Orlando L. Barbetti, so he is a great-grandfather of the Prokarym children.
@@ -7486,6 +7486,20 @@
 1 NOTE [Record; confirmed] Her maiden name Uticone is confirmed by daughter Florence’s 2012 obituary (“daughter of the late Gaetano and Theresa Uticone Galacci”).
 2 SOUR @S284@
 3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Name: son Michael’s Find a Grave bio calls his mother “Sarah Utico Galacci”; her own memorial and daughter Florence’s obituary say Theresa (Iola) Uticone. Unresolved.
+2 SOUR @S285@
+3 QUAY 1
+2 SOUR @S272@
+3 QUAY 1
+2 SOUR @S284@
+3 QUAY 1
+1 NOTE [Record; likely] Children now on the tree: Mary (1908–1934), Michael (1911–1978), Anna Maria (Barbetti, 1914–1943), Florence (Agostini, 1921–2012) and probably Donald G. (1925–1986).
+2 SOUR @S285@
+3 QUAY 2
+2 SOUR @S271@
+3 QUAY 2
+2 SOUR @S286@
+3 QUAY 2
 1 FAMS @F145@
 0 @GL003@ INDI
 1 NAME Mary /Galacci/
@@ -7495,21 +7509,21 @@
 1 BIRT
 2 DATE 24 SEP 1908
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S285@
+2 SOUR @S287@
 1 DEAT
 2 DATE 1 OCT 1934
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S285@
+2 SOUR @S287@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S285@
+2 SOUR @S287@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Find a Grave: born 24 Sep 1908; died 1 Oct 1934, Old Forge, aged 26 (tuberculosis); buried Old Forge Cemetery; daughter of Guy and Theresa Galacci.
-2 SOUR @S285@
+2 SOUR @S287@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Birthplace: her father’s naturalization petition says Old Forge, Pa.; her Pennsylvania death certificate says Port Byron, N.Y. (both as abstracted on Find a Grave). Tree keep
 2 CONC s Old Forge.
-2 SOUR @S285@
+2 SOUR @S287@
 3 QUAY 1
 1 FAMC @F145@
 0 @GL004@ INDI
@@ -7543,7 +7557,7 @@
 1 NOTE [Record; likely] Find a Grave: born 24 May 1921, Old Forge; died 10 Apr 2012, Scranton; buried Old Forge Cemetery; sister of Mary Galacci and Anna Maria Galacci Barbetti.
 2 SOUR @S273@
 3 QUAY 2
-1 FAMS @F146@
+1 FAMS @F148@
 1 FAMC @F145@
 0 @GL005@ INDI
 1 NAME Louis J. /Agostini/
@@ -7553,23 +7567,23 @@
 1 BIRT
 2 DATE 2 FEB 1916
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S286@
+2 SOUR @S293@
 2 SOUR @S284@
 1 DEAT
 2 DATE 30 NOV 1997
-2 SOUR @S286@
+2 SOUR @S293@
 2 SOUR @S284@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S286@
+2 SOUR @S293@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Find a Grave: Louis J. Agostini, veteran, born 2 Feb 1916, Old Forge; died 30 Nov 1997; buried Old Forge Cemetery. Husband of Florence Celia Galacci; father of Lois Anne.
-2 SOUR @S286@
+2 SOUR @S293@
 3 QUAY 2
 1 NOTE [Record; confirmed] His wife’s 2012 obituary gives his death as 30 Nov 1997 and their marriage as lasting 56 years (so they married about 1941).
 2 SOUR @S284@
 3 QUAY 3
-1 FAMS @F146@
+1 FAMS @F148@
 0 @GL006@ INDI
 1 NAME Lois Anne /Agostini/
 2 GIVN Lois Anne
@@ -7578,26 +7592,26 @@
 1 BIRT
 2 DATE 6 MAR 1942
 2 PLAC Pittston, Luzerne, Pennsylvania, USA
-2 SOUR @S287@
+2 SOUR @S294@
 2 SOUR @S284@
 1 DEAT
 2 DATE 11 APR 1999
 2 PLAC Allentown, Lehigh, Pennsylvania, USA
-2 SOUR @S287@
+2 SOUR @S294@
 2 SOUR @S284@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S287@
+2 SOUR @S294@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Find a Grave: born 6 Mar 1942, Pittston, Pa.; died 11 Apr 1999, Allentown, Pa.; buried Old Forge Cemetery; daughter of Louis J. and Florence Agostini.
-2 SOUR @S287@
+2 SOUR @S294@
 3 QUAY 2
 1 NOTE [Record; confirmed] Named as a predeceased daughter in her mother’s 2012 obituary and as a predeceased sister in brother Carl’s obituary.
 2 SOUR @S284@
 3 QUAY 3
-2 SOUR @S288@
+2 SOUR @S295@
 3 QUAY 3
-1 FAMC @F146@
+1 FAMC @F148@
 0 @GL007@ INDI
 1 NAME Carl L. /Agostini/
 2 GIVN Carl L.
@@ -7609,47 +7623,47 @@
 1 BIRT
 2 DATE ABT 1951
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S288@
+2 SOUR @S295@
 1 DEAT
 2 DATE 21 DEC 2022
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S288@
+2 SOUR @S295@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary: Carl L. “Baker” Agostini, 71, lifelong resident of Old Forge, died on a Wednesday at his home. Born in Scranton, son of the late Louis and Florence Galacci Agostini; bake
 2 CONC r all his life at Agostini Bakery, Old Forge. Married 31 years. Survived by his wife, three daughters, a son, two grandchildren and brother Claude (living; masked); preceded by sister Lois. Intermen
 2 CONC t Old Forge Cemetery.
-2 SOUR @S288@
+2 SOUR @S295@
 3 QUAY 3
 1 NOTE [Assumed; likely] Death date 21 Dec 2022: the obituary text gives only “Wednesday”. The Times-Tribune page is dated December 2022, the Ferri funeral-home listing is indexed as 21 Dec 2022, and that da
 2 CONC y was a Wednesday. Birth about 1951 is from age 71.
-2 SOUR @S288@
+2 SOUR @S295@
 3 QUAY 2
-1 FAMS @F147@
-1 FAMC @F146@
+1 FAMS @F149@
+1 FAMC @F148@
 0 @GL008@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F146@
+1 FAMC @F148@
 0 @GL009@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F147@
+1 FAMS @F149@
 0 @GL010@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F147@
+1 FAMC @F149@
 0 @GL011@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F147@
+1 FAMC @F149@
 0 @GL012@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F147@
+1 FAMC @F149@
 0 @GL013@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F147@
+1 FAMC @F149@
 0 @CR001@ INDI
 1 NAME Antonio /Cariati/
 2 GIVN Antonio
@@ -7686,7 +7700,7 @@
 3 QUAY 1
 2 SOUR @S277@
 3 QUAY 1
-1 FAMS @F148@
+1 FAMS @F150@
 0 @CR002@ INDI
 1 NAME Maria /Felice/
 2 GIVN Maria
@@ -7720,8 +7734,8 @@
 3 QUAY 2
 2 SOUR @S276@
 3 QUAY 2
-1 FAMS @F148@
-1 FAMS @F149@
+1 FAMS @F150@
+1 FAMS @F151@
 0 @CR003@ INDI
 1 NAME Michele /Cariati/
 2 GIVN Michele
@@ -7752,7 +7766,7 @@
 3 QUAY 1
 2 SOUR @S274@
 3 QUAY 1
-1 FAMS @F149@
+1 FAMS @F151@
 0 @CR004@ INDI
 1 NAME Catarina A. /Cariati/
 2 GIVN Catarina A.
@@ -7766,28 +7780,28 @@
 1 BIRT
 2 DATE 5 DEC 1913
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S289@
+2 SOUR @S299@
 2 SOUR @S277@
 1 DEAT
 2 DATE 15 JAN 1998
 2 PLAC Bridgeport, Fairfield, Connecticut, USA
-2 SOUR @S289@
+2 SOUR @S299@
 2 SOUR @S277@
 1 BURI
 2 PLAC Mountain Grove Cemetery, Easton, Fairfield, Connecticut, USA
-2 SOUR @S289@
+2 SOUR @S299@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Find a Grave: born 5 Dec 1913, Old Forge; died 15 Jan 1998, Bridgeport, Conn.; buried Mountain Grove Cemetery, Easton, Conn.; daughter of Michele and Maria Cariati; married Fred F. Wa
 2 CONC danoli in 1934.
-2 SOUR @S289@
+2 SOUR @S299@
 3 QUAY 2
 2 SOUR @S277@
 3 QUAY 2
 1 NOTE [Assumed; unconfirmed] Probably the “Mildred”, 16, in Tony Cariati’s 1930 household (the only daughter of that age); name difference unexplained.
 2 SOUR @S276@
 3 QUAY 1
-1 FAMS @F150@
-1 FAMC @F149@
+1 FAMS @F152@
+1 FAMC @F151@
 0 @CR005@ INDI
 1 NAME Fred F. /Wadanoli/
 2 GIVN Fred F.
@@ -7796,24 +7810,24 @@
 1 BIRT
 2 DATE 31 JUL 1913
 2 PLAC Jessup, Lackawanna, Pennsylvania, USA
-2 SOUR @S290@
+2 SOUR @S300@
 1 DEAT
 2 DATE 7 DEC 2003
 2 PLAC Stamford, Fairfield, Connecticut, USA
-2 SOUR @S290@
+2 SOUR @S300@
 1 BURI
 2 PLAC Mountain Grove Cemetery, Easton, Fairfield, Connecticut, USA
-2 SOUR @S290@
+2 SOUR @S300@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; confirmed] Obituary (Connecticut Post, transcribed on Find a Grave): widower of Catherine (Cariati) Wadanoli; died Sunday 7 Dec 2003 at Health Haven Care, Stamford, aged 90; born 31 Jul 1913
 2 CONC , Jessup, Pa.; retired owner of a barber shop in Milford, Conn. Survived by sons Al and David (living; not given cards), four grandchildren, one great-grandchild. Predeceased by brother Amador Wadanol
 2 CONC i and sisters Elizabeth Sullivan, Annette DeMetteo and Josephine Telaricco.
-2 SOUR @S290@
+2 SOUR @S300@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Birth year: 1912 on the Find a Grave memorial header vs 31 Jul 1913 in the transcribed obituary. Tree keeps the obituary date.
-2 SOUR @S290@
+2 SOUR @S300@
 3 QUAY 1
-1 FAMS @F150@
+1 FAMS @F152@
 0 @CR006@ INDI
 1 NAME Chiarra /Cariati/
 2 GIVN Chiarra
@@ -7844,7 +7858,7 @@
 3 QUAY 1
 2 SOUR @S277@
 3 QUAY 1
-1 FAMC @F149@
+1 FAMC @F151@
 0 @CR007@ INDI
 1 NAME Francesco F. /Cariati/
 2 GIVN Francesco F.
@@ -7856,25 +7870,25 @@
 1 BIRT
 2 DATE 19 DEC 1916
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S291@
+2 SOUR @S301@
 2 SOUR @S276@
 1 DEAT
 2 DATE 2 OCT 1968
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S291@
+2 SOUR @S301@
 2 SOUR @S276@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S291@
+2 SOUR @S301@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Find a Grave: born 19 Dec 1916, Old Forge; died 2 Oct 1968, Taylor, Pa.; buried Old Forge Cemetery; son of Michele and Maria Cariati; wife Lucia “Lucy” Sabatini. Informant on his moth
 2 CONC er’s 1956 death certificate.
-2 SOUR @S291@
+2 SOUR @S301@
 3 QUAY 2
 2 SOUR @S276@
 3 QUAY 2
-1 FAMS @F151@
-1 FAMC @F149@
+1 FAMS @F153@
+1 FAMC @F151@
 0 @CR008@ INDI
 1 NAME Lucia /Sabatini/
 2 GIVN Lucia
@@ -7888,19 +7902,19 @@
 1 BIRT
 2 DATE 3 MAY 1918
 2 PLAC Oklahoma, USA
-2 SOUR @S292@
+2 SOUR @S302@
 1 DEAT
 2 DATE 9 MAY 2003
-2 SOUR @S292@
+2 SOUR @S302@
 1 BURI
 2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S292@
+2 SOUR @S302@
 1 NOTE Photo: none found publicly (searched: ).
 1 NOTE [Record; likely] Find a Grave: born 3 May 1918, Oklahoma; died 9 May 2003; buried Old Forge Cemetery; wife of Fred Cariati. Daughter of Ottavio Sabatini (1887–1968, born Perugia) and Mary Totts Sabati
 2 CONC ni (1896–1961, born Krebs, Okla.); siblings Livia, Rina and Francesco (PVT Frank Sabatini, 1925–1944).
-2 SOUR @S292@
+2 SOUR @S302@
 3 QUAY 2
-1 FAMS @F151@
+1 FAMS @F153@
 0 @BR001@ INDI
 1 NAME Basilio /Baratta/
 2 GIVN Basilio
@@ -7940,11 +7954,11 @@
 2 CONC e nearest big city. Unresolved; the tree keeps Perito.
 2 SOUR @S106@
 3 QUAY 1
-2 SOUR @S293@
+2 SOUR @S303@
 3 QUAY 1
-2 SOUR @S294@
+2 SOUR @S304@
 3 QUAY 1
-1 FAMS @F152@
+1 FAMS @F154@
 0 @BR002@ INDI
 1 NAME Angeline /Mastrogiovanni/
 2 GIVN Angeline
@@ -7955,29 +7969,29 @@
 1 BIRT
 2 DATE 28 JUN 1888
 2 PLAC Italy
-2 SOUR @S295@
-2 SOUR @S296@
+2 SOUR @S305@
+2 SOUR @S306@
 1 DEAT
 2 DATE 18 FEB 1951
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S295@
-2 SOUR @S296@
+2 SOUR @S305@
+2 SOUR @S306@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S295@
+2 SOUR @S305@
 1 NOTE Spelling variants: Angelina, Angiolina, Mastergivno (son Joseph’s 2005 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Find a Grave: born 28 Jun 1888, Italy; died 18 Feb 1951, Wilkes-Barre, three weeks after her husband Basilio. Maiden name Mastrogiovanni in her children’s obituaries.
-2 SOUR @S295@
+2 SOUR @S305@
 3 QUAY 3
-2 SOUR @S296@
+2 SOUR @S306@
 3 QUAY 3
-2 SOUR @S297@
+2 SOUR @S307@
 3 QUAY 3
 1 NOTE [Record; likely] Son Joseph J. Baratta’s 2005 Times Leader obituary spells her maiden name “Angeline Mastergivno Baratta”; read as a variant/misspelling of Mastrogiovanni.
-2 SOUR @S298@
+2 SOUR @S308@
 3 QUAY 2
-1 FAMS @F152@
+1 FAMS @F154@
 0 @BR010@ INDI
 1 NAME Patrick /Baratta/
 2 GIVN Patrick
@@ -7986,24 +8000,24 @@
 1 BIRT
 2 DATE 8 MAR 1911
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S299@
-2 SOUR @S293@
+2 SOUR @S309@
+2 SOUR @S303@
 1 DEAT
 2 DATE 12 JUN 1943
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S299@
-2 SOUR @S293@
+2 SOUR @S309@
+2 SOUR @S303@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S299@
+2 SOUR @S309@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Eldest of the ten children of Basilio and Angeline Baratta; born 8 Mar 1911, died 12 Jun 1943, Wilkes-Barre, aged 32. Married Venus Ciavarella in 1931.
-2 SOUR @S299@
+2 SOUR @S309@
 3 QUAY 3
-2 SOUR @S293@
+2 SOUR @S303@
 3 QUAY 3
-1 FAMS @F153@
-1 FAMC @F152@
+1 FAMS @F155@
+1 FAMC @F154@
 0 @BR011@ INDI
 1 NAME Venus /Ciavarella/
 2 GIVN Venus
@@ -8014,31 +8028,31 @@
 1 BIRT
 2 DATE 28 DEC 1913
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S300@
-2 SOUR @S301@
+2 SOUR @S310@
+2 SOUR @S311@
 1 DEAT
 2 DATE 25 JAN 2001
 2 PLAC North Palm Beach, Palm Beach, Florida, USA
-2 SOUR @S300@
-2 SOUR @S301@
+2 SOUR @S310@
+2 SOUR @S311@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S300@
+2 SOUR @S310@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Wife of Patrick Baratta (m. 1931); after his death she married Lester Zuercher (1918–2000) in 1977. Son Joseph’s obituary says he was raised by his mother and grandmother in a hous
 2 CONC e with a family bakery.
-2 SOUR @S300@
+2 SOUR @S310@
 3 QUAY 3
-2 SOUR @S301@
+2 SOUR @S311@
 3 QUAY 3
 1 NOTE [Record; confirmed] 2001 obituary: daughter of the late Joseph and Theresa (Castrignano) Ciavarella; born and raised in Wilkes-Barre; moved to North Palm Beach in 1961. She, her first husband Patric
 2 CONC k Baratta and the Ciavarella family owned and ran the Thrifty Food Store and Bakery, Wilkes-Barre; later a receptionist at her daughter’s beauty salon. Preceded by husbands Patrick Baratta and Leste
 2 CONC r Zuercher, brothers Ben and Frank, sister Emma Starcun. Survived by children Angeline Cullinan, Patrick Baratta, Joseph Baratta and Terry Gallagher; 13 grandchildren; 18 great-grandchildren; sister
 2 CONC s Caroline DelBalso, Rachael Donnini, Mary Muzupapa and Rose Middleton. See the Ciavarella family tab.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-1 FAMS @F153@
-1 FAMC @F168@
+1 FAMS @F155@
+1 FAMC @F170@
 0 @BR012@ INDI
 1 NAME Angeline /Baratta/
 2 GIVN Angeline
@@ -8051,23 +8065,23 @@
 1 SEX F
 1 BIRT
 2 DATE 2 FEB 1933
-2 SOUR @S303@
-2 SOUR @S294@
+2 SOUR @S313@
+2 SOUR @S304@
 1 DEAT
 2 DATE 9 OCT 2020
 2 PLAC Henrietta, Monroe, New York, USA
-2 SOUR @S303@
-2 SOUR @S294@
+2 SOUR @S313@
+2 SOUR @S304@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Patrick and Venus Baratta. Radiologic-technology administrator, educator and textbook author; Wyoming Seminary graduate. Predeceased by husband John “Jack” Cullinan, da
 2 CONC ughter Dr. Jeanne Cullinan and brothers Patrick and Joseph Baratta. Survived by daughters (living relatives masked) and sister Terry.
-2 SOUR @S303@
+2 SOUR @S313@
 3 QUAY 3
 1 NOTE [Record; confirmed] Called “her first niece … born when Loretta was only six years old” in aunt Loretta Orndorff’s 2014 obituary.
-2 SOUR @S294@
+2 SOUR @S304@
 3 QUAY 3
-1 FAMS @F154@
-1 FAMC @F153@
+1 FAMS @F156@
+1 FAMC @F155@
 0 @BR013@ INDI
 1 NAME John Edward /Cullinan/
 2 GIVN John Edward
@@ -8078,9 +8092,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of Angie Baratta; 1930–2012 per Find a Grave family links; predeceased her.
-2 SOUR @S303@
+2 SOUR @S313@
 3 QUAY 2
-1 FAMS @F154@
+1 FAMS @F156@
 0 @BR014@ INDI
 1 NAME Jeanne /Cullinan/
 2 GIVN Jeanne
@@ -8090,21 +8104,21 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Angie (Baratta) Cullinan; predeceased her mother (2020 obituary). Dates not found.
-2 SOUR @S303@
+2 SOUR @S313@
 3 QUAY 3
-1 FAMC @F154@
+1 FAMC @F156@
 0 @BR016@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F154@
+1 FAMC @F156@
 0 @BR017@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F154@
+1 FAMC @F156@
 0 @BR018@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F154@
+1 FAMC @F156@
 0 @BR015@ INDI
 1 NAME Joseph Patrick /Baratta/
 2 GIVN Joseph Patrick
@@ -8113,41 +8127,41 @@
 1 BIRT
 2 DATE 24 APR 1938
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S301@
+2 SOUR @S311@
 1 DEAT
 2 DATE 11 OCT 2017
 2 PLAC Palm Beach County, Florida, USA
-2 SOUR @S301@
+2 SOUR @S311@
 1 BURI
 2 PLAC South Florida National Cemetery, Lake Worth Beach, Palm Beach, Florida, USA
-2 SOUR @S301@
+2 SOUR @S311@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Patrick and Venus Baratta; raised by his mother and grandmother. Army (Nike Ajax missile system, Germany), then electrician with Phillips Electronics; family moved to Sout
 2 CONC h Florida in the early 1960s. Survived by a son, three daughters (living relatives masked), sisters Angela Cullinan and Theresa “Terry” Gallagher, and brother Patrick (wife Gladys).
-2 SOUR @S301@
+2 SOUR @S311@
 3 QUAY 3
-1 FAMS @F155@
-1 FAMC @F153@
+1 FAMS @F157@
+1 FAMC @F155@
 0 @BR019@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F155@
+1 FAMC @F157@
 0 @BR022@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F155@
+1 FAMC @F157@
 0 @BR023@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F155@
+1 FAMC @F157@
 0 @BR024@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F155@
+1 FAMC @F157@
 0 @BR020@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F153@
+1 FAMC @F155@
 0 @BR021@ INDI
 1 NAME Patrick /Baratta/
 2 GIVN Patrick
@@ -8158,14 +8172,14 @@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Brother of Joseph P. Baratta, alive at Joseph’s death (Oct 2017; wife Gladys) but listed as predeceased in sister Angie’s Oct 2020 obituary, so he died between 2017 and 2020. Presumab
 2 CONC ly a son of Patrick and Venus; exact dates not found.
-2 SOUR @S301@
+2 SOUR @S311@
 3 QUAY 2
-2 SOUR @S303@
+2 SOUR @S313@
 3 QUAY 2
 1 NOTE [Record; confirmed] Named as a son, “Patrick (Gladys) Baratta,” in his mother Venus’s 2001 obituary, which confirms he is a son of Patrick and Venus.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-1 FAMC @F153@
+1 FAMC @F155@
 0 @BR030@ INDI
 1 NAME Anthony /Baratta/
 2 GIVN Anthony
@@ -8174,26 +8188,26 @@
 1 BIRT
 2 DATE 6 MAR 1912
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S304@
-2 SOUR @S305@
+2 SOUR @S314@
+2 SOUR @S315@
 1 DEAT
 2 DATE 25 JUL 1972
 2 PLAC Middletown, New Castle, Delaware, USA
-2 SOUR @S304@
-2 SOUR @S305@
+2 SOUR @S314@
+2 SOUR @S315@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S304@
+2 SOUR @S314@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Basilio and Angeline; born 6 Mar 1912; died 25 Jul 1972, Middletown, Del. Married Sophia Eleanor Rogus in 1938.
-2 SOUR @S304@
+2 SOUR @S314@
 3 QUAY 3
 1 NOTE [Record; confirmed] Called “Tony,” “second son of local Italian immigrants” and a noted body-and-fender man in the Wyoming Valley for over 25 years, in wife Sophia’s 2003 obituary; family moved to Che
 2 CONC ster, Pa., in the early 1950s.
-2 SOUR @S305@
+2 SOUR @S315@
 3 QUAY 3
-1 FAMS @F156@
-1 FAMC @F152@
+1 FAMS @F158@
+1 FAMC @F154@
 0 @BR031@ INDI
 1 NAME Sophia Eleanor /Rogus/
 2 GIVN Sophia Eleanor
@@ -8204,38 +8218,38 @@
 1 BIRT
 2 DATE 11 APR 1915
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S304@
-2 SOUR @S306@
+2 SOUR @S314@
+2 SOUR @S316@
 1 DEAT
 2 DATE 10 APR 2003
 2 PLAC Holy Redeemer Hospital, near Philadelphia, Pennsylvania, USA
-2 SOUR @S304@
-2 SOUR @S306@
+2 SOUR @S314@
+2 SOUR @S316@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S304@
+2 SOUR @S314@
 1 NOTE Spelling variants: Sophia Elizabeth (obituary); Sophie
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Anthony Baratta (m. 1938); 1915–2003 per Find a Grave family links.
-2 SOUR @S304@
+2 SOUR @S314@
 3 QUAY 2
 1 NOTE [Record; likely] Find a Grave: born 11 Apr 1915, Wilkes-Barre; died 10 Apr 2003, Philadelphia; buried Saint Mary’s Cemetery, Hanover Twp. Parents Joseph G. Rogus (1885–1938) and Phillipine Rogus (1887
 2 CONC –1945); brothers John Rogus (1916–1979) and Joseph Albert Rogus (1926–2011).
-2 SOUR @S306@
+2 SOUR @S316@
 3 QUAY 2
 1 NOTE [Record; confirmed] 2003 obituary: Sophia Elizabeth (Rogus) Baratta died 10 Apr 2003 at Holy Redeemer Hospital near Philadelphia, a resident of Lafayette Redeemer, Northeast Philadelphia. Born in Wilk
 2 CONC es-Barre to Polish immigrant parents; worked in local mills and was active in the union movement; moved to Chester in the early 1950s and stayed active in the union until retiring in the late 1970s. H
 2 CONC er husband Tony (Anthony), “second son of local Italian immigrants,” was a body-and-fender man in the Wyoming Valley. Her children (not named individually) included three lawyers, a paralegal, a teach
 2 CONC er and a Hollywood actor-writer-director; donations went c/o Anthony P. Baratta, Esq. Children are living or unknown, so they are not added. Buried St. Mary’s Cemetery.
-2 SOUR @S305@
+2 SOUR @S315@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Birth year: the obituary says she died “one day short of her 89th birthday,” which gives 11 Apr 1914; Find a Grave gives 11 Apr 1915. Middle name: obituary “Elizabeth,” Fin
 2 CONC d a Grave “Eleanor.” Unresolved.
-2 SOUR @S305@
+2 SOUR @S315@
 3 QUAY 1
-2 SOUR @S306@
+2 SOUR @S316@
 3 QUAY 1
-1 FAMS @F156@
+1 FAMS @F158@
 0 @BR032@ INDI
 1 NAME John Carl /Baratta/
 2 GIVN John Carl
@@ -8244,19 +8258,19 @@
 1 BIRT
 2 DATE 4 JAN 1914
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S307@
+2 SOUR @S317@
 1 DEAT
 2 DATE 30 JUN 1978
 2 PLAC Orlando, Orange, Florida, USA
-2 SOUR @S307@
+2 SOUR @S317@
 1 BURI
 2 PLAC Woodlawn Memorial Park, Gotha, Orange, Florida, USA
-2 SOUR @S307@
+2 SOUR @S317@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Basilio and Angeline; U.S. Army, World War II; died 30 Jun 1978, Orlando, Fla.
-2 SOUR @S307@
+2 SOUR @S317@
 3 QUAY 3
-1 FAMC @F152@
+1 FAMC @F154@
 0 @BR033@ INDI
 1 NAME Mary /Baratta/
 2 GIVN Mary
@@ -8265,19 +8279,19 @@
 1 BIRT
 2 DATE 1 OCT 1915
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S308@
+2 SOUR @S318@
 1 DEAT
 2 DATE 6 FEB 1921
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S308@
+2 SOUR @S318@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S308@
+2 SOUR @S318@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of “Mr. and Mrs. Bassel Baratta”; died of pneumonia aged 5; funeral at Holy Rosary Church, Wilkes-Barre (Times Leader, 8 Feb 1921).
-2 SOUR @S308@
+2 SOUR @S318@
 3 QUAY 3
-1 FAMC @F152@
+1 FAMC @F154@
 0 @BR034@ INDI
 1 NAME Louise M. /Baratta/
 2 GIVN Louise M.
@@ -8290,21 +8304,21 @@
 1 BIRT
 2 DATE 10 FEB 1917
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S296@
+2 SOUR @S306@
 1 DEAT
 2 DATE 18 JAN 1991
 2 PLAC Upland, Delaware, Pennsylvania, USA
-2 SOUR @S296@
+2 SOUR @S306@
 1 BURI
 2 PLAC Saints Peter and Paul Cemetery, Springfield, Delaware, Pennsylvania, USA
-2 SOUR @S296@
+2 SOUR @S306@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Basilio and Angelina (Mastrogiovanni) Baratta; moved to Chester, Pa., in 1943; seamstress (Chester Apparel, Ship ’n Shore). Survived by husband Stephen and her brother
 2 CONC s and sisters; no children named.
-2 SOUR @S296@
+2 SOUR @S306@
 3 QUAY 3
-1 FAMS @F157@
-1 FAMC @F152@
+1 FAMS @F159@
+1 FAMC @F154@
 0 @BR035@ INDI
 1 NAME Stephen Peter /Primatic/
 2 GIVN Stephen Peter
@@ -8312,9 +8326,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of Louise Baratta (m. 1943); 1921–1994 per Find a Grave family links.
-2 SOUR @S296@
+2 SOUR @S306@
 3 QUAY 2
-1 FAMS @F157@
+1 FAMS @F159@
 0 @BR036@ INDI
 1 NAME Joseph James /Baratta/
 2 GIVN Joseph James
@@ -8323,27 +8337,27 @@
 1 BIRT
 2 DATE 27 SEP 1918
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S297@
+2 SOUR @S307@
 1 DEAT
 2 DATE 9 FEB 2005
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S297@
+2 SOUR @S307@
 1 BURI
 2 PLAC Saint Nicholas Cemetery, Shavertown, Luzerne, Pennsylvania, USA
-2 SOUR @S297@
+2 SOUR @S307@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Basilio and Angeline; GAR High School; Army, WWII (European Theater); Economy Warehouse until 1984. Wife of 60 years Mary M. Gigliotti. Preceded by an infant son Joseph; sur
 2 CONC vived by son Daniel, daughters Joan and Carla (living relatives masked) and nine grandchildren.
-2 SOUR @S297@
+2 SOUR @S307@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Grandchildren count: his Feb 2005 obituary says nine grandchildren; wife Marie’s Dec 2007 obituary says eight (grandson Christopher Pesta died in 2006, which may explain the di
 2 CONC fference).
-2 SOUR @S298@
+2 SOUR @S308@
 3 QUAY 1
-2 SOUR @S309@
+2 SOUR @S319@
 3 QUAY 1
-1 FAMS @F158@
-1 FAMC @F152@
+1 FAMS @F160@
+1 FAMC @F154@
 0 @BR037@ INDI
 1 NAME Mary Magdalene “Marie” /Gigliotti/
 2 GIVN Mary Magdalene “Marie”
@@ -8354,25 +8368,25 @@
 1 BIRT
 2 DATE 27 FEB 1922
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S297@
-2 SOUR @S309@
+2 SOUR @S307@
+2 SOUR @S319@
 1 DEAT
 2 DATE 20 DEC 2007
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S297@
-2 SOUR @S309@
+2 SOUR @S307@
+2 SOUR @S319@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Joseph J. Baratta (m. 1944); 1922–2007 per Find a Grave family links.
-2 SOUR @S297@
+2 SOUR @S307@
 3 QUAY 2
 1 NOTE [Record; confirmed] 2007 obituary: Mary M. (Marie) Baratta, 85, of the Newtown section of Hanover Twp., died Thursday (20 Dec 2007) in Hospice Community Care at Geisinger South Wilkes-Barre. Born in W
 2 CONC ilkes-Barre 27 Feb 1922, daughter of the late Daniel and Lucia Gaglardi Gigliotti; Hanover Township High School, class of 1941. Preceded by husband Joseph J. (2005), an infant son Joseph and grandso
 2 CONC n Christopher Pesta (2006). Survived by son Daniel, daughters Joan Pesta and Carla Koziel, eight grandchildren, one great-grandson and sister Frances Sireno. Entombed St. Nicholas Mausoleum, Shavertow
 2 CONC n. See the Gigliotti family tab.
-2 SOUR @S309@
+2 SOUR @S319@
 3 QUAY 3
-1 FAMS @F158@
-1 FAMC @F176@
+1 FAMS @F160@
+1 FAMC @F178@
 0 @BR038@ INDI
 1 NAME Joseph /Baratta/
 2 GIVN Joseph
@@ -8382,22 +8396,22 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Infant son of Joseph J. and Marie Baratta; predeceased his father. Dates not found.
-2 SOUR @S297@
+2 SOUR @S307@
 3 QUAY 3
-1 FAMC @F158@
+1 FAMC @F160@
 0 @BR039@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F158@
+1 FAMC @F160@
 0 @BR040@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F159@
-1 FAMC @F158@
+1 FAMS @F161@
+1 FAMC @F160@
 0 @BR041@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F158@
+1 FAMC @F160@
 0 @BR042@ INDI
 1 NAME Anna J. /Baratta/
 2 GIVN Anna J.
@@ -8406,20 +8420,20 @@
 1 BIRT
 2 DATE 4 JAN 1921
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S293@
+2 SOUR @S303@
 1 DEAT
 2 DATE 30 DEC 2012
 2 PLAC Media, Delaware, Pennsylvania, USA
-2 SOUR @S293@
+2 SOUR @S303@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S293@
+2 SOUR @S303@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Seventh of the ten children of Basilio and Angiolina (Mastrogiovanni) Baratta, “who immigrated … from Naples, Italy.” Woolworth sales associate in Chester, Pa., for 37 years; live
 2 CONC d with sister Loretta in Media from 1997. Unmarried.
-2 SOUR @S293@
+2 SOUR @S303@
 3 QUAY 3
-1 FAMC @F152@
+1 FAMC @F154@
 0 @BR043@ INDI
 1 NAME Carl Philip /Baratta/
 2 GIVN Carl Philip
@@ -8428,20 +8442,20 @@
 1 BIRT
 2 DATE 5 MAY 1923
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S310@
+2 SOUR @S320@
 1 DEAT
 2 DATE 21 FEB 2012
 2 PLAC Orlando, Orange, Florida, USA
-2 SOUR @S310@
+2 SOUR @S320@
 1 BURI
 2 PLAC Woodlawn Memorial Park, Gotha, Orange, Florida, USA
-2 SOUR @S310@
+2 SOUR @S320@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Basilio and Angeline; died 21 Feb 2012, Orlando, Fla. Find a Grave links a spouse Barbara Jean Baratta.
-2 SOUR @S310@
+2 SOUR @S320@
 3 QUAY 3
-1 FAMS @F160@
-1 FAMC @F152@
+1 FAMS @F162@
+1 FAMC @F154@
 0 @BR044@ INDI
 1 NAME Barbara Jean //
 2 GIVN Barbara Jean
@@ -8452,9 +8466,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; unconfirmed] Spouse of Carl P. Baratta per Find a Grave family links (dates there 1949–1990, a birth year that looks doubtful for a wife of a man born 1923; unverified).
-2 SOUR @S310@
+2 SOUR @S320@
 3 QUAY 1
-1 FAMS @F160@
+1 FAMS @F162@
 0 @BR045@ INDI
 1 NAME Loretta L. /Baratta/
 2 GIVN Loretta L.
@@ -8467,27 +8481,27 @@
 1 BIRT
 2 DATE 25 OCT 1926
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S294@
+2 SOUR @S304@
 1 DEAT
 2 DATE 21 JUL 2014
 2 PLAC Media, Delaware, Pennsylvania, USA
-2 SOUR @S294@
+2 SOUR @S304@
 1 BURI
 2 PLAC Calvary Cemetery, Media, Delaware, Pennsylvania, USA
-2 SOUR @S294@
+2 SOUR @S304@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Ninth of ten children; ran her own beauty shop in Chester, Pa. Predeceased by husband John Jr., daughter Diane Stoccardo and all her siblings; survived by sons John III and Thoma
 2 CONC s (living relatives masked).
-2 SOUR @S294@
+2 SOUR @S304@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Husband’s suffix: Loretta’s 2014 obituary and Find a Grave call him John (Thomas) Orndorff Jr. and the son John III, but daughter Diane’s 2013 obituary calls him John T. Orndor
 2 CONC ff Sr. and the son John T. Orndorff Jr. Unresolved.
-2 SOUR @S294@
+2 SOUR @S304@
 3 QUAY 1
-2 SOUR @S311@
+2 SOUR @S321@
 3 QUAY 1
-1 FAMS @F161@
-1 FAMC @F152@
+1 FAMS @F163@
+1 FAMC @F154@
 0 @BR046@ INDI
 1 NAME John Thomas /Orndorff/
 2 GIVN John Thomas
@@ -8497,14 +8511,14 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of Loretta Baratta; 1927–2001 per Find a Grave family links.
-2 SOUR @S294@
+2 SOUR @S304@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Called “Jr.” on Find a Grave and in Loretta’s obituary but “John T. Orndorff, Sr.” in daughter Diane’s 2013 obituary. Unresolved.
-2 SOUR @S294@
+2 SOUR @S304@
 3 QUAY 1
-2 SOUR @S311@
+2 SOUR @S321@
 3 QUAY 1
-1 FAMS @F161@
+1 FAMS @F163@
 0 @BR047@ INDI
 1 NAME Diane M. /Orndorff/
 2 GIVN Diane M.
@@ -8516,32 +8530,32 @@
 1 SEX F
 1 BIRT
 2 DATE 11 MAR 1955
-2 SOUR @S311@
+2 SOUR @S321@
 1 DEAT
 2 DATE 3 MAR 2013
 2 PLAC Media, Delaware, Pennsylvania, USA
-2 SOUR @S311@
+2 SOUR @S321@
 1 BURI
 2 PLAC Calvary Cemetery, Media, Delaware, Pennsylvania, USA
-2 SOUR @S311@
+2 SOUR @S321@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of John T. and Loretta (Baratta) Orndorff; Penncrest H.S. 1973; bank employee. Survived by her husband, mother and two brothers.
-2 SOUR @S311@
+2 SOUR @S321@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Her obituary calls her father John T. Orndorff Sr. and brother John T. Jr.; her mother’s obituary has John Jr. and John III. Unresolved.
-2 SOUR @S311@
+2 SOUR @S321@
 3 QUAY 1
-2 SOUR @S294@
+2 SOUR @S304@
 3 QUAY 1
-1 FAMC @F161@
+1 FAMC @F163@
 0 @BR048@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F161@
+1 FAMC @F163@
 0 @BR049@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F161@
+1 FAMC @F163@
 0 @BR050@ INDI
 1 NAME June /Baratta/
 2 GIVN June
@@ -8554,21 +8568,21 @@
 1 BIRT
 2 DATE 23 JUN 1928
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S312@
+2 SOUR @S322@
 1 DEAT
 2 DATE 15 NOV 2011
 2 PLAC Cinnaminson, Burlington, New Jersey, USA
-2 SOUR @S312@
+2 SOUR @S322@
 1 BURI
 2 PLAC Brigadier General William C. Doyle Memorial Cemetery, Arneytown, Burlington, New Jersey, USA
-2 SOUR @S312@
+2 SOUR @S322@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Youngest of Basilio and Angeline’s children; Sleeper’s Business College, Chester. Survived by husband of 52 years William Gill and sons William and Joseph (living relatives masked)
 2 CONC , brother Carl and sisters Anna and Loretta.
-2 SOUR @S312@
+2 SOUR @S322@
 3 QUAY 3
-1 FAMS @F162@
-1 FAMC @F152@
+1 FAMS @F164@
+1 FAMC @F154@
 0 @BR051@ INDI
 1 NAME William John “Bill” /Gill/
 2 GIVN William John “Bill”
@@ -8576,17 +8590,17 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of June Baratta (m. 1959); 1927–2019 per Find a Grave family links.
-2 SOUR @S312@
+2 SOUR @S322@
 3 QUAY 2
-1 FAMS @F162@
+1 FAMS @F164@
 0 @BR052@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F162@
+1 FAMC @F164@
 0 @BR053@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F162@
+1 FAMC @F164@
 0 @OR001@ INDI
 1 NAME Louise /Baratta/
 2 GIVN Louise
@@ -8620,7 +8634,7 @@
 2 CONC e (Mrs. Carrara), Patrick and Joseph Jr.
 2 SOUR @S105@
 3 QUAY 3
-1 FAMS @F163@
+1 FAMS @F165@
 0 @OR002@ INDI
 1 NAME Joseph /Orrick/
 2 GIVN Joseph
@@ -8629,28 +8643,28 @@
 1 BIRT
 2 DATE 1868
 2 PLAC Italy
-2 SOUR @S313@
+2 SOUR @S323@
 2 SOUR @S105@
 1 DEAT
 2 DATE 2 APR 1955
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S313@
+2 SOUR @S323@
 2 SOUR @S105@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S313@
+2 SOUR @S323@
 1 NOTE Spelling variants: Orrico
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Husband of Louise (Baratta); a retired downtown butcher in 1941. His 1955 obituary names children Carl, Patrick A., Mrs. Christine Carrara and the late Joseph J. Orrick, and a sist
 2 CONC er Mrs. Marlena Palladino and the late brother Anthony Orrick.
-2 SOUR @S313@
+2 SOUR @S323@
 3 QUAY 3
 2 SOUR @S105@
 3 QUAY 3
 1 NOTE [Record; likely] Find a Grave links his mother Clementine Ritcha Orrick (1848–1931) and siblings Anthony Orrico (1874–1946) and Amalia “Marlena” Orrico Palladino (1880–1979).
-2 SOUR @S313@
+2 SOUR @S323@
 3 QUAY 2
-1 FAMS @F163@
+1 FAMS @F165@
 0 @OR010@ INDI
 1 NAME Carl Anthony /Orrick/
 2 GIVN Carl Anthony
@@ -8659,24 +8673,24 @@
 1 BIRT
 2 DATE 26 JAN 1896
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S314@
+2 SOUR @S324@
 2 SOUR @S105@
 1 DEAT
 2 DATE 9 JUN 1960
 2 PLAC New Jersey, USA
-2 SOUR @S314@
+2 SOUR @S324@
 2 SOUR @S105@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S314@
+2 SOUR @S324@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Joseph and Louise (Baratta) Orrick; born Jersey City. Spouse Veronica White Orrick (1905–1957) per Find a Grave.
-2 SOUR @S314@
+2 SOUR @S324@
 3 QUAY 3
 2 SOUR @S105@
 3 QUAY 3
-1 FAMS @F164@
-1 FAMC @F163@
+1 FAMS @F166@
+1 FAMC @F165@
 0 @OR011@ INDI
 1 NAME Veronica /White/
 2 GIVN Veronica
@@ -8686,9 +8700,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Carl A. Orrick; 1905–1957 per Find a Grave family links.
-2 SOUR @S314@
+2 SOUR @S324@
 3 QUAY 2
-1 FAMS @F164@
+1 FAMS @F166@
 0 @OR012@ INDI
 1 NAME Christine /Orrick/
 2 GIVN Christine
@@ -8701,20 +8715,20 @@
 1 BIRT
 2 DATE 18 JAN 1900
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S315@
+2 SOUR @S325@
 1 DEAT
 2 DATE 19 SEP 1975
 2 PLAC Paramus, Bergen, New Jersey, USA
-2 SOUR @S315@
+2 SOUR @S325@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S315@
+2 SOUR @S325@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Joseph and Louise Orrick; of Harrington Park, formerly of Hoboken; widow of Frank L. Carrara; survived by brother Patrick A. Orrick and four nieces (no children named).
-2 SOUR @S315@
+2 SOUR @S325@
 3 QUAY 3
-1 FAMS @F165@
-1 FAMC @F163@
+1 FAMS @F167@
+1 FAMC @F165@
 0 @OR013@ INDI
 1 NAME Frank Louis /Carrara/
 2 GIVN Frank Louis
@@ -8722,9 +8736,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Husband of Christine Orrick; 1897–1974 per Find a Grave; predeceased her.
-2 SOUR @S315@
+2 SOUR @S325@
 3 QUAY 2
-1 FAMS @F165@
+1 FAMS @F167@
 0 @OR014@ INDI
 1 NAME Patrick A. /Orrick/
 2 GIVN Patrick A.
@@ -8733,33 +8747,33 @@
 1 BIRT
 2 DATE 25 DEC 1905
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S316@
+2 SOUR @S326@
 1 DEAT
 2 DATE 3 DEC 1981
 2 PLAC Harrington Park, Bergen, New Jersey, USA
-2 SOUR @S316@
+2 SOUR @S326@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S316@
+2 SOUR @S326@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Son of Joseph and Louise Orrick. Superintendent of fire-department repairs for Jersey City’s Department of Public Safety for 32 years (retired 1969), then DiFeo Buick service manag
 2 CONC er to 1975; Army master sergeant in WWII. Survived by wife Carmella and daughter Louise Gorman.
-2 SOUR @S316@
+2 SOUR @S326@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Residence: sister Christine’s Sept. 1975 obituary places him in Greenville, Pa., but his own 1981 obituary says of Harrington Park, N.J., former Jersey City resident. Could b
 2 CONC e a move or a mistake. Unresolved.
-2 SOUR @S315@
+2 SOUR @S325@
 3 QUAY 1
-2 SOUR @S316@
+2 SOUR @S326@
 3 QUAY 1
 1 NOTE [Assumed; unconfirmed] Daughter Louise was born 1924, twenty years before his 1944 marriage to Carmella Giardina (born 1925), so Louise’s mother was presumably an earlier wife who is not named. Infere
 2 CONC nce only.
-2 SOUR @S316@
+2 SOUR @S326@
 3 QUAY 1
-2 SOUR @S317@
+2 SOUR @S327@
 3 QUAY 1
-1 FAMS @F166@
-1 FAMC @F163@
+1 FAMS @F168@
+1 FAMC @F165@
 0 @OR015@ INDI
 1 NAME Carmella A. /Giardina/
 2 GIVN Carmella A.
@@ -8769,9 +8783,9 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Wife of Patrick A. Orrick (m. 1944); 1925–2010 per Find a Grave family links.
-2 SOUR @S316@
+2 SOUR @S326@
 3 QUAY 2
-1 FAMS @F166@
+1 FAMS @F168@
 0 @OR016@ INDI
 1 NAME Louise Mary /Orrick/
 2 GIVN Louise Mary
@@ -8784,25 +8798,25 @@
 1 BIRT
 2 DATE 26 MAY 1924
 2 PLAC Jersey City, Hudson, New Jersey, USA
-2 SOUR @S317@
-2 SOUR @S316@
+2 SOUR @S327@
+2 SOUR @S326@
 1 DEAT
 2 DATE 2 JUL 2016
 2 PLAC Tenafly, Bergen, New Jersey, USA
-2 SOUR @S317@
-2 SOUR @S316@
+2 SOUR @S327@
+2 SOUR @S326@
 1 BURI
 2 PLAC Holy Cross Cemetery and Mausoleum, North Arlington, Bergen, New Jersey, USA
-2 SOUR @S317@
+2 SOUR @S327@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Daughter of Patrick A. Orrick; widow of James F. Gorman (d. 1991); administrative assistant at Holy Name Medical Center, Teaneck, 45+ years. Survived by four daughters (living rela
 2 CONC tives masked), eight grandchildren and eight great-grandchildren.
-2 SOUR @S317@
+2 SOUR @S327@
 3 QUAY 3
-2 SOUR @S316@
+2 SOUR @S326@
 3 QUAY 3
-1 FAMS @F167@
-1 FAMC @F166@
+1 FAMS @F169@
+1 FAMC @F168@
 0 @OR017@ INDI
 1 NAME James Francis /Gorman/
 2 GIVN James Francis
@@ -8810,25 +8824,25 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; confirmed] Husband of Louise Orrick; died 1991 (her obituary); 1918–1991 per Find a Grave.
-2 SOUR @S317@
+2 SOUR @S327@
 3 QUAY 3
-1 FAMS @F167@
+1 FAMS @F169@
 0 @OR020@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F167@
+1 FAMC @F169@
 0 @OR021@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F167@
+1 FAMC @F169@
 0 @OR022@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F167@
+1 FAMC @F169@
 0 @OR023@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F167@
+1 FAMC @F169@
 0 @OR018@ INDI
 1 NAME Joseph J. /Orrick/
 2 GIVN Joseph J.
@@ -8840,15 +8854,15 @@
 2 DATE 14 DEC 1953
 2 PLAC Hackensack, Bergen, New Jersey, USA
 2 SOUR @S105@
-2 SOUR @S313@
+2 SOUR @S323@
 1 NOTE Photo: none found publicly (searched: Find a Grave).
 1 NOTE [Record; likely] Son of Joseph and Louise Orrick (her 1941 obituary); “the late Joseph J. Orrick” in his father’s 1955 obituary. A researcher’s note on the memorials says he died in an automobile acci
 2 CONC dent on 14 Dec 1953 in Hackensack; burial place not found.
 2 SOUR @S105@
 3 QUAY 2
-2 SOUR @S313@
+2 SOUR @S323@
 3 QUAY 2
-1 FAMC @F163@
+1 FAMC @F165@
 0 @BR054@ INDI
 1 NAME Christopher /Pesta/
 2 GIVN Christopher
@@ -8856,13 +8870,13 @@
 1 SEX M
 1 DEAT
 2 DATE 2006
-2 SOUR @S309@
+2 SOUR @S319@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; likely] Grandson of Joseph J. and Marie Baratta; died in 2006, before his grandmother (her 2007 obituary). Presumably a son of Joan (Baratta) Pesta, the only daughter with that married name
 2 CONC . Exact dates not found.
-2 SOUR @S309@
+2 SOUR @S319@
 3 QUAY 2
-1 FAMC @F159@
+1 FAMC @F161@
 0 @CZ001@ INDI
 1 NAME Joseph /Ciavarella/
 2 GIVN Joseph
@@ -8871,15 +8885,15 @@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Father of Venus Baratta, Rachel Donnini and Mary Muzzupappa (“the late Joseph and Theresa (Castrignano) Ciavarella” in their obituaries). The family ran the Thrifty Food Store an
 2 CONC d Bakery in Wilkes-Barre. Dates not found.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-2 SOUR @S318@
+2 SOUR @S328@
 3 QUAY 3
-2 SOUR @S319@
+2 SOUR @S329@
 3 QUAY 3
-2 SOUR @S320@
+2 SOUR @S330@
 3 QUAY 3
-1 FAMS @F168@
+1 FAMS @F170@
 0 @CZ002@ INDI
 1 NAME Theresa /Castrignano/
 2 GIVN Theresa
@@ -8890,15 +8904,15 @@
 1 NOTE Spelling variants: Castrigano (2009 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Mother of Venus, Rachel, Mary and their siblings; named Theresa (Castrignano) Ciavarella in the obituaries (“Castrigano” in Mary’s). Dates not found.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-2 SOUR @S318@
+2 SOUR @S328@
 3 QUAY 3
-2 SOUR @S319@
+2 SOUR @S329@
 3 QUAY 3
-2 SOUR @S320@
+2 SOUR @S330@
 3 QUAY 3
-1 FAMS @F168@
+1 FAMS @F170@
 0 @CZ010@ INDI
 1 NAME Ben /Ciavarella/
 2 GIVN Ben
@@ -8906,13 +8920,13 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Brother of Venus Baratta; died before Jan 2001 (preceded her). Dates not found.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-2 SOUR @S318@
+2 SOUR @S328@
 3 QUAY 3
-2 SOUR @S319@
+2 SOUR @S329@
 3 QUAY 3
-1 FAMC @F168@
+1 FAMC @F170@
 0 @CZ011@ INDI
 1 NAME Frank /Ciavarella/
 2 GIVN Frank
@@ -8920,13 +8934,13 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Brother of Venus Baratta; died before Jan 2001 (preceded her). Dates not found.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-2 SOUR @S318@
+2 SOUR @S328@
 3 QUAY 3
-2 SOUR @S319@
+2 SOUR @S329@
 3 QUAY 3
-1 FAMC @F168@
+1 FAMC @F170@
 0 @CZ012@ INDI
 1 NAME Emma /Ciavarella/
 2 GIVN Emma
@@ -8939,12 +8953,12 @@
 1 NOTE Spelling variants: Starcum (2003 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Sister of Venus; died before Jan 2001. Married Peter J. Starcun on 26 Nov 1958; they then moved to North Palm Beach, Fla.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-2 SOUR @S321@
+2 SOUR @S331@
 3 QUAY 3
-1 FAMS @F169@
-1 FAMC @F168@
+1 FAMS @F171@
+1 FAMC @F170@
 0 @CZ013@ INDI
 1 NAME Peter J. /Starcun/
 2 GIVN Peter J.
@@ -8953,17 +8967,17 @@
 1 BIRT
 2 DATE 5 JUN 1923
 2 PLAC Plymouth, Luzerne, Pennsylvania, USA
-2 SOUR @S321@
+2 SOUR @S331@
 1 DEAT
 2 DATE 28 JUL 2008
 2 PLAC North Palm Beach, Palm Beach, Florida, USA
-2 SOUR @S321@
+2 SOUR @S331@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 2008 obituary: born 5 Jun 1923, Plymouth, Pa.; U.S. Army Air Corps, WWII; married Emma Ciavarella 26 Nov 1958 and moved to North Palm Beach; died 28 Jul 2008, aged 85. Survivors we
 2 CONC re in-laws, nieces and nephews (no children named).
-2 SOUR @S321@
+2 SOUR @S331@
 3 QUAY 3
-1 FAMS @F169@
+1 FAMS @F171@
 0 @CZ014@ INDI
 1 NAME Rachel /Ciavarella/
 2 GIVN Rachel
@@ -8976,27 +8990,27 @@
 1 BIRT
 2 DATE 23 JAN 1916
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S318@
-2 SOUR @S320@
+2 SOUR @S328@
+2 SOUR @S330@
 1 DEAT
 2 DATE 14 JUN 2003
 2 PLAC West Palm Beach, Palm Beach, Florida, USA
-2 SOUR @S318@
-2 SOUR @S320@
+2 SOUR @S328@
+2 SOUR @S330@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S318@
+2 SOUR @S328@
 1 NOTE Spelling variants: Rachael
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 2003 obituary: of North Palm Beach, formerly Grove Street, Wilkes-Barre; died Saturday (14 Jun 2003) at St. Mary’s Medical Center, West Palm Beach. Born 23 Jan 1916, Wilkes-Barre
 2 CONC , daughter of Joseph and Theresa (Castrignano) Ciavarella. Preceded by husband Anyo, brothers Ben and Frank, sisters Venus Baratta and Emma Starcun. Survived by sons John, Joseph, Gerald and James; ni
 2 CONC ne grandchildren; two great-grandchildren; sisters Caroline DelBalso, Mary Muzzupappa and Rose Middleton. Buried St. Mary’s Cemetery.
-2 SOUR @S318@
+2 SOUR @S328@
 3 QUAY 3
-2 SOUR @S320@
+2 SOUR @S330@
 3 QUAY 3
-1 FAMS @F170@
-1 FAMC @F168@
+1 FAMS @F172@
+1 FAMC @F170@
 0 @CZ015@ INDI
 1 NAME Anyo /Donnini/
 2 GIVN Anyo
@@ -9004,11 +9018,11 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Husband of Rachel Ciavarella; died before June 2003. Dates not found.
-2 SOUR @S318@
+2 SOUR @S328@
 3 QUAY 3
-2 SOUR @S320@
+2 SOUR @S330@
 3 QUAY 3
-1 FAMS @F170@
+1 FAMS @F172@
 0 @CZ016@ INDI
 1 NAME John M. /Donnini/
 2 GIVN John M.
@@ -9017,17 +9031,17 @@
 1 DEAT
 2 DATE 23 NOV 2017
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S322@
+2 SOUR @S332@
 1 BURI
 2 PLAC Saint Mary's Cemetery, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S322@
+2 SOUR @S332@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 2017 obituary: son of Anyo and Rachael Ciavarella Donnini; died 23 Nov 2017 at home, Wilkes-Barre, aged 77; GAR High School class of 1959; U.S. Navy veteran; independent insuranc
 2 CONC e agent. Married 56 years to Carol Lazar. Survived by a daughter and son (living, masked), grandchildren and brothers Joseph, Gerald and James.
-2 SOUR @S322@
+2 SOUR @S332@
 3 QUAY 3
-1 FAMS @F171@
-1 FAMC @F170@
+1 FAMS @F173@
+1 FAMC @F172@
 0 @CZ017@ INDI
 1 NAME Carol /Lazar/
 2 GIVN Carol
@@ -9038,27 +9052,27 @@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; likely] Wife of John M. Donnini (56 years at his death in 2017). Her 2019 status is unclear: James Donnini’s 2019 obituary lists “sister-in-law Carol” in a sentence that may refer to the dece
 2 CONC ased. Dates not found.
-2 SOUR @S322@
+2 SOUR @S332@
 3 QUAY 2
-2 SOUR @S323@
+2 SOUR @S333@
 3 QUAY 2
-1 FAMS @F171@
+1 FAMS @F173@
 0 @CZ018@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F171@
+1 FAMC @F173@
 0 @CZ019@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F171@
+1 FAMC @F173@
 0 @CZ020@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F170@
+1 FAMC @F172@
 0 @CZ021@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F170@
+1 FAMC @F172@
 0 @CZ022@ INDI
 1 NAME James T. /Donnini/
 2 GIVN James T.
@@ -9070,33 +9084,33 @@
 1 BIRT
 2 DATE 30 OCT 1953
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S323@
-2 SOUR @S320@
+2 SOUR @S333@
+2 SOUR @S330@
 1 DEAT
 2 DATE 13 NOV 2019
 2 PLAC Florida, USA
-2 SOUR @S323@
-2 SOUR @S320@
+2 SOUR @S333@
+2 SOUR @S330@
 1 BURI
 2 PLAC Riverside Memorial Park, Tequesta, Martin, Florida, USA
-2 SOUR @S323@
+2 SOUR @S333@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 2019 obituary: born 30 Oct 1953, Wilkes-Barre, son of Anyo and Rachel Donnini; died 13 Nov 2019, aged 66; raised his family in Palm Beach Gardens. Survived by his wife, a son an
 2 CONC d a daughter (living, masked), two grandchildren and brother Gerald; brother John predeceased him.
-2 SOUR @S323@
+2 SOUR @S333@
 3 QUAY 3
-2 SOUR @S320@
+2 SOUR @S330@
 3 QUAY 3
-1 FAMS @F172@
-1 FAMC @F170@
+1 FAMS @F174@
+1 FAMC @F172@
 0 @CZ023@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F172@
+1 FAMC @F174@
 0 @CZ024@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F172@
+1 FAMC @F174@
 0 @CZ030@ INDI
 1 NAME Caroline /Ciavarella/
 2 GIVN Caroline
@@ -9110,21 +9124,21 @@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Sister of Venus Baratta; of Wilkes-Barre; living at her sisters’ deaths in 2001, 2003 and Apr 2009 and at brother-in-law Dominick Muzzupappa’s death in Sept 2009. Married Daniel De
 2 CONC lBalso Sr. in Oct 1933 (60th anniversary Oct 1993). Death not found.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-2 SOUR @S318@
+2 SOUR @S328@
 3 QUAY 3
-2 SOUR @S319@
+2 SOUR @S329@
 3 QUAY 3
-2 SOUR @S324@
+2 SOUR @S334@
 3 QUAY 3
-2 SOUR @S325@
+2 SOUR @S335@
 3 QUAY 3
 1 NOTE [Assumed; unconfirmed] Married in 1933, so she was born about 1915 or earlier and is presumed deceased, not living. Inference only; no death record found yet.
-2 SOUR @S325@
+2 SOUR @S335@
 3 QUAY 1
-1 FAMS @F173@
-1 FAMC @F168@
+1 FAMS @F175@
+1 FAMC @F170@
 0 @CZ031@ INDI
 1 NAME Daniel /DelBalso/
 2 GIVN Daniel
@@ -9135,32 +9149,32 @@
 1 DEAT
 2 DATE 28 JAN 1994
 2 PLAC Mercy Hospital, Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S325@
+2 SOUR @S335@
 1 BURI
 2 PLAC St. Mary's Mausoleum, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S325@
+2 SOUR @S335@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 1994 obituary: born in McAdoo, son of Michael and Mary Baltier DelBalso; Wilkes-Barre resident 63 years; founded D&D Auto Supply (1940) and D&D Motors; DelBalso Brothers Realty. Ma
 2 CONC rried Caroline Ciavarella (60th anniversary Oct 1993). Survived by sons Michael, Joseph and Daniel Jr., daughter Marie Littzi (living, masked), 10 grandchildren and one great-grandchild.
-2 SOUR @S325@
+2 SOUR @S335@
 3 QUAY 3
-1 FAMS @F173@
+1 FAMS @F175@
 0 @CZ032@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F173@
+1 FAMC @F175@
 0 @CZ033@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F173@
+1 FAMC @F175@
 0 @CZ034@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F173@
+1 FAMC @F175@
 0 @CZ035@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F173@
+1 FAMC @F175@
 0 @CZ040@ INDI
 1 NAME Mary /Ciavarella/
 2 GIVN Mary
@@ -9172,20 +9186,20 @@
 1 SEX F
 1 BIRT
 2 DATE 5 JUL 1917
-2 SOUR @S319@
+2 SOUR @S329@
 1 DEAT
 2 DATE 18 APR 2009
 2 PLAC North Palm Beach, Palm Beach, Florida, USA
-2 SOUR @S319@
+2 SOUR @S329@
 1 NOTE Spelling variants: Muzupapa (2001/2003 obituaries)
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 2009 obituary: born 5 Jul 1917, daughter of Joseph and Theresa Castrigano Ciavarella; raised in Wilkes-Barre; moved to North Palm Beach in 1956; died 18 Apr 2009. Survived by husba
 2 CONC nd of 62 years Dominick, sisters Caroline DelBalso and Rose Middleton, sister-in-law Mary Ciavarella. Preceded by brothers Ben and Frank and sisters Venus Baratta, Rachel Donnini and Emma Starcun. Bur
 2 CONC ied Royal Palm Memorial Gardens. No children named.
-2 SOUR @S319@
+2 SOUR @S329@
 3 QUAY 3
-1 FAMS @F174@
-1 FAMC @F168@
+1 FAMS @F176@
+1 FAMC @F170@
 0 @CZ041@ INDI
 1 NAME Dominick J. /Muzzupappa/
 2 GIVN Dominick J.
@@ -9194,21 +9208,21 @@
 1 DEAT
 2 DATE 22 SEP 2009
 2 PLAC Florida, USA
-2 SOUR @S324@
+2 SOUR @S334@
 1 BURI
 2 PLAC Royal Palm Memorial Gardens, West Palm Beach, Florida, USA
-2 SOUR @S324@
+2 SOUR @S334@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 2009 obituary: died 22 Sep 2009, aged 98; WWII veteran and a sergeant in the Pittston Police Department; moved to North Palm Beach in 1956; played in dance bands. Son of Paul and M
 2 CONC ary Muzzupappa. Preceded by wife Mary Ciavarella Muzzupappa. Survivors included sisters-in-law Rose Middleton, Mary Ciavarella and Caroline DelBalso.
-2 SOUR @S324@
+2 SOUR @S334@
 3 QUAY 3
-1 FAMS @F174@
+1 FAMS @F176@
 0 @CZ050@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F175@
-1 FAMC @F168@
+1 FAMS @F177@
+1 FAMC @F170@
 0 @CZ051@ INDI
 1 NAME Donald /Middleton/
 2 GIVN Donald
@@ -9216,9 +9230,9 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Husband of Rose Ciavarella; died before Jan 2001 (listed among Venus Baratta’s late brothers-in-law). Dates not found.
-2 SOUR @S302@
+2 SOUR @S312@
 3 QUAY 3
-1 FAMS @F175@
+1 FAMS @F177@
 0 @GT001@ INDI
 1 NAME Daniel /Gigliotti/
 2 GIVN Daniel
@@ -9226,13 +9240,13 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Father of Marie Baratta, Frances Sireno and Frank J. Gigliotti (“the late Daniel and Lucia Gaglardi Gigliotti”). Dates not found.
-2 SOUR @S309@
+2 SOUR @S319@
 3 QUAY 3
-2 SOUR @S326@
+2 SOUR @S336@
 3 QUAY 3
-2 SOUR @S327@
+2 SOUR @S337@
 3 QUAY 3
-1 FAMS @F176@
+1 FAMS @F178@
 0 @GT002@ INDI
 1 NAME Lucia /Gaglardi/
 2 GIVN Lucia
@@ -9244,20 +9258,20 @@
 1 NOTE Spelling variants: Gagliardi (1998 obituary); Lucy
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Mother of Marie, Frances and Frank; “Lucia Gaglardi Gigliotti” in her daughters’ obituaries. Dates not found.
-2 SOUR @S309@
+2 SOUR @S319@
 3 QUAY 3
-2 SOUR @S326@
+2 SOUR @S336@
 3 QUAY 3
-2 SOUR @S327@
+2 SOUR @S337@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Maiden name spelling: Gaglardi (daughters Marie’s 2007 and Frances’s 2011 obituaries) vs Gagliardi (son Frank’s 1998 obituary, “Lucy Gagliardi”). Unresolved.
-2 SOUR @S309@
+2 SOUR @S319@
 3 QUAY 1
-2 SOUR @S326@
+2 SOUR @S336@
 3 QUAY 1
-2 SOUR @S327@
+2 SOUR @S337@
 3 QUAY 1
-1 FAMS @F176@
+1 FAMS @F178@
 0 @GT010@ INDI
 1 NAME Frank J. /Gigliotti/
 2 GIVN Frank J.
@@ -9266,16 +9280,16 @@
 1 DEAT
 2 DATE 14 MAY 1998
 2 PLAC VA Medical Center, Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S327@
-2 SOUR @S326@
+2 SOUR @S337@
+2 SOUR @S336@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 1998 obituary: of Wyoming Street, Wilkes-Barre; born in Ashley, son of Daniel Gigliotti and Lucy Gagliardi; U.S. Army, WWII; died 14 May 1998. Named as predeceased brother in siste
 2 CONC r Frances’s 2011 obituary.
-2 SOUR @S327@
+2 SOUR @S337@
 3 QUAY 3
-2 SOUR @S326@
+2 SOUR @S336@
 3 QUAY 3
-1 FAMC @F176@
+1 FAMC @F178@
 0 @GT011@ INDI
 1 NAME Frances R. /Gigliotti/
 2 GIVN Frances R.
@@ -9288,22 +9302,22 @@
 1 BIRT
 2 DATE 20 JAN 1924
 2 PLAC Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S326@
+2 SOUR @S336@
 1 DEAT
 2 DATE 12 DEC 2011
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S326@
+2 SOUR @S336@
 1 BURI
 2 PLAC St. Mary's Mausoleum, Hanover Township, Luzerne, Pennsylvania, USA
-2 SOUR @S326@
+2 SOUR @S336@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] 2011 obituary: born 20 Jan 1924, Hanover Twp., daughter of Daniel and Lucia Gaglardi Gigliotti; died 12 Dec 2011 at Wilkes-Barre General Hospital, aged 87; worked in the shoe and g
 2 CONC arment industries (ILGWU). Preceded by husband Leonard P. Sireno (1996), infant daughter Donna Marie, sister Marie Baratta and brother Frank Gigliotti. Survived by a daughter and grandson (living, mas
 2 CONC ked).
-2 SOUR @S326@
+2 SOUR @S336@
 3 QUAY 3
-1 FAMS @F177@
-1 FAMC @F176@
+1 FAMS @F179@
+1 FAMC @F178@
 0 @GT012@ INDI
 1 NAME Leonard P. /Sireno/
 2 GIVN Leonard P.
@@ -9311,12 +9325,12 @@
 1 SEX M
 1 DEAT
 2 DATE 1996
-2 SOUR @S326@
+2 SOUR @S336@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Husband of Frances Gigliotti; died 1996 (her obituary).
-2 SOUR @S326@
+2 SOUR @S336@
 3 QUAY 3
-1 FAMS @F177@
+1 FAMS @F179@
 0 @GT013@ INDI
 1 NAME Donna Marie /Sireno/
 2 GIVN Donna Marie
@@ -9324,13 +9338,13 @@
 1 SEX F
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive).
 1 NOTE [Record; confirmed] Infant daughter of Leonard and Frances Sireno; predeceased her mother. Dates not found.
-2 SOUR @S326@
+2 SOUR @S336@
 3 QUAY 3
-1 FAMC @F177@
+1 FAMC @F179@
 0 @GT014@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F177@
+1 FAMC @F179@
 0 @BC001@ INDI
 1 NAME Nazzareno /Beccaloni/
 2 GIVN Nazzareno
@@ -9458,36 +9472,36 @@
 1 BIRT
 2 DATE 1849
 2 PLAC Prešov, Prešov, Slovakia
-2 SOUR @S328@
+2 SOUR @S338@
 2 SOUR @S088@
 1 DEAT
 2 DATE 20 MAR 1924
 2 PLAC Ransom, Lackawanna, Pennsylvania, USA
-2 SOUR @S328@
+2 SOUR @S338@
 2 SOUR @S088@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S328@
+2 SOUR @S338@
 1 NOTE Spelling variants: John Voytek; Voytko; Widdick (later family spelling)
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: Jan Vojtko, born 1849, Prešov (Slovakia); died 20 Mar 1924, Ransom, Pa.; buried St. John the Baptist Cemetery, Taylor. Wife Maria Vasko; children Anna (Mesarč), Joseph J
 2 CONC . Widdick and Stephen Widdick Sr. His 1924 death notice calls him “John Voytek” of Taylor, active in St. John’s Slovak congregation.
-2 SOUR @S328@
+2 SOUR @S338@
 3 QUAY 2
 1 NOTE [Record; likely] Joseph J. Widdick’s 1975 obituary calls him “son of the late Mr. and Mrs. John Widdick”, so the family name Vojtko/Voytko became Widdick in America.
 2 SOUR @S088@
 3 QUAY 2
-2 SOUR @S328@
+2 SOUR @S338@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Death place: Ransom (memorial) vs. a Taylor residence in his 1924 death notice; birthplace: Prešov town (his memorial) vs. the village of Proc, Prešov district (wife’s and so
 2 CONC n Joseph’s memorials). Probably the same district. Unresolved.
-2 SOUR @S328@
+2 SOUR @S338@
 3 QUAY 1
-2 SOUR @S329@
+2 SOUR @S339@
 3 QUAY 1
 2 SOUR @S088@
 3 QUAY 1
-1 FAMS @F178@
+1 FAMS @F180@
 0 @WD002@ INDI
 1 NAME Maria /Vasko/
 2 GIVN Maria
@@ -9500,21 +9514,21 @@
 1 BIRT
 2 DATE 1850
 2 PLAC Proc, Prešov, Slovakia
-2 SOUR @S329@
+2 SOUR @S339@
 1 DEAT
 2 DATE 28 APR 1937
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S329@
+2 SOUR @S339@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S329@
+2 SOUR @S339@
 1 NOTE Spelling variants: Mary Widdick
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: Maria Vasko Vojtko, born 1850, Proc, Prešov district (Slovakia); died 28 Apr 1937, Taylor, Pa.; wife of Jan Vojtko. Her 1937 funeral notice (“Mrs. Mary Widdick”) says th
 2 CONC e funeral was from the home of her son Stephen Widdick; casket bearers included John, Stephen and Francis Widdick (grandsons).
-2 SOUR @S329@
+2 SOUR @S339@
 3 QUAY 2
-1 FAMS @F178@
+1 FAMS @F180@
 0 @WD003@ INDI
 1 NAME Anna /Voytko/
 2 GIVN Anna
@@ -9525,31 +9539,31 @@
 1 BIRT
 2 DATE 1878
 2 PLAC Hungary (now Slovakia)
-2 SOUR @S330@
+2 SOUR @S340@
 1 DEAT
 2 DATE 1 OCT 1948
 2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
-2 SOUR @S330@
+2 SOUR @S340@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S330@
+2 SOUR @S340@
 1 NOTE Spelling variants: Vojtko; Mesarch
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] 1948 obituary: Mrs. Anna Mesarch, formerly of Taylor and Scranton, died 1 Oct 1948 at the home of her daughter Mrs. Nicholas Katashuk; born in Hungary, in the U.S. about 50 years. Sur
 2 CONC vived by daughters Mrs. Mary Satkowski (Shelton, Conn.) and Mrs. Anna Vahala (Byesville, Ohio), sons Stephen (Perryville, Ark.), Joseph and George (Scranton), and brothers Joseph Widdick (Taylor) an
 2 CONC d Stephen Widdick (Scranton).
-2 SOUR @S330@
+2 SOUR @S340@
 3 QUAY 2
 1 NOTE [Record; likely] Find a Grave links her children Anna Mesarch Fotta (1898–1978), Andrew George Messarch (1904–1941), Stephen Peter Mesarch (1907–1983), Margaret Mesarch Pluso (1909–1935), Helen Mesarc
 2 CONC h Katashuk (1911–1999), Josephine Mesarch Mehl (1913–1947), Joseph William Messarch (1914–1973) and George Raymond Messarch (1918–1972). Not given cards yet (open leads).
-2 SOUR @S330@
+2 SOUR @S340@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Her obituary names surviving daughters Mrs. Mary Satkowski and Mrs. Anna Vahala, but Find a Grave links a daughter Anna Mesarch Fotta and no Mary. Married names may have change
 2 CONC d, or the links are incomplete. Unresolved.
-2 SOUR @S330@
+2 SOUR @S340@
 3 QUAY 1
-1 FAMS @F179@
-1 FAMC @F178@
+1 FAMS @F181@
+1 FAMC @F180@
 0 @WD004@ INDI
 1 NAME Jan /Mesarč/
 2 GIVN Jan
@@ -9557,16 +9571,16 @@
 1 SEX M
 1 BIRT
 2 DATE 1874
-2 SOUR @S330@
+2 SOUR @S340@
 1 DEAT
 2 DATE 1948
-2 SOUR @S330@
+2 SOUR @S340@
 1 NOTE Spelling variants: John Mesarch
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Husband of Anna Voytko (Find a Grave family link: Jan Mesarč, 1874–1948). Full dates not found.
-2 SOUR @S330@
+2 SOUR @S340@
 3 QUAY 2
-1 FAMS @F179@
+1 FAMS @F181@
 0 @WD005@ INDI
 1 NAME Joseph J. /Widdick/
 2 GIVN Joseph J.
@@ -9609,8 +9623,8 @@
 3 QUAY 1
 2 SOUR @S091@
 3 QUAY 1
-1 FAMS @F180@
-1 FAMC @F178@
+1 FAMS @F182@
+1 FAMC @F180@
 0 @MR005@ INDI
 1 NAME Mary A. /Mora/
 2 GIVN Mary A.
@@ -9643,8 +9657,8 @@
 3 QUAY 3
 2 SOUR @S087@
 3 QUAY 3
-1 FAMS @F180@
-1 FAMC @F185@
+1 FAMS @F182@
+1 FAMC @F187@
 0 @WD010@ INDI
 1 NAME Margaret Clare /Widdick/
 2 GIVN Margaret Clare
@@ -9657,27 +9671,27 @@
 1 BIRT
 2 DATE 25 AUG 1915
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S331@
+2 SOUR @S341@
 2 SOUR @S088@
 1 DEAT
 2 DATE 18 JAN 2000
 2 PLAC Baltimore, Maryland, USA
-2 SOUR @S331@
+2 SOUR @S341@
 2 SOUR @S088@
 1 BURI
 2 PLAC Parkwood Cemetery and Mausoleum, Baltimore, Maryland, USA
-2 SOUR @S331@
+2 SOUR @S341@
 1 NOTE Spelling variants: Kavulich; Kavlick
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; confirmed] Find a Grave and Baltimore Sun obituary (20 Jan 2000): Margaret C. (née Widdick), wife of the late Elmer Kavlich; mother of Joan DuBois, Robert Kavlich, Peggy Hug, Mary Eshelman an
 2 CONC d Jim Kavlich; sister of Francis Widdick and Betty Bellcastro; 8 grandchildren, 3 great-grandchildren. Mass at St. Anthony’s, burial Parkwood Cemetery.
-2 SOUR @S331@
+2 SOUR @S341@
 3 QUAY 3
 1 NOTE [Record; likely] Her father lived with her in Baltimore at his death in 1975 (“Mrs. Elmer Kavulich, with whom he resided”).
 2 SOUR @S088@
 3 QUAY 2
-1 FAMS @F181@
-1 FAMC @F180@
+1 FAMS @F183@
+1 FAMC @F182@
 0 @WD011@ INDI
 1 NAME Elmer Francis /Kavlich/
 2 GIVN Elmer Francis
@@ -9686,44 +9700,44 @@
 1 BIRT
 2 DATE 13 SEP 1914
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S332@
-2 SOUR @S331@
+2 SOUR @S342@
+2 SOUR @S341@
 1 DEAT
 2 DATE 3 MAY 1999
-2 SOUR @S332@
-2 SOUR @S331@
+2 SOUR @S342@
+2 SOUR @S341@
 1 BURI
 2 PLAC Parkwood Cemetery and Mausoleum, Baltimore, Maryland, USA
-2 SOUR @S332@
+2 SOUR @S342@
 1 NOTE Spelling variants: Kavulich
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: born 13 Sep 1914, Taylor; died 3 May 1999; buried Parkwood Cemetery, Baltimore. Married Margaret Clare Widdick in 1940. Parents linked: Andrew J. Kavulich (1874–1948) an
 2 CONC d Mary Belensky Kavulich (1885–1939).
-2 SOUR @S332@
+2 SOUR @S342@
 3 QUAY 2
-2 SOUR @S331@
+2 SOUR @S341@
 3 QUAY 2
-1 FAMS @F181@
+1 FAMS @F183@
 0 @WD012@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F181@
+1 FAMC @F183@
 0 @WD013@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F181@
+1 FAMC @F183@
 0 @WD014@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F181@
+1 FAMC @F183@
 0 @WD015@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F181@
+1 FAMC @F183@
 0 @WD016@ INDI
 1 NAME Living
 1 SEX M
-1 FAMC @F181@
+1 FAMC @F183@
 0 @WD020@ INDI
 1 NAME Marie Eli /Widdick/
 2 GIVN Marie Eli
@@ -9736,29 +9750,29 @@
 1 BIRT
 2 DATE 28 MAR 1917
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S333@
+2 SOUR @S343@
 2 SOUR @S089@
 1 DEAT
 2 DATE 7 FEB 1997
-2 SOUR @S333@
+2 SOUR @S343@
 2 SOUR @S089@
 1 BURI
 2 PLAC Saint Agnes Roman Catholic Cemetery, West Goshen Township, Chester, Pennsylvania, USA
-2 SOUR @S333@
+2 SOUR @S343@
 1 NOTE Spelling variants: Lakatosh
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: born 28 Mar 1917, Taylor; died 7 Feb 1997; buried St. Agnes R.C. Cemetery, West Goshen Twp., Chester Co., Pa.; wife of John LaKatosh. Of West Chester in her parents’ 196
 2 CONC 9 and 1975 obituaries; not among the survivors in sister Margaret’s 2000 obituary.
-2 SOUR @S333@
+2 SOUR @S343@
 3 QUAY 2
 2 SOUR @S089@
 3 QUAY 2
 2 SOUR @S088@
 3 QUAY 2
-2 SOUR @S331@
+2 SOUR @S341@
 3 QUAY 2
-1 FAMS @F182@
-1 FAMC @F180@
+1 FAMS @F184@
+1 FAMC @F182@
 0 @WD021@ INDI
 1 NAME John /LaKatosh/
 2 GIVN John
@@ -9766,28 +9780,28 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAY 1916
-2 SOUR @S334@
-2 SOUR @S333@
+2 SOUR @S344@
+2 SOUR @S343@
 1 DEAT
 2 DATE 10 MAY 1991
-2 SOUR @S334@
-2 SOUR @S333@
+2 SOUR @S344@
+2 SOUR @S343@
 1 BURI
 2 PLAC Saint Agnes Roman Catholic Cemetery, West Goshen Township, Chester, Pennsylvania, USA
-2 SOUR @S334@
+2 SOUR @S344@
 1 NOTE Spelling variants: Lakatosh
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: John LaKatosh, veteran, 28 May 1916 – 10 May 1991, St. Agnes R.C. Cemetery, West Goshen Twp.; linked as Marie Widdick’s husband.
-2 SOUR @S334@
+2 SOUR @S344@
 3 QUAY 2
-2 SOUR @S333@
+2 SOUR @S343@
 3 QUAY 2
-1 FAMS @F182@
+1 FAMS @F184@
 0 @WD030@ INDI
 1 NAME Living
 1 SEX F
-1 FAMS @F183@
-1 FAMC @F180@
+1 FAMS @F185@
+1 FAMC @F182@
 0 @WD031@ INDI
 1 NAME Louis E. /Belcastro/
 2 GIVN Louis E.
@@ -9796,28 +9810,28 @@
 1 BIRT
 2 DATE ABT 1923
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S336@
-2 SOUR @S337@
+2 SOUR @S346@
+2 SOUR @S347@
 1 DEAT
 2 DATE 20 DEC 1993
 2 PLAC Plains Township, Luzerne, Pennsylvania, USA
-2 SOUR @S336@
-2 SOUR @S337@
+2 SOUR @S346@
+2 SOUR @S347@
 1 BURI
 2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S336@
+2 SOUR @S346@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; confirmed] 1993 obituary (Times Leader): Louis E. Belcastro, 70, of Old Forge, died Monday 20 Dec 1993 in Geisinger Wyoming Valley Medical Center, Plains Twp. Son of the late Michael and Olym
 2 CONC pia Papi Belcastro; Old Forge High School 1941; WWII Army staff sergeant, infantry, Europe, two Purple Hearts. Married to the former Betty Widdick 48 years. Predeceased by son Robert L. (2 Aug 1992)
 2 CONC ; survived by daughter Sandra Hrobuchak, two granddaughters, siblings Michaeline and Michael, step-mother Leda. Burial Cathedral Cemetery, Scranton.
-2 SOUR @S336@
+2 SOUR @S346@
 3 QUAY 3
 1 NOTE [Record; likely] Half-brother of Michael A. “Bugsy” Belcastro Jr. (1946–2018, son of Michael Sr. and Leda Taroli), whose obituary lists Louis among his late siblings.
-2 SOUR @S337@
+2 SOUR @S347@
 3 QUAY 2
-2 SOUR @S336@
+2 SOUR @S346@
 3 QUAY 2
-1 FAMS @F183@
+1 FAMS @F185@
 0 @WD032@ INDI
 1 NAME Robert L. /Belcastro/
 2 GIVN Robert L.
@@ -9825,16 +9839,16 @@
 1 SEX M
 1 DEAT
 2 DATE 2 AUG 1992
-2 SOUR @S336@
+2 SOUR @S346@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; confirmed] Son of Louis E. and Betty (Widdick) Belcastro; died 2 Aug 1992, before his father (1993 obituary). Birth date not found.
-2 SOUR @S336@
+2 SOUR @S346@
 3 QUAY 3
-1 FAMC @F183@
+1 FAMC @F185@
 0 @WD033@ INDI
 1 NAME Living
 1 SEX F
-1 FAMC @F183@
+1 FAMC @F185@
 0 @WD040@ INDI
 1 NAME Joseph John /Widdick/
 2 GIVN Joseph John
@@ -9845,24 +9859,24 @@
 1 BIRT
 2 DATE 26 JAN 1923
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S335@
+2 SOUR @S345@
 2 SOUR @S088@
 1 DEAT
 2 DATE 14 NOV 1945
 2 PLAC Germany
-2 SOUR @S335@
+2 SOUR @S345@
 2 SOUR @S088@
 1 BURI
 2 PLAC US Soldiers’ and Airmen’s Home National Cemetery, Washington, District of Columbia, USA
-2 SOUR @S335@
+2 SOUR @S345@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: born 26 Jan 1923, Taylor; died 14 Nov 1945, Germany, aged 22; Private, U.S. Army, World War II; buried US Soldiers’ and Airmen’s Home National Cemetery, Washington, D.C
 2 CONC . Son of Joseph J. and Mary (Mora) Widdick; not among the survivors in his parents’ obituaries, consistent with his 1945 death.
-2 SOUR @S335@
+2 SOUR @S345@
 3 QUAY 2
 2 SOUR @S088@
 3 QUAY 2
-1 FAMC @F180@
+1 FAMC @F182@
 0 @WD050@ INDI
 1 NAME Stephen /Widdick/
 2 GIVN Stephen
@@ -9873,23 +9887,23 @@
 1 BIRT
 2 DATE 14 NOV 1897
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S338@
+2 SOUR @S348@
 1 DEAT
 2 DATE 20 SEP 1956
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S338@
+2 SOUR @S348@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S338@
+2 SOUR @S348@
 1 NOTE Spelling variants: Vojtko
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; confirmed] 1956 obituary (Times-Tribune) and Find a Grave: born in Scranton 14 Nov 1897; died 20 Sep 1956 at Hahnemann Hospital, Scranton; worked 30 years for Scranton Electric Co.; St. John’
 2 CONC s Slovak Catholic Church, Taylor; Taylor Hose and Engine Co. 3. Survived by wife the former Susan Mayurnick, sons John (Pittston), Stephen Jr. (Detroit), Edward (Taylor) and Paul, nine grandchildren
 2 CONC , and brother Joseph Widdick (Old Forge).
-2 SOUR @S338@
+2 SOUR @S348@
 3 QUAY 3
-1 FAMS @F184@
-1 FAMC @F178@
+1 FAMS @F186@
+1 FAMC @F180@
 0 @WD051@ INDI
 1 NAME Susan /Mayurnick/
 2 GIVN Susan
@@ -9899,18 +9913,18 @@
 1 SEX F
 1 BIRT
 2 DATE 1900
-2 SOUR @S338@
+2 SOUR @S348@
 1 DEAT
 2 DATE 1967
-2 SOUR @S338@
+2 SOUR @S348@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S338@
+2 SOUR @S348@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Wife of Stephen Widdick Sr. (“the former Susan Mayurnick”, his 1956 obituary); Find a Grave family link gives 1900–1967.
-2 SOUR @S338@
+2 SOUR @S348@
 3 QUAY 2
-1 FAMS @F184@
+1 FAMS @F186@
 0 @WD052@ INDI
 1 NAME John Joseph /Widdick/
 2 GIVN John Joseph
@@ -9920,16 +9934,16 @@
 1 SEX M
 1 BIRT
 2 DATE 1918
-2 SOUR @S338@
+2 SOUR @S348@
 1 DEAT
 2 DATE 1982
-2 SOUR @S338@
+2 SOUR @S348@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Son of Stephen Sr. and Susan (Mayurnick) Widdick (Pittston in his father’s 1956 obituary). Years 1918–1982 from the Find a Grave family links; full dates and own obituary not checke
 2 CONC d yet.
-2 SOUR @S338@
+2 SOUR @S348@
 3 QUAY 2
-1 FAMC @F184@
+1 FAMC @F186@
 0 @WD053@ INDI
 1 NAME Steven /Widdick/
 2 GIVN Steven
@@ -9939,16 +9953,16 @@
 1 SEX M
 1 BIRT
 2 DATE 1921
-2 SOUR @S338@
+2 SOUR @S348@
 1 DEAT
 2 DATE 1981
-2 SOUR @S338@
+2 SOUR @S348@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Son of Stephen Sr. and Susan (Mayurnick) Widdick (Detroit, Mich. in his father’s 1956 obituary). Years 1921–1981 from the Find a Grave family links; full dates and own obituary not ch
 2 CONC ecked yet.
-2 SOUR @S338@
+2 SOUR @S348@
 3 QUAY 2
-1 FAMC @F184@
+1 FAMC @F186@
 0 @WD054@ INDI
 1 NAME Edward E. /Widdick/
 2 GIVN Edward E.
@@ -9956,16 +9970,16 @@
 1 SEX M
 1 BIRT
 2 DATE 1924
-2 SOUR @S338@
+2 SOUR @S348@
 1 DEAT
 2 DATE 2011
-2 SOUR @S338@
+2 SOUR @S348@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Son of Stephen Sr. and Susan (Mayurnick) Widdick (Taylor in his father’s 1956 obituary). Years 1924–2011 from the Find a Grave family links; full dates and own obituary not checked ye
 2 CONC t.
-2 SOUR @S338@
+2 SOUR @S348@
 3 QUAY 2
-1 FAMC @F184@
+1 FAMC @F186@
 0 @WD055@ INDI
 1 NAME Paul E. /Widdick/
 2 GIVN Paul E.
@@ -9973,16 +9987,16 @@
 1 SEX M
 1 BIRT
 2 DATE 1934
-2 SOUR @S338@
+2 SOUR @S348@
 1 DEAT
 2 DATE 2013
-2 SOUR @S338@
+2 SOUR @S348@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Son of Stephen Sr. and Susan (Mayurnick) Widdick (at home in his father’s 1956 obituary). Years 1934–2013 from the Find a Grave family links; full dates and own obituary not checked y
 2 CONC et.
-2 SOUR @S338@
+2 SOUR @S348@
 3 QUAY 2
-1 FAMC @F184@
+1 FAMC @F186@
 0 @MR001@ INDI
 1 NAME Stefan James /Mora/
 2 GIVN Stefan James
@@ -9991,27 +10005,27 @@
 1 BIRT
 2 DATE 1871
 2 PLAC Austria
-2 SOUR @S339@
+2 SOUR @S349@
 2 SOUR @S089@
 1 DEAT
 2 DATE 23 DEC 1921
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S339@
+2 SOUR @S349@
 2 SOUR @S089@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S339@
+2 SOUR @S349@
 1 NOTE Spelling variants: Stephen Mora; James Mora
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: Stefan James Mora, born 1871, Austria; died 23 Dec 1921, Taylor; buried St. John the Baptist Cemetery, Taylor. Wife Mary Pendell; children Anna (Kristof), Mary A. (Widdi
 2 CONC ck), Elizabeth (Mando), Joseph S. and Andrew George Mora. Called “Stephen” in daughter Mary’s 1969 obituary and “James” in his widow’s 1945 obituary.
-2 SOUR @S339@
+2 SOUR @S349@
 3 QUAY 2
 2 SOUR @S089@
 3 QUAY 2
-2 SOUR @S340@
+2 SOUR @S350@
 3 QUAY 2
-1 FAMS @F185@
+1 FAMS @F187@
 0 @MR002@ INDI
 1 NAME Mary /Pendell/
 2 GIVN Mary
@@ -10022,21 +10036,21 @@
 1 BIRT
 2 DATE 14 AUG 1867
 2 PLAC Austria
-2 SOUR @S340@
+2 SOUR @S350@
 1 DEAT
 2 DATE 10 APR 1945
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S340@
+2 SOUR @S350@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S340@
+2 SOUR @S350@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; confirmed] 1945 obituary (The Tribune, Scranton): Mrs. Mary Mora, widow of James Mora, died at her home in Taylor (“yesterday”, 10 Apr 1945); born in Austria, in Taylor 40 years; St. John’s C
 2 CONC hurch. Survived by daughters Mrs. Joseph Widdick, Mrs. George Mango [Mando] and Mrs. John Gnall (Taylor), sons Andrew (Bloomfield, N.J.) and Joseph (Coatesville), brother John Pendell (Scranton), 21 g
 2 CONC randchildren (nine in the service) and 12 great-grandchildren.
-2 SOUR @S340@
+2 SOUR @S350@
 3 QUAY 3
-1 FAMS @F185@
+1 FAMS @F187@
 0 @MR003@ INDI
 1 NAME Anna /Mora/
 2 GIVN Anna
@@ -10049,21 +10063,21 @@
 1 BIRT
 2 DATE 24 SEP 1888
 2 PLAC Olyphant, Lackawanna, Pennsylvania, USA
-2 SOUR @S341@
+2 SOUR @S351@
 1 DEAT
 2 DATE 16 MAY 1940
 2 PLAC Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S341@
+2 SOUR @S351@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S341@
+2 SOUR @S351@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: born 24 Sep 1888, Olyphant; died 16 May 1940, Taylor; wife of Jozef Kristof. Children linked: Mary Elizabeth “Mame” Kristoff Chyhur (1912–2015), Joseph F. Kristoff Jr. (
 2 CONC 1914–1981), Elizabeth (1918), John Joseph Kristoff (1919–2012), Adam (1924), Andrew A. Kristoff (1924–2010), Irene Ann Kristoff Hix (1928–2018). Children not given cards yet (open leads).
-2 SOUR @S341@
+2 SOUR @S351@
 3 QUAY 2
-1 FAMS @F186@
-1 FAMC @F185@
+1 FAMS @F188@
+1 FAMC @F187@
 0 @MR004@ INDI
 1 NAME Jozef /Kristof/
 2 GIVN Jozef
@@ -10071,16 +10085,16 @@
 1 SEX M
 1 BIRT
 2 DATE 1889
-2 SOUR @S341@
+2 SOUR @S351@
 1 DEAT
 2 DATE 1965
-2 SOUR @S341@
+2 SOUR @S351@
 1 NOTE Spelling variants: Joseph Kristoff
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Husband of Anna Mora (Find a Grave family link, 1889–1965).
-2 SOUR @S341@
+2 SOUR @S351@
 3 QUAY 2
-1 FAMS @F186@
+1 FAMS @F188@
 0 @MR006@ INDI
 1 NAME Elizabeth /Mora/
 2 GIVN Elizabeth
@@ -10095,33 +10109,33 @@
 1 BIRT
 2 DATE 28 DEC 1893
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S342@
+2 SOUR @S352@
 2 SOUR @S089@
 1 DEAT
 2 DATE 29 OCT 1981
 2 PLAC Scranton, Lackawanna, Pennsylvania, USA
-2 SOUR @S342@
+2 SOUR @S352@
 2 SOUR @S089@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S342@
+2 SOUR @S352@
 1 NOTE Spelling variants: “Mrs. George Mango” (1945 obituary)
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: born 28 Dec 1893, Old Forge; died 29 Oct 1981, Scranton. Married George A. Prokopovitsh Jr. (1886–1918) in 1913 and George Mando Sr. (1894–1947) in 1932. Sons Rev. Joh
 2 CONC n E. Prokopovitsh (1914–1975) and Albert “Proky” Prokopovitch (1918–1980). Of Fairborn, Ohio, in her sister Mary’s 1969 obituary.
-2 SOUR @S342@
+2 SOUR @S352@
 3 QUAY 2
 2 SOUR @S089@
 3 QUAY 2
 1 NOTE [Conflict; unconfirmed] Birth: 28 Dec 1893 (memorial) vs. 1894 on the gravestone inscription; married name printed “Mango” in her mother’s 1945 obituary vs. Mando elsewhere. Tree keeps 28 Dec 1893 an
 2 CONC d Mando.
-2 SOUR @S342@
+2 SOUR @S352@
 3 QUAY 1
-2 SOUR @S340@
+2 SOUR @S350@
 3 QUAY 1
-1 FAMS @F187@
-1 FAMS @F188@
-1 FAMC @F185@
+1 FAMS @F189@
+1 FAMS @F190@
+1 FAMC @F187@
 0 @MR007@ INDI
 1 NAME George A. /Prokopovitsh/
 2 GIVN George A.
@@ -10131,15 +10145,15 @@
 1 SEX M
 1 BIRT
 2 DATE 1886
-2 SOUR @S342@
+2 SOUR @S352@
 1 DEAT
 2 DATE 1918
-2 SOUR @S342@
+2 SOUR @S352@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] First husband of Elizabeth Mora (m. 1913); Find a Grave family link 1886–1918.
-2 SOUR @S342@
+2 SOUR @S352@
 3 QUAY 2
-1 FAMS @F187@
+1 FAMS @F189@
 0 @MR008@ INDI
 1 NAME George /Mando/
 2 GIVN George
@@ -10149,15 +10163,15 @@
 1 SEX M
 1 BIRT
 2 DATE 1894
-2 SOUR @S342@
+2 SOUR @S352@
 1 DEAT
 2 DATE 1947
-2 SOUR @S342@
+2 SOUR @S352@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Second husband of Elizabeth Mora (m. 1932); gravestone “George, Sr. 1894–1947”.
-2 SOUR @S342@
+2 SOUR @S352@
 3 QUAY 2
-1 FAMS @F188@
+1 FAMS @F190@
 0 @MR009@ INDI
 1 NAME Joseph S. /Mora/
 2 GIVN Joseph S.
@@ -10166,25 +10180,25 @@
 1 BIRT
 2 DATE 14 JUL 1895
 2 PLAC Pennsylvania, USA
-2 SOUR @S343@
-2 SOUR @S340@
+2 SOUR @S353@
+2 SOUR @S350@
 1 DEAT
 2 DATE 13 APR 1979
-2 SOUR @S343@
-2 SOUR @S340@
+2 SOUR @S353@
+2 SOUR @S350@
 1 BURI
 2 PLAC Saint John the Baptist Catholic Church Cemetery, Taylor, Lackawanna, Pennsylvania, USA
-2 SOUR @S343@
+2 SOUR @S353@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: Pvt, U.S. Army, World War I; 14 Jul 1895 – 13 Apr 1979; buried St. John the Baptist Cemetery, Taylor. Of Coatesville in 1945 and Lebanon in 1969 (mother’s and sister’s o
 2 CONC bituaries).
-2 SOUR @S343@
+2 SOUR @S353@
 3 QUAY 2
-2 SOUR @S340@
+2 SOUR @S350@
 3 QUAY 2
 2 SOUR @S089@
 3 QUAY 2
-1 FAMC @F185@
+1 FAMC @F187@
 0 @MR010@ INDI
 1 NAME Andrew George /Mora/
 2 GIVN Andrew George
@@ -10193,23 +10207,23 @@
 1 BIRT
 2 DATE 19 APR 1898
 2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
-2 SOUR @S344@
+2 SOUR @S354@
 2 SOUR @S089@
 1 DEAT
 2 DATE 20 JUN 1969
-2 SOUR @S344@
+2 SOUR @S354@
 2 SOUR @S089@
 1 BURI
 2 PLAC Mount Olivet Cemetery, Bloomfield, Essex, New Jersey, USA
-2 SOUR @S344@
+2 SOUR @S354@
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Find a Grave: born 19 Apr 1898, Old Forge; died 20 Jun 1969; buried Mount Olivet Cemetery, Bloomfield, N.J.; a son Francis (1919–1920) linked. Listed as a living brother (Bloomfield
 2 CONC , N.J.) in sister Mary’s obituary of 18 Jun 1969, two days before his own death.
-2 SOUR @S344@
+2 SOUR @S354@
 3 QUAY 2
 2 SOUR @S089@
 3 QUAY 2
-1 FAMC @F185@
+1 FAMC @F187@
 0 @MR011@ INDI
 1 NAME Jule /Mora/
 2 GIVN Jule
@@ -10224,13 +10238,13 @@
 2 CONC rave; dates not found.
 2 SOUR @S089@
 3 QUAY 2
-2 SOUR @S340@
+2 SOUR @S350@
 3 QUAY 2
 1 NOTE [Assumed; unconfirmed] A daughter of a mother born 1867, so born by about 1910; presumed deceased. Given name printed “Jule” (possibly Julia); not confirmed.
-2 SOUR @S340@
+2 SOUR @S350@
 3 QUAY 1
-1 FAMS @F189@
-1 FAMC @F185@
+1 FAMS @F191@
+1 FAMC @F187@
 0 @MR012@ INDI
 1 NAME John /Gnall/
 2 GIVN John
@@ -10238,9 +10252,486 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave; Times Leader archive; web obituaries).
 1 NOTE [Record; likely] Husband of Jule Mora (“Mrs. John Gnall”, 1945 obituary of her mother). Dates not found.
-2 SOUR @S340@
+2 SOUR @S350@
 3 QUAY 2
-1 FAMS @F189@
+1 FAMS @F191@
+0 @GL020@ INDI
+1 NAME Michael /Galacci/
+2 GIVN Michael
+2 SURN Galacci
+1 SEX M
+1 BIRT
+2 DATE 5 SEP 1911
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S285@
+2 SOUR @S271@
+1 DEAT
+2 DATE MAY 1978
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S285@
+2 SOUR @S271@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S285@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: Michael Galacci, born 5 Sep 1911, Old Forge; died May 1978, Scranton; buried Old Forge Cemetery. Bio: “Son of Gaetano and Sarah Utico Galacci.” Married Angeline Mari
+2 CONC e Ambrose in 1934. He is the son Michael in his father’s Find a Grave bio.
+2 SOUR @S285@
+3 QUAY 3
+2 SOUR @S271@
+3 QUAY 3
+1 NOTE [Assumed; likely] Birth date: the memorial notes a corrected birth certificate changed his birth date from 11 Feb 1912 to 5 Sep 1911. Tree uses 5 Sep 1911.
+2 SOUR @S285@
+3 QUAY 2
+1 NOTE [Conflict; unconfirmed] Mother’s name: his memorial bio says “Sarah Utico”; his mother’s own memorial and sister Florence’s 2012 obituary say Theresa (Iola) Uticone. Taken as the same woman (Utico i
+2 CONC s a short form of Uticone; Sarah may be a clerk’s or family error). Unresolved.
+2 SOUR @S285@
+3 QUAY 1
+2 SOUR @S272@
+3 QUAY 1
+2 SOUR @S284@
+3 QUAY 1
+1 FAMS @F146@
+1 FAMC @F145@
+0 @GL021@ INDI
+1 NAME Angeline Marie /Ambrose/
+2 GIVN Angeline Marie
+2 SURN Ambrose
+1 NAME Angeline Marie /Galacci/
+2 TYPE married
+1 NAME Angeline Marie (Ambrose) Galacci
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 7 JUL 1911
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S288@
+2 SOUR @S289@
+1 DEAT
+2 DATE 8 JUN 2008
+2 PLAC Taylor, Lackawanna, Pennsylvania, USA
+2 SOUR @S288@
+2 SOUR @S289@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S288@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Obituary (Citizens Voice, 9 Jun 2008): Angeline M. Galacci of Old Forge died Sunday (8 Jun 2008); married to Michael Galacci, who died in 1978; born in Old Forge, daughter of the l
+2 CONC ate Frank and Pauline Freda Ambrose. Survived by daughter Theresa Bordick and husband Edward, two granddaughters and two great-grandchildren (living; not given cards). Preceded by brothers Frank and J
+2 CONC oseph Ambrose and sisters Rose and Carmella Ambrose and Josephine Holland. Funeral from Ciuccio Funeral Home; Mass at St. Mary’s of the Assumption, Old Forge; burial Old Forge Cemetery.
+2 SOUR @S288@
+3 QUAY 3
+2 SOUR @S289@
+3 QUAY 3
+1 NOTE [Record; confirmed] Find a Grave: born 7 Jul 1911, Old Forge; died 8 Jun 2008, Taylor; married Michael Galacci in 1934. See the Ambrose family chart for her parents and siblings.
+2 SOUR @S289@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birth: her 7 Jul 1911 birth is less than six months after sister Josephine’s (26 Jan 1911, Find a Grave). One of the two dates (or years) must be wrong. Unresolved.
+2 SOUR @S289@
+3 QUAY 1
+2 SOUR @S290@
+3 QUAY 1
+1 FAMS @F146@
+0 @GL022@ INDI
+1 NAME Theresa M. /Galacci/
+2 GIVN Theresa M.
+2 SURN Galacci
+1 NAME Theresa M. /Bordick/
+2 TYPE married
+1 NAME Theresa M. (Galacci) Bordick
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1934
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S291@
+2 SOUR @S288@
+1 DEAT
+2 DATE 24 FEB 2021
+2 PLAC Dunmore, Lackawanna, Pennsylvania, USA
+2 SOUR @S291@
+2 SOUR @S288@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Obituary (Louis V. Ciuccio Funeral Home): Theresa M. Bordick of Old Forge, 30 Nov 1934 – 24 Feb 2021, died at the Hospice of the Sacred Heart, Dunmore; widow of Edward Bordick (d
+2 CONC . 2013); born in Old Forge, daughter of the late Michael and Angeline Ambrose Galacci; Old Forge High School and Hoyt School of Nursing; worked for the Old Forge School District, Walmart and Allied Se
+2 CONC rvices. Survived by two daughters and two grandchildren (living; daughters given name-only cards). Mass at Prince of Peace Parish – St. Mary’s, Old Forge, 27 Feb 2021.
+2 SOUR @S291@
+3 QUAY 3
+2 SOUR @S288@
+3 QUAY 3
+1 FAMS @F147@
+1 FAMC @F146@
+0 @GL023@ INDI
+1 NAME Edward D. /Bordick/
+2 GIVN Edward D.
+2 SURN Bordick
+1 SEX M
+1 BIRT
+2 DATE 6 MAR 1932
+2 PLAC Wilkes-Barre, Luzerne, Pennsylvania, USA
+2 SOUR @S292@
+1 DEAT
+2 DATE 22 AUG 2013
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S292@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S292@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave with transcribed obituary: Edward D. Bordick of Old Forge died Thursday 22 Aug 2013 at Green Ridge Care Center, Scranton; married to the former Theresa Galacci (annive
+2 CONC rsary 26 Nov; 57 years); born in Wilkes-Barre, son of the late Antonio and Lucille Lispi Bordick; attended the University of Scranton; worked for Consolidated Cigar, Warp Processing and Tobyhanna Arm
+2 CONC y Depot; Army veteran of the Korean conflict. Survived by two daughters and two grandchildren. Burial Old Forge Cemetery.
+2 SOUR @S292@
+3 QUAY 3
+1 FAMS @F147@
+0 @GL024@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F147@
+0 @GL025@ INDI
+1 NAME Living
+1 SEX F
+1 FAMC @F147@
+0 @GL026@ INDI
+1 NAME Donald G. /Galacci/
+2 GIVN Donald G.
+2 SURN Galacci
+1 NAME Donald G. Galacci Sr.
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1925
+2 SOUR @S286@
+2 SOUR @S296@
+1 DEAT
+2 DATE 19 JAN 1986
+2 SOUR @S286@
+2 SOUR @S296@
+1 BURI
+2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S286@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: Donald Galacci, 1925–1986, buried Cathedral Cemetery, Scranton, with wife Sally A. Habgood Galacci. His widow’s 2012 obituary gives his death as 19 Jan 1986 (as Donal
+2 CONC d G. Galacci Sr.); his daughter Linda was born in Taylor in 1952.
+2 SOUR @S286@
+3 QUAY 3
+2 SOUR @S296@
+3 QUAY 3
+2 SOUR @S297@
+3 QUAY 3
+1 NOTE [Assumed; likely] Placed as the son “Donald” of Gaetano and Theresa Galacci (named last, after Florence b. 1921, in Gaetano’s Find a Grave bio). No record found yet that names his parents; the match r
+2 CONC ests on the rare surname, his birth about 1925 and the family’s Taylor home (Gaetano died in Taylor in 1950).
+2 SOUR @S271@
+3 QUAY 2
+2 SOUR @S286@
+3 QUAY 2
+2 SOUR @S296@
+3 QUAY 2
+0 @GL027@ INDI
+1 NAME Sally A. /Habgood/
+2 GIVN Sally A.
+2 SURN Habgood
+1 NAME Sally A. /Galacci/
+2 TYPE married
+1 NAME Sally A. (Habgood) Galacci
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 9 NOV 1927
+2 PLAC Taylor, Lackawanna, Pennsylvania, USA
+2 SOUR @S296@
+2 SOUR @S298@
+1 DEAT
+2 DATE 13 SEP 2012
+2 PLAC York, York, Pennsylvania, USA
+2 SOUR @S296@
+2 SOUR @S298@
+1 BURI
+2 PLAC Cathedral Cemetery, Scranton, Lackawanna, Pennsylvania, USA
+2 SOUR @S296@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Obituary: Sally A. Galacci, 84, of York, formerly of Taylor, died Thursday 13 Sep 2012 at Pleasant Acres Nursing and Rehabilitation Center, York; widow of Donald G. Galacci Sr. (d
+2 CONC . 19 Jan 1986); born in Taylor 9 Nov 1927, daughter of the late Gerald and Mary McGuire Habgood (Gerald ran the Taylor Bakery, per her sister Peggy’s obituary); Taylor High School; owner of Sally Gala
+2 CONC cci Salon in Taylor and later helped run her son’s restaurant, Alfredo’s. Survived by daughter Linda Galacci-Rogers and husband Kenneth, son Donald G. Jr. and two grandchildren (living; not given card
+2 CONC s). Preceded by sisters Mary and Peggy Habgood (d. 26 Apr 2011). Blessing and burial at Cathedral Cemetery, Scranton.
+2 SOUR @S296@
+3 QUAY 3
+2 SOUR @S298@
+3 QUAY 3
+0 @GL028@ INDI
+1 NAME Linda /Galacci/
+2 GIVN Linda
+2 SURN Galacci
+1 NAME Linda /Rogers/
+2 TYPE married
+1 NAME Linda Galacci-Rogers
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1952
+2 PLAC Taylor, Lackawanna, Pennsylvania, USA
+2 SOUR @S297@
+1 DEAT
+2 DATE 11 DEC 2019
+2 PLAC East Berlin, Adams, Pennsylvania, USA
+2 SOUR @S297@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Obituary (The Times-Tribune): Linda Galacci-Rogers, 67, of East Berlin, formerly Dover, Pa., died Wednesday, Dec. 11, at her home on Lake Meade; born in Taylor 24 May 1952, daughte
+2 CONC r of the late Donald G. and Sally A. (Habgood) Galacci Sr.; widow of Kenneth G. Rogers (d. 8 Sep 2013); worked in insurance (Sedgwick). Survived by a daughter, a son, brother Donald G. Galacci Jr. an
+2 CONC d two grandchildren (living; not given cards). Donated her body to Hershey Medical Center.
+2 SOUR @S297@
+3 QUAY 3
+1 NOTE [Assumed; likely] Year of death 2019: the web copy gives only “Wednesday, Dec. 11”; her age (67, born May 1952) and the page’s Dec 2019 image date fit 2019, when 11 Dec was a Wednesday.
+2 SOUR @S297@
+3 QUAY 2
+0 @GL029@ INDI
+1 NAME Kenneth G. /Rogers/
+2 GIVN Kenneth G.
+2 SURN Rogers
+1 SEX M
+1 DEAT
+2 DATE 8 SEP 2013
+2 SOUR @S297@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Husband of Linda Galacci-Rogers; died 8 Sep 2013, per her 2019 obituary.
+2 SOUR @S297@
+3 QUAY 3
+0 @GL030@ INDI
+1 NAME Living
+1 SEX M
+0 @AM001@ INDI
+1 NAME Francesco /Ambrose/
+2 GIVN Francesco
+2 SURN Ambrose
+2 NICK Frank
+1 NAME Francesco “Frank” Ambrose Sr.
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE APR 1875
+2 PLAC Italy
+2 SOUR @S355@
+2 SOUR @S288@
+1 DEAT
+2 DATE 14 JUL 1949
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S355@
+2 SOUR @S288@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S355@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: Francesco “Frank” Ambrose Sr., born Apr 1875, Italy; died 14 Jul 1949, Old Forge, about 74; buried Old Forge Cemetery. Death-certificate abstract on the memorial: fat
+2 CONC her Angelo Ambrose; wife Pauline; informant Frank Ambrose Jr. Children linked: Rose, Josephine (Holland), Angeline (Galacci), Francis Angelo “Frank” and Carmella; son Joseph A. “Chick” is named in Ang
+2 CONC eline’s obituary.
+2 SOUR @S355@
+3 QUAY 3
+2 SOUR @S288@
+3 QUAY 3
+1 FAMS @F192@
+0 @AM002@ INDI
+1 NAME Pasqualina /Freda/
+2 GIVN Pasqualina
+2 SURN Freda
+2 NICK Pauline
+1 NAME Pasqualina /Ambrose/
+2 TYPE married
+1 NAME Pasqualina “Pauline” (Freda) Ambrose
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 10 SEP 1882
+2 PLAC Italy
+2 SOUR @S356@
+2 SOUR @S288@
+1 DEAT
+2 DATE 25 JUL 1958
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S356@
+2 SOUR @S288@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S356@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: Pasqualina “Pauline” Freda Ambrose, born 10 Sep 1882, Italy; died 25 Jul 1958, Old Forge; buried Old Forge Cemetery. Bio: daughter of Carmen and Philomina Riga Freda
+2 CONC . Her maiden name Freda is confirmed by the obituaries of her children Angeline (2008) and Joseph (“Frank and Pauline Freda Ambrose”).
+2 SOUR @S356@
+3 QUAY 3
+2 SOUR @S288@
+3 QUAY 3
+2 SOUR @S357@
+3 QUAY 3
+1 FAMS @F192@
+0 @AM003@ INDI
+1 NAME Rose M. /Ambrose/
+2 GIVN Rose M.
+2 SURN Ambrose
+1 SEX F
+1 BIRT
+2 DATE 6 APR 1908
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S358@
+2 SOUR @S288@
+1 DEAT
+2 DATE 28 FEB 1988
+2 SOUR @S358@
+2 SOUR @S288@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S358@
+1 NOTE Spelling variants: Rose Antonia Ambrosi (delayed birth certificate)
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: Rose M. Ambrose, born 6 Apr 1908, Old Forge; died 28 Feb 1988; buried Old Forge Cemetery. Memorial note: her delayed birth certificate gives the middle name Antonia a
+2 CONC nd surname Ambrosi. Unmarried (named as Rose Ambrose in her siblings’ obituaries).
+2 SOUR @S358@
+3 QUAY 3
+2 SOUR @S288@
+3 QUAY 3
+1 FAMC @F192@
+0 @AM004@ INDI
+1 NAME Josephine Ann /Ambrose/
+2 GIVN Josephine Ann
+2 SURN Ambrose
+1 NAME Josephine Ann /Holland/
+2 TYPE married
+1 NAME Josephine Ann (Ambrose) Holland
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1911
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S290@
+1 DEAT
+2 DATE 1993
+2 SOUR @S290@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S290@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: born 26 Jan 1911, Old Forge; died 1993; buried Old Forge Cemetery; cigar maker at the time of her marriage to Michael Holland (1912–1981) in 1947.
+2 SOUR @S290@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birth: 26 Jan 1911 is less than six months before sister Angeline’s 7 Jul 1911 (both Find a Grave). One date is wrong. Unresolved.
+2 SOUR @S290@
+3 QUAY 1
+2 SOUR @S289@
+3 QUAY 1
+1 FAMS @F193@
+1 FAMC @F192@
+0 @AM005@ INDI
+1 NAME Michael /Holland/
+2 GIVN Michael
+2 SURN Holland
+1 SEX M
+1 BIRT
+2 DATE 1912
+2 SOUR @S290@
+1 DEAT
+2 DATE 1981
+2 SOUR @S290@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; likely] Husband of Josephine Ann Ambrose (m. 1947); Find a Grave family link, 1912–1981.
+2 SOUR @S290@
+3 QUAY 2
+1 FAMS @F193@
+0 @AM006@ INDI
+1 NAME Francis Angelo /Ambrose/
+2 GIVN Francis Angelo
+2 SURN Ambrose
+2 NICK Frank
+1 NAME Francis Angelo “Frank” Ambrose
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 25 DEC 1914
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S359@
+2 SOUR @S355@
+1 DEAT
+2 DATE 23 JAN 1993
+2 SOUR @S359@
+2 SOUR @S355@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S359@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: Francis Angelo “Frank” Ambrose, born 25 Dec 1914, Old Forge; died 23 Jan 1993; Pvt, U.S. Army, World War II; buried Old Forge Cemetery. A son Francis A. Ambrose (1948
+2 CONC –1972) is linked. Probably the “Frank Ambrose Jr.” who was informant on his father’s 1949 death certificate. Wife not named on the memorial.
+2 SOUR @S359@
+3 QUAY 3
+2 SOUR @S355@
+3 QUAY 3
+1 FAMS @F194@
+1 FAMC @F192@
+0 @AM007@ INDI
+1 NAME Francis A. /Ambrose/
+2 GIVN Francis A.
+2 SURN Ambrose
+1 SEX M
+1 BIRT
+2 DATE 1948
+2 SOUR @S359@
+1 DEAT
+2 DATE 1972
+2 SOUR @S359@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; likely] Son of Francis Angelo “Frank” Ambrose; Find a Grave family link, 1948–1972. Own memorial not checked yet.
+2 SOUR @S359@
+3 QUAY 2
+1 FAMC @F194@
+0 @AM008@ INDI
+1 NAME Carmella P. /Ambrose/
+2 GIVN Carmella P.
+2 SURN Ambrose
+2 NICK Carmel
+1 NAME Carmella P. “Carmel” Ambrose
+2 TYPE aka
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1917
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S360@
+1 DEAT
+2 DATE 14 OCT 1965
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S360@
+1 BURI
+2 PLAC Old Forge Cemetery, Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S360@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Find a Grave: Carmella P. “Carmel” Ambrose, born 16 Jun 1917, Old Forge; died 14 Oct 1965, Old Forge, aged 48; never married; cigar maker; buried Old Forge Cemetery.
+2 SOUR @S360@
+3 QUAY 3
+1 FAMC @F192@
+0 @AM009@ INDI
+1 NAME Joseph A. /Ambrose/
+2 GIVN Joseph A.
+2 SURN Ambrose
+2 NICK Chick
+1 NAME Joseph A. “Chick” Ambrose Sr.
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE ABT 1920
+2 PLAC Old Forge, Lackawanna, Pennsylvania, USA
+2 SOUR @S357@
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Obituary (The Times-Tribune): Joseph A. “Chick” Ambrose Sr., 85, of Taylor, died on a Tuesday evening at the VA Medical Center, Plains Township; husband of the former Ann Mando (ma
+2 CONC rried nearly 60 years; anniversary 21 June); born in Old Forge, son of the late Frank and Pauline Freda Ambrose; Old Forge High School 1938; inducted into the Army 12 Feb 1943 and served in World Wa
+2 CONC r II (Asiatic-Pacific); cared for the Old Forge Cemetery for many years. Survived by three sons, four daughters, 15 grandchildren and 14 great-grandchildren (living; not given cards) and sister Angeli
+2 CONC ne Galacci; preceded by brother Frank and sisters Rose, Carmella and Josephine. Burial Old Forge Cemetery.
+2 SOUR @S357@
+3 QUAY 3
+1 NOTE [Assumed; unconfirmed] Birth about 1920 (class of 1938) and death probably about 2005–06 (age 85, about 60 years married); the web copy does not show the date. Not linked on his parents’ Find a Grav
+2 CONC e pages.
+2 SOUR @S357@
+3 QUAY 1
+1 FAMS @F195@
+1 FAMC @F192@
+0 @AM010@ INDI
+1 NAME Living
+1 SEX F
+1 FAMS @F195@
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -10917,38 +11408,48 @@
 1 HUSB @GL001@
 1 WIFE @GL002@
 1 CHIL @GL003@
+1 CHIL @GL020@
 1 CHIL @BT014@
 1 CHIL @GL004@
 0 @F146@ FAM
+1 HUSB @GL020@
+1 WIFE @GL021@
+1 CHIL @GL022@
+0 @F147@ FAM
+1 HUSB @GL023@
+1 WIFE @GL022@
+1 CHIL @GL024@
+1 CHIL @GL025@
+0 @F148@ FAM
 1 HUSB @GL005@
 1 WIFE @GL004@
 1 CHIL @GL006@
 1 CHIL @GL007@
 1 CHIL @GL008@
-0 @F147@ FAM
+0 @F149@ FAM
 1 HUSB @GL007@
 1 WIFE @GL009@
 1 CHIL @GL010@
 1 CHIL @GL011@
 1 CHIL @GL012@
 1 CHIL @GL013@
-0 @F148@ FAM
+0 @F150@ FAM
 1 HUSB @CR001@
 1 WIFE @CR002@
 1 CHIL @BT015@
-0 @F149@ FAM
+0 @F151@ FAM
 1 HUSB @CR003@
 1 WIFE @CR002@
 1 CHIL @CR004@
 1 CHIL @CR006@
 1 CHIL @CR007@
-0 @F150@ FAM
+0 @F152@ FAM
 1 HUSB @CR005@
 1 WIFE @CR004@
-0 @F151@ FAM
+0 @F153@ FAM
 1 HUSB @CR007@
 1 WIFE @CR008@
-0 @F152@ FAM
+0 @F154@ FAM
 1 HUSB @BR001@
 1 WIFE @BR002@
 1 CHIL @BR010@
@@ -10961,81 +11462,81 @@
 1 CHIL @BR043@
 1 CHIL @BR045@
 1 CHIL @BR050@
-0 @F153@ FAM
+0 @F155@ FAM
 1 HUSB @BR010@
 1 WIFE @BR011@
 1 CHIL @BR012@
 1 CHIL @BR015@
 1 CHIL @BR020@
 1 CHIL @BR021@
-0 @F154@ FAM
+0 @F156@ FAM
 1 HUSB @BR013@
 1 WIFE @BR012@
 1 CHIL @BR014@
 1 CHIL @BR016@
 1 CHIL @BR017@
 1 CHIL @BR018@
-0 @F155@ FAM
+0 @F157@ FAM
 1 HUSB @BR015@
 1 CHIL @BR019@
 1 CHIL @BR022@
 1 CHIL @BR023@
 1 CHIL @BR024@
-0 @F156@ FAM
+0 @F158@ FAM
 1 HUSB @BR030@
 1 WIFE @BR031@
-0 @F157@ FAM
+0 @F159@ FAM
 1 HUSB @BR035@
 1 WIFE @BR034@
-0 @F158@ FAM
+0 @F160@ FAM
 1 HUSB @BR036@
 1 WIFE @BR037@
 1 CHIL @BR038@
 1 CHIL @BR039@
 1 CHIL @BR040@
 1 CHIL @BR041@
-0 @F159@ FAM
+0 @F161@ FAM
 1 WIFE @BR040@
 1 CHIL @BR054@
-0 @F160@ FAM
+0 @F162@ FAM
 1 HUSB @BR043@
 1 WIFE @BR044@
-0 @F161@ FAM
+0 @F163@ FAM
 1 HUSB @BR046@
 1 WIFE @BR045@
 1 CHIL @BR047@
 1 CHIL @BR048@
 1 CHIL @BR049@
-0 @F162@ FAM
+0 @F164@ FAM
 1 HUSB @BR051@
 1 WIFE @BR050@
 1 CHIL @BR052@
 1 CHIL @BR053@
-0 @F163@ FAM
+0 @F165@ FAM
 1 HUSB @OR002@
 1 WIFE @OR001@
 1 CHIL @OR010@
 1 CHIL @OR012@
 1 CHIL @OR014@
 1 CHIL @OR018@
-0 @F164@ FAM
+0 @F166@ FAM
 1 HUSB @OR010@
 1 WIFE @OR011@
-0 @F165@ FAM
+0 @F167@ FAM
 1 HUSB @OR013@
 1 WIFE @OR012@
-0 @F166@ FAM
+0 @F168@ FAM
 1 HUSB @OR014@
 1 WIFE @OR015@
 1 CHIL @OR016@
-0 @F167@ FAM
+0 @F169@ FAM
 1 HUSB @OR017@
 1 WIFE @OR016@
 1 CHIL @OR020@
 1 CHIL @OR021@
 1 CHIL @OR022@
 1 CHIL @OR023@
-0 @F168@ FAM
+0 @F170@ FAM
 1 HUSB @CZ001@
 1 WIFE @CZ002@
 1 CHIL @CZ010@
@@ -11046,59 +11547,59 @@
 1 CHIL @CZ030@
 1 CHIL @CZ040@
 1 CHIL @CZ050@
-0 @F169@ FAM
+0 @F171@ FAM
 1 HUSB @CZ013@
 1 WIFE @CZ012@
-0 @F170@ FAM
+0 @F172@ FAM
 1 HUSB @CZ015@
 1 WIFE @CZ014@
 1 CHIL @CZ016@
 1 CHIL @CZ020@
 1 CHIL @CZ021@
 1 CHIL @CZ022@
-0 @F171@ FAM
+0 @F173@ FAM
 1 HUSB @CZ016@
 1 WIFE @CZ017@
 1 CHIL @CZ018@
 1 CHIL @CZ019@
-0 @F172@ FAM
+0 @F174@ FAM
 1 HUSB @CZ022@
 1 CHIL @CZ023@
 1 CHIL @CZ024@
-0 @F173@ FAM
+0 @F175@ FAM
 1 HUSB @CZ031@
 1 WIFE @CZ030@
 1 CHIL @CZ032@
 1 CHIL @CZ033@
 1 CHIL @CZ034@
 1 CHIL @CZ035@
-0 @F174@ FAM
+0 @F176@ FAM
 1 HUSB @CZ041@
 1 WIFE @CZ040@
-0 @F175@ FAM
+0 @F177@ FAM
 1 HUSB @CZ051@
 1 WIFE @CZ050@
-0 @F176@ FAM
+0 @F178@ FAM
 1 HUSB @GT001@
 1 WIFE @GT002@
 1 CHIL @BR037@
 1 CHIL @GT010@
 1 CHIL @GT011@
-0 @F177@ FAM
+0 @F179@ FAM
 1 HUSB @GT012@
 1 WIFE @GT011@
 1 CHIL @GT013@
 1 CHIL @GT014@
-0 @F178@ FAM
+0 @F180@ FAM
 1 HUSB @WD001@
 1 WIFE @WD002@
 1 CHIL @WD003@
 1 CHIL @WD005@
 1 CHIL @WD050@
-0 @F179@ FAM
+0 @F181@ FAM
 1 HUSB @WD004@
 1 WIFE @WD003@
-0 @F180@ FAM
+0 @F182@ FAM
 1 HUSB @WD005@
 1 WIFE @MR005@
 1 CHIL @WD010@
@@ -11106,7 +11607,7 @@
 1 CHIL @I061@
 1 CHIL @WD040@
 1 CHIL @WD030@
-0 @F181@ FAM
+0 @F183@ FAM
 1 HUSB @WD011@
 1 WIFE @WD010@
 1 CHIL @WD012@
@@ -11114,22 +11615,22 @@
 1 CHIL @WD014@
 1 CHIL @WD015@
 1 CHIL @WD016@
-0 @F182@ FAM
+0 @F184@ FAM
 1 HUSB @WD021@
 1 WIFE @WD020@
-0 @F183@ FAM
+0 @F185@ FAM
 1 HUSB @WD031@
 1 WIFE @WD030@
 1 CHIL @WD032@
 1 CHIL @WD033@
-0 @F184@ FAM
+0 @F186@ FAM
 1 HUSB @WD050@
 1 WIFE @WD051@
 1 CHIL @WD052@
 1 CHIL @WD053@
 1 CHIL @WD054@
 1 CHIL @WD055@
-0 @F185@ FAM
+0 @F187@ FAM
 1 HUSB @MR001@
 1 WIFE @MR002@
 1 CHIL @MR003@
@@ -11138,18 +11639,35 @@
 1 CHIL @MR009@
 1 CHIL @MR010@
 1 CHIL @MR011@
-0 @F186@ FAM
+0 @F188@ FAM
 1 HUSB @MR004@
 1 WIFE @MR003@
-0 @F187@ FAM
+0 @F189@ FAM
 1 HUSB @MR007@
 1 WIFE @MR006@
-0 @F188@ FAM
+0 @F190@ FAM
 1 HUSB @MR008@
 1 WIFE @MR006@
-0 @F189@ FAM
+0 @F191@ FAM
 1 HUSB @MR012@
 1 WIFE @MR011@
+0 @F192@ FAM
+1 HUSB @AM001@
+1 WIFE @AM002@
+1 CHIL @AM003@
+1 CHIL @AM004@
+1 CHIL @AM006@
+1 CHIL @AM008@
+1 CHIL @AM009@
+0 @F193@ FAM
+1 HUSB @AM005@
+1 WIFE @AM004@
+0 @F194@ FAM
+1 HUSB @AM006@
+1 CHIL @AM007@
+0 @F195@ FAM
+1 HUSB @AM009@
+1 WIFE @AM010@
 0 @S001@ SOUR
 1 TITL Interview of Norma (Mazzaccaro) Azzolini by her son Tim Azzolini, Old Forge, Pa., 31 Oct 2026; relayed notes (interview-summary-2026-10-31.md). Narrative kept in the separate interview-context documen
 2 CONC t.
@@ -12006,186 +12524,234 @@
 1 TITL “Florence Celia Agostini” obituary, The Times-Tribune (Scranton, Pa.), Apr. 2012
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/florence-celia-agostini-scranton-pa/
 0 @S285@ SOUR
+1 TITL Find a Grave, memorial 242757655, Michael Galacci (1911–1978), Old Forge Cemetery, bio (“Son of Gaetano and Sarah Utico Galacci”) and family links
+1 NOTE URL: https://www.findagrave.com/memorial/242757655/michael-galacci
+0 @S286@ SOUR
+1 TITL Find a Grave, memorial 300115318, Donald Galacci (1925–1986), Cathedral Cemetery, Scranton (spouse link only)
+1 NOTE URL: https://www.findagrave.com/memorial/300115318/donald-galacci
+0 @S287@ SOUR
 1 TITL Find a Grave, memorial 236303197, Mary Galacci (1908–1934), Old Forge Cemetery, bio
 1 NOTE URL: https://www.findagrave.com/memorial/236303197/mary-galacci
-0 @S286@ SOUR
+0 @S288@ SOUR
+1 TITL Obituary of Angeline M. Galacci, Citizens Voice (Wilkes-Barre), Jun 2008
+1 NOTE URL: https://www.citizensvoice.com/obituaries/angeline-m-galacci-wilkes-barre-pa/
+0 @S289@ SOUR
+1 TITL Find a Grave, memorial 242757672, Angeline Marie Ambrose Galacci (1911–2008), Old Forge Cemetery, with transcribed obituary (Citizens Voice, 9 Jun 2008) and family links
+1 NOTE URL: https://www.findagrave.com/memorial/242757672/angeline_marie-galacci
+0 @S290@ SOUR
+1 TITL Find a Grave, memorial 242758382, Josephine Ann Ambrose Holland (1911–1993), Old Forge Cemetery, family links
+1 NOTE URL: https://www.findagrave.com/memorial/242758382/josephine_ann-holland
+0 @S291@ SOUR
+1 TITL Obituary of Theresa M. Bordick (30 Nov 1934–24 Feb 2021), Louis V. Ciuccio Funeral Home, Old Forge
+1 NOTE URL: https://www.ciucciofuneralhome.com/obituaries/theresa-m-bordick
+0 @S292@ SOUR
+1 TITL Find a Grave, memorial 242749074, Edward D. Bordick (1932–2013), veteran, Old Forge Cemetery, with transcribed obituary (Louis V. Ciuccio Funeral Home)
+1 NOTE URL: https://www.findagrave.com/memorial/242749074/edward-d-bordick
+0 @S293@ SOUR
 1 TITL Find a Grave, memorial 90800370, Louis J. Agostini (1916–1997), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/90800370/louis_j-agostini
-0 @S287@ SOUR
+0 @S294@ SOUR
 1 TITL Find a Grave, memorial 135378703, Lois Anne Agostini (1942–1999), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/135378703/lois_anne-agostini
-0 @S288@ SOUR
+0 @S295@ SOUR
 1 TITL “Carl L. Agostini” obituary, The Times-Tribune (Scranton, Pa.) / Ferri & Gillette Funeral Services, Old Forge, Dec. 2022
 1 NOTE URL: https://www.thetimes-tribune.com/obituaries/carl-l-agostini-old-forge-pa/
-0 @S289@ SOUR
+0 @S296@ SOUR
+1 TITL Obituary of Sally A. Galacci (9 Nov 1927–13 Sep 2012), Thomas P. Kearney Funeral Home, Old Forge (also The Times-Tribune, Scranton)
+1 NOTE URL: https://kearneyfuneralhome.com/obituaries/?id=1252
+0 @S297@ SOUR
+1 TITL Obituary of Linda Galacci-Rogers, The Times-Tribune (Scranton), Dec 2019
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/linda-galaccirogers-east-berlin-pa/
+0 @S298@ SOUR
+1 TITL Find a Grave, memorial 300115336, Sally A. Habgood Galacci (1927–2012), Cathedral Cemetery, Scranton
+1 NOTE URL: https://www.findagrave.com/memorial/300115336/sally_a-galacci
+0 @S299@ SOUR
 1 TITL Find a Grave, memorial 169489093, Catarina A. “Catherine” Wadanoli (1913–1998), Mountain Grove Cemetery, Easton, Conn.
 1 NOTE URL: https://www.findagrave.com/memorial/169489093/catarina_a-wadanoli
-0 @S290@ SOUR
+0 @S300@ SOUR
 1 TITL Find a Grave, memorial 169489087, Fred F. Wadanoli (1912–2003), Mountain Grove Cemetery, Easton, Conn., with transcribed Connecticut Post obituary (Dec. 2003)
 1 NOTE URL: https://www.findagrave.com/memorial/169489087/fred_f-wadanoli
-0 @S291@ SOUR
+0 @S301@ SOUR
 1 TITL Find a Grave, memorial 222173607, Francesco F. “Fred” Cariati (1916–1968), Old Forge Cemetery
 1 NOTE URL: https://www.findagrave.com/memorial/222173607/francesco_f-cariati
-0 @S292@ SOUR
+0 @S302@ SOUR
 1 TITL Find a Grave, memorial 242888812, Lucia “Lucy” Sabatini Cariati (1918–2003), Old Forge Cemetery, bio
 1 NOTE URL: https://www.findagrave.com/memorial/242888812/lucia-cariati
-0 @S293@ SOUR
+0 @S303@ SOUR
 1 TITL Find a Grave, memorial 103046433: Anna J. Baratta (1921–2012), quoting her Dec 2012 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/103046433/anna_j-baratta
-0 @S294@ SOUR
+0 @S304@ SOUR
 1 TITL Find a Grave, memorial 207777100: Loretta Baratta Orndorff (1926–2014), quoting her 2014 obituary (Delaware County Daily Times)
 1 NOTE URL: https://www.findagrave.com/memorial/207777100/loretta-orndorff
-0 @S295@ SOUR
+0 @S305@ SOUR
 1 TITL Find a Grave, memorial 66288953: Angeline Mastrogiovanni Baratta (1888–1951), Saint Mary’s Cemetery, Hanover Twp., Pa.
 1 NOTE URL: https://www.findagrave.com/memorial/66288953/angeline-baratta
-0 @S296@ SOUR
+0 @S306@ SOUR
 1 TITL Find a Grave, memorial 202293158: Louise Baratta Primatic (1917–1991), quoting Citizens’ Voice obituary, 21 Jan 1991
 1 NOTE URL: https://www.findagrave.com/memorial/202293158/louise-primatic
-0 @S297@ SOUR
+0 @S307@ SOUR
 1 TITL Find a Grave, memorial 202294368: Joseph James Baratta (1918–2005), St. Nicholas Cemetery, Shavertown, Pa., quoting his 2005 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/202294368/joseph_james-baratta
-0 @S298@ SOUR
+0 @S308@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Joseph J. Baratta, 12 Feb 2005, p. 6A
 1 NOTE URL: https://archive.timesleader.com/article/1074894/joseph-baratta
-0 @S299@ SOUR
+0 @S309@ SOUR
 1 TITL Find a Grave, memorial 66289044: Patrick Baratta (1911–1943), Saint Mary’s Cemetery, Hanover Twp., Pa.
 1 NOTE URL: https://www.findagrave.com/memorial/66289044/patrick-baratta
-0 @S300@ SOUR
+0 @S310@ SOUR
 1 TITL Find a Grave, memorial 143662726: Venus Ciavarella Baratta (1913–2001) (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/143662726/venus-baratta
-0 @S301@ SOUR
+0 @S311@ SOUR
 1 TITL Find a Grave, memorial 184571907: Joseph Patrick Baratta (1938–2017), South Florida National Cemetery, quoting his 2017 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/184571907/joseph_patrick-baratta
-0 @S302@ SOUR
+0 @S312@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Mrs. Venus (Ciavarella) Baratta, 2 Feb 2001, p. 8A
 1 NOTE URL: https://archive.timesleader.com/article/996795/mrs-venus-ciavarella-baratta-age-87
-0 @S303@ SOUR
+0 @S313@ SOUR
 1 TITL Find a Grave, memorial 216849461: Angeline M. “Angie” Baratta Cullinan (1933–2020), quoting her 2020 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/216849461/angeline_m-cullinan
-0 @S304@ SOUR
+0 @S314@ SOUR
 1 TITL Find a Grave, memorial 66288968: Anthony Baratta (1912–1972), Saint Mary’s Cemetery, Hanover Twp., Pa.
 1 NOTE URL: https://www.findagrave.com/memorial/66288968/anthony-baratta
-0 @S305@ SOUR
+0 @S315@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Sophia Elizabeth (Rogus) Baratta, 14 Apr 2003, p. 6A
 1 NOTE URL: https://archive.timesleader.com/article/1037864/sophia-baratta
-0 @S306@ SOUR
+0 @S316@ SOUR
 1 TITL Find a Grave, memorial 253272302: Sophia Eleanor Rogus Baratta (1915–2003), Saint Mary’s Cemetery, Hanover Twp., Pa. (family links)
 1 NOTE URL: https://www.findagrave.com/memorial/253272302/sophia_eleanor-baratta
-0 @S307@ SOUR
+0 @S317@ SOUR
 1 TITL Find a Grave, memorial 107361992: John Carl Baratta (1914–1978), WWII veteran, Woodlawn Memorial Park, Gotha, Fla.
 1 NOTE URL: https://www.findagrave.com/memorial/107361992/john_carl-baratta
-0 @S308@ SOUR
+0 @S318@ SOUR
 1 TITL Find a Grave, memorial 143368764: Mary Baratta (1915–1921), quoting Wilkes-Barre Times Leader, 8 Feb 1921
 1 NOTE URL: https://www.findagrave.com/memorial/143368764/mary-baratta
-0 @S309@ SOUR
+0 @S319@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Mary M. (Marie) Baratta (née Gigliotti), 24 Dec 2007
 1 NOTE URL: https://archive.timesleader.com/article/1166977/mary-baratta
-0 @S310@ SOUR
+0 @S320@ SOUR
 1 TITL Find a Grave, memorial 159493772: Carl Philip Baratta (1923–2012), Woodlawn Memorial Park, Gotha, Fla.
 1 NOTE URL: https://www.findagrave.com/memorial/159493772/carl_philip-baratta
-0 @S311@ SOUR
+0 @S321@ SOUR
 1 TITL Find a Grave, memorial 106263337: Diane M. Orndorff Stoccardo (1955–2013), quoting her 2013 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/106263337/diane_m-stoccardo
-0 @S312@ SOUR
+0 @S322@ SOUR
 1 TITL Find a Grave, memorial 142949947: June Baratta Gill (1928–2011), quoting Burlington County Times obituary, 18 Nov 2011
 1 NOTE URL: https://www.findagrave.com/memorial/142949947/june-gill
-0 @S313@ SOUR
+0 @S323@ SOUR
 1 TITL Find a Grave, memorial 98834752: Joseph Orrick (1868–1955), quoting Jersey Journal obituary, 5 Apr 1955
 1 NOTE URL: https://www.findagrave.com/memorial/98834752/joseph-orrick
-0 @S314@ SOUR
+0 @S324@ SOUR
 1 TITL Find a Grave, memorial 98834751: Carl Anthony Orrick (1896–1960), Holy Cross Cemetery, North Arlington, N.J.
 1 NOTE URL: https://www.findagrave.com/memorial/98834751/carl_anthony-orrick
-0 @S315@ SOUR
+0 @S325@ SOUR
 1 TITL Find a Grave, memorial 180924362: Christine Orrick Carrara (1900–1975), quoting Jersey Journal obituary, 22 Sep 1975
 1 NOTE URL: https://www.findagrave.com/memorial/180924362/christine-carrara
-0 @S316@ SOUR
+0 @S326@ SOUR
 1 TITL Find a Grave, memorial 98834755: Patrick A. Orrick (1905–1981), quoting The Record (Hackensack) obituary, 4 Dec 1981
 1 NOTE URL: https://www.findagrave.com/memorial/98834755/patrick_a-orrick
-0 @S317@ SOUR
+0 @S327@ SOUR
 1 TITL Find a Grave, memorial 202109404: Louise Mary Orrick Gorman (1924–2016), quoting The Record obituary, 5 Jul 2016
 1 NOTE URL: https://www.findagrave.com/memorial/202109404/louise_mary-gorman
-0 @S318@ SOUR
+0 @S328@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Rachel Donnini (née Ciavarella), 18 Jun 2003, p. 6A
 1 NOTE URL: https://archive.timesleader.com/article/1041411/rachel-donnini
-0 @S319@ SOUR
+0 @S329@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Mrs. Mary Muzzupappa (née Ciavarella), 30 Apr 2009
 1 NOTE URL: https://archive.timesleader.com/article/1267969/mary-muzzupappa
-0 @S320@ SOUR
+0 @S330@ SOUR
 1 TITL Find a Grave, memorial 123153883: Rachel Ciavarella Donnini (1916–2003), Saint Mary’s Cemetery, Hanover Twp., Pa.
 1 NOTE URL: https://www.findagrave.com/memorial/123153883/rachel-donnini
-0 @S321@ SOUR
+0 @S331@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Peter J. Starcun, 30 Jul 2008
 1 NOTE URL: https://archive.timesleader.com/article/1196404/peter-j-starcun-85-of-north-palm-beach-fla-passed-away-peac
-0 @S322@ SOUR
+0 @S332@ SOUR
 1 TITL Find a Grave, memorial 185485159: John M. Donnini (d. 2017), Saint Mary’s Cemetery, Hanover Twp., Pa., quoting his 2017 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/185485159/john_m-donnini
-0 @S323@ SOUR
+0 @S333@ SOUR
 1 TITL Find a Grave, memorial 206990235: James T. “Jim” Donnini (1953–2019), Riverside Memorial Park, Tequesta, Fla., quoting his 2019 obituary
 1 NOTE URL: https://www.findagrave.com/memorial/206990235/james_t-donnini
-0 @S324@ SOUR
+0 @S334@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Dominick J. Muzzupappa, 25 Sep 2009
 1 NOTE URL: https://archive.timesleader.com/article/1261604/dominick-j-muzzupappa
-0 @S325@ SOUR
+0 @S335@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Daniel DelBalso Sr., 29 Jan 1994
 1 NOTE URL: https://archive.timesleader.com/article/838534/daniel-delbalso-sr-who-founded-dd-auto-supply-in-1940-dies-daniel-delbalso-sr-a-local-businessman-of-riverside-drive-wilkes-barre-died-friday-jan-28
 2 CONC -1994-at-mercy-hospital-wilkes-b
-0 @S326@ SOUR
+0 @S336@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Frances R. Sireno (née Gigliotti), 13 Dec 2011
 1 NOTE URL: https://archive.timesleader.com/article/1374996/frances-r-sireno
-0 @S327@ SOUR
+0 @S337@ SOUR
 1 TITL Times Leader (Wilkes-Barre) digital archive: obituary of Frank J. Gigliotti, 20 May 1998
 1 NOTE URL: https://archive.timesleader.com/article/934556/frank-gigliotti-may-14-1998-frank-j-gigliotti-of-wyoming-street-wilkes-barre-died-may-14-at-the-department-of-veterans-affairs-medical-center-wilkes
 2 CONC -barre
-0 @S328@ SOUR
+0 @S338@ SOUR
 1 TITL Find a Grave, memorial 93767314, Jan Vojtko (1849–1924), St. John the Baptist Cemetery, Taylor, with transcribed notice (The Times-Tribune, 21 Mar 1924, p. 41)
 1 NOTE URL: https://www.findagrave.com/memorial/93767314/jan-vojtko
-0 @S329@ SOUR
+0 @S339@ SOUR
 1 TITL Find a Grave, memorial 93767351, Maria Vasko Vojtko (1850–1937), St. John the Baptist Cemetery, Taylor, with transcribed funeral notice (The Times-Tribune, 3 May 1937, p. 17)
 1 NOTE URL: https://www.findagrave.com/memorial/93767351/maria-vojtko
-0 @S330@ SOUR
+0 @S340@ SOUR
 1 TITL Find a Grave, memorial 94008716, Anna Voytko Mesarč (1878–1948), St. John the Baptist Cemetery, Taylor, with transcribed obituary (Wilkes-Barre Times Leader, Evening News, 1 Oct 1948, p. 44) and famil
 2 CONC y links
 1 NOTE URL: https://www.findagrave.com/memorial/94008716/anna-mesar%C4%8D
-0 @S331@ SOUR
+0 @S341@ SOUR
 1 TITL Find a Grave, memorial 230456162, Margaret Clare Widdick Kavlich (1915–2000), Parkwood Cemetery, Baltimore, with transcribed obituary (The Baltimore Sun, 20 Jan 2000)
 1 NOTE URL: https://www.findagrave.com/memorial/230456162/margaret_clare-kavlich
-0 @S332@ SOUR
+0 @S342@ SOUR
 1 TITL Find a Grave, memorial 230456037, Elmer Francis Kavlich (1914–1999), Parkwood Cemetery, Baltimore, family links
 1 NOTE URL: https://www.findagrave.com/memorial/230456037/elmer_francis-kavlich
-0 @S333@ SOUR
+0 @S343@ SOUR
 1 TITL Find a Grave, memorial 82898594, Marie Eli Widdick LaKatosh (1917–1997), Saint Agnes R.C. Cemetery, West Goshen Twp., Pa., family links
 1 NOTE URL: https://www.findagrave.com/memorial/82898594/marie_eli-lakatosh
-0 @S334@ SOUR
+0 @S344@ SOUR
 1 TITL Find a Grave surname search “LaKatosh” (John LaKatosh, veteran, 28 May 1916 – 10 May 1991, Saint Agnes R.C. Cemetery, West Goshen Twp.), 20 Nov 2026
 1 NOTE URL: https://www.findagrave.com/memorial/search?lastname=LaKatosh
-0 @S335@ SOUR
+0 @S345@ SOUR
 1 TITL Find a Grave, memorial 21923494, PVT Joseph John Widdick (1923–1945), US Soldiers’ and Airmen’s Home National Cemetery, Washington, D.C.
 1 NOTE URL: https://www.findagrave.com/memorial/21923494/joseph_john-widdick
-0 @S336@ SOUR
+0 @S346@ SOUR
 1 TITL “Louis Belcastro, Dec. 20, 1993” obituary, Times Leader (Wilkes-Barre), 22 Dec 1993 (Times Leader archive)
 1 NOTE URL: https://archive.timesleader.com/article/837062/louis-belcastro-dec-20-1993-louis-e-belcastro-70-of-apache-drive-old-forge-died-monday-in-geisinger-wyoming-valley-medical-center-plains-township
-0 @S337@ SOUR
+0 @S347@ SOUR
 1 TITL “Michael Anthony Belcastro, Jr.” obituary, Thomas P. Kearney Funeral Home, Old Forge, May 2018
 1 NOTE URL: https://kearneyfuneralhome.com/obituaries/?id=2415
-0 @S338@ SOUR
+0 @S348@ SOUR
 1 TITL Find a Grave, memorial 94014579, Stephen Widdick Sr. (1897–1956), St. John the Baptist Cemetery, Taylor, with transcribed obituary (The Times-Tribune, 20 Sep 1956, p. 38) and family links
 1 NOTE URL: https://www.findagrave.com/memorial/94014579/stephen-widdick
-0 @S339@ SOUR
+0 @S349@ SOUR
 1 TITL Find a Grave, memorial 155429850, Stefan James Mora (1871–1921), St. John the Baptist Cemetery, Taylor, family links
 1 NOTE URL: https://www.findagrave.com/memorial/155429850/stefan_james-mora
-0 @S340@ SOUR
+0 @S350@ SOUR
 1 TITL Find a Grave, memorial 202246712, Mary Pendell Mora (1867–1945), St. John the Baptist Cemetery, Taylor, with transcribed obituary (The Tribune, Scranton, 11 Apr 1945)
 1 NOTE URL: https://www.findagrave.com/memorial/202246712/mary-mora
-0 @S341@ SOUR
+0 @S351@ SOUR
 1 TITL Find a Grave, memorial 93952601, Anna Mora Kristof (1888–1940), St. John the Baptist Cemetery, Taylor, family links
 1 NOTE URL: https://www.findagrave.com/memorial/93952601/anna-kristof
-0 @S342@ SOUR
+0 @S352@ SOUR
 1 TITL Find a Grave, memorial 93987494, Elizabeth Mora Mando (1893–1981), St. John the Baptist Cemetery, Taylor, inscription and family links
 1 NOTE URL: https://www.findagrave.com/memorial/93987494/elizabeth-mando
-0 @S343@ SOUR
+0 @S353@ SOUR
 1 TITL Find a Grave, memorial 71036060, Joseph S Mora (1895–1979), St. John the Baptist Cemetery, Taylor, WWI inscription
 1 NOTE URL: https://www.findagrave.com/memorial/71036060/joseph_s-mora
-0 @S344@ SOUR
+0 @S354@ SOUR
 1 TITL Find a Grave, memorial 110227762, Andrew George Mora (1898–1969), Mount Olivet Cemetery, Bloomfield, N.J.
 1 NOTE URL: https://www.findagrave.com/memorial/110227762/andrew_george-mora
+0 @S355@ SOUR
+1 TITL Find a Grave, memorial 171801780, Francesco “Frank” Ambrose Sr. (1875–1949), Old Forge Cemetery, death-certificate abstract and family links
+1 NOTE URL: https://www.findagrave.com/memorial/171801780/francesco-ambrose
+0 @S356@ SOUR
+1 TITL Find a Grave, memorial 235952891, Pasqualina “Pauline” Freda Ambrose (1882–1958), Old Forge Cemetery, bio and family links
+1 NOTE URL: https://www.findagrave.com/memorial/235952891/pasqualina-ambrose
+0 @S357@ SOUR
+1 TITL Obituary of Joseph A. “Chick” Ambrose Sr., The Times-Tribune (Scranton); date of death not shown on the web copy
+1 NOTE URL: https://www.thetimes-tribune.com/obituaries/joseph-a-ambrose-scranton-pa/
+0 @S358@ SOUR
+1 TITL Find a Grave, memorial 235953198, Rose M. Ambrose (1908–1988), Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/235953198/rose_m-ambrose
+0 @S359@ SOUR
+1 TITL Find a Grave, memorial 92604960, Francis Angelo “Frank” Ambrose (1914–1993), WWII veteran, Old Forge Cemetery, family links
+1 NOTE URL: https://www.findagrave.com/memorial/92604960/francis_angelo-ambrose
+0 @S360@ SOUR
+1 TITL Find a Grave, memorial 235953083, Carmella P. “Carmel” Ambrose (1917–1965), Old Forge Cemetery
+1 NOTE URL: https://www.findagrave.com/memorial/235953083/carmella_p-ambrose
 0 TRLR
