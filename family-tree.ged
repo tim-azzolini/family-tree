@@ -11363,19 +11363,19 @@
 1 BIRT
 2 DATE 21 NOV 1919
 2 PLAC Boston, Suffolk, Massachusetts, USA
-2 SOUR @S401@
+2 SOUR @S402@
 2 SOUR @S372@
 1 DEAT
 2 DATE 7 MAR 2002
 2 PLAC Holiday, Pasco, Florida, USA
-2 SOUR @S401@
+2 SOUR @S402@
 2 SOUR @S372@
 1 BURI
 2 PLAC Serenity Gardens, Lakeland, Polk, Florida, USA
-2 SOUR @S401@
+2 SOUR @S402@
 1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
 1 NOTE [Record; confirmed] Child of Pasquale and Filomena Comperchio (1919–2002), linked on both parents’ and sister Celia’s Find a Grave memorials; named among Celia’s siblings in her 1967 death notice.
-2 SOUR @S401@
+2 SOUR @S402@
 3 QUAY 3
 2 SOUR @S372@
 3 QUAY 3
@@ -11383,9 +11383,9 @@
 3 QUAY 3
 1 NOTE [Record; confirmed] Find a Grave: veteran; born 21 Nov 1919 Boston; died 7 Mar 2002 Holiday, Fla., aged 82; buried Serenity Gardens, Lakeland, Fla. Wife Josephine R. Arnone (1921–2008, m. 1943); survi
 2 CONC ved by wife “Jo”, three sons (James, Ronald and Peter, per Peter’s memorial), two sisters, seven grandchildren and two great-granddaughters.
-2 SOUR @S402@
-3 QUAY 3
 2 SOUR @S403@
+3 QUAY 3
+2 SOUR @S404@
 3 QUAY 3
 1 FAMS @F215@
 1 FAMC @F203@
@@ -11402,38 +11402,38 @@
 1 BIRT
 2 DATE 23 MAR 1927
 2 PLAC Boston, Suffolk, Massachusetts, USA
-2 SOUR @S404@
+2 SOUR @S405@
 2 SOUR @S372@
 1 DEAT
 2 DATE 28 AUG 2026
 2 PLAC Boston, Suffolk, Massachusetts, USA
-2 SOUR @S404@
+2 SOUR @S405@
 2 SOUR @S372@
 1 BURI
 2 PLAC Saint Joseph Cemetery, West Roxbury, Suffolk, Massachusetts, USA
-2 SOUR @S404@
+2 SOUR @S405@
 1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
 1 NOTE [Record; confirmed] Obituary: Lena (Comperchio) Dello Russo, 99, of West Roxbury, died 28 Aug 2026 (born 23 Mar 1927); youngest of the ten children of the late Filomena and Pasquale Comperchio; wife o
 2 CONC f the late John “Ozzie” Dello Russo; grew up in Boston’s North End. Survived by four children and their families. Interment Saint Joseph Cemetery, West Roxbury.
-2 SOUR @S404@
+2 SOUR @S405@
 3 QUAY 3
 2 SOUR @S372@
 3 QUAY 3
 1 NOTE [Conflict; likely] Spelling: “Mrs. Lena Della Russo” in the 1967 notice vs Dello Russo (her obituary and Find a Grave). Tree uses Dello Russo.
 2 SOUR @S371@
 3 QUAY 2
-2 SOUR @S404@
+2 SOUR @S405@
 3 QUAY 2
 1 NOTE [Record; confirmed] Funeral-home obituary names her children John (Gail) Dello Russo, Mark Dello Russo, Maria (Bryan) Carpenter and Ann (Ralph) Prittie; grandchildren Christa, David and Cara; one grea
 2 CONC t-granddaughter. Her Find a Grave memorial adds that she also had twins who died as babies.
-2 SOUR @S404@
-3 QUAY 3
 2 SOUR @S405@
+3 QUAY 3
+2 SOUR @S406@
 3 QUAY 3
 1 NOTE [Conflict; unconfirmed] Birth date: 23 Mar 1927 (Kfoury Keefe funeral-home page) vs 27 Mar 1927 (Find a Grave). Tree keeps the funeral-home date.
-2 SOUR @S404@
-3 QUAY 1
 2 SOUR @S405@
+3 QUAY 1
+2 SOUR @S406@
 3 QUAY 1
 1 FAMS @F216@
 1 FAMC @F203@
@@ -11447,7 +11447,7 @@
 1 SEX M
 1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
 1 NOTE [Record; confirmed] Late husband of Lena (Comperchio) Dello Russo, per her 2026 obituary; grew up in Boston’s North End. Dates not found this run.
-2 SOUR @S404@
+2 SOUR @S405@
 3 QUAY 3
 1 FAMS @F216@
 0 @CP020@ INDI
@@ -11851,10 +11851,26 @@
 3 QUAY 3
 2 SOUR @S399@
 3 QUAY 3
-1 NOTE [Assumed; unconfirmed] No relationship to Sabino “Sam” DeMarco (born Boston 1905) has been found.
+1 NOTE [Assumed; unconfirmed] No relationship to Sabino “Sam” DeMarco (born Boston 1905) has been found. Anthony’s parents were Fred and Carolina (Ventullo) DeMarco (his 2002 obituary); Sabino’s parents ar
+2 CONC e still unknown, so whether the two DeMarco husbands were related is still open.
+2 SOUR @S400@
+3 QUAY 1
+2 SOUR @S401@
+3 QUAY 1
+1 NOTE [Record; confirmed] Obituary (Dello Russo Funeral Service, 2002): died Thursday morning after a brief illness, aged 87; husband of the late Angelina (Comperchio). Born and raised in Boston, son of th
+2 CONC e late Carolina (Ventullo) and Fred DeMarco; lived in Florida for the last 18 years, formerly a long-time resident of Medford. Worked at the Boston Navy Yard during World War II, then trained as an up
+2 CONC holsterer and opened Venmar Furniture of Boston, which he ran until he retired. Survived by son Anthony J. DeMarco, daughter Carolyn DeMarco, three grandchildren (Nicole Russell, Christine Addonizio
+2 CONC , Anthony Addonizio) and brother Fred DeMarco. Funeral Mass at St. Patrick Church, Stoneham.
+2 SOUR @S401@
+3 QUAY 3
+1 NOTE [Conflict; unconfirmed] Birthplace and death date: his obituary says he was “born and raised in Boston” (Find a Grave: born Medford). The obituary says he died on a Thursday, with the funeral on Monda
+2 CONC y 30 Sep, which points to Thu 26 Sep 2002 (Find a Grave: 27 Sep 2002). The tree keeps Find a Grave’s Medford and 27 Sep 2002 until a death record is seen.
+2 SOUR @S401@
+3 QUAY 1
 2 SOUR @S400@
 3 QUAY 1
 1 FAMS @F214@
+1 FAMC @F218@
 0 @CP038@ INDI
 1 NAME Josephine R. /Arnone/
 2 GIVN Josephine R.
@@ -11867,17 +11883,17 @@
 1 SEX F
 1 BIRT
 2 DATE 1921
-2 SOUR @S402@
 2 SOUR @S403@
+2 SOUR @S404@
 1 DEAT
 2 DATE 2008
-2 SOUR @S402@
 2 SOUR @S403@
+2 SOUR @S404@
 1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
 1 NOTE [Record; confirmed] “Jo”, wife of Vincent J. “Jim” Comperchio (m. 1943), per his Find a Grave memorial and son Peter’s memorial bio.
-2 SOUR @S402@
-3 QUAY 3
 2 SOUR @S403@
+3 QUAY 3
+2 SOUR @S404@
 3 QUAY 3
 1 FAMS @F215@
 0 @CP039@ INDI
@@ -11888,15 +11904,15 @@
 1 BIRT
 2 DATE 5 SEP 1955
 2 PLAC Boston, Suffolk, Massachusetts, USA
-2 SOUR @S403@
+2 SOUR @S404@
 1 DEAT
 2 DATE 8 OCT 2011
 2 PLAC Lakeland, Polk, Florida, USA
-2 SOUR @S403@
+2 SOUR @S404@
 1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
 1 NOTE [Record; confirmed] Find a Grave: youngest son of Vincent and Josephine (Arnone) Comperchio; brother of James and Ronald; husband of Rennette (Pourier); father of Angela (Comperchio) Morris and Christ
 2 CONC opher; died 8 Oct 2011 Lakeland, Fla., aged 56; cremated.
-2 SOUR @S403@
+2 SOUR @S404@
 3 QUAY 3
 1 FAMC @F215@
 0 @CP040@ INDI
@@ -11923,6 +11939,36 @@
 1 NAME Living
 1 SEX F
 1 FAMC @F214@
+0 @DF001@ INDI
+1 NAME Fred /DeMarco/
+2 GIVN Fred
+2 SURN DeMarco
+1 SEX M
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Father of Anthony F. DeMarco (1915–2002), named as “the late … Fred DeMarco” in Anthony’s 2002 obituary. No dates or burial found yet. No link to Sabino “Sam” DeMarco’s family is k
+2 CONC nown.
+2 SOUR @S401@
+3 QUAY 3
+1 FAMS @F218@
+0 @DF002@ INDI
+1 NAME Carolina /Ventullo/
+2 GIVN Carolina
+2 SURN Ventullo
+1 NAME Carolina /DeMarco/
+2 TYPE married
+1 NAME Carolina (Ventullo) DeMarco
+2 TYPE aka
+1 SEX F
+1 NOTE Photo: none found publicly (searched: Find a Grave; funeral-home and newspaper obituaries).
+1 NOTE [Record; confirmed] Mother of Anthony F. DeMarco (1915–2002), named as “the late Carolina (Ventullo)” in his 2002 obituary. No dates or burial found yet; the Ventullo surname is found mainly in Malden
+2 CONC , Saugus and Lynn, Mass., on Find a Grave (no link to her proven).
+2 SOUR @S401@
+3 QUAY 3
+1 FAMS @F218@
+0 @DF003@ INDI
+1 NAME Living
+1 SEX M
+1 FAMC @F218@
 0 @F001@ FAM
 1 HUSB @I001@
 1 WIFE @I002@
@@ -12959,6 +13005,11 @@
 1 HUSB @CP005@
 1 WIFE @CP006@
 1 CHIL @CP002@
+0 @F218@ FAM
+1 HUSB @DF001@
+1 WIFE @DF002@
+1 CHIL @CP037@
+1 CHIL @DF003@
 0 @S001@ SOUR
 1 TITL Interview of Norma (Mazzaccaro) Azzolini by her grandson Tim Azzolini, Old Forge, Pa., 31 Oct 2026; relayed notes (interview-summary-2026-10-31.md). Narrative kept in the separate interview-context do
 2 CONC cument.
@@ -14176,18 +14227,22 @@
 1 TITL Find a Grave, memorial 236912894, Anthony F. DeMarco (16 Jun 1915 Medford–27 Sep 2002 Oldsmar, Fla.), Saint Michael Cemetery, Boston; spouse Angelina “Ann” Comperchio DeMarco (m. 1940)
 1 NOTE URL: https://www.findagrave.com/memorial/236912894/anthony_f-demarco
 0 @S401@ SOUR
+1 TITL Obituary of Anthony F. DeMarco, 87, husband of the late Angelina (Comperchio), Dello Russo Funeral Service, Medford (CurrentObituary.com; funeral Mon. 30 Sep [2002]); names parents Carolina (Ventullo
+2 CONC ) and Fred DeMarco and surviving brother Fred DeMarco; read 24 Nov 2026
+1 NOTE URL: https://currentobituary.com/obit/3196
+0 @S402@ SOUR
 1 TITL Find a Grave, memorial 211724417, Vincent Joseph “Jim” Comperchio (1919–2002), linked as a child of Pasquale and Filomena Comperchio (memorial page opened 23 Nov 2026)
 1 NOTE URL: https://www.findagrave.com/memorial/211724417/vincent_joseph-comperchio
-0 @S402@ SOUR
+0 @S403@ SOUR
 1 TITL Find a Grave, memorial 211724417, Vincent Joseph “Jim” Comperchio, veteran (21 Nov 1919 Boston–7 Mar 2002 Holiday, Fla.), Serenity Gardens, Lakeland, Fla.; spouse and son linked; short obituary text
 1 NOTE URL: https://www.findagrave.com/memorial/211724417/vincent_joseph-comperchio
-0 @S403@ SOUR
+0 @S404@ SOUR
 1 TITL Find a Grave, memorial 243716495, Peter M. Comperchio (5 Sep 1955 Boston–8 Oct 2011 Lakeland, Fla.), cremated; bio names parents, brothers, wife and children
 1 NOTE URL: https://www.findagrave.com/memorial/243716495/peter_m-comperchio
-0 @S404@ SOUR
+0 @S405@ SOUR
 1 TITL Obituary of Lena T. (Comperchio) Dello Russo (23 Mar 1927–28 Aug 2026), Kfoury Keefe Funeral Home, West Roxbury
 1 NOTE URL: https://www.kfouryfuneral.com/obituaries/lena-dello-russo
-0 @S405@ SOUR
+0 @S406@ SOUR
 1 TITL Find a Grave, memorial 306136057, Pasqualena Theresa “Lena” Comperchio Dello Russo (27 Mar 1927 Boston–28 Aug 2026 Boston), Saint Joseph Cemetery, West Roxbury
 1 NOTE URL: https://www.findagrave.com/memorial/306136057/pasqualena_theresa-dello_russo
 0 TRLR
