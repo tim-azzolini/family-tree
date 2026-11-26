@@ -169,7 +169,7 @@ figure.photo figcaption{flex:1;min-width:200px;font-size:14px}
 .srcl{padding-left:0;list-style:none;margin:0}
 .srcl li{padding:10px 0;border-top:1px solid var(--rule);word-break:break-word}
 .srcl li:first-child{border-top:0}
-.srcl .n{display:inline-block;min-width:38px;font-weight:700;color:var(--ink3)}
+.srcl .n{display:inline-block;min-width:50px;font-weight:700;color:var(--ink3)}
 /* ---------- lines / descendancy ---------- */
 .lines{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
 .line{display:block;background:var(--card);border:1px solid var(--rule);border-radius:var(--r);padding:14px 16px;box-shadow:var(--sh);color:var(--ink)}
@@ -256,6 +256,40 @@ body.noscroll{overflow:hidden}
   .tbar h1{font-size:19px}
 }
 @media print{header.top,nav.bottom,.acts,.tools,.tbar .btn,#pcard,#scrim{display:none!important}.card{box-shadow:none}}
+/* ---------- research hub ---------- */
+.rtabs{display:flex;gap:2px;overflow-x:auto;-webkit-overflow-scrolling:touch;border-bottom:1px solid var(--rule);margin:0 0 14px;scrollbar-width:none}
+.rtabs::-webkit-scrollbar{display:none}
+.rtabs a{flex:none;padding:10px 13px;font-weight:650;font-size:15px;color:var(--ink2);border-bottom:3px solid transparent;margin-bottom:-1px;white-space:nowrap}
+.rtabs a:hover{text-decoration:none;color:var(--ink)}
+.rtabs a.on{color:var(--brand2);border-bottom-color:var(--brand)}
+.rtabs a .n{display:inline-block;margin-left:5px;font-size:12px;font-weight:700;background:var(--brand-soft);color:var(--brand2);border-radius:10px;padding:0 7px;line-height:1.6}
+.hubgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px;margin:0 0 14px}
+.hub{position:relative;display:block;background:var(--card);border:1px solid var(--rule);border-radius:var(--r);padding:14px 16px;box-shadow:var(--sh);color:var(--ink)}
+.hub:hover{text-decoration:none;border-color:var(--brand)}
+.hub b{display:block;font-size:16px;padding-right:56px}
+.hub .c{display:block;margin-top:3px}
+.hub .hc{position:absolute;right:14px;top:14px;font-size:12px;font-weight:700;background:var(--brand-soft);color:var(--brand2);padding:1px 9px;border-radius:12px}
+.hub .hc:empty{display:none}
+.qbar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}
+.qchip{display:inline-flex;align-items:center;gap:7px;min-height:36px;padding:0 13px;border-radius:18px;border:1px solid var(--rule2);background:var(--card);font-size:14px;font-weight:600;color:var(--ink)}
+.qchip:hover{text-decoration:none;border-color:var(--brand)}
+.qchip .qn{background:var(--con);color:#fff;border-radius:10px;padding:0 8px;font-size:12.5px;line-height:1.7}
+.nrow{display:flex;gap:10px;align-items:center;padding:9px 0;border-top:1px solid var(--rule);color:var(--ink);min-height:52px}
+.nrow:first-child{border-top:0}
+.nrow:hover{text-decoration:none;background:var(--brand-soft)}
+.nrow .tx{min-width:0;flex:1}
+.nrow .nm{font-weight:650;line-height:1.25}
+.nrow .ls{font-size:13px;color:var(--ink3);overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.nrow .cn{flex:none;font-size:12px;font-weight:700;border-radius:10px;padding:0 8px;line-height:1.7}
+.nrow .cn.C{background:var(--con-bg);color:var(--con)}.nrow .cn.A{background:var(--ass-bg);color:var(--ass)}
+.ncard h3{font-size:15px;margin:0 0 8px}
+.ncard .it{border-top:1px solid var(--rule);padding:9px 0}
+.ncard .it:first-of-type{border-top:0}
+.ncard .it b{display:block}
+.srcl .when{display:block;font-size:13px;color:var(--ink3)}
+.fact .ilink{font-size:13px;margin-top:2px}
+.help.soft{background:var(--card2);border-color:var(--rule2)}
+.help a{font-weight:700}
 </style>
 </head>
 <body>
@@ -266,8 +300,7 @@ body.noscroll{overflow:hidden}
       <a href="#/" data-nav="tree">Tree</a>
       <a href="#/lines" data-nav="lines">Family lines</a>
       <a href="#/search" data-nav="search">Find</a>
-      <a href="#/sources" data-nav="sources">Sources</a>
-      <a href="#/more" data-nav="more">About</a>
+      <a href="#/research" data-nav="research">Research</a>
     </nav>
     <div class="hsearch" role="search"><span class="mag" aria-hidden="true"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></span><input id="hq" class="inp" type="search" placeholder="Find a person by name or ID" autocomplete="off" spellcheck="false" aria-label="Find a person by name or ID" aria-controls="hres" aria-expanded="false"><div id="hres" class="drop" role="listbox" aria-label="Search results"></div></div>
   </div>
@@ -280,6 +313,7 @@ body.noscroll{overflow:hidden}
     <a class="btn" id="t-home" href="#/" title="Back to the starting person"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/></svg>Home</a>
     <a class="btn pri" id="t-person" href="#/">Person details</a>
   </div>
+  <div class="qbar"><a class="qchip" href="#/research/questions"><b class="qn" id="q-n">0</b> Open questions</a><a class="qchip" href="#/research/about">Interviews &amp; context</a><a class="qchip" href="#/research">Research hub</a></div>
   <div class="pedwrap" id="pedwrap"><div class="ped" id="ped"></div></div>
   <div class="c" style="margin:-6px 2px 14px">Tap anyone for a summary, then <b>Person</b> for full details or <b>Tree</b> to move them to the center. Swipe sideways to see older generations; › goes further back.</div>
   <div class="card"><h2>Family members</h2><div id="t-fam"></div></div>
@@ -312,19 +346,20 @@ body.noscroll{overflow:hidden}
   <div id="srec"></div>
 </section>
 
-<!-- About / more -->
-<section class="view" id="v-more" aria-label="About this tree">
-  <div class="vh"><h1>Andreoni · Mazzaccaro · Azzolini Family Tree</h1></div>
-  <p class="c" style="margin-top:-8px">665 people · 431 sources · interview + public records</p>
-  <div class="card menu">
-    <a href="#/conflicts"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 3l10 18H2z"/><path d="M12 10v5M12 18v.5"/></svg>Conflicts &amp; open questions<span class="c" id="m-ncon"></span></a>
-    <a href="#/notfound"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21M8 10.5h5"/></svg>Searched but not found<span class="c" id="m-nnf"></span></a>
-    <a href="#/sources"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4h11l3 3v13H5z"/><path d="M8 10h8M8 14h8M8 18h5"/></svg>Sources<span class="c">431</span></a>
-    <a href="#/standards"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Data standards used</a>
-    <a href="https://docs.google.com/document/d/18t8EJ5608CoNQjCamGO0R7DgE2P6i4t91AQD8LxIILQ/edit?usp=drivesdk" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg>Interview context (Google Doc)</a>
-    <a href="family-tree.ged" download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>Download GEDCOM (family-tree.ged)<span class="c">living people masked</span></a>
+<!-- Research hub (FamilySearch-style Research Wiki / Help hub): overview + sub-pages sharing one tab bar -->
+<section class="view" id="v-research" aria-label="Research hub">
+  <div class="rtabs" data-rt="research"></div>
+  <div class="vh"><h1>Research</h1></div>
+  <p class="c" style="margin-top:-8px">665 people · 431 sources · interviews + public records. Everything behind the tree is kept here, and linked from the people it applies to.</p>
+  <div class="hubgrid">
+    <a class="hub" href="#/research/about"><b>About this tree &amp; interviews</b><span class="c">Who was interviewed, when, and the interview-context document.</span><span class="hc" id="h-int"></span></a>
+    <a class="hub" href="#/research/questions"><b>Research notes &amp; open questions</b><span class="c">People with open conflicts and researcher inferences still to verify.</span><span class="hc" id="h-q"></span></a>
+    <a class="hub" href="#/research/conflicts"><b>Conflicts</b><span class="c">Where sources disagree. Both sides shown, with the reading the tree keeps.</span><span class="hc" id="h-c"></span></a>
+    <a class="hub" href="#/research/notfound"><b>Searched but not found</b><span class="c">Public records looked for and not found.</span><span class="hc" id="h-nf"></span></a>
+    <a class="hub" href="#/research/sources"><b>Sources</b><span class="c">Every source cited, numbered, with its link.</span><span class="hc">431</span></a>
+    <a class="hub" href="#/research/standards"><b>Data standards</b><span class="c">Names, dates, places, citations, confidence, privacy, and references.</span><span class="hc" id="h-st"></span></a>
   </div>
-  <div class="card"><h2>Legend</h2>
+  <div class="card"><h2>How to read this tree</h2>
     <div class="legend">
       <span><span class="b Interview">Interview</span> told by Norma (via Tim)</span>
       <span><span class="b Record">Record</span> public record, linked</span>
@@ -334,63 +369,84 @@ body.noscroll{overflow:hidden}
       <span>Confidence: confirmed · likely · unconfirmed</span>
       <span>Blue / pink edge = male / female · ⚭ = spouse · dashed box = provisional placement</span>
     </div>
+    <p style="margin:12px 0 0">Start on <b>Tree</b>: the person in the center with parents and grandparents to the right. Tap anyone for a summary card, then <b>Person</b> for dates, places, family, photo, facts and sources, or <b>Tree</b> to move them to the center. A person’s <b>Notes</b> tab gathers their conflicts, searches that came up empty, inferences and interview context. <b>Family lines</b> lists every line as a descendancy chart. <b>Find</b> searches names, nicknames, maiden names, spelling variants and IDs. Use <b>Share</b> on a person’s page to copy a link to them.</p>
   </div>
-  <div class="card"><h2>How to use</h2>
-    <p style="margin:0">Start on <b>Tree</b>: the person in the center with parents and grandparents to the right. Tap anyone for a summary card, then <b>Person</b> for dates, places, family, photo, facts and sources, or <b>Tree</b> to move them to the center. <b>Family lines</b> lists every line as a descendancy chart. <b>Find</b> searches names, nicknames, maiden names, spelling variants and IDs. Every person has a link you can share (use <b>Share</b> on their page).</p>
+</section>
+
+<section class="view" id="v-about" aria-label="About this tree and interviews">
+  <div class="rtabs" data-rt="about"></div>
+  <div class="vh"><h1>About this tree &amp; interviews</h1></div>
+  <div class="card"><h2>About this tree</h2>
+    <p style="margin:0 0 10px">The Andreoni · Mazzaccaro · Azzolini family tree: 665 people and 431 sources across <b id="a-lines">34</b> family lines. It was started from an interview with Norma (Mazzaccaro) Azzolini and is extended daily from public records and obituaries. Documented records win over interview memory; where they disagree, both are shown as a <a href="#/research/conflicts">conflict</a>.</p>
+    <a class="btn" href="family-tree.ged" download><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>Download GEDCOM (family-tree.ged)</a> <span class="c">living people masked</span>
+  </div>
+  <div class="card"><h2>Interviews</h2>
+    <p style="margin:0 0 8px">What was told by family, who told it, and when. Each interview fact in the tree is tagged <span class="b Interview">Interview</span> and cites one of these sessions.</p>
+    <ul class="srcl" id="a-int"></ul>
   </div>
   <section id="interview-context" class="card"><h2>Interview context</h2>
-<p>Stories and narrative from Norma’s interview (moves and schools, Doc’s career, the deli and Pinnacle Supermarket, Navy, Philomena, golf, the house-moving story, Alice’s stories) are kept in a separate document, not on this page. Link placeholder: replace this section’s link with the shared Google Doc.</p>
-<p style="margin:0"><a href="https://docs.google.com/document/d/18t8EJ5608CoNQjCamGO0R7DgE2P6i4t91AQD8LxIILQ/edit?usp=drivesdk" target="_blank" rel="noopener">Open the interview context document</a></p></section>
+<p>Stories and narrative from Norma’s interview (moves and schools, Doc’s career, the deli and Pinnacle Supermarket, Navy, Philomena, golf, the house-moving story, Alice’s stories) are kept in a separate document, not on this page. The shared Google Doc is linked below.</p>
+<p style="margin:0"><a class="btn pri" href="https://docs.google.com/document/d/18t8EJ5608CoNQjCamGO0R7DgE2P6i4t91AQD8LxIILQ/edit?usp=drivesdk" target="_blank" rel="noopener">Open the interview context document</a></p></section>
+  <div class="card"><h2>Privacy</h2><p style="margin:0">No addresses, contact details or identification numbers are recorded. Living people show names and relationships only: no dates, places or photos. Interview narrative is not published here.</p></div>
+</section>
+
+<section class="view" id="v-questions" aria-label="Research notes and open questions">
+  <div class="rtabs" data-rt="questions"></div>
+  <div class="vh"><h1>Research notes &amp; open questions</h1></div>
+  <div class="card"><div class="chips" id="q-chips"></div>
+    <p style="margin:12px 0 0">Open questions are conflicts between sources and records searched for but not found. This page lists the people they affect, plus conclusions the tree makes that no record states directly. Open a person’s <b>Notes</b> tab for the detail.</p></div>
+  <div class="card"><h2>People with a conflict <span class="c" id="q-nc"></span></h2><div id="q-conf"></div></div>
+  <div class="card"><h2>Researcher inferences to verify <span class="c" id="q-na"></span></h2><p class="c" style="margin:0 0 8px">Tagged <span class="b Assumed">Assumed</span>: a likely reading, not stated in a record.</p><div id="q-ass"></div></div>
 </section>
 
 <section class="view static" id="v-conflicts" aria-label="Conflicts">
-  <a class="back" href="#/more">‹ About this tree</a>
+  <div class="rtabs" data-rt="conflicts"></div>
   <section id="conflicts" class="card"><h2>Conflicts &amp; open questions</h2><ul>
-<li><b>Parodi Cigar Factory location</b> — Tim: Baltimore. Find a Grave bio: Scranton. Company histories place Parodi’s Scranton plant from 1930; no Baltimore plant found. If Angelina rolled cigars for Parodi it was most likely in Scranton after 1930. Baltimore is where she died. <a href="#src7">[7]</a> <a href="#src14">[14]</a> <a href="#src15">[15]</a> <a href="#src16">[16]</a></li>
-<li><b>Giovanni’s birthplace</b> — Tim: Perugia region. Records found: “Italy” only (SSA Numident abstract). Not a contradiction, but unverified. Context: son-in-law Giuseppe Incociati was born in Perugia; the Biscontini surname clusters in the Province of Perugia. <a href="#src2">[2]</a> <a href="#src8">[8]</a> <a href="#src9">[9]</a></li>
-<li><b>“Gussie” = Louis J. Guzzi?</b> — Tim: Irma married “Gussie”. Records: Irma’s husband was Louis J. Guzzi (1894–1978). “Gussie” is likely a nickname from the surname (Assumed, likely). <a href="#src6">[6]</a> <a href="#src61">[61]</a></li>
-<li><b>Eva’s surname</b> — Wittick (Tim) / Winnick (first heard) vs Widdick (SSA, Find a Grave, Baltimore Sun). <a href="#src91">[91]</a> <a href="#src4">[4]</a></li>
-<li><b>Tim’s “Luis → Olga, Eva” recollection</b> — Olga and Eva are records-proven daughters of Giovanni and Angelina (Alice’s sisters). Eva Widdick’s 2005 obituary names daughters Angela Rose, Frances Widdick, Linda Smith and Maria Brauer — matching Tim’s four daughters. Daughters placed under Eva Widdick; sisters not moved; “Luis” kept as a flagged note (possibly Louis J. Guzzi). <a href="#src91">[91]</a> <a href="#src61">[61]</a></li>
-<li><b>Marie vs Maria</b> — Tim: Marie. Obituary: Maria Brauer. <a href="#src91">[91]</a></li>
-<li><b>Olga’s surname</b> — Oberholzer (heard) vs Oberholtzer (records). <a href="#src86">[86]</a> <a href="#src3">[3]</a></li>
-<li><b>Rigo/Rico vs Merico “Rego”</b> — Same person; record given name Merico, nickname Rego. <a href="#src58">[58]</a></li>
-<li><b>Dora’s birth year</b> — 1901 (Find a Grave family lists) vs 1909 (SSA death index entry for Dora Barbetti, Old Forge). The 1950 census (age 40) supports about 1909–10. <a href="#src18">[18]</a> <a href="#src19">[19]</a> <a href="#src22">[22]</a></li>
-<li><b>Irma’s death place and birth date</b> — Find a Grave: died Lackawanna Co., Pa. Death index: Maryland. Birth 14 Aug 1913 vs 14 Apr 1912 in a second index entry. <a href="#src6">[6]</a> <a href="#src62">[62]</a></li>
-<li><b>Mary Lero vs Mary Ann Lerro</b> — Tim spells Lero; records spell Lerro. Birth 11 Jun (Find a Grave) vs 13 Jun 1915 (SSA). <a href="#src118">[118]</a> <a href="#src72">[72]</a></li>
-<li><b>Louise Aulisio</b> — Tim says Thomas’s sister was Mary Lero, not Louise Alessio/Aulisio. Records (father’s Find a Grave children list; mother’s 1957 obituary “Mrs. Dominick Aulisio, Newark”) indicate Louise was also a sister. Shown as possible additional sibling, unconfirmed by family. <a href="#src71">[71]</a> <a href="#src105">[105]</a> <a href="#src122">[122]</a></li>
-<li><b>Patrick Joseph “Papp”</b> — Tim: Patrick Joseph Papp, married Mary Febbo. Assumed to be Patrick Joseph Mazzaccaro (1920–1968), whose wife was Mary Febbo. <a href="#src126">[126]</a> <a href="#src127">[127]</a></li>
-<li><b>Pat Jr.</b> — Family: possible child, unconfirmed. Records: Mary Febbo’s obituary names Patrick Mazzaccaro Jr. as her late son. <a href="#src127">[127]</a> <a href="#src128">[128]</a></li>
-<li><b>Surname spelling Mazzacaro / Mazzaccaro / Mazzacarro / Mazzucaro</b> — Family usage Mazzacaro; records overwhelmingly Mazzaccaro (double c); Alice’s obituary has “Mazzacarro”; Alice’s memorial spells her maiden name “Anderoni”. <a href="#src70">[70]</a> <a href="#src68">[68]</a> <a href="#src67">[67]</a></li>
-<li><b>“AMP” vs A&amp;P</b> — Norma said Doc was a supervisor at “AMP”; his obituary says A&amp;P. <a href="#src74">[74]</a></li>
-<li><b>Dominic vs Dominick; Tonyann vs Toni Ann; Lindsey vs Lyndsey</b> — Interview spellings differ from Doc’s 2024 obituary. <a href="#src74">[74]</a></li>
-<li><b>Deli story / which Anthony</b> — Who died during the deli period and whether the “Anthony” is son Anthony T. (d. 1995) is unresolved. Details in the interview-context document. <a href="#src1">[1]</a></li>
-<li><b>John Mazzaccaro’s birthplace</b> — Find a Grave gives “Castel, Provincia di Aosta” — implausible for a southern-Italian surname; treated as Italy only. <a href="#src71">[71]</a></li>
-<li><b>Dominick and Sandy Roy Barbetti birth dates</b> — Dominick: 15 Apr 1911 (Find a Grave) vs 20 Apr 1911 (SSA death index). Sandy Roy: 19 Jun 1916 (Find a Grave) vs 19 Jun 1915 (SSA death index). Tree keeps Find a Grave. <a href="#src274">[274]</a> <a href="#src292">[292]</a> <a href="#src277">[277]</a> <a href="#src19">[19]</a></li>
-<li><b>David Barbetti’s parentage</b> — Henrietta Barbetti’s 2010 obituary lists grandson David Barbetti; Jacqueline Barbetti’s 2025 obituary lists only children Joseph, Deborah and Donna. Placed under Joseph L. Barbetti provisionally. <a href="#src275">[275]</a> <a href="#src279">[279]</a></li>
-<li><b>Lucrezia’s maiden name: DiNicolo vs De Nichilo</b> — Family/obituaries and Tim (9 Nov 2026): DiNicolo. 1938 SS Rex passenger index: “Lucrezia De Nichilo”, 31, on the same page as her sons; De Nichilo is also the commonest form of the surname in Molfetta. Tree keeps DiNicolo; De Nichilo recorded as the likely Italian spelling. <a href="#src79">[79]</a> <a href="#src135">[135]</a> <a href="#src77">[77]</a> <a href="#src1">[1]</a></li>
-<li><b>Azzolini arrival year: 1938 vs 1939</b> — Patsy’s obituary: 1939, with Patrick 9 and Dominick 6. Passenger index: SS Rex, 1938, Pasquale 8 and Domenico 5 (fits late 1938). Same index gives Domenico’s birthplace as “U S A” (obituary: Molfetta; 1950 census: Italy) — probably an indexing slip. <a href="#src79">[79]</a> <a href="#src76">[76]</a> <a href="#src78">[78]</a></li>
-<li><b>Lena Dello Russo’s birth date</b> — 23 Mar 1927 (funeral-home obituary) vs 27 Mar 1927 (Find a Grave). Tree keeps 23 Mar. <a href="#src419">[419]</a> <a href="#src420">[420]</a></li>
-<li><b>Anthony F. DeMarco’s birthplace and death date</b> — Find a Grave: born Medford, died 27 Sep 2002. His 2002 obituary: “born and raised in Boston”, died on a Thursday with the funeral Monday 30 Sep (so Thu 26 Sep 2002). Tree keeps Find a Grave. <a href="#src414">[414]</a> <a href="#src415">[415]</a></li>
-<li><b>Joe Costa Sr.’s birthplace in the Azores</b> — Find a Grave: “Picao, Vila da Praia da Vitória” (Terceira island). His son John’s 2017 obituary: the family emigrated from Pico Island in 1910. Tree records Azores, Portugal only. <a href="#src421">[421]</a> <a href="#src422">[422]</a></li>
-<li><b>Sabino and Pamela DeMarco’s ages in the 1950 census</b> — Census (West Roxbury, April 1950): “Samuel” DeMarco 42 and Pamela 9. Find a Grave: Sabino born 1 Sep 1905 (44) and Pamela born 24 May 1941 (8). Tree keeps Find a Grave dates. <a href="#src384">[384]</a> <a href="#src387">[387]</a> <a href="#src381">[381]</a></li>
-<li><b>Tenerelli vs Teneriello</b> — Mary Comperchio’s husband: Tenerelli (her memorial and daughters’ obituaries) vs Teneriello (his Find a Grave memorial). <a href="#src396">[396]</a> <a href="#src397">[397]</a></li>
-<li><b>Sibling count</b> — Earlier tree draft showed 9 / Tim expected 7. With Gussie removed (he was Irma’s husband), the interview list has 8 children of Giovanni and Angelina, matching the 8 in records. <a href="#src6">[6]</a> <a href="#src1">[1]</a></li>
+<li id="conf-0" data-srcs="7 14 15 16"><b>Parodi Cigar Factory location</b> — Tim: Baltimore. Find a Grave bio: Scranton. Company histories place Parodi’s Scranton plant from 1930; no Baltimore plant found. If Angelina rolled cigars for Parodi it was most likely in Scranton after 1930. Baltimore is where she died. <a href="#src7">[7]</a> <a href="#src14">[14]</a> <a href="#src15">[15]</a> <a href="#src16">[16]</a></li>
+<li id="conf-1" data-srcs="2 8 9"><b>Giovanni’s birthplace</b> — Tim: Perugia region. Records found: “Italy” only (SSA Numident abstract). Not a contradiction, but unverified. Context: son-in-law Giuseppe Incociati was born in Perugia; the Biscontini surname clusters in the Province of Perugia. <a href="#src2">[2]</a> <a href="#src8">[8]</a> <a href="#src9">[9]</a></li>
+<li id="conf-2" data-srcs="6 61"><b>“Gussie” = Louis J. Guzzi?</b> — Tim: Irma married “Gussie”. Records: Irma’s husband was Louis J. Guzzi (1894–1978). “Gussie” is likely a nickname from the surname (Assumed, likely). <a href="#src6">[6]</a> <a href="#src61">[61]</a></li>
+<li id="conf-3" data-srcs="91 4"><b>Eva’s surname</b> — Wittick (Tim) / Winnick (first heard) vs Widdick (SSA, Find a Grave, Baltimore Sun). <a href="#src91">[91]</a> <a href="#src4">[4]</a></li>
+<li id="conf-4" data-srcs="91 61"><b>Tim’s “Luis → Olga, Eva” recollection</b> — Olga and Eva are records-proven daughters of Giovanni and Angelina (Alice’s sisters). Eva Widdick’s 2005 obituary names daughters Angela Rose, Frances Widdick, Linda Smith and Maria Brauer — matching Tim’s four daughters. Daughters placed under Eva Widdick; sisters not moved; “Luis” kept as a flagged note (possibly Louis J. Guzzi). <a href="#src91">[91]</a> <a href="#src61">[61]</a></li>
+<li id="conf-5" data-srcs="91"><b>Marie vs Maria</b> — Tim: Marie. Obituary: Maria Brauer. <a href="#src91">[91]</a></li>
+<li id="conf-6" data-srcs="86 3"><b>Olga’s surname</b> — Oberholzer (heard) vs Oberholtzer (records). <a href="#src86">[86]</a> <a href="#src3">[3]</a></li>
+<li id="conf-7" data-srcs="58"><b>Rigo/Rico vs Merico “Rego”</b> — Same person; record given name Merico, nickname Rego. <a href="#src58">[58]</a></li>
+<li id="conf-8" data-srcs="18 19 22"><b>Dora’s birth year</b> — 1901 (Find a Grave family lists) vs 1909 (SSA death index entry for Dora Barbetti, Old Forge). The 1950 census (age 40) supports about 1909–10. <a href="#src18">[18]</a> <a href="#src19">[19]</a> <a href="#src22">[22]</a></li>
+<li id="conf-9" data-srcs="6 62"><b>Irma’s death place and birth date</b> — Find a Grave: died Lackawanna Co., Pa. Death index: Maryland. Birth 14 Aug 1913 vs 14 Apr 1912 in a second index entry. <a href="#src6">[6]</a> <a href="#src62">[62]</a></li>
+<li id="conf-10" data-srcs="118 72"><b>Mary Lero vs Mary Ann Lerro</b> — Tim spells Lero; records spell Lerro. Birth 11 Jun (Find a Grave) vs 13 Jun 1915 (SSA). <a href="#src118">[118]</a> <a href="#src72">[72]</a></li>
+<li id="conf-11" data-srcs="71 105 122"><b>Louise Aulisio</b> — Tim says Thomas’s sister was Mary Lero, not Louise Alessio/Aulisio. Records (father’s Find a Grave children list; mother’s 1957 obituary “Mrs. Dominick Aulisio, Newark”) indicate Louise was also a sister. Shown as possible additional sibling, unconfirmed by family. <a href="#src71">[71]</a> <a href="#src105">[105]</a> <a href="#src122">[122]</a></li>
+<li id="conf-12" data-srcs="126 127"><b>Patrick Joseph “Papp”</b> — Tim: Patrick Joseph Papp, married Mary Febbo. Assumed to be Patrick Joseph Mazzaccaro (1920–1968), whose wife was Mary Febbo. <a href="#src126">[126]</a> <a href="#src127">[127]</a></li>
+<li id="conf-13" data-srcs="127 128"><b>Pat Jr.</b> — Family: possible child, unconfirmed. Records: Mary Febbo’s obituary names Patrick Mazzaccaro Jr. as her late son. <a href="#src127">[127]</a> <a href="#src128">[128]</a></li>
+<li id="conf-14" data-srcs="70 68 67"><b>Surname spelling Mazzacaro / Mazzaccaro / Mazzacarro / Mazzucaro</b> — Family usage Mazzacaro; records overwhelmingly Mazzaccaro (double c); Alice’s obituary has “Mazzacarro”; Alice’s memorial spells her maiden name “Anderoni”. <a href="#src70">[70]</a> <a href="#src68">[68]</a> <a href="#src67">[67]</a></li>
+<li id="conf-15" data-srcs="74"><b>“AMP” vs A&amp;P</b> — Norma said Doc was a supervisor at “AMP”; his obituary says A&amp;P. <a href="#src74">[74]</a></li>
+<li id="conf-16" data-srcs="74"><b>Dominic vs Dominick; Tonyann vs Toni Ann; Lindsey vs Lyndsey</b> — Interview spellings differ from Doc’s 2024 obituary. <a href="#src74">[74]</a></li>
+<li id="conf-17" data-srcs="1"><b>Deli story / which Anthony</b> — Who died during the deli period and whether the “Anthony” is son Anthony T. (d. 1995) is unresolved. Details in the interview-context document. <a href="#src1">[1]</a></li>
+<li id="conf-18" data-srcs="71"><b>John Mazzaccaro’s birthplace</b> — Find a Grave gives “Castel, Provincia di Aosta” — implausible for a southern-Italian surname; treated as Italy only. <a href="#src71">[71]</a></li>
+<li id="conf-19" data-srcs="274 292 277 19"><b>Dominick and Sandy Roy Barbetti birth dates</b> — Dominick: 15 Apr 1911 (Find a Grave) vs 20 Apr 1911 (SSA death index). Sandy Roy: 19 Jun 1916 (Find a Grave) vs 19 Jun 1915 (SSA death index). Tree keeps Find a Grave. <a href="#src274">[274]</a> <a href="#src292">[292]</a> <a href="#src277">[277]</a> <a href="#src19">[19]</a></li>
+<li id="conf-20" data-srcs="275 279"><b>David Barbetti’s parentage</b> — Henrietta Barbetti’s 2010 obituary lists grandson David Barbetti; Jacqueline Barbetti’s 2025 obituary lists only children Joseph, Deborah and Donna. Placed under Joseph L. Barbetti provisionally. <a href="#src275">[275]</a> <a href="#src279">[279]</a></li>
+<li id="conf-21" data-srcs="79 135 77 1"><b>Lucrezia’s maiden name: DiNicolo vs De Nichilo</b> — Family/obituaries and Tim (9 Nov 2026): DiNicolo. 1938 SS Rex passenger index: “Lucrezia De Nichilo”, 31, on the same page as her sons; De Nichilo is also the commonest form of the surname in Molfetta. Tree keeps DiNicolo; De Nichilo recorded as the likely Italian spelling. <a href="#src79">[79]</a> <a href="#src135">[135]</a> <a href="#src77">[77]</a> <a href="#src1">[1]</a></li>
+<li id="conf-22" data-srcs="79 76 78"><b>Azzolini arrival year: 1938 vs 1939</b> — Patsy’s obituary: 1939, with Patrick 9 and Dominick 6. Passenger index: SS Rex, 1938, Pasquale 8 and Domenico 5 (fits late 1938). Same index gives Domenico’s birthplace as “U S A” (obituary: Molfetta; 1950 census: Italy) — probably an indexing slip. <a href="#src79">[79]</a> <a href="#src76">[76]</a> <a href="#src78">[78]</a></li>
+<li id="conf-23" data-srcs="419 420"><b>Lena Dello Russo’s birth date</b> — 23 Mar 1927 (funeral-home obituary) vs 27 Mar 1927 (Find a Grave). Tree keeps 23 Mar. <a href="#src419">[419]</a> <a href="#src420">[420]</a></li>
+<li id="conf-24" data-srcs="414 415"><b>Anthony F. DeMarco’s birthplace and death date</b> — Find a Grave: born Medford, died 27 Sep 2002. His 2002 obituary: “born and raised in Boston”, died on a Thursday with the funeral Monday 30 Sep (so Thu 26 Sep 2002). Tree keeps Find a Grave. <a href="#src414">[414]</a> <a href="#src415">[415]</a></li>
+<li id="conf-25" data-srcs="421 422"><b>Joe Costa Sr.’s birthplace in the Azores</b> — Find a Grave: “Picao, Vila da Praia da Vitória” (Terceira island). His son John’s 2017 obituary: the family emigrated from Pico Island in 1910. Tree records Azores, Portugal only. <a href="#src421">[421]</a> <a href="#src422">[422]</a></li>
+<li id="conf-26" data-srcs="384 387 381"><b>Sabino and Pamela DeMarco’s ages in the 1950 census</b> — Census (West Roxbury, April 1950): “Samuel” DeMarco 42 and Pamela 9. Find a Grave: Sabino born 1 Sep 1905 (44) and Pamela born 24 May 1941 (8). Tree keeps Find a Grave dates. <a href="#src384">[384]</a> <a href="#src387">[387]</a> <a href="#src381">[381]</a></li>
+<li id="conf-27" data-srcs="396 397"><b>Tenerelli vs Teneriello</b> — Mary Comperchio’s husband: Tenerelli (her memorial and daughters’ obituaries) vs Teneriello (his Find a Grave memorial). <a href="#src396">[396]</a> <a href="#src397">[397]</a></li>
+<li id="conf-28" data-srcs="6 1"><b>Sibling count</b> — Earlier tree draft showed 9 / Tim expected 7. With Gussie removed (he was Irma’s husband), the interview list has 8 children of Giovanni and Angelina, matching the 8 in records. <a href="#src6">[6]</a> <a href="#src1">[1]</a></li>
 </ul></section>
 </section>
 <section class="view static" id="v-notfound" aria-label="Searched but not found">
-  <a class="back" href="#/more">‹ About this tree</a>
+  <div class="rtabs" data-rt="notfound"></div>
   <section id="notfound" class="card"><h2>Searched but not found (public sources only)</h2><ul>
-<li>Passenger list (Ellis Island / NY arrivals) for Giovanni Andreoni or Angelina Biscontini (said 1901); one 1897 La Touraine index entry for a Giovanni Andreoni (age 24) does not fit by age. (Found 23 Nov 2026 via the public Statue of Liberty–Ellis Island arrival-search index: Lucrezia, indexed as “De Nichilo”, with sons Pasquale and Domenico Azzollini on the SS Rex, 1938; Gennaro Azzolini 1920, 1934, 1951. Manifest images need a FamilySearch sign-in and were not viewed.)</li>
-<li>Naturalization records and the marriage record of Giovanni and Angelina; Thomas and Alice’s 1934 marriage record.</li>
-<li>Giovanni’s exact Italian hometown (Perugia unverified) and Giovanni’s own Find a Grave page (blocked).</li>
-<li>Olga Oberholtzer’s husband and son; any “Luis/Louis Lero/Lerro”.</li>
-<li>A record of Philomena Azzolini’s marriage (family believes the married name was Innuale; spelling unconfirmed, no record found under Innuale, Iannuale, Innuali, Iannuali or Ianuale), her death record and the 1970 accident (1950 census shows her born in New York about 1940).</li>
-<li>Any Parodi Cigar factory in Baltimore.</li>
-<li>The claimant’s first name in Mazzaccaro v. Jermyn-Green Coal Co., 154 Pa. Super. 618 (1944) (page blocked).</li>
+<li id="nf-0">Passenger list (Ellis Island / NY arrivals) for Giovanni Andreoni or Angelina Biscontini (said 1901); one 1897 La Touraine index entry for a Giovanni Andreoni (age 24) does not fit by age. (Found 23 Nov 2026 via the public Statue of Liberty–Ellis Island arrival-search index: Lucrezia, indexed as “De Nichilo”, with sons Pasquale and Domenico Azzollini on the SS Rex, 1938; Gennaro Azzolini 1920, 1934, 1951. Manifest images need a FamilySearch sign-in and were not viewed.)</li>
+<li id="nf-1">Naturalization records and the marriage record of Giovanni and Angelina; Thomas and Alice’s 1934 marriage record.</li>
+<li id="nf-2">Giovanni’s exact Italian hometown (Perugia unverified) and Giovanni’s own Find a Grave page (blocked).</li>
+<li id="nf-3">Olga Oberholtzer’s husband and son; any “Luis/Louis Lero/Lerro”.</li>
+<li id="nf-4">A record of Philomena Azzolini’s marriage (family believes the married name was Innuale; spelling unconfirmed, no record found under Innuale, Iannuale, Innuali, Iannuali or Ianuale), her death record and the 1970 accident (1950 census shows her born in New York about 1940).</li>
+<li id="nf-5">Any Parodi Cigar factory in Baltimore.</li>
+<li id="nf-6">The claimant’s first name in Mazzaccaro v. Jermyn-Green Coal Co., 154 Pa. Super. 618 (1944) (page blocked).</li>
 </ul></section>
 </section>
 <section class="view static" id="v-standards" aria-label="Data standards">
-  <a class="back" href="#/more">‹ About this tree</a>
+  <div class="rtabs" data-rt="standards"></div>
   <section id="standards" class="card"><h2>Data standards used</h2><ul>
 <li><b>Names:</b> Given names then SURNAME; women are recorded under their birth (maiden) surname with married surnames listed separately (GEDCOM NAME “Given /Surname/”, with married names as an additional NAME of TYPE married). Family-used names (“Mary Lero”, “Eva Wittick”) are shown as the card label, with record spellings and variants listed on the card.</li>
 <li><b>Dates:</b> DD Mon YYYY (e.g. 30 May 1877); qualifiers ABT (about), BEF (before), AFT (after), BET … AND … as in GEDCOM 5.5.1. Partial dates kept as given (1880, Aug 1978).</li>
@@ -416,7 +472,7 @@ body.noscroll{overflow:hidden}
 <p>A GEDCOM 5.5.1 export of this tree (<a href="family-tree.ged" download>family-tree.ged</a>, same person IDs, living people masked) accompanies this page.</p></section>
 </section>
 <section class="view static" id="v-sources" aria-label="Sources">
-  <a class="back" href="#/more">‹ About this tree</a>
+  <div class="rtabs" data-rt="sources"></div>
   <section id="sources" class="card"><h2>Sources <span class="c">(431)</span></h2>
 <p class="c">Find a Grave and SSA-index abstract sites are secondary/derivative and user-contributed; treated as “likely” unless corroborated. Interview statements are recorded as given.</p>
 <ol>
@@ -856,14 +912,14 @@ body.noscroll{overflow:hidden}
 </section>
 <noscript><p class="card">This family tree needs JavaScript for the tree, search and person pages. The conflicts, standards and sources lists above are readable without it.</p></noscript>
 </main>
-<footer><p class="c">665 people. Privacy: no addresses, contact details or identification numbers are recorded; living people show names and relationships only.</p></footer>
+<footer><p class="c">Compiled by Tim Azzolini from family interviews and public records · <a href="#/research">Research</a> · <a href="family-tree.ged" download>GEDCOM</a></p></footer>
 
 <nav class="bottom" aria-label="Main"><div class="in">
   <a href="#/" data-nav="tree"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="2.5" width="6" height="5" rx="1.5"/><rect x="2.5" y="16.5" width="6" height="5" rx="1.5"/><rect x="15.5" y="16.5" width="6" height="5" rx="1.5"/><path d="M12 7.5v4.5M5.5 16.5V12h13v4.5"/></svg>Tree</a>
   <a href="#/person" data-nav="person" id="nav-person"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21c1-4.5 4.5-6.5 8-6.5s7 2 8 6.5"/></svg>Person</a>
   <a href="#/lines" data-nav="lines"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 5h6M8 12h12M8 19h12M5 5v14M5 12h3M5 19h3"/></svg>Lines</a>
   <a href="#/search" data-nav="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg>Find</a>
-  <a href="#/more" data-nav="more"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></svg>More</a>
+  <a href="#/research" data-nav="research"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 4h10a3 3 0 013 3v13H8a3 3 0 01-3-3z"/><path d="M9 9h5M9 13h5"/></svg>Research</a>
 </div></nav>
 
 <div id="scrim"></div>
@@ -912,10 +968,11 @@ var D = {"P": {"I001": {"id": "I001", "given": "Domenico", "surn": "Andreoni", "
     else prompt('Copy this link:',u);
   }
   /* ---------- views ---------- */
-  var VIEWS=['tree','person','lines','line','search','more','conflicts','notfound','standards','sources'];
+  var VIEWS=['tree','person','lines','line','search','research','about','questions','conflicts','notfound','standards','sources'];
+  var RESEARCH={research:1,about:1,questions:1,conflicts:1,notfound:1,standards:1,sources:1};
   function show(v,nav){
     VIEWS.forEach(function(x){ $('v-'+x).classList.toggle('on',x===v); });
-    var key=nav||v;
+    var key=nav||(RESEARCH[v]?'research':v);
     Array.prototype.forEach.call(document.querySelectorAll('[data-nav]'),function(a){ var on=a.getAttribute('data-nav')===key; a.classList.toggle('on',on); if(on) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
   }
   function setTitle(s){ document.title=(s?s+' · ':'')+'Andreoni · Mazzaccaro · Azzolini Family Tree'; }
@@ -1001,11 +1058,47 @@ var D = {"P": {"I001": {"id": "I001", "given": "Domenico", "surn": "Andreoni", "
     if(v.kind==='img'){
       h='<figure class="photo img"><img src="'+v.uri+'" alt="Photo of '+esc(p.label)+'"><figcaption class="pl photo-line"><b>Photo:</b> <a href="'+esc(v.url)+'" target="_blank" rel="noopener">'+esc(v.lab)+'</a> ('+esc(v.origin)+'), <span class="c">'+esc(v.conf)+'</span> '+refs+(v.note?'<div class="c">'+esc(v.note)+'</div>':'')+'<div class="c">Thumbnail shown with attribution; copyright remains with the owner; can be removed on request.</div></figcaption></figure>';
     } else {
-      h='<div class="photo none"><div class="pl photo-line">'+esc(v.text)+(refs?' '+refs:'')+(v.note?'<div class="c">'+esc(v.note)+'</div>':'')+'</div></div>';
+      h='<div class="photo none"><div class="pl photo-line">'+esc(String(v.text||'').replace(/ \(searched: \)\./,'.'))+(refs?' '+refs:'')+(v.note?'<div class="c">'+esc(v.note)+'</div>':'')+'</div></div>';
     }
     return h;
   }
   function personSources(p){ var ks=[]; p.facts.forEach(function(f){ f.src.forEach(function(k){ if(ks.indexOf(k)<0) ks.push(k); }); }); ((p.photo&&p.photo.src)||[]).forEach(function(k){ if(ks.indexOf(k)<0) ks.push(k); }); return ks.filter(function(k){return S[k];}); }
+
+  /* ---------- notes: conflicts, searches that found nothing, inferences, interview context ---------- */
+  var CONF=[], NF=[];
+  Array.prototype.forEach.call(document.querySelectorAll('#conflicts li'),function(li,i){ var b=li.querySelector('b'); CONF.push({i:i,title:b?b.textContent:'',text:li.textContent.replace(/\s+/g,' ').trim(),srcs:(li.getAttribute('data-srcs')||'').split(' ').filter(Boolean)}); });
+  Array.prototype.forEach.call(document.querySelectorAll('#notfound li'),function(li,i){ NF.push({i:i,text:li.textContent.replace(/\s+/g,' ').trim()}); });
+  function nameIn(p,t){ var g=p.given&&p.given.charAt(0)!=='('?p.given.split(' ')[0]:'', s=p.surn&&p.surn.charAt(0)!=='('?p.surn:''; if(!g||!s) return false;
+    return new RegExp('(^|[^A-Za-z])'+g.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'([^A-Za-z]|$)').test(t) && new RegExp('(^|[^A-Za-z])'+s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'([^A-Za-z]|$)').test(t); }
+  function snip(s,n){ s=String(s||''); return s.length>n?s.slice(0,n-1)+'…':s; }
+  function notesFor(id){
+    var p=P[id], cf=p.facts.filter(function(f){return f.tag==='Conflict';}), as=p.facts.filter(function(f){return f.tag==='Assumed';}), iv=p.facts.filter(function(f){return f.tag==='Interview';}), ps={};
+    cf.forEach(function(f){ f.src.forEach(function(k){ if(S[k]&&S[k].n!==1) ps[S[k].n]=1; }); });
+    var rc=CONF.filter(function(c){ return c.srcs.some(function(n){return ps[n];}) || nameIn(p,c.title); });
+    var rn=NF.filter(function(n){ return nameIn(p,n.text); });
+    var ph=p.photo||{}, photoNone=!p.living && ph.kind==='none';
+    var sess=[]; iv.forEach(function(f){ f.src.forEach(function(k){ if(/^INT/.test(k)&&sess.indexOf(k)<0) sess.push(k); }); });
+    var count=cf.length+rc.length+rn.length+as.length+(photoNone?1:0)+(iv.length?1:0), parts=[];
+    if(cf.length) parts.push(cf.length+' conflict'+(cf.length>1?'s':''));
+    if(rc.length) parts.push(rc.length+' related open question'+(rc.length>1?'s':''));
+    if(rn.length||photoNone) parts.push((rn.length+(photoNone?1:0))+' search'+((rn.length+(photoNone?1:0))>1?'es':'')+' that found nothing');
+    if(as.length) parts.push(as.length+' inference'+(as.length>1?'s':''));
+    if(iv.length) parts.push('interview context');
+    return {cf:cf,as:as,iv:iv,rc:rc,rn:rn,photoNone:photoNone,sess:sess,count:count,summary:parts.join(' · ')};
+  }
+  function factHTML(f){ return '<div class="fact '+f.tag+'"><span class="b '+f.tag+'">'+f.tag+'</span>'+(f.conf?' <span class="c">'+f.conf+'</span>':'')+'<div class="ft">'+esc(f.text)+'</div>'+(f.src.length?'<div class="c">Source: '+f.src.map(srcLink).join('; ')+'</div>':'<div class="c">No source yet.</div>')+'</div>'; }
+  function notesHTML(id,N){
+    var p=P[id], h='';
+    if(!N.count) return '<div class="card ncard"><h2>Notes</h2><div class="none">No conflicts, open searches or inferences are recorded for '+esc(p.label)+'. See <a href="#/research/questions">all open questions</a>.</div></div>';
+    if(N.cf.length) h+='<div class="card ncard"><h2>Conflicts on this person</h2><p class="c" style="margin:0 0 8px">Sources disagree. Both sides are shown with their sources.</p>'+N.cf.map(factHTML).join('')+'</div>';
+    if(N.rc.length) h+='<div class="card ncard"><h2>Related open questions</h2><p class="c" style="margin:0 0 6px">From the tree-wide <a href="#/research/conflicts">conflicts list</a>, matched by name or by a shared source.</p>'+N.rc.map(function(c){ return '<div class="it"><b><a href="#/research/conflicts/'+c.i+'">'+esc(c.title)+'</a></b><span class="c">'+esc(snip(c.text.replace(c.title,'').replace(/^\s*—\s*/,''),220))+'</span></div>'; }).join('')+'</div>';
+    if(N.rn.length||N.photoNone){ h+='<div class="card ncard"><h2>Searched but not found</h2><p class="c" style="margin:0 0 6px">Public sources only. See the <a href="#/research/notfound">full list</a>.</p>';
+      if(N.photoNone) h+='<div class="it"><b>Photo</b><span class="c">'+esc(String((p.photo&&p.photo.text)||'Photo: none found publicly.').replace(/ \(searched: \)\./,'.'))+'</span></div>';
+      h+=N.rn.map(function(n){ return '<div class="it"><a href="#/research/notfound/'+n.i+'">'+esc(snip(n.text,260))+'</a></div>'; }).join('')+'</div>'; }
+    if(N.as.length) h+='<div class="card ncard"><h2>Researcher inferences</h2><p class="c" style="margin:0 0 8px">Likely readings that no record states directly.</p>'+N.as.map(factHTML).join('')+'</div>';
+    if(N.iv.length) h+='<div class="card ncard"><h2>Interview context</h2><p style="margin:0 0 8px">'+N.iv.length+' fact'+(N.iv.length>1?'s':'')+' about '+esc(p.label)+' come'+(N.iv.length>1?'':'s')+' from interviews.'+(N.sess.length?' Sessions cited: '+N.sess.map(function(k){ return esc(S[k].t.replace(/^Interview( of)?:?\s*/,'').split(';')[0].replace(/\s*\(.*$/,'')); }).filter(function(x,i,a){return a.indexOf(x)===i;}).join('; ')+'.':'')+' The story behind them is kept in a separate document.</p><a class="btn" href="#/research/about">About the interviews</a> <a class="btn" href="https://docs.google.com/document/d/18t8EJ5608CoNQjCamGO0R7DgE2P6i4t91AQD8LxIILQ/edit?usp=drivesdk" target="_blank" rel="noopener">Open the context document</a></div>';
+    return h;
+  }
   function showPerson(id,tab){
     var p=P[id], t=tags(p), ks=personSources(p), ncon=p.facts.filter(function(f){return f.tag==='Conflict';}).length;
     lastPerson=id; $('nav-person').href='#/person/'+id;
@@ -1013,12 +1106,14 @@ var D = {"P": {"I001": {"id": "I001", "given": "Domenico", "surn": "Andreoni", "
     var h='<div class="card"><div class="phead">'+av(id)+'<div style="min-width:0"><h1>'+esc(p.label)+'</h1><div class="sub">'+esc(p.living?'Living':(life(p)||'Deceased'))+' · ID '+id+(p.nick?' · “'+esc(p.nick)+'”':'')+'</div><div style="margin-top:6px">';
     ['Interview','Record','Assumed','Conflict'].forEach(function(k){ if(t[k]) h+='<span class="b '+k+'">'+k+'</span>'; }); if(p.living) h+='<span class="b Living">Living</span>';
     h+='</div></div></div><div class="acts"><a class="btn pri" href="#/tree/'+id+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="2.5" width="6" height="5" rx="1.5"/><rect x="2.5" y="16.5" width="6" height="5" rx="1.5"/><rect x="15.5" y="16.5" width="6" height="5" rx="1.5"/><path d="M12 7.5v4.5M5.5 16.5V12h13v4.5"/></svg>Tree</a><button type="button" class="btn" data-share="'+id+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 15V3M7 8l5-5 5 5M5 13v7h14v-7"/></svg>Share</button></div></div>';
-    h+='<nav class="ptabs" aria-label="Person sections"><a href="#/person/'+id+'"'+(tab!=='sources'?' class="on" aria-current="page"':'')+'>Details</a><a href="#/person/'+id+'/sources"'+(tab==='sources'?' class="on" aria-current="page"':'')+'>Sources ('+ks.length+')</a></nav>';
+    var NT=notesFor(id);
+    h+='<nav class="ptabs" aria-label="Person sections"><a href="#/person/'+id+'"'+(!tab?' class="on" aria-current="page"':'')+'>Details</a><a href="#/person/'+id+'/notes"'+(tab==='notes'?' class="on" aria-current="page"':'')+'>Notes'+(NT.count?' ('+NT.count+')':'')+'</a><a href="#/person/'+id+'/sources"'+(tab==='sources'?' class="on" aria-current="page"':'')+'>Sources ('+ks.length+')</a></nav>';
     h+='<div class="pgrid"><div>';
-    if(tab==='sources'){
+    if(tab==='notes'){ h+=notesHTML(id,NT); }
+    else if(tab==='sources'){
       h+='<div class="card"><h2>Sources cited for '+esc(p.label)+'</h2>'+(ks.length?'<ul class="srcl">'+ks.map(function(k){var x=S[k]; return '<li><span class="n">['+x.n+']</span>'+esc(x.t)+'. <a href="'+esc(x.u)+'" target="_blank" rel="noopener">'+esc(x.u)+'</a></li>';}).join('')+'</ul>':'<div class="none">No sources attached yet.</div>')+'<p class="c" style="margin:10px 0 0"><a href="#/sources">All '+Object.keys(S).length+' sources</a></p></div>';
     } else {
-      if(ncon) h+='<div class="help"><b>Research help:</b> '+ncon+' conflict'+(ncon>1?'s':'')+' recorded for this person. Both sides are shown under Facts, evidence and sources below.</div>';
+      if(NT.count) h+='<div class="help'+(ncon?'':' soft')+'"><b>Notes:</b> '+NT.summary+'. <a href="#/person/'+id+'/notes">View notes</a></div>';
       h+='<div class="card"><h2>Vitals</h2><table class="vit">';
       if(g||s) h+='<tr><td>Name</td><td>'+esc(g)+' /'+esc(s)+'/'+(p.nick?' “'+esc(p.nick)+'”':'')+'</td></tr>';
       h+='<tr><td>Sex</td><td>'+(p.sex==='M'?'Male':p.sex==='F'?'Female':'Unknown')+'</td></tr>';
@@ -1031,14 +1126,14 @@ var D = {"P": {"I001": {"id": "I001", "given": "Domenico", "surn": "Andreoni", "
       h+='<div class="card"><h2>Photo</h2>'+photoBlock(p)+'</div>';
       h+='<div class="card"><h2>Facts, evidence and sources</h2>';
       if(!p.facts.length) h+='<div class="none">No facts recorded.</div>';
-      p.facts.forEach(function(f){ h+='<div class="fact '+f.tag+'"><span class="b '+f.tag+'">'+f.tag+'</span>'+(f.conf?' <span class="c">'+f.conf+'</span>':'')+'<div class="ft">'+esc(f.text)+'</div>'+(f.src.length?'<div class="c">Source: '+f.src.map(srcLink).join('; ')+'</div>':'<div class="c">No source yet.</div>')+'</div>'; });
+      p.facts.forEach(function(f){ h+='<div class="fact '+f.tag+'"><span class="b '+f.tag+'">'+f.tag+'</span>'+(f.conf?' <span class="c">'+f.conf+'</span>':'')+'<div class="ft">'+esc(f.text)+'</div>'+(f.src.length?'<div class="c">Source: '+f.src.map(srcLink).join('; ')+'</div>':'<div class="c">No source yet.</div>')+(f.tag==='Interview'?'<div class="ilink"><a href="#/research/about">About the interviews and context</a></div>':'')+'</div>'; });
       h+='</div>';
     }
     h+='</div><aside><div class="card tools"><h2 style="font-size:16px;margin-bottom:4px">Tools</h2>';
     h+='<a href="#/tree/'+id+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="2.5" width="6" height="5" rx="1.5"/><rect x="2.5" y="16.5" width="6" height="5" rx="1.5"/><rect x="15.5" y="16.5" width="6" height="5" rx="1.5"/><path d="M12 7.5v4.5M5.5 16.5V12h13v4.5"/></svg>View in tree</a>';
     (where[id]||[]).forEach(function(i){ h+='<a href="#/line/'+T[i].id+'/'+id+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 5h6M8 12h12M8 19h12M5 5v14M5 12h3M5 19h3"/></svg>Show in '+esc(shortLine(i))+' line</a>'; });
     h+='<button type="button" data-share="'+id+'"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 15V3M7 8l5-5 5 5M5 13v7h14v-7"/></svg>Copy or share link</button>';
-    h+='<a href="#/more"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg>What the tags mean</a></div></aside></div>';
+    h+='<a href="#/person/'+id+'/notes"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4h11l3 3v13H5z"/><path d="M8 10h8M8 14h8"/></svg>Notes for this person</a><a href="#/research"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg>Research hub and what the tags mean</a></div></aside></div>';
     $('v-person').innerHTML=h; show('person'); setTitle(p.label); remember(id);
   }
   $('v-person').addEventListener('click',function(e){ var s=e.target.closest('[data-share]'); if(s) share(s.getAttribute('data-share')); });
@@ -1122,25 +1217,48 @@ var D = {"P": {"I001": {"id": "I001", "given": "Domenico", "surn": "Andreoni", "
     else if(e.key==='/' && !/INPUT|TEXTAREA|SELECT/.test((document.activeElement||{}).tagName||'')){ e.preventDefault(); if(getComputedStyle(hq).display!=='none'&&hq.offsetParent) hq.focus(); else location.hash='#/search'; }
   });
   var rt; window.addEventListener('resize',function(){ clearTimeout(rt); rt=setTimeout(function(){ if($('v-tree').classList.contains('on')) renderPed(); },150); });
-  /* menu counts */
-  $('m-ncon').textContent=document.querySelectorAll('#conflicts li').length;
-  $('m-nnf').textContent=document.querySelectorAll('#notfound li').length;
+  /* ---------- research hub ---------- */
+  var INTK=Object.keys(S).filter(function(k){return /^INT/.test(k);});
+  var PC=[], PA=[]; Object.keys(P).forEach(function(id){ var cf=P[id].facts.filter(function(f){return f.tag==='Conflict';}), as=P[id].facts.filter(function(f){return f.tag==='Assumed';}); if(cf.length) PC.push([id,cf]); if(as.length) PA.push([id,as]); });
+  function byLabel(a,b){ return P[a[0]].label.localeCompare(P[b[0]].label); } PC.sort(byLabel); PA.sort(byLabel);
+  var NQ=CONF.length+NF.length;
+  $('q-n').textContent=NQ; $('a-lines').textContent=T.length;
+  $('h-int').textContent=INTK.length+' sessions'; $('h-q').textContent=NQ; $('h-c').textContent=CONF.length; $('h-nf').textContent=NF.length; $('h-st').textContent=document.querySelectorAll('#standards ul:first-of-type li').length;
+  var RT=[['research','Overview',''],['about','About & interviews',''],['questions','Open questions',NQ],['conflicts','Conflicts',CONF.length],['notfound','Not found',NF.length],['sources','Sources',Object.keys(S).length],['standards','Standards','']];
+  var RPATH={research:'#/research',about:'#/research/about',questions:'#/research/questions',conflicts:'#/research/conflicts',notfound:'#/research/notfound',sources:'#/research/sources',standards:'#/research/standards'};
+  Array.prototype.forEach.call(document.querySelectorAll('.rtabs'),function(el){ var cur=el.getAttribute('data-rt'); el.setAttribute('role','navigation'); el.setAttribute('aria-label','Research sections');
+    el.innerHTML=RT.map(function(t){ return '<a href="'+RPATH[t[0]]+'"'+(t[0]===cur?' class="on" aria-current="page"':'')+'>'+esc(t[1])+(t[2]!==''?'<span class="n">'+t[2]+'</span>':'')+'</a>'; }).join(''); });
+  var nIntFacts={}; Object.keys(P).forEach(function(id){ P[id].facts.forEach(function(f){ f.src.forEach(function(k){ nIntFacts[k]=(nIntFacts[k]||0)+1; }); }); });
+  $('a-int').innerHTML=INTK.map(function(k){ var x=S[k], n=nIntFacts[k]||0; return '<li><span class="n">['+x.n+']</span>'+esc(x.t.replace(/\s*Narrative kept in the separate interview-context document\.?$/,'').replace(/\s*\(interview-summary-[^)]*\)/,''))+(n?'<span class="when">Cited by '+n+' fact'+(n>1?'s':'')+' in the tree</span>':'')+'</li>'; }).join('');
+  $('q-chips').innerHTML='<a class="qchip" href="#/research/conflicts"><b class="qn">'+CONF.length+'</b> Conflicts</a><a class="qchip" href="#/research/notfound"><b class="qn">'+NF.length+'</b> Searched, not found</a><a class="qchip" href="#/research/about">Interviews &amp; context</a>';
+  function nrow(id,list,cls,label){ var p=P[id]; return '<a class="nrow" href="#/person/'+id+'/notes">'+av(id)+'<span class="tx"><span class="nm">'+esc(p.label)+'</span><span class="ls">'+esc(snip(list[0].text,150))+'</span></span><span class="cn '+cls+'">'+list.length+'</span></a>'; }
+  $('q-conf').innerHTML=PC.map(function(x){return nrow(x[0],x[1],'C');}).join('')||'<div class="none">None.</div>'; $('q-nc').textContent='('+PC.length+' people, '+PC.reduce(function(a,x){return a+x[1].length;},0)+' conflicts)';
+  $('q-ass').innerHTML=PA.map(function(x){return nrow(x[0],x[1],'A');}).join('')||'<div class="none">None.</div>'; $('q-na').textContent='('+PA.length+' people, '+PA.reduce(function(a,x){return a+x[1].length;},0)+' inferences)';
   /* ---------- router (hash deep links) ---------- */
-  var STATIC={conflicts:1,notfound:1,standards:1,sources:1};
+  var LEGACY={'/more':'#/research','more':'#/research','/conflicts':'#/research/conflicts','conflicts':'#/research/conflicts','/notfound':'#/research/notfound','notfound':'#/research/notfound','/standards':'#/research/standards','standards':'#/research/standards','/sources':'#/research/sources','sources':'#/research/sources','interview-context':'#/research/about/context','/interview-context':'#/research/about/context'};
+  function flash(el){ if(!el) return; setTimeout(function(){ el.scrollIntoView({block:'center'}); el.classList.remove('flash'); void el.offsetWidth; el.classList.add('flash'); },30); }
+  function titleOf(id){ return $(id).querySelector('h2').textContent; }
   function route(){
     var h=location.hash.replace(/^#/,''); try{ h=decodeURIComponent(h); }catch(e){}
     closeCard(); var m, top=true;
+    if(LEGACY[h]){ location.replace(LEGACY[h]); return; }
+    if((m=h.match(/^src(\d+)$/))){ location.replace('#/research/sources/'+m[1]); return; }
     if(!h||h==='/'){ showTree(HOME); }
     else if((m=h.match(/^\/tree\/([^\/?]+)$/))&&P[m[1]]) showTree(m[1]);
-    else if((m=h.match(/^\/person\/([^\/?]+)(?:\/(sources))?$/))&&P[m[1]]) showPerson(m[1],m[2]);
+    else if((m=h.match(/^\/person\/([^\/?]+)(?:\/(sources|notes))?$/))&&P[m[1]]) showPerson(m[1],m[2]);
     else if(h==='/person'){ showPerson(lastPerson||recents()[0]||HOME); }
     else if(h==='/lines'){ show('lines'); setTitle('Family lines'); }
     else if((m=h.match(/^\/line\/([^\/?]+)(?:\/([^\/?]+))?$/))){ showLine(m[1],m[2]); top=!m[2]; }
     else if((m=h.match(/^\/search(?:\?q=(.*))?$/))){ show('search'); setTitle('Find'); if(m[1]!=null&&sq.value!==m[1]) sq.value=m[1]; runSearch(); if(window.innerWidth>760||!sq.value) setTimeout(function(){sq.focus({preventScroll:true});},50); }
-    else if(h==='/more'||h==='interview-context'){ show('more'); setTitle('About'); if(h==='interview-context'){ top=false; setTimeout(function(){ $('interview-context').scrollIntoView(); },0); } }
-    else if(h.charAt(0)==='/'&&STATIC[h.slice(1)]){ show(h.slice(1),h==='/sources'?'sources':'more'); setTitle($(h.slice(1)).querySelector('h2').textContent); }
-    else if(STATIC[h]){ show(h,h==='sources'?'sources':'more'); setTitle($(h).querySelector('h2').textContent); }
-    else if((m=h.match(/^src(\d+)$/))){ show('sources'); setTitle('Sources'); top=false; var li=$(h); if(li) setTimeout(function(){ li.scrollIntoView({block:'center'}); li.classList.remove('flash'); void li.offsetWidth; li.classList.add('flash'); },0); }
+    else if(h==='/research'){ show('research'); setTitle('Research'); }
+    else if((m=h.match(/^\/research\/(about|questions|conflicts|notfound|standards|sources)(?:\/([^\/?]+))?$/))){
+      var v=m[1], sub=m[2]; show(v);
+      setTitle({about:'About this tree & interviews',questions:'Research notes & open questions',conflicts:'Conflicts',notfound:'Searched but not found',standards:'Data standards',sources:'Sources'}[v]);
+      if(sub){ top=false; var el=null;
+        if(v==='about'&&sub==='context') el=$('interview-context');
+        else if(v==='conflicts') el=$('conf-'+sub); else if(v==='notfound') el=$('nf-'+sub); else if(v==='sources') el=$('src'+sub);
+        if(el) flash(el); else top=true; }
+    }
     else if(P[h]) { location.replace('#/person/'+h); return; }
     else { showTree(HOME); }
     if(top) window.scrollTo(0,0);
